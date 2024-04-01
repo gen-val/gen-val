@@ -5,3 +5,4 @@ csqa/data/
 piqa/data/
 race/data/
 *.log
+.old_git/
