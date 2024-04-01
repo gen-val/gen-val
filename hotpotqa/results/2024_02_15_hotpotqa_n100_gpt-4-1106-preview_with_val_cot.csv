@@ -1,0 +1,330 @@
+Index,Prediction,Answer,Eval,Manual Eval,Validator Pred,Validator Eval
+1678,#3,no. 3,False,True,"TRUE
+
+The last sentence of Paragraph 9 states: ""The film was a moderate commercial success domestically, making no. 3 on the British box office chart."" Therefore, the 2006 film ""Alien Autopsy"" promoted by Ant & Dec made it to the #3 spot on the British box office chart.",True
+4221,Jaguar,Jaguar Land Rover,False,True,"TRUE
+
+Jaguar Land Rover Automotive PLC, the British multinational automotive company, has its headquarters in Whitley, Coventry, United Kingdom, as stated in paragraph 4.",True
+4580,65th,represented District 65,False,True,"TRUE
+
+Pete Grannis represented District 65 as a member of the New York State Assembly, according to Paragraph 2, which includes the neighborhoods of the Upper East Side of Manhattan and Roosevelt Island. Paragraph 5 informs us that Roosevelt Island is part of Manhattan, thus confirming that Pete Grannis represented the district that includes Roosevelt Island. Therefore, the district that includes the island in New York City's East River which Pete Grannis represented in the New York State Assembly is the 65th.",True
+267,Lady Antebellum,Charles Kelley,False,False,"FALSE.
+
+Candy Coburn has indeed shared the stage with many notable artists, and among those listed, Lady Antebellum is the American country music group mentioned. However, the question is a bit unclear because Lady Antebellum has a member who plays guitar, but it does not specify who that member is. For clarification, in Lady Antebellum, Charles Kelley is one of the lead vocalists and he also plays guitar, as does Dave Haywood, who provides background vocals, guitar, piano, and mandolin. Therefore, Candy Coburn has shared the stage with Lady Antebellum, which includes members who play guitar.",False
+6324,Architect,Armaments and War Production,False,False,"FALSE
+
+The Nazi architect most rewarded and favored by Adolf Hitler alongside Hermann Giesler was Albert Speer. The type of ministerial office Albert Speer held was not merely that of an architect; he was the Reich Minister of Armaments and War Production for Nazi Germany during most of World War II. This role went far beyond architectural duties and encompassed significant responsibility for the production and supply of armaments for the Nazi war effort.",False
+6267,18 minutes,18 minutes,True,True,"FALSE
+
+The question is asking specifically about the duration of ""this Battle,"" which refers to the culmination of the Runaway Scrape events, i.e., the Battle of San Jacinto. The Battle of San Jacinto indeed lasted 18 minutes, so if we are to correctly identify ""this Battle,"" the answer should be ""TRUE."" However, the question seems to conflate the duration of the entire Runaway Scrape events with the duration of the Battle of San Jacinto, which may lead to confusion. 
+
+To be clear, the entire series of evacuations and movements known as the Runaway Scrape took place over a period of months, not minutes. The correct answer, if identifying the Battle of San Jacinto specifically as ""this Battle,"" should be that the battle itself lasted 18 minutes, as stated in Paragraph 4.",True
+2542,Judges,Book of Judges,False,True,"FALSE
+
+The seventh book of the Hebrew Bible is the Book of Judges, as correctly stated in Paragraph 7. However, the Quran does not reference the river drinking experience related to the Book of Judges. Instead, the river drinking experience mentioned in the Quran occurs in the context of the narrative about Talut (who is considered by some to be the Qur'anic name for Saul or Gideon), as mentioned in Paragraph 8. The Book of Judges does not have Quranic references to the river drinking incident; this incident is found in the Islamic narrative of Talut in the Quran.",False
+5053,Winners,winners,True,True,"TRUE
+
+The common result between the 2013 Ghana Movie Awards and ""A Northern Affair"" is that ""A Northern Affair"" was one of the top winners at the 2013 Ghana Movie Awards, as mentioned in Paragraph 9. This implies that ""A Northern Affair"" won some awards at that event, making 'winners' the commonality between the two.",True
+233,"United States v. Paramount Pictures, Inc.",Craig v. Boren,False,False,"TRUE
+
+United States v. Paramount Pictures, Inc. was decided in 1948, whereas Craig v. Boren was decided in 1976. Therefore, United States v. Paramount Pictures, Inc. came first.",True
+6865,January,Dec-93,False,False,"FALSE
+
+Based on Paragraph 8, which discusses the Hong Kong Film Award (HKFA), we know that Tony Leung Ka-fai is a four-time winner of this award. However, the question asks since what month the award has been on offer, which is a different aspect. Paragraph 8 tells us that voting on eligible films for the HKFA is conducted from January through March every year but does not specify from which month or year the award has been on offer. Therefore, we cannot definitively state that the award has been on offer since January, and we do not have enough information from the provided text to determine the answer to the question.",False
+2859,Wolf Creek,Wolf Creek,True,True,"FALSE
+
+David Lightfoot is not mentioned as having worked on the film ""Wolf Creek"". Paragraph 4 states that David Lightfoot worked on the horror films ""Wolf Creek"" and ""Rogue"", but it does not specify his role. However, Paragraph 8 provides information about ""Wolf Creek"", stating that it was written, co-produced, and directed by Greg McLean, and starred John Jarratt. It implies that Greg McLean, not David Lightfoot, was a key figure in the production of ""Wolf Creek."" It's also not clarified within these paragraphs if David Lightfoot had any involvement in ""Wolf Creek,"" so it is not accurate to state that David Lightfoot worked on ""Wolf Creek"" based solely on the information provided.",False
+2644,1884,1884,True,True,"TRUE
+
+William Procter (December 7, 1801 – April 4, 1884), the British-born American candlemaker, co-founded Procter & Gamble Co. in 1837. As stated in Paragraph 7, William Procter died in 1884.",True
+247,Yes,yes,True,True,"TRUE
+
+Chrysalis was indeed a feminist publication aimed at women, exploring politics, literature, cultural studies, and art with a feminist perspective. It produced content that was relevant to women's culture and included contributions from notable figures in the feminist movement.
+
+Look magazine is described as a fashion and celebrity weekly magazine for young women, focusing on fashion, high street shopping advice, celebrity style and news, and real-life stories.
+
+Therefore, both Chrysalis and Look can be termed as women's magazines.",True
+6238,MacFarlane,Seth MacFarlane,False,True,"TRUE
+
+Seth MacFarlane is one of the creators of ""American Dad!"", as mentioned in Paragraph 6. Wendy Schaal does the voice of Francine Smith in the show, as stated in Paragraph 4. Therefore, Seth MacFarlane is one of the creators of the show in which Wendy Schaal does the voice of Francine.",True
+5036,FAI Junior Cup,FAI Junior Cup,True,True,"TRUE
+
+The information is directly confirmed in Paragraph 3, which states that The Liberties is ""an area in central Dublin, Ireland,"" and in Paragraph 10, which indicates that Brideville Football Club was ""originally based in The Liberties, Dublin"" and that they ""were the first ever winners of the FAI Junior Cup."" Therefore, The Liberties, a historic working-class neighbourhood in central Dublin, is indeed the home to Brideville F.C., who were the first ever winners of the FAI Junior Cup.",True
+6610,Seasiders,"""the Seasiders""",False,True,"TRUE
+
+The professional association football club where Ewan Fenton spent thirteen seasons is Blackpool Football Club, according to Paragraph 7. The main nickname of Blackpool FC is mentioned as ""the Seasiders"".",True
+7201,1970,1970,True,True,"TRUE
+
+Jackie Kessler, the author who wrote about the former succubus Jezebel, now the mortal Jesse Harris, in her ""Hell on Earth"" book series, was born on December 8, 1970, as stated in paragraph 6.",True
+4940,Wollongong,"Wollongong, Australia",False,True,"TRUE
+
+Based on Paragraph 8, John Douglas Gibson lived in Thirroul, New South Wales all his life, which is a seaside suburb of the city of Wollongong as mentioned in Paragraph 9. Therefore, it is true that John Douglas Gibson lived his whole life in a suburb of the city of Wollongong.",True
+1309,Austrian,American,False,False,"TRUE
+
+According to Paragraph 2, Annemarie Moser-Pröll, an Austrian former World Cup alpine ski racer, was the most successful female alpine ski racer during the 1970s with six overall titles. While the text does not explicitly state that she is the most successful female ski racer ever, her record of six overall titles hints at a significant level of success that could arguably put her in contention for that title, particularly considering the era she competed in. Moreover, no other female racer's achievements mentioned in the provided paragraphs explicitly surpass those of Moser-Pröll.",True
+2584,paranormal,Native American,False,False,"TRUE
+
+The Bridgewater Triangle is indeed an area where various phenomena associated with paranormal tradition, including UFOs, poltergeists, orbs, balls of fire, and other spectral phenomena, have been reported.",True
+4258,Elizabeth Taylor,Dame Elizabeth Rosemond Taylor,False,True,"TRUE
+
+Margaret Landon was not an actress; she was a writer known for her novel ""Anna and the King of Siam."" Elizabeth Taylor, on the other hand, was a renowned actress who starred in many films throughout her career. Therefore, Elizabeth Taylor starred in more films than Margaret Landon.",True
+2979,Crested Butte,"Crested Butte, Colorado",False,True,"TRUE
+
+The information provided in Paragraph 3 explicitly states that Crested Butte is now called ""the last great Colorado ski town"". Additionally, Paragraph 8 mentions that the Lucky Jack mine is located west of Crested Butte, confirming that Crested Butte is the municipality referred to in the question.",True
+6284,California Polytechnic State University,California Polytechnic State University,True,True,"TRUE
+
+California Polytechnic State University was founded in 1901 as a vocational high school, as mentioned in Paragraph 8. It specifies that ""Founded in 1901 as a vocational high school, it is currently one of only two polytechnic universities in the 23-member California State University system."" The Polytechnic University of the Philippines, on the other hand, was founded as the Manila Business School, as indicated in Paragraph 6.",True
+4414,22-May,22-May,True,True,"TRUE
+
+Park Seo-joon is best known for his roles in several television dramas, including ""Fight for My Way"". According to Paragraph 2, ""Fight for My Way"" premiered on May 22, 2017. Therefore, the series that Park Seo-joon is known for (among others) premiered on May 22, which answers the question correctly.",True
+4641,Heard,Amber Laura Heard,False,True,"TRUE
+
+Amber Laura Heard, who made her film debut in the sports drama ""Friday Night Lights"" in 2004, is the same actress who starred in ""The River Why."" As mentioned in Paragraph 8, Amber Heard played in ""Friday Night Lights,"" and Paragraph 7 confirms she starred in ""The River Why,"" alongside Zach Gilford and William Hurt.",True
+1090,ENnies,EN World web site,False,False,"FALSE
+
+The name of the award from which Matt James has won in 2012 is not provided in the text. The text mentions that Matt James won an ENnie Award in 2012, but the specific name of the award he won is not included. The ENnies are annual, fan-based awards for role-playing game products and publishers, and the name of the award is derived from the EN World web site.",False
+1973,4080,4080,True,True,"TRUE
+
+Profile Lake is located in Franconia Notch in the White Mountains of New Hampshire, at the foot of Cannon Mountain. As stated in paragraph 8, Cannon Mountain (formerly Profile Mountain) is a 4080 ft peak. Therefore, Profile Lake is indeed located at the foot of a mountain that is 4080 feet tall.",True
+1738,Wolfgang Becker,Wolfgang Becker,True,True,"TRUE
+
+Wolfgang Becker is known for his work ""Good Bye Lenin!"" in 2003, as mentioned in Paragraph 3. Vladimir Danilevich is known for his work on the Vaniusha series of films, as mentioned in Paragraphs 2, 4, 5, 6, and 8, but there is no mention of him being related to ""Good Bye Lenin!"".",True
+5891,running back,Larry Alphonso Johnson Jr.,False,False,"TRUE
+
+Paragraph 7 states that Larry Alphonso Johnson Jr. (running back) was born on November 19, 1979. This indicates that the son of Larry Johnson who was born on that date is indeed the running back.",True
+329,Spring,Spring city,False,True,"TRUE
+
+The Yunnan Provincial Museum is located in Kunming, as stated in Paragraph 6. Kunming is referred to as the ""Spring City"" due to its weather, as mentioned in Paragraph 8, which aligns with the nickname provided in the question.",True
+6472,The Handmaid's Tale,The Handmaid's Tale,True,True,"TRUE
+
+Scott Michael Smith has worked on the series ""The Handmaid's Tale,"" which is based on the novel by Margaret Atwood of the same name, as stated in Paragraph 6.",True
+3616,Yeatman-Eiffel,Savin Yeatman-Eiffel,False,True,"FALSE
+
+Lost in Time is the debut album of AKINO performing under the name ""AKINO from bless4"". It comprises all of the songs she performed for the anime series ""Genesis of Aquarion"" as well as the theme song for ""Ōban Star-Racers"". The theme song for ""Ōban Star-Racers"", a French/Japanese anime series, was created by Savin Yeatman-Eiffel of Sav! The World Productions, as stated in Paragraph 8.",False
+1204,Rockland,Rockland,True,True,"FALSE
+
+Fiske O'Hara was born in Rockland, Maine, as stated in Paragraph 9. However, also according to Paragraph 3, the population of Rockland, Main, as of the 2010 census, was 7,297, not 2,297. The correct city is Rockland but the population figure provided in the question is incorrect.",False
+1318,Premier League Darts,2018 Unibet Premier League Darts,False,False,"TRUE
+
+The tournament organised by the Professional Darts Corporation that is planned to finish at the multi-purpose indoor arena located in the centre of The O2 entertainment complex on the Greenwich Peninsula in south-east London is the Premier League Darts. This is consistent with the information provided in paragraphs 1, 3, 4, 6, 8, 9, and 10, which all reference the Premier League Darts ending at ""The O2 Arena"", ""The O Arena"", or similar nomenclature for the same venue in London.",True
+5118,Suining,"In 2002, Suining had a population of 658,798.",False,True,"TRUE
+
+Suining had a population of 658,798 in 2002 as stated in Paragraph 1. Qionghai is mentioned to have had a population of 483,217, but this figure is from the year 2010 as stated in Paragraph 3.",True
+4269,2007,2007 Formula One season,False,True,"FALSE
+
+The question seems to be asking for a specific event where an IndyCar driver drove a Formula 1 car designed by Peter McCool. Peter McCool was mentioned in the context of designing the Super Aguri SA07, which was the Formula One car for the 2007 season, driven by Takuma Sato and Anthony Davidson.
+
+Takuma Sato is indeed an IndyCar race driver, as mentioned in the first paragraph, and since he drove the Super Aguri SA07 in the 2007 Formula One season, one can infer that an IndyCar race driver (who would become an IndyCar driver later in his career) drove a Formula 1 car designed by Peter McCool in 2007. Therefore, the provided answer of ""2007"" appears to be correct based on the information given. However, the question's phrasing may be somewhat misleading if it suggests that an IndyCar driver, while actively competing in IndyCar, drove the Formula 1 car during the 2007 season.
+
+Nonetheless, given that Takuma Sato was a Formula One driver in 2007 and later moved to IndyCar, and that the Super Aguri SA07 was designed by Peter McCool and driven by Sato, it's correct to say that an individual who would be an IndyCar driver drove a Formula 1 car designed by McCool in the 2007 season.",False
+116,Marvel,Marvel,True,True,"TRUE
+
+From Paragraph 9, we know that ""Ghost Rider"" is a song by the protopunk band Suicide appearing on their debut album, and the song is based on the Marvel Comics character. Paragraph 10 confirms that the debut album by the American rock band Suicide was released in 1977, thus the song ""Ghost Rider"" featuring on this album must be based on a Marvel Comics character.",True
+3686,Yes,yes,True,True,"TRUE
+
+Both the TEC-1 and Dubna 48K are based on the Zilog Z80 processor. Paragraph 5 describes the TEC-1 as being based on the Z80 CPU. Similarly, Paragraph 2 states that the Dubna 48K is a Soviet clone of the ZX Spectrum, which utilized an analogue of the Zilog Z80 microprocessor.",True
+5019,Collins,Phil Collins,False,True,"TRUE
+
+The male singer who performed together with the female American singer born in 1954, whose third studio album was named ""Through His Eyes,"" in a hit duet in 1985 is Phil Collins. This is confirmed by Paragraph 4, which states that Marilyn Martin, born on May 4, 1954, is known for her 1985 hit duet with Phil Collins, ""Separate Lives.""",True
+6424,Hall,John S. Hall,False,True,"TRUE
+
+Gabe Saporta was born on October 11, 1979, and John S. Hall was born on September 2, 1960. This makes John S. Hall older than Gabe Saporta.",True
+486,Rock,rock,True,True,"TRUE
+
+Tappi Tíkarrass added elements of rock to their music according to paragraph 3, and INXS developed a harder pub rock style according to paragraph 4. Therefore, both bands played rock music.",True
+4062,27,27 languages,False,True,"FALSE.
+
+Paragraph 6: ""Ashes in the Snow"" is stated to be based on the best-seller ""Between Shades of Gray"" by Ruta Sepetys.
+Paragraph 7: ""Between Shades of Gray"" has been translated into more than 27 languages, not exactly 27. Therefore, the statement ""Ashes in the Snow is a World War II drama based on a best-seller novel that was translated to how many languages? A: 27"" is incorrect because it specifies ""27"" rather than ""more than 27.""",False
+4879,Judge Doom,Judge Doom,True,True,"FALSE.
+
+Jackie Coogan played Uncle Fester in the original ""The Addams Family"" television series from 1964-66. In ""Who Framed Roger Rabbit"" (1988), the role of Judge Doom was played by Christopher Lloyd. Therefore, Christopher Lloyd is the actor who played an Addams Family character in the feature films ""The Addams Family"" (1991) and ""Addams Family Values"" (1993), where he portrayed Uncle Fester. However, the connection between the two characters is through Christopher Lloyd, not Jackie Coogan. Jackie Coogan did not appear in ""Who Framed Roger Rabbit.""",False
+24,Goalkeeper,World's Best Goalkeeper,False,True,"TRUE
+
+The father of Kasper Schmeichel is Peter Schmeichel, who was voted the IFFHS World's Best Goalkeeper in 1992 and 1993, as mentioned in Paragraph 3.",True
+479,O'Brien,Kathleen O'Brien,False,True,"TRUE
+
+Kathleen O'Brien of Shepardson Microsystems programmed the Atari Assembler Editor, which is a cartridge-based development system. Shepardson Microsystems is noted for authoring Atari's BASIC and Disk Operating System (DOS) products, as mentioned in Paragraph 1. The connection between O'Brien and the development system is explicitly stated in Paragraph 2.",True
+287,Haileybury,The Dragon School in Oxford,False,False,"TRUE
+
+Ian Harland studied at Haileybury prior to attending Peterhouse, Cambridge, which is the oldest college at the University of Cambridge. This is supported by the information provided in paragraph 9, which states that Harland went to university at Peterhouse, Cambridge, after being educated at The Dragon School in Oxford and Haileybury.",True
+2178,YZF-R6,Yamaha 600 class,False,False,"FALSE
+
+Ryuji Yokoe finished as champion in the MFJ All Japan Road Race GP250 Championship in 2006 on a 250cc class motorcycle, which would not have been the Yamaha YZF-R6. The Yamaha YZF-R6 is a 600cc class sport bike motorcycle, and it is not used in the GP250 Championship, which is for 250cc motorcycles. Therefore, Yokoe could not have used an YZF-R6 to win the GP250 Championship in 2006.",False
+4566,American,American,True,True,"TRUE
+
+The casino owner mentioned in Paragraph 3 of the provided text, whom the documentary ""Nobody Speak: Trials of the Free Press"" focuses on, is Sheldon Adelson. According to Paragraph 6, Sheldon Gary Adelson is an American business magnate, which matches the nationality required by the question. Therefore, the answer is American.",True
+598,Finding Nemo,Finding Nemo,True,True,"TRUE
+
+The spinning turtle attraction mentioned is ""Crush's Coaster,"" which is located in Walt Disney Studios Park, the second theme park at Disneyland Paris. As stated in Paragraph 1, Crush's Coaster is themed to the Disney-Pixar film ""Finding Nemo."" Paragraph 4 mentions that Walt Disney Studios Park was the 21st-most visited amusement park in the world as of 2013. Therefore, the movie that the spinning turtle attraction in the world's 21st largest theme park is based off of is ""Finding Nemo.""",True
+546,Ephedrine,Ephedrine,True,True,"FALSE.
+
+Ephedrine is not listed among the illegal drugs in the Philippines mentioned in the provided text. According to paragraph 6, the most used and valuable illegal drugs in the Philippines are methamphetamine hydrochloride (shabu) and marijuana. Ephedrine is mentioned in paragraph 8, but there it is described as a medication and stimulant, without any mention of its legality status in the Philippines. Therefore, we cannot conclude that ephedrine is among the list of illegal drugs in the Philippines based on the information provided.",False
+4372,Suðreyjar,Southern Isles,False,False,"TRUE
+
+King of Norway Magnus Barefoot launched aggressive military campaigns in a region that was known to the Norse as Suðreyjar, also referred to as the ""Southern Isles,"" which is described in Paragraph 9 as comprising the Hebrides, the islands of the Firth of Clyde, and the Isle of Man from the 9th to the 13th centuries AD.",True
+5914,Kentucky,Kentucky River,False,True,"FALSE.
+
+The Kentucky Department of Corrections is headquartered in Frankfort, which is located along the Kentucky River.",False
+2581,Panthera leo spelaea,lion,False,False,"TRUE
+
+The species referred to in this context is Panthera leo (lion), and the extinct subspecies that fits the description of a Trogloxene and is known from fossils and prehistoric art is Panthera leo spelaea, commonly known as the European or Eurasian cave lion. This is supported by the information provided in paragraph 10 which specifically names Panthera leo spelaea as an extinct subspecies of lion known from fossils and prehistoric art. Additionally, cave lions, which are mentioned in paragraph 8 in the list of extinct Trogloxenes, are consistent with the description of Panthera leo spelaea.",True
+3427,Yes,yes,True,True,"TRUE
+
+Cryptanthus is described in Paragraph 7 as a genus in the botanical family Bromeliaceae, while Gagea is described in Paragraph 4 as a large genus of spring flowers in the lily family. Therefore, both Cryptanthus and Gagea are indeed genera.",True
+3651,Abigail,Abigail,True,True,"FALSE.
+
+William Bainbridge started his career under President John Adams, who served as the second President of the United States from 1797 to 1801. John Adams' wife was Abigail Adams, therefore making her the First Lady during the beginning of Bainbridge's naval career. However, there's a missing piece of information in the statement provided: you omitted the name of the ship Bainbridge commanded, which appears as ""including"" without a follow-up in the text. But in regards to the question asked, it's indeed Abigail Adams who was the wife of the president when Bainbridge started his career.",False
+3549,Hershey,"Hershey, Pennsylvania",False,True,"TRUE
+
+The team that won the 1997 Calder Cup playoffs is the Hershey Bears, and they are based in Hershey, Pennsylvania. This was stated in Paragraph 4, which described their victory, and in Paragraph 5, which provided information about the location of the Hershey Bears team.",True
+1559,Red Rock West,"""Red Rock West""",False,True,"FALSE.
+
+Based on the information provided:
+
+The male star from the movie ""Moonstruck"" (Paragraph 7), which is about a widowed 37-year-old Italian-American woman, is Nicolas Cage. He played the hot-tempered younger brother of the woman's fiancé.
+
+In Paragraph 5, it's mentioned that Nicolas Cage starred in various films, including ""Red Rock West"" in 1993. Therefore, the male star of ""Moonstruck,"" Nicolas Cage, also starred in ""Red Rock West"" in the year 1993, making the statement TRUE.
+
+Therefore, the answer ""Red Rock West"" to the question is correct, and my initial indication of FALSE was incorrect. The answer should be TRUE.",True
+4661,Adventist World,Adventist World,True,True,"TRUE
+
+Adventist World is a monthly international magazine of the Seventh-day Adventist Church with editors based in Silver Spring, Maryland, and Seoul, Korea, indicating that it has an international presence. Also, as it is a publication of the Seventh-day Adventist Church, which operates in many countries around the world, it is reasonable to infer that the magazine has a wider international distribution to cater to the global Adventist community.
+
+On the other hand, Baseball Digest is a baseball magazine resource published in the United States. There is no specific information given about international offices or based out of countries other than its place of publication, Evanston, Illinois.
+
+Therefore, based on the information provided, Adventist World is the magazine with a presence in more countries.",True
+7106,Eto'o,Samuel Eto'o Fils,False,True,"TRUE
+
+Samuel Eto'o played for Kadji Sports Academy at youth and went on to become the most decorated African player of all time. This is confirmed in Paragraph 2, which mentions that Samuel Eto'o played for the club at youth, and Paragraph 7, which states that he is the most decorated African player of all time, having won the African Player of the Year award a record four times.",True
+186,Neveldine and Taylor,Mark Neveldine and Brian Taylor,False,True,"TRUE
+
+The directors of the 2009 American science fiction film ""Gamer"" starring Michael C. Hall, who played Dexter Morgan in the Showtime series ""Dexter"", were Mark Neveldine and Brian Taylor, as mentioned in Paragraph 10.",True
+1913,Chutzpah,The King of Chutzpah,False,True,"FALSE
+
+Roxie Hart is a character, not an actor. It is Phil Silvers who was an entertainer and comedic actor and had the nickname ""The King of Chutzpah."" Phil Silvers starred in the movie ""Roxie Hart,"" but he did not play the role of Roxie Hart himself; instead, he played a different character. Roxie Hart, the character, was played by Ginger Rogers in the 1942 film.",False
+7133,Illinois,Illinois,True,True,"TRUE
+
+Donald Rumsfeld was a three-term U.S. Congressman from Illinois, before serving as the Secretary of Defense. It's mentioned in the eighth paragraph that Donald Rumsfeld did not wish to name Les Brownlee to the job of Secretary of the Army because he was not a CEO. Therefore, the congressman who became Secretary of Defense and reportedly refused to promote Les Brownlee to Secretary of the Army because he was not a CEO was from Illinois.",True
+2807,Rule,rule of three,False,False,"TRUE.
+
+Allison Gross is a character in the ballad ""Allison Gross,"" which is an example of traditional storytelling that may exhibit elements of the rule of three, a writing technique that suggests that events or characters introduced in threes are more humorous, satisfying, or effective in execution of the story and engaging the reader. The ballad doesn’t explicitly outline a pattern of three, but it is common for traditional stories and folklore to use this technique to structure narrative elements.",True
+432,Delmer Daves,Delmer Lawrence Daves,False,True,"FALSE
+
+Without further context or defining what ""scope of profession"" means, it's challenging to evaluate who has a broader scope in their profession between Phil Rosen and Delmer Daves. If ""scope of profession"" refers to the diversity of roles within the film industry, Delmer Daves has indeed worked as a screenwriter, director, and producer as indicated in the paragraphs. Phil Rosen, on the other hand, was mentioned as a director and cinematographer.
+
+However, if ""scope of profession"" refers to the sheer number of films directed, the answer might differ; Phil Rosen is noted to have directed 142 films, whereas there are fewer films mentioned for Delmer Daves. Therefore, it would require more information or a clear definition of ""scope of profession"" to make an accurate assessment.",False
+5618,Seventeenth,end of the 17th century,False,True,"FALSE
+
+Based on the information provided, Dirleton Castle is the medieval fortress mentioned in relation to Yellowcraig. It is stated that Dirleton Castle was abandoned by the end of the 17th century, which would indicate a time frame but not a precise year. ""Seventeenth century"" refers to the time period from 1601 to 1700, but the exact year within that century when Dirleton Castle was abandoned is not specified in the provided text.",False
+5348,1856,1856,True,True,"TRUE
+
+The Runge-Kutta methods were indeed developed by the German mathematicians C. Runge and M. W. Kutta, as mentioned in Paragraph 6. Carl David Tolmé Runge, a German mathematician, physicist, and spectroscopist, is mentioned in Paragraph 10, with his birth year stated as 1856. Therefore, the Runge-Kutta methods were developed by M.W. Kutta and C. Runge, who was born in 1856.",True
+5005,Middleweight,middleweight,True,True,"TRUE
+
+As stated in Paragraph 4: Lyoto Machida currently competes in the middleweight division of the Ultimate Fighting Championship. He was the fighter who lost to Jon Jones in the UFC 140 event, and therefore he currently fights in the middleweight division.",True
+5834,Documentary,documentary,True,True,"TRUE
+
+Both ""Sweet Crude"" and ""Tunisian Victory"" are indeed documentary films. The first paragraph states that ""Sweet Crude"" is a documentary by Sandy Cioffi about Nigeria's oil-rich Niger Delta, while the sixth paragraph identifies ""Tunisian Victory"" as an Anglo-American propaganda documentary film about victories in the North Africa Campaign.",True
+4765,Tom Jones,Tom Jones,True,True,"TRUE
+
+The play referenced in the question is ""Love in Several Masques,"" which according to Paragraph 8 was indeed first performed on February 16th, 1728, at the Theatre Royal, Drury Lane. The playwright is Henry Fielding, mentioned in Paragraph 6, who was also an English novelist known for writing ""Tom Jones."" Therefore, the play ""Love in Several Masques"" was written by Henry Fielding, who was the author of the novel ""Tom Jones.""",True
+2523,Copa,Copa Airlines,False,True,"TRUE
+
+Paragraph 3 mentions that Enrique Malek International Airport ""receives numerous daily flights from Copa Airlines and Air Panama."" Given that Paragraph 7 states Air Panama is ""currently the second-largest air carrier in the country, surpassed only by Copa Airlines,"" we can conclude that Copa Airlines is the larger of the two airlines that operate flights into Enrique Malek International Airport.",True
+2027,Advantage,reward,False,False,"TRUE
+
+A holdout in the context of gambling is an accessory used by cheats to surreptitiously hold onto one or more cards during a game, thus giving them an unfair advantage over other players.",True
+1887,President,president,True,True,"TRUE
+
+From Paragraph 4, we know that Guggenheim Partners is a firm where Mark Walter is the CEO. Paragraph 8 states that Todd Boehly is the former president of Guggenheim Partners. Therefore, Todd Boehly's former position at the firm where Mark Walter is the CEO was President.",True
+4108,Bingham,"Gerald ""Jerry"" Joseph Bingham, Jr.",False,True,"TRUE
+
+Jerry Bingham is known for his artwork on ""Marvel Team-Up"" and the DC Comics graphic novel ""Batman: Son of the Demon,"" as mentioned in Paragraph 5.",True
+3884,1961,9-Mar-61,False,True,"FALSE
+
+Paragraph 7 states that the 2008 Texas Tech Red Raiders football team was coached by Mike Leach. Mike Leach's birthdate is provided in Paragraph 1: ""Michael Charles Leach (born March 9, 1961)."" Hence, the correct year of birth of the coach of the 2008 Texas Tech Red Raiders football team is indeed 1961. The initial response provided as ""A: 1961"" is correct.",False
+4549,Yes,yes,True,True,"TRUE
+
+Myles Kennedy, as detailed in the provided paragraphs, is well-known for his collaborations with rock bands, including being the lead vocalist and rhythm guitarist for the rock band Alter Bridge and the lead vocalist for Slash's backing band, Myles Kennedy and the Conspirators, both of which are rock bands.
+
+SafetySuit is described as an American pop rock and alternative rock band, which qualifies them as being associated with rock music.
+
+Therefore, both Myles Kennedy and SafetySuit are indeed associated with rock bands.",True
+1001,Hero,Hero,True,True,"FALSE
+
+In Paragraph 1, Nicolau Colaco is described as an Indian footballer who plays as a defender for FC Goa in the Indian Super League. According to Paragraph 4, the Indian Super League is officially known as the Hero Indian Super League for sponsorship reasons. Therefore, Nicolau Colaco played in the men's professional football league sponsored by Hero. The answer to the question should be ""Hero.""",False
+745,Friends,Friends,True,True,"TRUE
+
+The show which aired on NBC from September 22, 1994, to May 6, 2004, with the fifteenth episode entitled, ""The One with the Girl Who Hits Joey"" is ""Friends."" This is stated in Paragraph 10, which provides the air dates for the show, confirming it is ""Friends,"" and in Paragraph 8, which lists the title of the fifteenth episode of the fifth season.",True
+3081,Singer-songwriter,"singer, songwriter",False,True,"TRUE
+
+Ronnie Dunn and Annie Lennox both have the occupations of singer-songwriter in common. Ronnie Dunn is described as an American country music singer-songwriter in Paragraph 4, and Annie Lennox is described as a Scottish singer-songwriter in Paragraph 8.",True
+2762,Representative,U.S. Representative for Colorado 's 6 congressional district,False,True,"FALSE
+
+After being replaced as Secretary of State of Colorado by Bernie Buescher, Mike Coffman's title was U.S. Representative for Colorado's 6th congressional district. He served in this position starting from 2009, as mentioned in Paragraph 5.",False
+3932,Animated,3D computer-animated musical fantasy-adventure film,False,True,"TRUE
+
+The film that featured Auli'i Cravalho is ""Moana"" (2016), which is an American 3D computer-animated musical fantasy-adventure film. Auli'i Cravalho made her acting debut as the title character in this animated film.",True
+7404,Norwood,"Norwood, Massachusetts",False,True,"FALSE
+
+Blackfin is indeed a family of processors, but it is developed by Analog Devices, Inc., which is headquartered in Norwood, Massachusetts. Therefore, the answer to the question should be ""Norwood.""",False
+5489,Italian,Sergio Leone,False,False,"Sergio Leone was Italian. 
+
+TRUE
+
+Sergio Leone was an Italian film director, producer, and screenwriter, known for his work in the Spaghetti Western genre, as stated in paragraph 5. Jon Paul Puno, as mentioned in paragraph 6, is an American filmmaker and singer.",True
+860,Rowan Blanchard,Rowan Blanchard,True,True,"TRUE
+
+The American actress who performed ""Take On The World"" with Sabrina Carpenter is Rowan Blanchard. This information is confirmed in Paragraph 5, which states that Rowan Blanchard is known for her role in ""Girl Meets World"" and Paragraph 10, which states that Matthew Tishler produced and co-wrote the theme song to ""Girl Meets World,"" performed by Sabrina Carpenter and Rowan Blanchard.",True
+3875,Documentary,The Seine Meets Paris,False,False,"TRUE
+
+""The Seine Meets Paris"" is a French documentary film directed by Joris Ivens, as described in Paragraph 8. ""Great Old Amusement Parks"" is not a French documentary; it is a 1999 PBS television documentary by Rick Sebak, as mentioned in Paragraph 6. Therefore, only ""The Seine Meets Paris"" qualifies as a French documentary.",True
+1918,Station,Manchester Victoria station,False,False,"TRUE
+
+The Out of Control Tour began at the Manchester Arena, which is an indoor arena immediately north of the city centre and partly above Manchester Victoria station in air rights space. The information is given in Paragraph 9 and relates to the tour described in Paragraph 2.",True
+5698,Yes.,yes,False,True,"TRUE
+
+Both Arizona v. United States, as mentioned in paragraph 6, and Reynolds v. United States, as discussed in paragraph 9, are Supreme Court cases. Arizona v. United States (2012) was a case that dealt with the federal government's authority over immigration in relation to a state law (Arizona's S.B. 1070), and Reynolds v. United States (1878) was a case that addressed the issue of whether religious duty could be a defense to a criminal indictment.",True
+802,Tannenberg,26–30 August 1914,False,False,"TRUE
+
+Max Hoffmann, along with Hindenburg and Ludendorff, masterminded the devastating defeat of the Russian armies at the Battle of Tannenberg, which was fought from 26–30 August 1914, during the first month of World War I.",True
+6349,Lisa,Apple Lisa,False,True,"FALSE
+
+The question seems to be asking about the precursor to the Apple Magic Mouse and Apple Mighty Mouse, which refers to the type of mouse Apple sold with their computers 22 years before the Apple Mighty Mouse was introduced in 2005. Therefore, the correct answer would be a one-button mouse that Apple sold beginning with the Apple Lisa computer. The Apple Lisa itself was not a mouse but a personal computer introduced by Apple. Hence, the predecessor mentioned would be the one-button mouse Apple provided with the Lisa, not the Lisa computer itself.",False
+211,Jackson Storm,Jackson Storm,True,True,"TRUE
+
+Paragraph 4 of the provided text states that Armie Hammer provided a voice in the 3D computer animated short film ""The Polar Bears,"" while Paragraph 8 confirms that Armie Hammer was part of the voice cast for ""Cars 3,"" voicing the character Jackson Storm. Therefore, the statement is correct. Armie Hammer is the same voice actor for Jackson Storm in ""Cars 3"" and also featured in ""The Polar Bears.""",True
+908,Adorable,Adorable,True,True,"TRUE
+
+Adorable was formed in Coventry in 1990, as stated in Paragraph 2. Lit was formed later in 1995 in Fullerton, California, according to Paragraph 9. Therefore, Adorable was formed first.",True
+656,Dusty Dvoracek,Dusty Dvoracek,True,True,"TRUE
+
+Dusty Dvoracek, as mentioned in Paragraph 2, is a former American football nose tackle who, after retiring from playing football, took on a role as an announcer. Paragraph 10 also states that in 2017, the games for ESPN College Football Friday Primetime were announced by Adam Amin and Dusty Dvoracek. Therefore, the former nose tackle who announced ESPN College Football Friday Primetime in 2017 is Dusty Dvoracek.",True
+1972,Oldham,"Oldham County, Kentucky",False,True,"TRUE
+
+Kentucky Route 393 (KY 393) is a state highway in Oldham County, Kentucky, United States, as mentioned in Paragraph 6.",True
+2030,Farkas,Bertalan Farkas,False,True,"TRUE
+
+Bertalan Farkas was born on August 2, 1949, and Hans Schlegel was born on August 3, 1951. Therefore, Bertalan Farkas is older than Hans Schlegel.",True
+5977,Kamehameha I,Kalokuokamaile,False,False,"FALSE.
+
+The great grandfather of Franklin Seaver Pratt's wife, Elizabeth Kekaʻaniau Laʻanui, was not Kamehameha I. According to paragraph 9, Elizabeth Kekaʻaniau Laʻanui Pratt was a great grandniece of Kamehameha I, meaning her great grandfather was Kalokuokamaile, the older brother of Kamehameha I. Therefore, her great grandfather was Kalokuokamaile, not Kamehameha I.",False
+3041,Director,director,True,True,"TRUE
+
+Both Jim Sharman and Ava DuVernay share the title of ""Director"" concerning their actions leading actors in film or stage. Jim Sharman is noted as the director of the theatrical hit ""The Rocky Horror Show"" and its film adaptation ""The Rocky Horror Picture Show,"" while Ava DuVernay is recognized for directing films such as ""Selma,"" ""Middle of Nowhere,"" and the documentary ""13th.""",True
+4482,I,NCAA Division I,False,True,"FALSE
+
+The Oklahoma State Cowboys are a part of NCAA Division I. Paragraph 7 clearly states that Oklahoma State participates at the National Collegiate Athletic Association (NCAA)'s Division I Football Bowl Subdivision (FBS) as a member of the Big 12 Conference. Division I is the highest level of intercollegiate athletics sanctioned by the NCAA in the United States.",False
+1454,Eucritta melanolimnetes,Eucritta melanolimnetes,True,True,"FALSE
+
+Eucritta melanolimnetes is not the scientific name of the creature featured in the 1954 film ""Creature from the Black Lagoon."" It is actually the name of an extinct stem-tetrapod from the Viséan epoch in the Carboniferous period of Scotland, as mentioned in Paragraph 6. The name ""Eucritta melanolimnetes"" is an homage to the movie, but it is not the name of the fictional creature in the film, which is commonly known as the Gill-man, as per Paragraph 8. The Gill-man is a fictional character and does not have a scientific name.",False
+5204,Yes,yes,True,True,"TRUE
+
+Both Wilco Melissant and Todd Field are involved in the film industry. Wilco Melissant is mentioned as a Dutch director who directed various arthouse video productions and is the chairman of Witchhunt Productions. Todd Field is described as an actor and three-time Academy Award-nominated filmmaker who has directed and written several films.",True
+2022,Haitian,the Haitian Revolution,False,True,"TRUE
+
+Suzanne Simone Baptiste Louverture was the wife of Toussaint Louverture, the leader of the Haitian Revolution. This is stated in Paragraph 1 where it mentions that she was the wife of Toussaint Louverture.",True
+1425,caddy,Kramer's caddy Stan,False,True,"FALSE
+
+The actor from the web series ""Red Bird"" who is also known for a character in the popular television show ""Seinfeld"" is Armin Shimerman. As mentioned in Paragraph 6, Armin Shimerman played Kramer's caddy Stan on ""Seinfeld"". However, the question seems to suggest that the character's name is simply ""caddy,"" which is imprecise; the character has a name, which is Stan. The correct answer would be that Armin Shimerman is known for playing the character Stan, who was Kramer's caddy, on ""Seinfeld"".",False

@@ -1,0 +1,101 @@
+Index,Prediction,Answer,Eval,Manual Eval,Validator Pred
+340,Matt Flynn,Matt Flynn,True,True,TRUE
+2724,N.I.B.,N.I.B.,True,True,TRUE
+1124,"orchids, flowering plants",flowering plants,False,True,TRUE
+3210,Gospel,Gospel Starlighters,False,True,FALSE
+6696,86,86 ft,False,True,FALSE
+6065,Bloomingdale Firehouse,Worcester Cold Storage and Warehouse Co. fire,False,False,TRUE
+3433,Terence Winter,Martin Scorsese,False,False,TRUE
+2232,Lions,Lions for Lambs,False,True,FALSE
+3745,Farmer,Philip José Farmer,False,True,TRUE
+2072,Club,Club,True,True,TRUE
+7390,Wilhelmina,Barbara Bush,False,False,TRUE
+4391,ruler,r grandfather <a hr,False,False,TRUE
+1711,2013,2010 to 2012,False,False,TRUE
+4046,Crespo,Hernán Crespo,False,True,TRUE
+5780,Tom,Tom Ewell,False,True,TRUE
+6913,after,after,True,True,TRUE
+1166,Ernst & Young,Ernst & Young,True,True,TRUE
+5664,Hemingway,The Bad Hemingway Contest,False,True,TRUE
+3079,Genesee,High Falls Brewery,False,False,TRUE
+4904,Ghostbusters,Ghostbusters: Answer the Call,False,True,TRUE
+4827,Jane Mayer,Jane Mayer,True,True,TRUE
+6950,German,best known for translating the work of Erich Maria Remarque,False,False,TRUE
+1716,Chris Weidman,Anderson Silva,False,False,TRUE
+5259,1986,1975,False,False,FALSE
+5749,Lysiloma,Lysiloma,True,True,TRUE
+5712,1944,1944 until his death in 1971,False,False,TRUE
+2524,Gandolfini,James Gandolfini,False,True,TRUE
+4403,Michael Crafter,Michael Crafter,True,True,TRUE
+4409,Zimbabwe,Zimbabwe,True,True,TRUE
+4554,Republican,Republican,True,True,FALSE
+80,Newport,Newport,True,True,TRUE
+5009,Latka,Latka Gravas,False,True,TRUE
+5920,Constance M. Burge,Constance M. Burge,True,True,FALSE
+5781,Switzerland,Switzerland,True,True,TRUE
+4173,ESPN,College Football Scoreboard,False,False,FALSE
+1596,Fresno State,The Pennsylvania State University,False,False,FALSE
+2059,Italian,Italian,True,True,TRUE
+1267,Boston,Boston,True,True,TRUE
+4909,Redford,Robert Redford,False,True,FALSE
+7097,Fran,Fran,True,True,FALSE
+1868,Han Peekel,Betty Cohen,False,False,TRUE
+3920,Kiernan Shipka,Kiernan Brennan,False,False,TRUE
+4475,Mickey,Sarah Kate Silverman,False,False,TRUE
+5886,Donald Duck,Donald Duck,True,True,TRUE
+3347,tale,Gabrielle-Suzanne Barbot de Villeneuve,False,False,FALSE
+6141,Yes,yes,True,True,TRUE
+6452,Documentaries,documentary film,False,True,TRUE
+6741,Patrick,Patrick Swayze,False,True,TRUE
+5458,Crepis,Crepis,True,True,TRUE
+6667,"15,000","15,000 people",False,True,TRUE
+1278,Lobachevsky,Nikolai Ivanovich Lobachevsky,False,True,FALSE
+6291,Yes,no,False,False,FALSE
+6031,highway,Ohio Turnpike,False,False,FALSE
+4102,San Francisco,"Chicago, IL",False,False,TRUE
+6832,Yes,yes,True,True,TRUE
+2813,100 metres,100 metres,True,True,TRUE
+2720,2013,2013,True,True,TRUE
+3811,Doñana,Doñana National Park,False,True,TRUE
+3579,2015,2015,True,True,TRUE
+3943,2017,5-Sep-17,False,True,FALSE
+603,Howard,T. R. M. Howard,False,True,TRUE
+6701,Jack Chick,Jack Chick,True,True,TRUE
+4008,"11,163","11,163",True,True,FALSE
+140,Oxford,Oxford,True,True,TRUE
+4372,Isles,Southern Isles,False,True,TRUE
+615,500th,show's 500th episode,False,True,TRUE
+4889,Venezuelan,Dominican,False,False,FALSE
+2152,2015,2015,True,True,TRUE
+718,Political party,Albanian political party in Montenegro,False,False,TRUE
+5894,film,45th Infantry Division,False,False,FALSE
+2612,Rome,"Stadio Olimpico in Rome, Italy",False,False,TRUE
+386,1961,1961,True,True,TRUE
+3887,dog,dog,True,True,TRUE
+5557,Sean S. Cunningham,Harry Booth,False,False,FALSE
+1195,rebellion,Easter Rising of 1916,False,False,TRUE
+1152,Field Marshal,1736,False,False,TRUE
+5257,Detroit,Detroit,True,True,FALSE
+3826,second,the second,False,True,TRUE
+6242,American Scientist,American Scientist,True,True,FALSE
+7069,Taylor Swift,Big Machine Records,False,False,TRUE
+7379,Danny DeVito,"Daniel Michael DeVito, Jr.",False,True,FALSE
+2637,Prada,Prada,True,True,FALSE
+658,Beauty and the Beast,Beauty and the Beast,True,True,TRUE
+5440,Vladimir Menshov,Vladimir Menshov,True,True,TRUE
+3716,Jack White,Jack White,True,True,TRUE
+632,Yankees,New York Yankees,False,True,FALSE
+2302,1975,1967,False,False,FALSE
+4484,Missouri,Faurot Field,False,False,TRUE
+2660,New York,Prudential Center in Newark,False,False,FALSE
+3394,Merv,Mary,False,False,TRUE
+1839,psilocybin,psilocin,False,False,TRUE
+6440,Fantasy,motion picture producer,False,False,FALSE
+866,singer,"professional wrestler, actor, and hip hop musician",False,False,FALSE
+3367,Americans,yes,False,False,TRUE
+4638,Roc-A-Fella Records and Priority Records,Roc-A-Fella Records and Priority Records,True,True,TRUE
+5352,Texas Tech Red Raiders,Texas Tech Red Raiders baseball,False,True,TRUE
+1019,Yes,no,False,False,TRUE
+4342,1978,1978,True,True,TRUE
+4036,Eunuch,Mulberry,False,False,TRUE
+4223,Heineken,over 170,False,False,TRUE

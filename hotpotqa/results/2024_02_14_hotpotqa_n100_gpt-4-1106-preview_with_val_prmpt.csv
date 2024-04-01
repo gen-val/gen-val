@@ -1,0 +1,409 @@
+Index,Prediction,Answer,Eval,Manual Eval,Validator Pred,Validator Eval
+340,Matt Flynn,Matt Flynn,True,True,"According to the provided information, Maroon 5 is the band that did the song ""What Lovers Do."" It is stated that Maroon 5 consists of several members including ""drummer Matt Flynn."" Therefore, the current drummer of the band that did the song ""What Lovers Do"" is Matt Flynn.
+
+The provided answer is Matt Flynn, which is consistent with the information given in the first paragraph about Maroon 5.
+
+Given this confirmation, the answer is correct.
+
+TRUE",True
+2724,N.I.B.,N.I.B.,True,True,"The Very Best of Ugly Kid Joe: As Ugly as It Gets includes a cover of the Black Sabbath song ""N.I.B."" from their 1970 debut album, as stated in Paragraph 1. This is also consistent with the information provided in Paragraph 6, which describes ""N.I.B."" as a song from Black Sabbath's debut album.
+
+Given the question and the information provided, the answer is correct.
+
+TRUE",True
+1124,"orchids, flowering plants",flowering plants,False,True,"Psychopsis is a genus of orchids, and Aubrieta is a genus of flowering plants in the cabbage family Brassicaceae. Therefore, the statement ""Psychopsis and Aubrieta are both genuses of which type of plants? A: orchids, flowering plants"" is incorrect because it suggests that both Psychopsis and Aubrieta are genuses of orchids, which is not true. Psychopsis is a genus of orchids, and Aubrieta is a genus of flowering plants but not orchids. So the correct answer should be that Psychopsis is a genus of orchids and Aubrieta is a genus of flowering plants. FALSE",False
+3210,Gospel,Gospel Starlighters,False,True,"Starlighters
+
+The question asks for the name of the gospel group that an American R&B/soul singer, who co-wrote ""Lost Someone"" with James Brown, began his career with in 1952. Paragraph 4 identifies ""Lost Someone"" as a song recorded by James Brown, which he wrote with Famous Flames members Bobby Byrd and Baby Lloyd Stallworth. Paragraph 10 informs us that Bobby Byrd began his career in 1952 as a member of the gospel group the Gospel Starlighters. Therefore, ""Lost Someone"" was written by James Brown and Bobby Byrd, who began his career in 1952 as a member of the gospel group the Gospel Starlighters.
+
+A: Gospel Starlighters. TRUE",True
+6696,86,86 ft,False,True,"The provided answer is 86.
+
+The information given in paragraph 1 states that Cudjoe Kazoola Lewis was brought to the United States on board the ship ""Clotilde"" (or Clotilda), which is described as being 86 ft long.
+
+Therefore, the provided answer of 86 feet in length is correct.
+
+TRUE",True
+6065,Bloomingdale Firehouse,Worcester Cold Storage and Warehouse Co. fire,False,False,"The text provided states that Bloomingdale Firehouse is a historic former firehouse at 267 Plantation Street/676 Franklin Street in Worcester, Massachusetts. The building was constructed in 1895-96 and is a well-preserved example of Queen Anne and Colonial Revival styling. It served as a firehouse until 2008, and after it was replaced by a new station, it was converted into a private residence. Furthermore, it confirms that the Bloomingdale Firehouse was listed on the National Register of Historic Places in 1980. Notably, while the Bloomingdale Firehouse was mentioned as having historical significance, it is not described as a 6-story building; no information about its number of stories is given.
+
+The question, however, asks for a ""6-story building"" that was listed on the National Register of Historic Places in 1980. There seems to be a discrepancy as the story height is not mentioned in the description of the Bloomingdale Firehouse.
+
+Based on the paragraphs provided, no direct association is drawn between the height of the Bloomingdale Firehouse and its listing in 1980. The text does mention the Worcester Cold Storage and Warehouse Co. fire occurring in a 6-story building, but this information is given in a different context, and this building is clearly indicated to have burned down in 1999, not listed in 1980.
+
+Therefore, with the information available, the answer stating that the Bloomingdale Firehouse—a building with an unspecified number of stories—was the 6-story building listed in 1980 is incorrect because there is no text evidence supporting that this building is actually 6 stories high. FALSE",False
+3433,Terence Winter,Martin Scorsese,False,False,"Leonard Logsdail had a cameo acting role as a tailor in ""The Wolf of Wall Street,"" which was written by Terence Winter. The question asks which other film, apart from ""The Good Shepherd,"" features Leonard Logsdail in a role as a tailor. Since the only other film mentioned in the paragraph with Leonard Logsdail as a tailor is ""The Wolf of Wall Street,"" we see that Terence Winter wrote that film. TRUE",True
+2232,Lions,Lions for Lambs,False,True,"Andrew Garfield is the star of ""Under the Silver Lake"" as mentioned in paragraph 8. According to paragraph 9, Andrew Garfield made his feature-film debut in the 2007 ensemble drama ""Lions for Lambs"". Therefore, the answer provided in the question, ""Lions"", is incorrect as the name of the film is ""Lions for Lambs"". FALSE",False
+3745,Farmer,Philip José Farmer,False,True,"Bernard-Marie Koltès was born on April 9, 1948, and died on April 15, 1989, making him 41 years old at the time of his death. Philip José Farmer was born on January 26, 1918, and died on February 25, 2009, which means he lived to be 91 years old. So, Philip José Farmer lived longer than Bernard-Marie Koltès.
+
+Therefore, the answer to the question ""Who lived longer- Bernard-Marie Koltès or Philip José Farmer?"" is correct. The answer is Farmer. TRUE",True
+2072,Club,Club,True,True,"The passage in Paragraph 7 states that ""Club is a monthly American pornographic magazine which is a spin-off publication of the United Kingdom's 'Club International'."" Therefore, ""Club"" is the Magna Publishing Group's title that is a spinoff of the UK's Club International.
+
+Given the question: Which one of Magna Publishing Group's titles is a spinoff of the UK's Club International?
+The answer is: Club.
+
+This matches the provided answer that ""Club"" is the spinoff, so the statement is TRUE.",True
+7390,Wilhelmina,Barbara Bush,False,False,"The question asks for the mother of the Texas businessman who co-founded Ignite! Learning, Inc. According to Paragraph 8, Neil Bush co-founded Ignite! Learning, Inc. Therefore we are looking for the mother of Neil Bush.
+
+According to Paragraph 6, Neil Bush is a son of former President George H. W. Bush and Barbara Bush (née Pierce). Hence, Barbara Bush is the correct answer, not Wilhelmina. The provided answer, Wilhelmina, is incorrect.
+
+Therefore, the statement is FALSE.",False
+4391,ruler,r grandfather <a hr,False,False,"Cyaxares was referenced as the king of Media, with Herodotus noting him as the third and most capable monarch following his father and grandfather. The passage mentions Deioces as a ruler who governed for 53 years, who, according to the family lineage provided, would be Cyaxares' grandfather. Therefore, Cyaxares' relationship to the man that governed for 53 years (Deioces) is that of a grandson to his grandfather.
+
+The answer 'ruler' does not correctly describe Cyaxares' relationship to Deioces. The correct relationship is 'grandson'. Hence, the provided answer does not match the question.
+
+FALSE",False
+1711,2013,2010 to 2012,False,False,"The question is asking for the years during which the auto racing series was held that preceded the creation of the 2016 Blancpain GT Series Sprint Cup.
+
+From Paragraph 4, it states ""The 2016 Blancpain GT Series Sprint Cup was the fourth season following on from the demise of the SRO Group's FIA GT1 World Championship (an auto racing series for grand tourer cars)...""
+
+Now, we need to refer to Paragraph 7 to identify the years during which the FIA GT1 World Championship was held, before its demise which led to the creation of the Blancpain GT Series Sprint Cup. Paragraph 7 states that the FIA GT1 World Championship was held from 2010 to 2012.
+
+As the subsequent series came after the FIA GT1 World Championship, the correct years that the FIA GT1 World Championship was held before the 2016 Blancpain GT Series Sprint Cup was established are 2010, 2011, and 2012, not 2013.
+
+The answer provided as ""2013"" does not match the information given in Paragraph 7, as it was not one of the years during which the auto racing series (FIA GT1 World Championship) was held. Therefore, the provided answer is incorrect; the correct years are 2010, 2011, and 2012.
+
+FALSE",False
+4046,Crespo,Hernán Crespo,False,True,"The 2002–03 Inter Milan season was marked by the arrival of Hernán Crespo, as stated in Paragraph 1. Crespo is a retired Argentine footballer, as indicated in Paragraph 6, where it mentions that Hernán Jorge Crespo is a retired Argentine footballer. Therefore, the arrival of the retired Argentine footballer referred to in the question is Crespo.
+
+The answer provided in the question is correct. 
+
+TRUE",True
+5780,Tom,Tom Ewell,False,True,"Ewell, who was born Samuel Yewell Tompkins, is the actor in ""The Lieutenant Wears Skirts"" who is named Samuel.
+
+TRUE",True
+6913,after,after,True,True,"Princess Charlotte of Cambridge was born on 2 May 2015. The Royal Marriages Act 1772 was repealed on 26 March 2015. Therefore, Princess Charlotte of Cambridge was born after the repealing of the Royal Marriages Act 1772. TRUE",True
+1166,Ernst & Young,Ernst & Young,True,True,"Based on the information provided in the paragraphs, Ernst & Young (EY), which is a multinational professional services firm headquartered in London, England and is one of the ""Big Four"" accounting firms, is also listed as a notable tenant in InfoPark, Kochi. Therefore, the answer provided, Ernst & Young, is correct.
+
+TRUE",True
+5664,Hemingway,The Bad Hemingway Contest,False,True,"The contest in California that pays homage to the American novelist who won the Nobel Prize in Literature in 1954 is the International Imitation Hemingway Competition. Ernest Hemingway, mentioned in Paragraph 5, is the American novelist who won the Nobel Prize in Literature in 1954. The International Imitation Hemingway Competition is also known as ""The Bad Hemingway Contest,"" as mentioned in Paragraph 2, and it is a writing competition that began in Century City, California.
+
+Given the question and the information in paragraph 2 mentioning the contest and paragraph 5 confirming Hemingway's Nobel Prize in 1954, the answer to the question is Hemingway. TRUE",True
+3079,Genesee,High Falls Brewery,False,False,"A: High Falls Brewing Company
+
+The provided answer is correct. The brewing company known for making Genny Light, a beer with only 100 calories per 12 ounce portion, and located along the Genesee River, was formerly known as High Falls Brewing Company before changing its name back to Genesee Brewing Company. TRUE",True
+4904,Ghostbusters,Ghostbusters: Answer the Call,False,True,"The movie starring Melissa McCarthy that features a character named Slimer is ""Ghostbusters"" (2016). This is confirmed in Paragraph 9, which lists Melissa McCarthy as a star of the 2016 reboot of the ""Ghostbusters"" franchise, where Slimer is a character from the ""Ghostbusters"" world, as mentioned in Paragraph 10.
+
+The provided answer, ""Ghostbusters,"" is correct. TRUE",True
+4827,Jane Mayer,Jane Mayer,True,True,"Jane Mayer wrote ""Dark Money: The Hidden History of the Billionaires Behind the Rise of the Radical Right,"" which discusses the Koch family among others. The Koch family controls Koch Industries, which is the second-largest privately held company in the United States. Therefore, Jane Mayer is the person who wrote a book about the Koch family.
+
+The provided answer to the question ""Who is writing a book about the Koch family who control the second-largest privately owned company in the United States?"" is Jane Mayer.
+
+Given this information, the provided answer is correct. TRUE",True
+6950,German,best known for translating the work of Erich Maria Remarque,False,False,"The question asks for the German individual whose work Arthur Wesley Wheen is best known for translating, rather than the language. The provided answer, ""German,"" refers to the language, not the person. According to paragraph 10, Arthur Wesley Wheen is best known for translating the work of the German author Erich Maria Remarque into English. Therefore, the correct answer to the question should be ""Erich Maria Remarque."" Since the provided answer is incorrect, my response ends with FALSE.",False
+1716,Chris Weidman,Anderson Silva,False,False,"Luke Rockhold defeated Chris Weidman to become the UFC Middleweight Champion. Chris Weidman is known for being the first man to defeat Anderson Silva in the UFC, who was the reigning Middleweight Champion at the time. Therefore, Luke Rockhold defeated the MMA fighter (Chris Weidman) who was the first to earn a win against Anderson Silva in the UFC. 
+
+The answer provided in the question is Chris Weidman and this corresponds with the information in the third paragraph. TRUE",True
+5259,1986,1975,False,False,"The singer of ""Orange"" referred to in paragraph 8 is Irish comedian David O'Doherty. According to paragraph 6, David Nicholas O'Doherty was born on 18 December 1975. Therefore, the answer provided in the question (1986) is incorrect.
+
+The correct year of birth for the singer of ""Orange"" is 1975.
+
+FALSE",False
+5749,Lysiloma,Lysiloma,True,True,"Lysiloma is mentioned as a genus of flowering plants, which means it includes multiple species within that genus. On the other hand, Hydrocotyle umbellata is referred to as a single species within the Hydrocotyle genus. Therefore, Lysiloma, being a genus, has more species than Hydrocotyle umbellata, which is a single species. 
+
+The correct answer is Lysiloma. TRUE",True
+5712,1944,1944 until his death in 1971,False,False,"The person for whom Tubman University was named after is William V.S. Tubman, as stated in Paragraph 2. According to Paragraph 3, William Tubman served as the 19th President of Liberia from his election in 1944 until his death in 1971. 
+
+The question asked for the period when William Tubman served as President, and the answer given is 1944, which is correct as it is the year he began his presidency. The end date of his presidency (1971) was not required by the question. 
+
+Therefore, the answer provided is correct.
+
+TRUE",True
+2524,Gandolfini,James Gandolfini,False,True,"Of the two ""Sopranos"" co-stars mentioned in the text who starred in the 2009 American thriller film ""The Taking of Pelham 123"" together, James Gandolfini is the actor who went on to secure the role as Tony Soprano in the HBO TV series ""The Sopranos"", as noted in Paragraph 7: ""Rispoli was a contender for the role of Tony Soprano that ultimately went to Gandolfini."" Therefore, the answer is correct.
+
+TRUE",True
+4403,Michael Crafter,Michael Crafter,True,True,"Michael Crafter has been mentioned as the former vocalist for I Killed the Prom Queen, Confession, Carpathian, and Bury Your Dead. This gives us at least four bands he has been a part of. 
+
+Martin Degville, on the other hand, is known as the lead singer and co-songwriter of just one band, Sigue Sigue Sputnik.
+
+Since Michael Crafter has been in four bands and Martin Degville has only been mentioned in connection with one band, Michael Crafter has been in more music bands than Martin Degville.
+
+Therefore, the answer is correct. TRUE",True
+4409,Zimbabwe,Zimbabwe,True,True,"Q: George Tawengwa was the first black person to buy a farm located in a country now known as which country ?
+A: Zimbabwe
+
+Comparing my answer to the provided answer, they match. George Tawengwa, indeed, was the first black person to buy a commercial farm in the then Southern Rhodesia, which is now known as Zimbabwe. Therefore, the provided answer is correct.
+
+TRUE",True
+4554,Republican,Republican,True,True,"Joan Finney served as the 42nd Governor of Kansas, and paragraph 8 states that Robert G. ""Bob"" Knight served under Democratic Governor Joan Finney as Kansas Secretary of Commerce and Housing. Therefore, Bob Knight served under a Democratic governor, not a Republican one. The provided answer that the party was Republican is incorrect.
+
+FALSE",False
+80,Newport,Newport,True,True,"Paragraph 8 mentions that East Lempster is an unincorporated community in the town of Lempster in Sullivan County, New Hampshire, United States. Paragraph 3 states that the county seat of Sullivan County is Newport. Therefore, since East Lempster is part of Sullivan County, the county seat of the county where East Lempster is located would indeed be Newport. 
+
+The answer given, Newport, is correct. 
+
+TRUE",True
+5009,Latka,Latka Gravas,False,True,"According to the information provided, Carol Kane appeared on the television series ""Taxi"" in the early 1980s as the wife of Latka, the character played by Andy Kaufman. Therefore, the answer to the question ""Carol Kane played the wife of which fictional character on Taxi?"" is Latka.
+
+The provided answer is Latka, which matches the information that Carol Kane played Latka's wife on ""Taxi,"" so the provided answer is correct.
+
+TRUE",True
+5920,Constance M. Burge,Constance M. Burge,True,True,"Leigh-Allyn Baker had a recurring role on the series ""Charmed,"" according to paragraph 7. The series ""Charmed"" was created by Constance M. Burge. Therefore, the answer to the question is Constance M. Burge. 
+
+Comparing the provided answer with my generated answer, they match. 
+
+The answer to the question, ""Who created the series broadcast on the WB that Leigh-Allyn Baker had a recurring role on?"" is Constance M. Burge.
+
+TRUE",True
+5781,Switzerland,Switzerland,True,True,"Aimé Félix Tschiffely was born in Switzerland.
+
+The statement in the question is TRUE.",True
+4173,ESPN,College Football Scoreboard,False,False,"The man mentioned who was drafted eighth overall in the 1995 NFL Draft is Joey Galloway, as stated in Paragraph 8. The show he co-hosts is ""College Football Scoreboard,"" which is described in the last sentence of Paragraph 10 as the segment that precedes ESPN College Football Friday Primetime. Therefore, the name of the show that Joey Galloway co-hosts is ""College Football Scoreboard.""
+
+The provided answer is ESPN, which is not the name of the specific show but rather the network on which the show is broadcast. The actual name of the show is ""College Football Scoreboard,"" thus the provided answer is incorrect.
+
+FALSE",False
+1596,Fresno State,The Pennsylvania State University,False,False,"The football player who appeared as Gabe Cooper in the series Daniel Boone is Roosevelt ""Rosey"" Grier. According to Paragraph 9, Rosey Grier was a notable college football player for The Pennsylvania State University. The provided answer, Fresno State, is incorrect since it refers to Jackie Fellows from Paragraph 4, not Rosey Grier.
+
+Therefore, the answer should be The Pennsylvania State University.
+
+FALSE",False
+2059,Italian,Italian,True,True,"Giovanna d'Arco is an opera created by Giuseppe Verdi, who was an Italian opera composer. The correct nationality of the composer is Italian.
+
+Therefore, the statement in the question ""Giovanna d'Arco is an opera that was created by the composer of what nationality?"" and the answer ""Italian"" is TRUE.",True
+1267,Boston,Boston,True,True,"According to Paragraph 2, David Walker, who is the father of Edward Garrison Walker, lived in Boston, Massachusetts when he published ""An Appeal to the Coloured Citizens of the World"" in 1829. Thus, Edward Garrison Walker's father lived in Boston when he wrote the appeal.
+
+The answer provided in the question aligns with the information from Paragraph 2, therefore the statement is TRUE.",True
+4909,Redford,Robert Redford,False,True,"In Paragraph 4, it states that Catherine Ann ""Kate"" Bosworth made her film debut in ""The Horse Whisperer"" (1998). According to Paragraph 1, ""The Horse Whisperer"" is a 1998 American drama film directed by and starring Robert Redford. Therefore, the answer provided, Redford, is the person who directed the film in which Catherine Ann ""Kate"" Bosworth made her debut. 
+
+Given this information, the provided answer is correct.
+
+TRUE",True
+7097,Fran,Fran,True,True,"Miriam Margolyes played the role of Professor Sprout in the ""Harry Potter"" film series. According to paragraph 5, in the British sitcom ""Bucket,"" she co-starred as Fran's mother, Mim. Therefore, the daughter's name in the sitcom is Fran.
+
+TRUE",True
+1868,Han Peekel,Betty Cohen,False,False,"The Greatest Event in Television History is stated to have aired on Cartoon Network's late night programming block Adult Swim. Cartoon Network was founded by Betty Cohen. The channel NPO Best was the one founded by Han Peekel. Therefore, since the channel on which The Greatest Event in Television History aired was not founded by Han Peekel, the statement is FALSE.",False
+3920,Kiernan Shipka,Kiernan Brennan,False,False,"Flowers in the Attic starred Kiernan Shipka, who is known for playing Sally Draper on Mad Men.
+
+TRUE",True
+4475,Mickey,Sarah Kate Silverman,False,False,"Mickey Meyer, mentioned in Paragraph 2, is stated to be born on October 28, 1984. Therefore, he cannot be the partner of Jash who was born in 1970. The correct partner of Jash born in 1970, as stated in Paragraph 4, is Sarah Silverman, born on December 1, 1970. The provided answer is incorrect.
+
+FALSE",False
+5886,Donald Duck,Donald Duck,True,True,"The question asks for the name of the cartoon character whose likeness Leo A. Harris was permitted to use for the University of Oregon through a handshake deal with Walt Disney. According to Paragraph 6, Leo A. Harris made a handshake deal with Walt Disney that allowed the University of Oregon to use the likeness of Donald Duck. Paragraph 8 confirms that Donald Duck is a character created in 1934 at Walt Disney Productions.
+
+Given this information, the answer to the question is correct: Leo A. Harris was known for a deal that allowed the University of Oregon to use the likeness of Donald Duck, who was created in 1934 at Walt Disney Productions. TRUE",True
+3347,tale,Gabrielle-Suzanne Barbot de Villeneuve,False,False,"Panna a netvor is a re-telling of the classic fairy tale ""Beauty and the Beast."" This tale was not originally written as a novel by a specific novelist, but it is a traditional fairy tale with the most notable versions published by Gabrielle-Suzanne Barbot de Villeneuve and Jeanne-Marie Leprince de Beaumont. Thus, even though the tale has authors associated with its written versions, the question incorrectly labels it as a classic tale ""by what novelist,"" because it suggests a single novelist created the story. However, since the versions by Villeneuve and Beaumont are often cited, the answer would likely refer to one of these authors if the question were corrected to ask for the writer of the version the film is based upon. Given the information above, the answer could be considered incorrect if understood strictly as it's phrased. FALSE",False
+6141,Yes,yes,True,True,"Both James Schuyler and H. G. Wells have indeed published books. According to the provided information:
+
+Paragraph 1 mentions that H. G. Wells is best remembered for his science fiction novels which include ""The Time Machine,"" ""The Island of Doctor Moreau,"" ""The Invisible Man,"" and ""The War of the Worlds.""
+
+Paragraph 9 mentions that James Schuyler is a poet who won the Pulitzer Prize for Poetry for his 1980 collection ""The Morning of the Poem.""
+
+Therefore, since both individuals have published books, the answer to the question is affirmative. TRUE",True
+6452,Documentaries,documentary film,False,True,"Both ""Andrew and Jeremy Get Married"" and ""The Last Lions"" are indeed documentaries. ""Andrew and Jeremy Get Married"" is a British documentary film that depicts the story of two Englishmen planning their commitment ceremony. ""The Last Lions"" is a nature documentary film by National Geographic that follows the life of lions in the Okavango Delta in Botswana. Since both are non-fiction films that document real-life events and subjects, the answer to the question is correct. TRUE",True
+6741,Patrick,Patrick Swayze,False,True,"Don Swayze's older brother is Patrick Swayze. Paragraph 2 states that Patsy Swayze trained Patrick in dance and Paragraph 7 mentions Don Swayze as the younger brother of Patrick Swayze, confirming that Patrick is Don's older brother. Therefore, the answer to the question is Patrick Swayze. 
+
+TRUE",True
+5458,Crepis,Crepis,True,True,"The family of the genus Crepis belongs to is Asteraceae, while the family of the genus Isatis belongs to is Brassicaceae. Alphabetically, Asteraceae comes before Brassicaceae. Therefore, the genus of Crepis's family comes first alphabetically.
+
+The answer provided is ""Crepis,"" which is consistent with the alphabetical order of their respective families (Asteraceae for Crepis and Brassicaceae for Isatis). Hence, the answer is correct.
+
+TRUE",True
+6667,"15,000","15,000 people",False,True,"The 2014 FIBA Basketball World Cup Final took place at Palacio de Deportes de la Comunidad de Madrid, as mentioned in Paragraph 6. Paragraph 3 states that the capacity of this venue for basketball matches is 15,000 people. Therefore, the answer stating that the capacity for basketball games of the venue for the 2014 FIBA Basketball World Cup Final is 15,000 is correct.
+
+TRUE",True
+1278,Lobachevsky,Nikolai Ivanovich Lobachevsky,False,True,"Leonid Genrikhovich Khachiyan lived from May 3, 1952, to April 29, 2005, which means he lived for almost 53 years. Nikolai Ivanovich Lobachevsky lived from December 1, 1792, to February 24, 1856, which calculates to be approximately 63 years. Therefore, Nikolai Lobachevsky lived longer than Leonid Khachiyan.
+
+The answer provided is 'Lobachevsky,' which implies that Nikolai Lobachevsky lived longer. This matches our calculation.
+
+Hence, the assertion in the question is TRUE.",True
+6291,Yes,no,False,False,"Water dropwort, as stated in Paragraph 3, belongs to the genus Oenanthe, which is in the family Apiaceae. However, Costus, as mentioned in Paragraph 9, is in the family named Costaceae, not Apiaceae.
+
+Therefore, the statement that Water dropwort and Costus are both in the family Apiaceae is FALSE.",False
+6031,highway,Ohio Turnpike,False,False,"Tedrow, Ohio lies close to the Ohio Turnpike, which is a 241.26 mi highway. 
+
+Given your question ""Tedrow, Ohio lies close to which 241.26 mi highway?"" and the provided answer ""highway,"" I can conclude that the answer should specify which highway Tedrow, Ohio is near, which is the Ohio Turnpike. Therefore, the provided answer is incomplete or lacks specificity.
+
+FALSE",False
+4102,San Francisco,"Chicago, IL",False,False,"The musician mentioned in Paragraph 5, Noah Georgeson, who has a debut album with a title sharing the same name as the 1959 Alfred Hitchcock film, is ""North by Northwest."" According to the paragraph, Noah Georgeson was born in San Anselmo, California, and moved with his family to Nevada City, California at the age of three. San Francisco is mentioned in the context of where he received his BA in composition, not as his place of birth or where he hails from. Therefore, based on the provided paragraphs, the correct answer to the question should be that Noah Georgeson hails from San Anselmo or Nevada City, and not San Francisco.
+
+The answer provided, San Francisco, is incorrect given the question. The answer should be San Anselmo or Nevada City. FALSE.",False
+6832,Yes,yes,True,True,"Both Frank R. Strayer and Krzysztof Kieślowski were indeed film directors. Frank R. Strayer was an actor, film writer, director, and producer active from the mid-1920s until the early 1950s. Krzysztof Kieślowski was a Polish art-house film director and screenwriter. Therefore, the answer provided is correct. TRUE",True
+2813,100 metres,100 metres,True,True,"The question is asking about the event in which Harold Davis was a former record holder and which is now held by Usain Bolt. According to Paragraph 6, Harold Davis was a former World Record holder in the 100 metres. Paragraph 3 confirms that the current record in the 100 metres is held by Usain Bolt with a time of 9.58 seconds. Therefore, Harold Davis was a former record holder in the 100 metres, an event in which the record is now held by Usain Bolt. 
+
+The answer to the question is correct. TRUE.",True
+2720,2013,2013,True,True,"Based on the information provided in paragraph 3, Russell D. Moore became the head of the Ethics & Religious Liberty Commission (ERLC) on June 1, 2013. Therefore, after serving at the Southern Baptist Theological Seminary, he became the President of the ERLC in the year 2013.
+
+The answer given to the question, ""After Russell D. Moore served at the Southern Baptist Theological Seminary he became the President of The Ethics & Religious Liberty Commission (ERLC) in what year?"" is also 2013.
+
+The provided answer matches the correct year stated in the text. Therefore, the provided answer is correct.
+
+TRUE",True
+3811,Doñana,Doñana National Park,False,True,"Doñana National Park covers 543 km² (as stated in paragraph 1), whereas Timanfaya National Park covers 51.07 km² (as stated in paragraph 10). Therefore, Doñana National Park is larger than Timanfaya National Park.
+
+The answer is TRUE.",True
+3579,2015,2015,True,True,"The band that released ""Hooligan's Holiday"" is Mötley Crüe, as stated in paragraph 10. According to paragraph 5, Mötley Crüe retired in 2015. Therefore, the year the band retired is 2015. 
+
+The provided answer to the question ""Which year did the band, who released ""Hooligan's Holiday,"" retire?"" is 2015. This matches the information given in paragraph 5. The provided answer is correct.
+
+TRUE",True
+3943,2017,5-Sep-17,False,True,"Laurie Davidson is known for playing a fictionalized version of a young William Shakespeare in the TV series ""Will"". According to Paragraph 3, the show ""Will"" was canceled on September 5, 2017, by TNT. 
+
+Therefore, Laurie Davidson is an English actor known for playing a fictionalized version of a young William Shakespeare on a show that was canceled on September 5, 2017.
+
+The answer provided is ""2017"". The full date of the cancellation is September 5, 2017, but the year provided in the answer is correct. 
+
+TRUE",True
+603,Howard,T. R. M. Howard,False,True,"The passage in Paragraph 2 states that ""Black Maverick"" is a biography of T. R. M. Howard, who was a civil rights leader, fraternal organization leader, entrepreneur, and surgeon. The question asks about the subject of the biography ""Black Maverick,"" which is indeed T. R. M. Howard, as mentioned in the passage. Therefore, the answer to the question is Howard.
+
+Comparing my response to the provided answer: The provided answer is Howard, which matches the information from Paragraph 2 about the subject of the biography ""Black Maverick"". The answer is correct.
+
+TRUE",True
+6701,Jack Chick,Jack Chick,True,True,"Jack Chick was an American cartoonist and publisher who had Fred Carter working for him as mentioned in Paragraph 1 (about Jack Chick) and Paragraph 4 (about Fred Carter, the artist known for his work for Jack Chick's tracts since 1972). Therefore, the answer given, Jack Chick, is correct.
+
+TRUE",True
+4008,"11,163","11,163",True,True,"The provided answer states that the 2010 population of the village at which Smith Haven Mall is located was 11,163. In paragraph 2, it states that ""Lake Grove is a village in Suffolk County, New York, United States. The population was 11,163 at the 2010 census."" Since Smith Haven Mall is located in Lake Grove, New York, as mentioned in paragraph 8, the provided answer is correct.
+
+The population of the village (Lake Grove) at which Smith Haven Mall was located in 2010 is indeed 11,163.
+
+TRUE",True
+140,Oxford,Oxford,True,True,"The author of ""Sexual Politics"" is Kate Millett. According to Paragraph 1, Kate Millett attended Oxford University. Therefore, the provided answer to the question, ""The author of 'Sexual Politics' attended which British University?"" with the answer ""Oxford"" is correct.
+
+TRUE",True
+4372,Isles,Southern Isles,False,True,"King of Norway Magnus Barefoot launched aggressive military campaigns in a region that was sometimes independent of external control and was known to the Norse as the ""Suðreyjar,"" or ""Southern Isles,"" which comprised the Hebrides, the islands of the Firth of Clyde, and the Isle of Man. This is consistent with the information in Paragraphs 1 and 9 of the provided text. They describe the Kingdom of the Isles, which included these islands and at times was under the rule of local leaders or overlords from Norway, Ireland, England, Scotland, or Orkney.
+
+The information given in Paragraphs 1 and 9 supports the statement that the term for this region known to the Norse was the ""Southern Isles,"" and Magnus Barefoot's aggressive military campaigns targeted this area.
+
+A: Isles
+
+The answer provided is correct; therefore, my response is TRUE.",True
+615,500th,show's 500th episode,False,True,"The provided answer is that ""At Long Last Leave"" represented the 500th episode of ""The Simpsons"". This is confirmed by the information given in paragraph 2 which states that ""At Long Last Leave"" is indeed the 500th episode overall of the series. Therefore, the provided answer is correct.
+
+TRUE",True
+4889,Venezuelan,Dominican,False,False,"Amed Rosario is described as a Dominican professional baseball shortstop in Paragraph 9. Therefore, the claim that he is Venezuelan is incorrect.
+
+FALSE",False
+2152,2015,2015,True,True,"In paragraph 8, it states that Playford B Power Station's permanent closure was announced by operator Alinta Energy in October 2015. This indicates that the year Playford B Power Station was permanently closed by its Australian operator is 2015.
+
+Given the question and the information provided in paragraph 8, the answer to the question ""What year was Playford B Power Station permanently closed in by its Australian operator?"" is indeed 2015.
+
+Thus, the provided answer is correct. TRUE",True
+718,Political party,Albanian political party in Montenegro,False,False,"The question is asking about the potential membership of Albanians in Montenegro in a specific organization. The answer provided is that the Albanian Coalition ""Perspective"" is an Albanian political party in Montenegro. Since the question is referring to the possibility that Albanians in Montenegro, who make up 4.91% of the country's total population, could be members of this party, and the answer correctly identifies the Albanian Coalition ""Perspective"" as a political party, the answer to the question is correct. Therefore, the answer ""Political party"" is appropriate for the question asked.
+
+TRUE",True
+5894,film,45th Infantry Division,False,False,"According to Paragraph 6, ""Thunderbirds"" is a 1952 war film that features the exploits of the 45th Infantry Division in the Italian campaign of World War II. The 45th Infantry Division is a part of the Oklahoma Army National Guard. Therefore, the answer to the question is that ""Thunderbirds"" was a film featuring the exploits of the 45th Infantry Division of the Oklahoma Army National Guard.
+
+The provided answer ""film"" does not correctly identify the part of the Oklahoma Army National Guard featured in ""Thunderbirds,"" which is the 45th Infantry Division. Therefore, the response is FALSE.",False
+2612,Rome,"Stadio Olimpico in Rome, Italy",False,False,"According to Paragraph 6 which discusses the 2008–09 UEFA Champions League, the final was played at the Stadio Olimpico in Rome on 27 May 2009. Thus, the 54th edition of Europe's premier club football tournament, the 2009 UEFA Champions League Final, was played in Rome.
+
+Given this information, the answer to the question ""What was the 54th edition the 2009 UEFA Champions League Final, Europe's premier club football tournament, played?"" is indeed Rome. Therefore, the statement provided as the answer is correct.
+
+TRUE",True
+386,1961,1961,True,True,"Francisco Jose Hernandez, known as ""Pepe,"" is mentioned in Paragraph 6 as a participant in the Bay of Pigs Invasion. This invasion is detailed in Paragraph 5, where it states that the Bay of Pigs Invasion was a failed military invasion of Cuba undertaken by the CIA-sponsored paramilitary group Brigade 2506 on 17 April 1961. Therefore, Francisco Jose Hernandez was a participant in an invasion that took place in the year 1961.
+
+Given the question ""Francisco Jose Hernandez was a participant in an invasion that took place in what year?"" the answer provided is ""1961.""
+
+The provided answer matches the information in the text: ""1961"" is the correct year when the Bay of Pigs Invasion, in which Francisco Jose Hernandez participated, took place.
+
+Therefore, the answer is TRUE.",True
+3887,dog,dog,True,True,The Mahratta Greyhound and the Tibetan Spaniel have in common that they are both breeds of dog. TRUE,True
+5557,Sean S. Cunningham,Harry Booth,False,False,"According to Paragraph 3, Pat Ashton starred in the 1971 film ""On the Buses."" Paragraph 6 gives us the information that ""On the Buses"" is a British comedy film directed by Harry Booth. Therefore, Harry Booth directed the 1971 film in which Pat Ashton starred in, not Sean S. Cunningham. The provided answer, Sean S. Cunningham, is incorrect.
+
+FALSE",False
+1195,rebellion,Easter Rising of 1916,False,False,"Seán Heuston took part in the Easter Rising of 1916 and was executed at Kilmainham Gaol for his role in that rebellion.
+
+TRUE",True
+1152,Field Marshal,1736,False,False,"According to Paragraph 1, the rank of Field Marshal has been the highest rank in the British Army since 1736. Sir Charles Comyn Egerton, mentioned in Paragraph 2, held the rank of Field Marshal. Therefore, the rank held by Sir Charles Comyn Egerton has been the highest in the British Army since 1736.
+
+Given the question: Sinch when has the rank held by Sir Charles Comyn Egertong been the highest in the British Army?
+
+The provided answer is: Field Marshal
+
+We can infer that the typo ""Sinch"" should be ""Since,"" and ""Egertong"" should be ""Egerton."" The question is asking when the rank of Field Marshal, held by Sir Charles Comyn Egerton, has been the highest rank in the British Army. Based on Paragraph 1, the correct provided answer matches with the information since the rank of Field Marshal has been the highest rank in the British Army since 1736, which is when Sir Charles Comyn Egerton's rank would have been considered the highest had he lived during or after that year.
+
+Therefore, the answer is TRUE.",True
+5257,Detroit,Detroit,True,True,"Paragraph 9 addresses Julius Kahn, the inventor of the Kahn Trussed Bar for beams and columns. It is stated that Kahn was raised in Detroit, Michigan, after moving there from Germany with his family when he was six years old. 
+
+Therefore, the answer to the question is that the Kahn Trussed Bar for beams and columns was invented by a man raised in the US city of Detroit.
+
+The provided answer ""Detroit"" is correct. TRUE",True
+3826,second,the second,False,True,"Paragraph 7: Starship Entertainment () is a South Korean record label established in 2008 by Kim Shi Dae. 
+
+Paragraph 10: ""White Love"" is the second collaboration single by labelmates K.Will, Sistar and Boyfriend, released under the name Starship Planet (Starship Entertainment). 
+
+The question is asking for the number of the single ""White Love"" created by the record label Starship Entertainment, which was established in 2008 by Kim Shi Dae. According to the information given, ""White Love"" is indeed the second collaboration single released by Starship Entertainment under the name Starship Planet. Therefore, the answer provided, ""second,"" is correct.
+
+TRUE",True
+6242,American Scientist,American Scientist,True,True,"American Scientist was published first. The paragraph about American Scientist states that it has been published since 1913 by Sigma Xi, while the paragraph about Dwell states that it was launched with a magazine in September 2000. Therefore, American Scientist was published well before Dwell.
+
+Comparing the given answer, ""American Scientist,"" with my conclusion, the answer that American Scientist was published before Dwell is correct.
+
+TRUE",True
+7069,Taylor Swift,Big Machine Records,False,False,"Answer provided: Taylor Swift
+
+Taylor Swift released the album ""Red"" on October 22, 2012, by Big Machine Records. This information is found in Paragraph 1, which provides extensive details about the album and its release. Given that the question is about who released the 2012 record of ""Red,"" the answer provided, Taylor Swift, matches the information in Paragraph 1.
+
+Final assessment: TRUE",True
+7379,Danny DeVito,"Daniel Michael DeVito, Jr.",False,True,"Danny DeVito played the character Louie De Palma in the television series ""Taxi,"" as per the information provided in Paragraph 5. Lewis Allen is mentioned as an English director and not as an actor who played Louie De Palma. Therefore, it was Danny DeVito who played Louie De Palma.
+
+The answer to the question ""Did Lewis Allen or Danny DeVito play Louie De Palma?"" is Danny DeVito. 
+
+FALSE",False
+2637,Prada,Prada,True,True,"In paragraph 4, it is mentioned that Daryl Dixon continues the search for Sophia Peletier in the ""Cherokee Rose"" episode. Paragraph 8 states that Norman Reedus, the actor who portrays Daryl Dixon, modeled for various fashion designers, including Prada in the 1990s.
+
+Since the question asks for the company's advertisements that the actor is famous for, and given Norman Reedus's association with Prada as a model, the answer would be that the actor famous for his work in Prada's advertisements is the one who continues to search for Sophia Peletier.
+
+Therefore, the correct answer is Prada. TRUE",True
+658,Beauty and the Beast,Beauty and the Beast,True,True,"The question is asking for the 9th longest-running musical in Broadway history that was also the 30th Disney animated feature film. According to Paragraph 3, ""Beauty and the Beast"" is a Disney media franchise that includes the 9th longest-running musical in Broadway history and originated from the 1991 animated feature. This means that the musical ""Beauty and the Beast"" is the correct answer to the question and it corresponds to the 30th Disney animated feature film, as mentioned in Paragraph 1. 
+
+Hence, the answer provided, ""Beauty and the Beast,"" is correct. TRUE",True
+5440,Vladimir Menshov,Vladimir Menshov,True,True,"The actor/director known for depicting the Russian working class life and who directed a film that won an Academy Award in 1981 is Vladimir Menshov. As stated in Paragraph 1, Vladimir Menshov is a Soviet and Russian actor and film director who is noted for depicting the Russian everyman and working class life in his films. The paragraph also mentions that he is best known for the five films he directed, among which ""Moscow Does Not Believe in Tears"" is the most famous, having won the Academy Award for Best Foreign Language Film. This information is further corroborated in Paragraph 3, which states that the film ""Moscow Does Not Believe in Tears"" won the Academy Award for Best Foreign Language Film in 1981, and the film was directed by Vladimir Menshov.
+
+Thus the provided answer, Vladimir Menshov, is correct. TRUE",True
+3716,Jack White,Jack White,True,True,"The singer who released his debut solo album in 2012 is Jack White, as stated in Paragraph 6. Paragraph 4 confirms that Jack White produced the live EP ""Live at Third Man"" by White Denim. Therefore, the answer to the question is correct. Jack White is the singer who released his debut solo album in 2012 and served as the producer for the EP ""Live at Third Man"" by White Denim in 2011.
+
+TRUE",True
+632,Yankees,New York Yankees,False,True,"Paragraph 7 provides information about Berk Communication and Marketing Group. According to the paragraph, Berk Communications is known for representing several entities, including particular athletes. Among those athletes is Alex Rodriguez, who played for the New York Yankees during his MLB career. Therefore, since Alex Rodriguez is an American professional baseball player and Berk represented him, it can be inferred that Berk Communication and Marketing Group is best known for representing an American professional baseball pitcher for the New York Yankees. This is supported by paragraph 9, which mentions CC Sabathia, also a pitcher for the New York Yankees, who also had a relationship with Berk, as described in Paragraph 7 related to Rodriguez's retirement announcement.
+
+The answer given is 'Yankees', and based on the information provided, this is correct. TRUE",True
+2302,1975,1967,False,False,"The question is asking for the year of publication for a coming-of-age novel by the author of Rumble Fish. According to paragraph 6, ""Rumble Fish"" is a 1975 novel. The author of ""Rumble Fish"" is S.E. Hinton, as mentioned in both paragraphs 1 and 6. S.E. Hinton is also the author of the coming-of-age novel ""The Outsiders,"" according to paragraph 7, which was first published in 1967 by Viking Press. Thus, the year the coming-of-age novel ""The Outsiders"" was published is 1967.
+
+The answer provided is 1975, which is incorrect because it pertains to the year ""Rumble Fish"" was published, not the year S.E. Hinton's coming-of-age novel ""The Outsiders"" was published. Therefore, the provided answer is FALSE.",False
+4484,Missouri,Faurot Field,False,False,"Henry Josey played college football at Missouri. ""The Zou"" is a nickname for Faurot Field, which is mentioned in Paragraph 7 as the home games location for the Missouri Tigers football program, which represents the University of Missouri in college football. Therefore, ""The Zou"" is more commonly known as Faurot Field at the University of Missouri.
+
+The provided answer is correct. The Zou is a nickname for Faurot Field, so when the question asks what ""The Zou"" more commonly is known as, it implies asking for its official name or the institution it is associated with, which is the University of Missouri where Henry Josey played college football.
+
+The provided statement is TRUE.",True
+2660,New York,Prudential Center in Newark,False,False,"Harrison Bryce Jordan Barnes was selected by the Golden State Warriors in the first round of the 2012 NBA draft with the seventh overall pick. According to Paragraph 8, the 2012 NBA Draft was held on June 28, 2012, at Prudential Center in Newark, New Jersey. Therefore, the NBA Draft in which Harrison Barnes was selected did not take place in New York but in Newark, New Jersey.
+
+The provided answer ""New York"" is not correct based on the information given in the text. The correct location is Newark, New Jersey. FALSE.",False
+3394,Merv,Mary,False,False,"The name of the city located near the historical region known as Margianḗ in Greek is Mary in Turkmenistan. This is mentioned in Paragraph 2, which notes that Merv, near today's Mary, was a major oasis-city in Central Asia. Therefore, the answer to the question is Mary. 
+
+Given the question asks for the city near the region known as Margianḗ (the Greek name for Margiana), and the provided answer is Merv (the historical name of the city near Margiana), the provided answer, Merv, is correct because it refers to the historical name that is associated with Margianḗ. TRUE",True
+1839,psilocybin,psilocin,False,False,"Psilocybin is a psychedelic compound found in various species of mushrooms, and it is known to be a prodrug, meaning it gets converted by the body into a pharmacologically active drug. In the case of psilocybin, after ingestion, it is dephosphorylated to become psilocin, which is the actual substance that produces the psychoactive effects. The other compounds mentioned, psilocin and baeocystin, are not converted to psilocin by the body; psilocin is already the active form, and baeocystin's metabolic pathway is less clear but it is a different compound. Therefore, the answer is:
+
+psilocybin.
+
+TRUE",True
+6440,Fantasy,motion picture producer,False,False,"Paragraph 3: Tony DiTerlizzi is described as an American fantasy artist, children's book creator, and motion picture producer. Since the question asks about the type of producer related to ""The Spiderwick Chronicles,"" which is a fantasy series as mentioned in Paragraph 2, the answer is indeed that he is a fantasy producer.
+
+The provided answer 'Fantasy' is therefore correct, as Tony DiTerlizzi is associated with ""The Spiderwick Chronicles,"" which is a fantasy series. TRUE",True
+866,singer,"professional wrestler, actor, and hip hop musician",False,False,"The profession of the one who wrote a song on a 2005 album he collaborated on with Marc Predka is not a singer but a professional wrestler and hip hop musician. According to paragraph 2, John Cena is the person who collaborated with Marc Predka, better known as Tha Trademarc (as mentioned in paragraph 6), on the 2005 album ""You Can't See Me."" Therefore, his profession is primarily a professional wrestler, actor, and hip hop musician, not just a singer.
+
+FALSE",False
+3367,Americans,yes,False,False,"Both Joss Whedon, a film director, producer, and creator of several television series, and Norman Mailer, a novelist, journalist, and political activist, are mentioned as Americans in the provided paragraphs. Therefore, the statement that Joss Whedon and Norman Mailer were both Americans is correct.
+
+TRUE",True
+4638,Roc-A-Fella Records and Priority Records,Roc-A-Fella Records and Priority Records,True,True,"Jay-Z's 1996 debut studio album ""Reasonable Doubt"" was indeed released by Roc-A-Fella Records and Priority Records. This is confirmed in Paragraph 9, which explicitly states that ""Reasonable Doubt"" was released by Roc-A-Fella Records and Priority Records. Therefore, the provided answer is correct.
+
+TRUE",True
+5352,Texas Tech Red Raiders,Texas Tech Red Raiders baseball,False,True,"The Dan Law Field at Rip Griffin Park, nicknamed ""The Law,"" is the home stadium of the Texas Tech Red Raiders baseball team in Lubbock, Texas. Since the Texas Tech Red Raiders baseball team represents Texas Tech University in NCAA Division I college baseball and ""The Law"" is their home stadium, the answer given is correct.
+
+TRUE",True
+1019,Yes,no,False,False,"Aloinopsis is indeed a genus of ice plants from South Africa, as stated in paragraph 2. However, Eriogonum is not classified as an ice plant; it is the scientific name for a genus of flowering plants known as wild buckwheat in the family Polygonaceae, as explained in paragraph 10. The term ""ice plant"" generally refers to species within the Aizoaceae family, such as those described in paragraph 9, which also have species commonly called ice plants because of the glistening appearance of their leaves.
+
+Therefore, the statement ""Are both Aloinopsis and Eriogonum ice plants?"" is incorrect.
+
+The answer should be ""No."" FALSE",False
+4342,1978,1978,True,True,"The player who laid motionless for ten minutes in the Todd Bertuzzi–Steve Moore incident is Steve Moore. According to paragraph 6, Steven Francis Moore (Steve Moore) was born on September 22, 1978. Therefore, the year of birth for the player who laid motionless for ten minutes in the incident is 1978.
+
+The answer provided to the question is 1978, which matches the information from paragraph 6. 
+
+The answer is correct. TRUE",True
+4036,Eunuch,Mulberry,False,False,"The 1986 drama film directed by Lee Doo-yong that starred Lee Mi-sook is ""Mulberry"" as mentioned in Paragraph 4, not ""Eunuch"". ""Mulberry"" was based on the classic story by Na Do-hyang and was part of a wave of ""Folk erotic"" films during that time.
+
+Therefore, the answer provided, ""Eunuch"", is incorrect based on the information given. The correct film is ""Mulberry"".
+
+FALSE",False
+4223,Heineken,over 170,False,False,"Leonardus (Leo) Petrus Beukeboom was hired by the Amsterdam-based Heineken brewery to decorate cafes. According to Paragraph 3, Heineken International owns a worldwide portfolio of over 170 beer brands. Therefore, the company that hired Beukeboom, Heineken, has over 170 beer brands in its portfolio.
+
+TRUE",True

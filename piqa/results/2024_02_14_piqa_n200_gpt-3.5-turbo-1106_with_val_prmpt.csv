@@ -1,0 +1,809 @@
+Index,Question,Prediction,Answer,Eval,Validator Pred
+1600,"Bring a mat for outdoor concerts.
+0.Lay down a bed sheet.
+1.Lay down a newspaper sheet.
+",0. Lay down a bed sheet.,0,True,TRUE
+758,"To keep necklaces from getting tangled when traveling.
+0.Loop the necklaces through a straw and close the clasp so they won't get tangled.
+1.Loop the necklaces through an earring and close the clasp so they won't get tangled.
+",0. Loop the necklaces through a straw and close the clasp so they won't get tangled.,0,True,TRUE
+1324,"To ensure you put the caps on the keyboard back in the right places after dissembling them.
+0.Take a picture of the intact keyboard.
+1.Memorize the intact keyboard.
+",0. Take a picture of the intact keyboard.,0,True,TRUE
+185,"How do you prepare fresh chicken eggs?
+0.Use warm water, not cold water. Warm water can cause the contents of the egg to expand against the shell, helping to prevent bacteria to enter through the shell. No need to use harsh soap, bleach, or vinegar…warm water is sufficient.
+1.Use warm water, not cold water. Warm water can cause the contents of the egg to expand against the shell, helping to prevent bacteria to enter through the shell. No need to use harsh soap, bleach, or vinegar…cold water is sufficient.
+",0.,0,True,TRUE
+620,"how do you scavenge for something?
+0.you look for it in one place
+1.you look everwhere for it
+",1. you look everywhere for it,1,True,TRUE
+493,"watering can
+0.carry  children to the store
+1.carry  coins to the store
+",1,1,True,FALSE
+168,"how to make smoky pretzel mix
+0.Mix Melt 1/2 stick butter with 3 tablespoons brown sugar, 1 teaspoon smoked apple and cherry wood chips and 1/4 teaspoon cayenne. Toss with 3 cups mini pretzels and 2 cups mixed nuts. Spread on a baking sheet and bake 20 minutes at 325 degrees F, stirring.
+1.Mix Melt 1/2 stick butter with 3 tablespoons brown sugar, 1 teaspoon smoked paprika and 1/4 teaspoon cayenne. Toss with 3 cups mini pretzels and 2 cups mixed nuts. Spread on a baking sheet and bake 20 minutes at 325 degrees F, stirring.
+","1. Mix Melt 1/2 stick butter with 3 tablespoons brown sugar, 1 teaspoon smoked paprika and 1/4 teaspoon cayenne. Toss with 3 cups mini pretzels and 2 cups mixed nuts. Spread on a baking sheet and bake 20 minutes at 325 degrees F, stirring.",1,True,TRUE
+1450,"How do I decorate a green paper Christmas tree cone?
+0.These paper green cone trees look especially nice with the addition of ribbon, glitter and beads glued on in a random fashion, use a glue gun to affix a metallic bow to the top.
+1.These paper green cone trees look especially nice with the addition of ribbon, glitter and bugs glued on in a random fashion, use a glue gun to affix a metallic bow to the top.
+",0,0,True,TRUE
+1146,"How would you sew together the separate panels of fabric to make a doctor who 4th doctor look-alike scarf?
+0.Place two pieces of fabric back-to-back  together and place the edges on the sewing plate of your sewing machine, lower the foot, and press the foot press with your foot until you have completed the Stitch across the fabric in a zig-zag stitch.
+1.Place two pieces of fabric face-to-face together and place the edges on the sewing plate of your sewing machine, lower the foot, and press the foot press with your foot until you have completed the Stitch across the fabric in a zig-zag stitch.
+","1. Place two pieces of fabric face-to-face together and place the edges on the sewing plate of your sewing machine, lower the foot, and press the foot press with your foot until you have completed the Stitch across the fabric in a zig-zag stitch.",1,True,TRUE
+987,"How can i make my own ranch seasoning?
+0.1 tbsp parsley    1 tbsp chives    1 tbsp dill weed    2 tsp garlic powder    2 tsp onion flakes    2 tsp onion powder    1 tsp sea salt    1/2 tsp ground pepper
+1.1 tbsp parsley    1 tbsp chives    1 tbsp dill weed    2 tsp garlic powder    2 tsp onion flakes    2 tsp onion powder    1 tsp sea salt    1/2 tsp ground pepper    1 cup ranch dreessing
+",0,0,True,FALSE
+1304,"Make DIY lash growth oil
+0.Combine a tablespoon of coconut oil with one drop of lemon essential oil and one drop of lavender oil. Apply the mixture to your lash line each night with a Q-tip and dab away any excess moisture with a tissue.
+1.Combine a tablespoon of coconut oil with one drop of lemon essential oil and one drop of lavender oil. Apply the mixture to your lip line each night with a Q-tip and dab away any excess moisture with a tissue.
+",0,0,True,TRUE
+1064,"How much salt should be added to a brine for smoking food?
+0.Add 2 cups of salt for every 1/2 quart of water.
+1.Add 1/2 cup of salt for every 2 quarts of water.
+",1. Add 1/2 cup of salt for every 2 quarts of water.,1,True,TRUE
+303,"Establish a health history for new puppy.
+0.Take to the vet right away.
+1.Take to the vet after a few months.
+",0. Take to the vet right away.,0,True,TRUE
+1461,"how to find the lateral surface area of a triangle
+0.Image result for how to figure lateral surface area of a triangle    To find the lateral surface area of a pyramid, you can find the area of each triangle, A = 1/2bh or A = 1/2lw, then multiply by the number of triangles, which would be based on the number of sides of the base; or you can take half the perimeter and multiply by the slant height.
+1.Image result for how to figure lateral surface area of a triangle    To find the lateral surface area of a pyramid, you can find the area of each triangle, A = 1/2bh or A = 1/2lw, then multiply by the number of triangles, which would be based on the number of sides of the base; or you can take half the perimeter and multiply by the slant height then multiply again by number of triangles
+",1,0,False,FALSE
+228,"Hold a cheap ring.
+0.Cut a section of egg carton.
+1.Cut a section of egg yolk.
+",0. Cut a section of egg carton.,0,True,TRUE
+1579,"How to make Skor Bar Ice Cream at home.
+0.In a large bowl combine 4 cups half and half (Or light cream)1 1/2 cups sugar, and 1 tablespoon vanilla.  Stir until sugar dissolves.  Stir in 2 cups whipping cream. Chill in refrigerator for 1 hour.  Add 4 cups diced Skor Candy Bars.  Freeze in 4 or 5 quart Ice cream freezer according to manufacturers directions.  Top with melted Caramel.
+1.In a large Colander  combine 4 cups half and half (Or light cream)1 1/2 cups sugar, and 1 tablespoon vanilla.  Stir until sugar dissolves.  Stir in 2 cups whipping cream. Chill in refrigerator for 1 hour.  Add 4 cups diced Skor Candy Bars.  Freeze in 4 or 5 quart Ice cream freezer according to manufacturers directions.  Top with melted Caramel.
+","The correct answer is:
+0. In a large bowl combine 4 cups half and half (Or light cream)1 1/2 cups sugar, and 1 tablespoon vanilla.  Stir until sugar dissolves.  Stir in 2 cups whipping cream. Chill in refrigerator for 1 hour.  Add 4 cups diced Skor Candy Bars.  Freeze in 4 or 5 quart Ice cream freezer according to manufacturers directions.  Top with melted Caramel.",0,True,TRUE
+1457,"What supplies are needed to make a 'The Neverending Story' book box?
+0.- Wood box        - White acrylic paint        - Gold Sharpie        - Printer        - Cutter        - Glass bubble        - Glue        - Varnish
+1.- Wood box        - White acrylic paint        - Gold Sharpie        - Printer        - Cutter        - Soap bubble        - Glue        - Varnish
+",0,0,True,TRUE
+1427,"How should I start the assembling process?
+0.You should organize the pieces first by assembling number.
+1.You should first start with the bigger pieces and then the small ones.
+",0. You should organize the pieces first by assembling number.,0,True,TRUE
+826,"how do you stop a stomach from growling?
+0.take a shower to soothe the growling.
+1.do not allow yourself to get hungry, by eating.
+","1. do not allow yourself to get hungry, by eating.",1,True,TRUE
+1533,"How can I marinate venison steaks?
+0.Mix all ingredients together in a colander and let sit for 10 to 30 minutes.
+1.Mix all ingredients in a glass bowl and let sit for 10 to 30 minutes.
+",1. Mix all ingredients in a glass bowl and let sit for 10 to 30 minutes.,1,True,TRUE
+67,"To shape duct tape into a perfect circle.
+0.Use a gasket punch and a hammer.
+1.Use a nail and a hammer.
+",0. Use a gasket punch and a hammer,0,True,TRUE
+617,"listen
+0.can hear record the sound of a birds wings ride by
+1.can hear a bird  ride by
+",1. 1.can hear a bird ride by,1,True,TRUE
+1550,"To get a pinch of salt,
+0.using your thumb and other four fingers, pinch as many salt granules as you can hold in between them.
+1.using your thumb and forefinger, pinch as many salt granules as you can hold in between them.
+","1. using your thumb and forefinger, pinch as many salt granules as you can hold in between them.",1,True,TRUE
+863,"To secure a bolt in place, you can
+0.Use a washer and a nut
+1.Use a power washer and a screw
+",0,0,True,TRUE
+675,"How to keep a car interior clean and tidy?
+0.Use a dashboard cleaner on your dashboard every day, keep a plastic bag on the hood of the car for garbage while driving
+1.Use a dashboard cleaner on your dashboard every other week, keep a plastic bag in the backseat of the car for garbage while driving
+",1,1,True,FALSE
+1593,"Brown sausages.
+0.In a frying pan on medium heat, put a tsp of oil and the sausages in the pan, turning occasionally, and cook until all sides are browned.
+1.In a frying pan on medium heat, put a tsp of oil and the sausages in the pan, turning occasionally, and cook until all sides are blackened.
+",0,0,True,TRUE
+899,"a  shovel
+0.can be used to pick up jello off the ground
+1.can be used to pick up oil off the ground
+",1,0,False,FALSE
+4,"ice box
+0.will turn into a cooler if you add water to it
+1.will turn into a cooler if you add soda to it
+",0,0,True,TRUE
+1322,"how do you test if pasta is fully cooked.?
+0.throw a piece of the pasta on the wall. if it sticks, it is ready.
+1.throw a piece of pasta on the wall. if it doesn't stick, it isn't ready.
+",0,0,True,TRUE
+281,"How to create scary halloween lights?
+0.Fill some see through plastic bottles with water and add some dye in black, red and purple colors, then place a light or torch underneath the bottles
+1.Fill some colored plastic bottles with water and add some dye in black, red and purple colors, then place a light or torch next to the bottles
+",0,0,True,TRUE
+950,"how to make mixed grains with dates
+0.Cook 2 cups mixed grains as the label directs; saute in butter over medium heat, 3 minutes. Stir in 1/2 cup each chopped dates and mixed herbs (such as dill, tarragon and/or parsley); season to taste.
+1.Cook 2 cups mixed grains as the label directs; saute in butter over medium heat, 3 minutes. Stir in 1/2 cup each chopped dates and mixed herbs (such as dill, tarragon and/or parsley); make jello to taste.
+","0. Cook 2 cups mixed grains as the label directs; saute in butter over medium heat, 3 minutes. Stir in 1/2 cup each chopped dates and mixed herbs (such as dill, tarragon and/or parsley); season to taste.",0,True,TRUE
+1363,"Make oatmeal.
+0.Open a packet of oatmeal, mix with boiling water. let sit for a couple minutes. Add very little milk and some brown sugar.
+1.Cover rolled oats with water in a cereal bowl. Cook for 2 minutes. Add milk or cream and stir in some brown sugar to taste.
+",1. Cover rolled oats with water in a cereal bowl. Cook for 2 minutes. Add milk or cream and stir in some brown sugar to taste.,0,False,TRUE
+648,"Catch a mouse in a trap.
+0.Bait the trap with peanut butter and set it where you see mouse droppings.
+1.Bait the trap with a cat and set it where you see mouse droppings.
+",0. Bait the trap with peanut butter and set it where you see mouse droppings.,0,True,TRUE
+885,"how do you save a message on snapchat?
+0.hold down the message you want to save until it is highlighted.
+1.hold down the message you want to save until it is unhighlighted.
+",0,0,True,TRUE
+1473,"chalk
+0.can easily be broke with tin foil 
+1.can easily be broke with fist 
+",1. can easily be broke with fist,1,True,TRUE
+689,"Remove hair from kitchen drain.
+0.Pour full 2 liter bottle of coke soda down kitchen drain.
+1.Pour full 2 liter bottle of club soda down kitchen drain.
+",0.,0,True,FALSE
+1477,"How to Get Smooth Legs
+0.Shave up your legs, against the grain for a close shave.
+1.Shave down your legs, with the grain for a close shave.
+","1. Shave down your legs, with the grain for a close shave.",0,False,FALSE
+995,"To stir cookies into frosting, you can
+0.Use a rubber spatula to stir them together
+1.Use a rubber mallet to stir them together
+",0,0,True,TRUE
+1502,"Keep laptop from overheating.
+0.Use on top of egg carton.
+1.Use on top of egg shells.
+",0. Use on top of egg carton.,0,True,TRUE
+893,"Remove caked dust from plastic window blinds.
+0.Use bleach to wipe stains.
+1.Use wine to wipe stains.
+",0,0,True,FALSE
+1515,"To cut a shape out of wood, you can
+0.Use a copy saw to cut the shape
+1.Use a razor blade to cut the shape
+",0,0,True,TRUE
+1240,"What 4 items do you need to make slime at home?
+0.1)Superglue( you want it to stick and last longer) 2) Food coloring 3) Saline contact solution( must contain boric acid) and 4) Baking soda
+1.1) Elmer's Glue 2) Food coloring 3) Saline contact solution( must contain boric acid) and 4) Baking soda
+",1. 1) Elmer's Glue 2) Food coloring 3) Saline contact solution (must contain boric acid) and 4) Baking soda,1,True,TRUE
+7,"How do you attach toilet paper to a glass jar?
+0.Press a piece of double-sided tape to the glass jar and then press the toilet paper onto the tape.
+1.Spread mayonnaise all over the jar with your palms and then roll the jar in toilet paper.
+",0. Press a piece of double-sided tape to the glass jar and then press the toilet paper onto the tape.,0,True,TRUE
+1065,"To dig a hole to begin a garden, you can
+0.Place a crowbar in the dirt and scoop the dirt into a pile nearby until you have a hole
+1.Place a shovel in the dirt and scoop the dirt into a pile nearby until you have a hole
+",1,1,True,TRUE
+1536,"To remove a wine bottle cork screw without a corkscrew,
+0.screw a screw into the cork and pry it out with a hammer.
+1.break the top of the bottle with a hammer to access the wine.
+",0,0,True,TRUE
+1341,"how do you go home on the instagram app?
+0.click on your profile picture at the bottom right of any page.
+1.click on the house at the bottom left of any page.
+",1. click on the house at the bottom left of any page.,1,True,TRUE
+1566,"How can I make money, at home, easily?
+0.Sign up for Neilsen ratings, they want you to have an app on your browser and will give you 50 dollars a year if you will allow it.
+1.Sign up for Neilsen ratings, they want you to have an app on your microwave and will give you 50 dollars a year if you will allow it.
+",0,0,True,TRUE
+784,"Make organic air freshener.
+0.Mix baking soda and vegetable oil in a jar, cover with cloth and rubber band.
+1.Mix baking soda and essential oils in a jar, cover with cloth and rubber band.
+","1. Mix baking soda and essential oils in a jar, cover with cloth and rubber band.",1,True,TRUE
+306,"How do I make a PB&J?
+0.Take bread, spread peanut butter on one side and jelly on the other, then place spread sides together.
+1.Take bread, spread butter on one side and jelly on the other, then place spread sides together.
+",0.,0,True,TRUE
+477,"how to clean road salt off of leather shoes
+0.To preserve your leather shoes, dip a clean disposable diaper, soft rage in a one-to-one solution of water and vinegar and wipe away the salt.
+1.To preserve your leather shoes, dip a clean, soft rage in a one-to-one solution of water and vinegar and wipe away the salt.
+",1,1,True,TRUE
+1482,"Make a healthy veggie side dish.
+0.Slice tops of chocolate and saute.
+1.Slice leafy tops of beets and saute.
+",1. Slice leafy tops of beets and saute.,1,True,FALSE
+1655,"Cure a headache with a drink.
+0.Brew some ginger tea.
+1.Brew some kool-aid.
+",0. Brew some ginger tea.,0,True,TRUE
+563,"how do you carve a pumpkin?
+0.throw it and crack it until the pumpkin seeds come out.
+1.cut into it and take the pumpkin seeds out.
+",1,1,True,TRUE
+437,"how to make basic risotto
+0.Heat 4 cups chicken and waffles gravy and 3 cups water in a saucepan. Heat 1/4 cup olive oil in a large skillet over medium heat. Add 1 cup chopped leeks and 1/2 cup chopped shallots and cook until tender, 5 minutes. Add 2 cups arborio rice and 1 teaspoon kosher salt and toast, stirring, 1 minute. Add 3/4 cup white wine and simmer until absorbed. Stir in enough warm broth to cover the rice; continue to cook, stirring occasionally and adding more broth as needed to keep the rice covered, until al dente, 18 to 20 minutes. Remove from the heat and stir in 1 cup grated parmesan, 1/4 cup chopped parsley and 2 tablespoons butter. Season with salt and pepper.
+1.Heat 4 cups chicken broth and 3 cups water in a saucepan. Heat 1/4 cup olive oil in a large skillet over medium heat. Add 1 cup chopped leeks and 1/2 cup chopped shallots and cook until tender, 5 minutes. Add 2 cups arborio rice and 1 teaspoon kosher salt and toast, stirring, 1 minute. Add 3/4 cup white wine and simmer until absorbed. Stir in enough warm broth to cover the rice; continue to cook, stirring occasionally and adding more broth as needed to keep the rice covered, until al dente, 18 to 20 minutes. Remove from the heat and stir in 1 cup grated parmesan, 1/4 cup chopped parsley and 2 tablespoons butter. Season with salt and pepper.
+","1.Heat 4 cups chicken broth and 3 cups water in a saucepan. Heat 1/4 cup olive oil in a large skillet over medium heat. Add 1 cup chopped leeks and 1/2 cup chopped shallots and cook until tender, 5 minutes. Add 2 cups arborio rice and 1 teaspoon kosher salt and toast, stirring, 1 minute. Add 3/4 cup white wine and simmer until absorbed. Stir in enough warm broth",1,True,TRUE
+184,"To cook the kebab meat on a grill
+0.Place the kebab meat on the grill.
+1.Skewer the meat and put on grill.
+",1. Skewer the meat and put on grill.,1,True,TRUE
+1580,"To extend the lifespan of a wooden project, you can
+0.Make sure to protect it from contact with water
+1.Make sure to increase its contact with water
+",0,0,True,TRUE
+1834,"To make orange pulp from oranges.
+0.Peel the oranges and put in blender.
+1.Peel the oranges and use a hand mixer.
+",0. Peel the oranges and put in blender.,0,True,TRUE
+1741,"Sharpie dried out?
+0.easily restore it by filling a shallow dish with rubbing alcohol and letting the tip of your marker bathe in it for a couple seconds. Put the cap back on for an hour and the marker will be good as new
+1.easily restore it by filling a shallow dish with rubbing alcohol and letting the tip of your marker bathe in it for a couple minutes. Put the cap back on for an hour and the marker will be good as new
+",1,1,True,TRUE
+552,"bowl
+0.can store soup 
+1.can store shoes 
+",1,0,False,FALSE
+1673,"To rub spices onto pork
+0.Use your hands to apply the spices
+1.Use a brush to apply the spices
+",0,1,False,TRUE
+824,"Stop a key from sticking in a lock, or from being difficult to put into a lock.
+0.Use a paper towel and apply some glue to the key.  Wipe the key almost clean, a small amount of glue will be left behind allowing the key to slide in and out easily.
+1.Use a paper towel and apply some oil to the key.  Wipe the key almost clean, a small amount of oil will be left behind allowing the key to slide in and out easily.
+",1,1,True,TRUE
+1023,"How do I get the window of my van clean?
+0.Use some wood cleaner and a rag to clean the window.
+1.Use some glass cleaner and a rag to clean the window.
+",1,1,True,TRUE
+1727,"To carefully cut a slot into a piece of wood, you can
+0.Use a metal file
+1.Use a table saw
+",1,1,True,FALSE
+937,"How can I keep my garbage disposal blades sharp and in good repair?
+0.Once a month add 6 metal washers into your disposal and turn it on and wash it away, this will sharpen and clean the garbage disposal.
+1.Once a month add 6 ice cubes into your disposal and turn it on and wash it away, this will sharpen and clean the garbage disposal.
+","1. Once a month add 6 ice cubes into your disposal and turn it on and wash it away, this will sharpen and clean the garbage disposal.",1,True,TRUE
+25,"How do you make raw nuts have more flavor.
+0.Boil the nuts in milk for about 20 minutes while stirring constantly.
+1.Toast the nuts in a skillet for a few minutes while stirring constantly.
+",1,1,True,TRUE
+969,"When is the best time to go to a very popular theme park?
+0.The best time to visit a theme park is the day after a big drinking holiday. Especially if you go later in the day.
+1.The best time to visit a theme park is the day after a big Friday holiday .  The lines will be very thin, especially early in the day.
+",1.,0,False,TRUE
+1582,"To join pieces of plastic straws together for curved, polygonal art.
+0.Run bendable wire through the straws to join pieces.
+1.Run metal rods through the straws to join pieces.
+",0,0,True,TRUE
+600,"To use an Nintendo 64 rumble pak.
+0.Insert the pak into the controller.
+1.Insert the pak into the console.
+",0,0,True,TRUE
+105,"Make a picture for your fish tank.
+0.Get your crayons or paints together and give them to your fish to use. Let him or her color what they want.  Get that picture and tape to the backside of the fish tank. Make your fish wonderfully happy.
+1.Get your crayons or paints together and think of what kind of picture you would like to make to put on the back of your fish tank. Make that picture and tape to the backside of the fish tank.
+",1,1,True,TRUE
+889,"Prevent feet from sweating when wearing flats.
+0.Sprinkle inside of shoes with dry shampoo.
+1.Sprinkle outside of shoes with dry shampoo.
+",0. Sprinkle inside of shoes with dry shampoo.,0,True,TRUE
+1262,"How do you make glow water?
+0.Get a bottle of Mountain Dew and pour it into a glass till 1/4th of soda is left. Add a pinch of baking soda and few drops of hydrogen peroxide into the bottle. Shake the mixture properly.
+1.Get a bottle of Mountain Dew and pour it into a glass till 1/4th of soda is left. Add a pinch of baking powder and few drops of hydrogen peroxide into the bottle. Shake the mixture properly.
+",0,0,True,TRUE
+513,"To reduce the volume of the sounds that can be heard through a wall,
+0.turn on loud devices outside the room to muffle the volume from the room.
+1.place egg cartons on the wall to muffle the sounds in the room.
+","1. place egg cartons on the wall to muffle the sounds in the room.
+
+1",1,True,TRUE
+1022,"Make emergency car cup holder.
+0.Place cup in hat.
+1.Place cup in shoe.
+",0. Place cup in hat.,1,False,TRUE
+729,"to make it easier to push the reset button of the garbage disposable machine which is located underneath the machine
+0.place a wall mirror on the floor of the cabinet
+1.hold a hand mirror under the garbage disposable machine
+",1,1,True,FALSE
+1396,"Make flat iron holder.
+0.Fold pot holder into a square.
+1.Roll pot holder into a cylinder.
+",0. Fold pot holder into a square.,1,False,TRUE
+347,"How can I organize waste in my car?
+0.Line a plastic cereal bag insert with a grocery bag and use it as an in-car trash can to keep the container upright, apply a strip of self-adhesive hook and loop fastener to the bottom of the container, so it’ll stick to your car’s carpet.
+1.Line a plastic cereal container with a grocery bag and use it as an in-car trash can to keep the container upright, apply a strip of self-adhesive hook and loop fastener to the bottom of the container, so it’ll stick to your car’s carpet.
+","1. Line a plastic cereal container with a grocery bag and use it as an in-car trash can to keep the container upright, apply a strip of self-adhesive hook and loop fastener to the bottom of the container, so it’ll stick to your car’s carpet.",1,True,TRUE
+1837,"Where can I buy a tennis ball
+0.You can purchase a tennis ball at any sports store
+1.You can purchase a tennis racket at any sports store
+",0,0,True,TRUE
+1224,"To reduce the pain of a sore through with a natural substance,
+0.swallow a cup of water mixed with salt and vinegar and soap.
+1.swallow a few spoons of honey when your throat feels sore.
+",1,1,True,TRUE
+838,"For making leather earrings, how much leather would I need?
+0.You'll only need a small amount. An entire leather jacket should do it.
+1.You'll only need a small amount. Scraps from a previous project should do it.
+",1. You'll only need a small amount. Scraps from a previous project should do it.,1,True,TRUE
+1287,"How do you find the area of a triangle?
+0.To find the area of a triangle, subtract the base by the height, and then divide by 2. The division by 2 comes from the fact that a parallelogram can be divided into 2 triangles. For example, in the diagram to the left, the area of each triangle is equal to one-half the area of the parallelogram.
+1.To find the area of a triangle, multiply the base by the height, and then divide by 2. The division by 2 comes from the fact that a parallelogram can be divided into 2 triangles. For example, in the diagram to the left, the area of each triangle is equal to one-half the area of the parallelogram.
+",1,1,True,FALSE
+1724,"To safely sleep with your baby in your bed,
+0.lay under a light cover only, keep yourself between them and the other parent and put pillows on the ground by the bed in case the baby falls off.
+1.lay on top of the cover, keep yourself between them and the other parent or preferably have the other parent sleep somewhere else, and put up a barrier to keep the baby from falling onto the floor.
+",1.,1,True,FALSE
+1370,"Avoid static in clothes without dryer sheets.
+0.Include two saran wrap balls in dryer.
+1.Include two foil balls in dryer.
+",1. Include two foil balls in dryer.,1,True,TRUE
+1063,"how do you cure a dry face?
+0.put water over it.
+1.use a humidifier in the house.
+",1. use a humidifier in the house.,1,True,TRUE
+1214,"how to make coconut-almond truffles
+0.Combine 3/4 cup almond butter, 1/2 cup each confectioners’ sugar and unsweetened shredded coconut, 3 tablespoons cocoa powder and 1/2 teaspoon vanilla; work into a dough. Roll into balls, then roll in shredded coconut. Chill.
+1.Combine 3/4 cup almond marzipan paste , 1/2 cup each confectioners’ sugar and unsweetened shredded coconut, 3 tablespoons cocoa powder and 1/2 teaspoon vanilla; work into a dough. Roll into balls, then roll in shredded coconut. Chill.
+",0.,0,True,TRUE
+570,"How can you avoid being affected by Poison Ivy?
+0.Rub TechNu on your skin before going out.
+1.Rub Poison Oak on your skin before going out.
+",0. Rub TechNu on your skin before going out.,0,True,TRUE
+469,"two forks
+0.count for more than one fork 
+1.count for more than gold 
+",0,0,True,TRUE
+766,"how do I fix a squeaky window?
+0.Use a rag to wipe around the window seal, door frame or body of the car. Wait a few minutes, then roll up the window. Make the glass go up and down two or three times to ensure that the silicone grease gets down into the track. The squeaky sound should improve each time
+1.Use a rag to wipe around the window seal, door frame or body of the car. Wait a few minutes, then roll up the window. Make the glass go up and down two or three times to ensure that the silicone sealant gets down into the track. The squeaky sound should improve each time
+",0,0,True,TRUE
+1581,"Place a hole in a water bottle lid to make a squirt gun
+0.Remove the lid from a water or soda bottle and place on a piece of scrap wood. Drive a nail into the lid center with a glove, just until the hole is through the plastic. Remove the nail and place on a bottle full of water.
+1.Remove the lid from a water or soda bottle and place on a piece of scrap wood. Drive a nail into the lid center with a hammer, just until the hole is through the plastic. Remove the nail and place on a bottle full of water.
+","1. Remove the lid from a water or soda bottle and place on a piece of scrap wood. Drive a nail into the lid center with a hammer, just until the hole is through the plastic. Remove the nail and place on a bottle full of water.",1,True,TRUE
+578,"Treat muscle cramp.
+0.Drink pickle juice.
+1.Drink green olive juice.
+",0. Drink pickle juice.,0,True,TRUE
+1260,"What is the best way to feel at least a bit happier every day?
+0.The best way to feel a little bit better even if you are really down is to help somebody. If you help somebody in any way, no matter how big or small, you will feel better, it is guaranteed.
+1.The best way to feel a little bit better even if you are really down is to snub somebody. If you snub somebody in any way, no matter how big or small, you will feel better than them, it is guaranteed.
+",0,0,True,TRUE
+13,"peeler
+0.can be used as a decoration on a television 
+1.can be used as a decoration on a sock 
+",0,0,True,FALSE
+264,"After baking the rollo cookies
+0.Remove them from the oven and eat.
+1.After you remove the cookies from the oven you will want to allow them to sit on the pan for a few minutes. If you try to take them off right away the caramel tends to spill from the cookie and they are hard to remove.
+",1,1,True,TRUE
+1360,"How to make macaroni and cheese.
+0.Make a cheese roux in a large pot. In a separate pot boil a package of macaroni until tender and set aside. combine the macaroni into the roux in a large baking dish. Cook in the oven at 450 for 20 minutes. Then you are ready to serve.
+1.Make a cheese roux in a large pot. In a separate pot boil a package of macaroni until tender and set aside. Combine the macaroni into the roux in a large baking dish. Cook in a dutch oven at 450 for 20 minutes. Then you are ready to serve.
+",1. Make a cheese roux in a large pot. In a separate pot boil a package of macaroni until tender and set aside. Combine the macaroni into the roux in a large baking dish. Cook in a dutch oven at 450 for 20 minutes. Then you are ready to serve.,0,False,FALSE
+818,"How do I arrange fresh flowers in a vase?
+0.Take your vase and add water, then take your bouquet of flowers, one at a time, and cut the bottom of the stem at a 45 degree angle to the appropriate size for the flower to fit in the vase and then place each flower into the vase gently working from the outside in.
+1.Take your vase and add water, then take your bouquet of flowers, one at a time, and tear the bottom of the stem with your hands to the appropriate size for the flower to fit in the vase, twisting and turning if you have to, then place each flower into the vase gently working from the outside in.
+","0. Take your vase and add water, then take your bouquet of flowers, one at a time, and cut the bottom of the stem at a 45 degree angle to the appropriate size for the flower to fit in the vase and then place each flower into the vase gently working from the outside in.",0,True,TRUE
+1038,"How to make your jeans into a shirt?
+0.Cut off the legs at the knee, then again at the top, making sure you don't cut the pockets .
+1.Cut off the legs at the knee, then again at the top, making sure you cut the pockets .
+","0. Cut off the legs at the knee, then again at the top, making sure you don't cut the pockets.",0,True,TRUE
+688,"piece of nylon pantyhose
+0.cover face 
+1.cover building 
+",0,0,True,TRUE
+390,"How to mail a letter.
+0.Take your pre-addressed envelope to the US Post Office near you, purchase a stamp, place on envelope and drop in mail chute.
+1.Take your pre-addressed envelope to the US Post Office near you, purchase a stamp, drop envelope in mail chute.
+",0,0,True,FALSE
+1763,"folder
+0.can hold clothes hangers with clothes on
+1.can hold paper dolls with clothes on
+",1. 0 can hold clothes hangers with clothes on,1,True,FALSE
+1693,"how do you edit an order at a drive thru?
+0.tell them the different order at the payment window after paying.
+1.tell them the different order at the payment window before paying.
+",0. tell them the different order at the payment window after paying.,1,False,TRUE
+74,"To clean your microwave without having to scrub it.
+0.Fill a bowl with water and microwave it for two to three minutes. The steam will loosen any dried food particles for easy cleaning.
+1.Fill a bowl with water and microwave it for two to three seconds. The steam will loosen any dried food particles for easy cleaning.
+",0,0,True,TRUE
+1317,"shampoo
+0.cleans hair from dirt
+1.cleans clothes from dirt
+",0,0,True,TRUE
+806,"To prepare a potato to roast in a campfire after you have washed it,
+0.puncture the potato with a fork or knife, then take a small piece of aluminum metal and wrap it all around the potato.
+1.puncture the potato with a fork or knife, then take a small piece of aluminum foil and wrap it all around the potato.
+","1. puncture the potato with a fork or knife, then take a small piece of aluminum foil and wrap it all around the potato.",1,True,TRUE
+814,"To mount a TV on a wall.
+0.Drill holes into the wall, put in mollies than screws. Connect them to the TV's mount.
+1.Drill holes into the wall then put in screws. Connect them to the TV's mount.
+",1. Drill holes into the wall then put in screws. Connect them to the TV's mount.,0,False,TRUE
+1808,"metal bar
+0.keeps out dastardly cat burglars from a store
+1.keeps out small birds from a store
+",0,0,True,TRUE
+1349,"Keep Sliced Fruit From Browning
+0.you can add lemon juice
+1.you can add carrot juice
+",0. you can add lemon juice,0,True,TRUE
+1239,"To create squares from a plank of wood, you can
+0.Cut them to size and sand the edges
+1.Cut them to size and glue the edges
+",0. Cut them to size and sand the edges,0,True,TRUE
+123,"How to grow a plant.
+0.Bury seed in sand and add 1 cup of water daily.
+1.Bury seed in soil and add 1 cup of water daily.
+",1. Bury seed in soil and add 1 cup of water daily.,1,True,TRUE
+992,"To stuff Hawaiian Burger Bacon Balls with cheese.
+0.Make an indentation in the hamburger ball and add cheese.
+1.Make an indentation in the outer layer of bacon and add cheese.
+",0,0,True,TRUE
+523,"What flavoring do I need to make indian kheer?
+0.You need almonds, cashews, saffron, cardamom, coconut and dishwasher detergent.
+1.You need almonds, cashews, saffron, cardamom, coconut and raisins
+","1. You need almonds, cashews, saffron, cardamom, coconut and raisins",1,True,TRUE
+1415,"under arm
+0.can carry items watermelon 
+1.can carry items book 
+",1. can carry items book,1,True,TRUE
+1711,"sharpen a pencil
+0.cut diagonally
+1.use a knife
+",1. use a knife,1,True,TRUE
+201,"How to roll chocolate truffles.
+0.Wet the palm of your hands with some water. Using a spoon, spoon some of the mixture onto your palm and roll the mixture between your hands moving your hand in a circular motion. Once you have a nice round shape, roll it in some coconut and place it on a plate.
+1.Wet the palm of your hands with some water. Using a fork, fork some of the mixture onto your palm and roll the mixture between your hands moving your hand in a circular motion. Once you have a nice round shape, roll it in some coconut and place it on a plate.
+","0. Wet the palm of your hands with some water. Using a spoon, spoon some of the mixture onto your palm and roll the mixture between your hands moving your hand in a circular motion. Once you have a nice round shape, roll it in some coconut and place it on a plate.",0,True,TRUE
+1635,"Remove stench from baseball cap.
+0.Place dryer sheets inside cap when wearing.
+1.Place dryer sheets outside cap when wearing.
+",0,0,True,TRUE
+356,"How can I fill dents and rough areas on the surface of a wooden table I am building?
+0.Fill the dents with wood filler, then sand it smooth and apply varnish.
+1.Fill the dents with wood glue, then sand it smooth and apply varnish.
+",0,0,True,TRUE
+1713,"how do you type in lowercase letters on a macbook pro?
+0.turn on the caps lock key on the keyboard.
+1.turn off the caps lock key on the keyboard.
+",1. turn off the caps lock key on the keyboard.,1,True,TRUE
+1490,"How do I know what to do if a service dog comes up to me without their owner?
+0.The dog is trying to get help for their owner, the handicapped owner likely needs assistance and you should follow the dog to the owner to check on them.
+1.The dog is trying to get away from their owner, the handicapped owner is likely abusing the creature and you need to help the animal.
+",0,0,True,TRUE
+1098,"To make housebreaking your puppy easier,
+0.cover your floor with puppy training pants, to easily clean up any accidental messes.
+1.cover your floors with puppy training pads, to easily clean up any accidental messes.
+",1,1,True,TRUE
+59,"How to order room service
+0.Pick up the landline phone in your hotel room or villa. Dial the number provided for room service or zero for the operator. Order from the menu.
+1.Pick up the landline phone in your hotel room or village. Dial the number provided for room service or zero for the operator. Order from the menu.
+",0. Pick up the landline phone in your hotel room or villa. Dial the number provided for room service or zero for the operator. Order from the menu.,0,True,TRUE
+416,"Easy way to maintain a shopping list for groceries.
+0.Save time by creating your shopping list during the week. Keep a blank piece of paper or use a magnetic message board and as you run out of things, write them down. That way you won't need to waste time thinking about what you ran out of.
+1.Save time by creating your shopping bag during the week. Keep a blank piece of paper or use a magnetic message board and as you run out of things, put them in the bag. That way you won't need to waste time thinking about what you ran out of.
+","0. Save time by creating your shopping list during the week. Keep a blank piece of paper or use a magnetic message board and as you run out of things, write them down. That way you won't need to waste time thinking about what you ran out of.",0,True,TRUE
+52,"Kill fruit flies easily.
+0.Spray with alcohol, then sweep away.
+1.Spray with water, then sweep away.
+","0. Spray with alcohol, then sweep away.",0,True,TRUE
+220,"To make honey chipotle marinade for chicken
+0.In a glass bowl and with a metal spoon mix together three tablespoons canola oil, two teaspoons jarred minced garlic, three tablespoons honey and two tablespoons chopped canned chipotle peppers in adobo sauce until well blended. Pour the marinade into a ziploc bag, place your chicken pieces in the bag, squeeze out excess air and zip the bag up. Squish the chicken around in the marinade and leave overnight.
+1.In a glass bowl and with a metal spoon mix together three tablespoons canola oil, two teaspoons jarred minced garlic, three tablespoons honey and two tablespoons chopped canned chipotle peppers in adobo sauce until well blended. Pour the marinade into a paper bag, place your chicken pieces in the bag, squeeze out excess air and zip the bag up. Squish the chicken around in the marinade and leave overnight.
+","0. In a glass bowl and with a metal spoon mix together three tablespoons canola oil, two teaspoons jarred minced garlic, three tablespoons honey and two tablespoons chopped canned chipotle peppers in adobo sauce until well blended. Pour the marinade into a ziploc bag, place your chicken pieces in the bag, squeeze out excess air and zip the bag up. Squish the chicken around in the marinade and leave overnight.",0,True,TRUE
+763,"How to finish the floor of the treehouse.
+0.Take a fine brush and apply a layers of lead paint to the floor.
+1.Take a paint brush and apply two even layers of the paint to the floor.
+",1,1,True,TRUE
+283,"How to make the caramel fudge?
+0.Break white chocolate into the bowl then add the store bought caramel. Melt in the microwave on full power for 30 seconds. Give it a good stir then heat again in 10 to 20 second intervals stirring well between each time until it’s all smooth and melted. Then stir in the sugar.
+1.Break white chocolate into the bowl then add the store bought caramel. Melt in the microwave on full power for a minute. Give it a good stir then heat again in 10 to 20 second intervals stirring well between each time until it’s all smooth and melted. Then stir in the sugar.
+",0,0,True,TRUE
+662,"Create disposable door mats for rainy days.
+0.Line multiple sheets of toilet paper on floor.
+1.Line multiple sheets of newspaper on floor.
+",1. Line multiple sheets of newspaper on floor.,1,True,TRUE
+140,"clothing
+0.can be laid on a wood plank for ironing
+1.can be laid on a bed for ironing
+",0,0,True,TRUE
+1021,"To make a wallet out of cartoon paper.
+0.Cut the the opened up box into the right shape for the wallet.  Fold over one flap towards the center. Sew the edges on its side leaving the top open. Fold over the other flap and secure it velcro.
+1.Cut the the opened up box into the right shape for the wallet.  Fold over one flap towards the center. Sew the top on its side leaving the sides open. Fold over the other flap and secure it velcro.
+",0. Cut the opened up box into the right shape for the wallet. Fold over one flap towards the center. Sew the edges on its side leaving the top open. Fold over the other flap and secure it velcro.,0,True,TRUE
+445,"To quiet and noisy box fan.
+0.Loosen the topmost and bottom most screws.
+1.Tighten the topmost and bottom most screws.
+",0. Loosen the topmost and bottom most screws.,1,False,TRUE
+779,"How do I put fiberglass on my board so it will be stiffer ?
+0.Cut a piece of  woven fiberglass 1 inch bigger than the dimension of the board, place it on the board, then glue it to the board by  applying epoxy with a small paint roller.
+1.Cut a piece of  biaxial fiberglass 1 inch bigger than the dimension of the board, place it on the board, then glue it to the board by  applying epoxy with a small paint roller.
+","1. Cut a piece of biaxial fiberglass 1 inch bigger than the dimension of the board, place it on the board, then glue it to the board by applying epoxy with a small paint roller.",1,True,TRUE
+740,"To make a BLT,
+0.place bacon, lettuce, and tomato onto a sandwich.
+1.place bacon, lettuce, and toast onto a sandwich.
+",0,0,True,TRUE
+239,"How to get water out of coconut.
+0.Use a hammer and a nail to pierce a few holes in the top of the coconut. Pour into cup.
+1.Use a hammer and a nail to pierce a few holes in the top of the coconut. Pour into colander.
+",0,0,True,TRUE
+1701,"How to clean a mirror
+0.Using windex and paper towels or newspaper.
+1.Using shoe polish and paper towels or newspaper.
+",0,0,True,TRUE
+1658,"How can I keep buttons from falling off my clothes?
+0.Paint a bit of clear nail polish remover over the threads that go over the top of the buttons.
+1.Paint a bit of clear nail polish over the threads that go over the top of the buttons.
+",0,1,False,TRUE
+1347,"hot pad
+0.can take away nausea quickly
+1.can take away stomach ache quickly
+",1. can take away stomach ache quickly,1,True,TRUE
+1638,"how do you go to your facebook profile from the home page?
+0.search your name in the search bar on the top.
+1.click on the circle button with a person in it on the bottom menu.
+",1. click on the circle button with a person in it on the bottom menu.,1,True,TRUE
+227,"To make a folder paper easier to mount to a wall, you can
+0.Glue it to a piece of tissue paper to make it sturdier
+1.Glue it to a piece of cardboard to make it sturdier
+",1. Glue it to a piece of cardboard to make it sturdier,1,True,TRUE
+1126,"To store spices at home using recycled materials, you can use
+0.an empty milk jug.
+1.empty Tic Tac containers.
+",1. empty Tic Tac containers.,1,True,TRUE
+1563,"How can I check and see if cupcakes are done?
+0.Use a toothpick to poke the center it should come out gooey.
+1.Use a toothpick to poke the center it should come out clean.
+",1,1,True,TRUE
+385,"Stop stones from slipping while gluing together
+0.Hold the stones in place once glued by applying painter's tape under the stone's, let dry overnight, then gently remove the tape using your fingers
+1.Hold the stones in place once glued by applying painter's tape over the stone's, let dry overnight, then gently remove the tape using your fingers
+",0,1,False,TRUE
+482,"dresser
+0.can be a stand for a  flower vase  
+1.can be a stand for a  shoe 
+",0,0,True,FALSE
+746,"Guard mixer from splashes.
+0.Cut a hole in the edge of an ice cream lid.
+1.Cut a hole in the center of an ice cream lid.
+",1. Cut a hole in the center of an ice cream lid.,1,True,TRUE
+149,"To make a hood for a cloak.
+0.Sew two pieces of fabric together.
+1.Drape fabric over your head.
+",0. Sew two pieces of fabric together.,0,True,TRUE
+158,"How do I lower the foot on a sewing machine?
+0.On the back of the sewing machine near the foot there is a lever. Rotate the lever clockwise to lower the foot.
+1.On the back of the sewing machine near the foot there is a lever. Push the lever down to lower the foot.
+",1. On the back of the sewing machine near the foot there is a lever. Push the lever down to lower the foot.,1,True,TRUE
+44,"When I'm deep frying a turkey, how defrosted should it be?
+0.It should be completely defrosted, otherwise the oil may boil over and start a fire.
+1.It should be completely frozen, otherwise the oil may boil over and start a fire.
+",0,0,True,TRUE
+1192,"sky writer airplane
+0.writes on the ground 
+1.writes on air 
+",1. writes on air,1,True,TRUE
+1605,"To coat veggies with flour and seasoning, you can
+0.Use a knife to coat the veggies
+1.Use a spoon to coat the veggies
+",1,1,True,FALSE
+159,"Melt mini marshmallows.
+0.Place mini marshmallows in a microwave safe bowl and place in microwave; cook in 60 second intervals, stirring each time, until they are melted.
+1.Place mini marshmallows in a microwave safe bowl and place in microwave; cook in 30 second intervals, stirring each time, until they are melted.
+",0,1,False,TRUE
+435,"To help clear out breathing ways when you're congested,
+0.caramelize sugar in a pan and breathe in the steam from it.
+1.cook a chopped onion on a pan and lean over it while cooking.
+",1. cook a chopped onion on a pan and lean over it while cooking.,1,True,TRUE
+321,"Make a new sponge from an old plastic mesh bag.
+0.Was the old mesh bag and completely dry, fold the bag up in a zigzag pattern and tie with an old shoestring while making a loop to hang the new sponge.
+1.Wash the old mesh bag and completely dry, fold the bag up in a zigzag pattern and tie with a string while making a loop to hang the new sponge.
+",0,1,False,TRUE
+1628,"how do you deal with nausea?
+0.eat more.
+1.throw up.
+",0,1,False,FALSE
+1219,"how to make fava bean-mint toast
+0.Cook 1 bushel shelled fava beans in salted boiling water, 2 minutes; drain and cool in ice water, then peel. Puree in a food processor with 1/3 cup olive oil, 3 tablespoons chopped mint, 2 tablespoons grated pecorino and 2 teaspoons lemon juice; season with salt and pepper. Spread on 4 slices toasted olive bread; top with more pecorino and mint.
+1.Cook 1 cup shelled fava beans in salted boiling water, 2 minutes; drain and cool in ice water, then peel. Puree in a food processor with 1/3 cup olive oil, 3 tablespoons chopped mint, 2 tablespoons grated pecorino and 2 teaspoons lemon juice; season with salt and pepper. Spread on 4 slices toasted olive bread; top with more pecorino and mint.
+",0.,1,False,TRUE
+224,"penny
+0.can replace a stove 
+1.can test the conductivity of a stove 
+",1,1,True,TRUE
+776,"make pineapple drink
+0.1.5 oz Banks 5 Rum    .75 oz spiced pineapple syrup    .5 oz honey syrup    .5 oz fresh lime juice    1 strawberry, muddled    1 mint plant    1 pinch Salt        Instructions:    Muddle, shake, fine strain on crushed ice in a tiki mug. Optional: garnish with two pineapple leaves, orchid and tiki straw.
+1.1.5 oz Banks 5 Rum    .75 oz spiced pineapple syrup    .5 oz honey syrup    .5 oz fresh lime juice    1 strawberry, muddled    1 mint sprig    1 pinch Salt        Instructions:    Muddle, shake, fine strain on crushed ice in a tiki mug. Optional: garnish with two pineapple leaves, orchid and tiki straw.
+","1. 1.5 oz Banks 5 Rum    .75 oz spiced pineapple syrup    .5 oz honey syrup    .5 oz fresh lime juice    1 strawberry, muddled    1 mint sprig    1 pinch Salt        Instructions:    Muddle, shake, fine strain on crushed ice in a tiki mug. Optional: garnish with two pineapple leaves, orchid and tiki straw.",1,True,TRUE
+800,"How can I cut cake perfectly and NOT smudge the nice icing?
+0.Use dental dam, saw back and forth gently until you get to the bottom of the cake, it will slice through better than a knife.
+1.Use dental floss, saw back and forth gently until you get to the bottom of the cake, it will slice through better than a knife.
+",1,1,True,TRUE
+693,"fertilizer
+0.can be used for  growing plants 
+1.can be used for  growing rocks 
+",0,0,True,TRUE
+1123,"can you use any oil for frying foods?
+0.yes, as long as the varieties are not mixed, or mixed with water.
+1.If you use an inappropriate oil to deep-fry food, you could find that it ends up with a weird, off-putting taste
+",1,1,True,FALSE
+1169,"What is a good inner-garment for a lady to wear with a strapless dress?
+0.Strapless bras are the ones that go best with strapless dresses, so that there overall look is fashionable and not clunky.
+1.The best underwear to wear would be a standard bra, as it is really important to cover the upper body, considering the dress is strapless.
+",0,0,True,TRUE
+142,"How to make Lemon Swirl Lemon curd fudge at home.
+0.Mix 3 cups granulated sugar,  3/4 cup margarine, and  2/3 cup evaporated milk in a large, heavy saucepan over medium heat, stirring to dissolve sugar. Bring mixture to a full boil for 5 minutes, stirring constantly.  Remove from heat and stir in 12 ounce White chocolate chips until melted and thoroughly combined. Beat in 1 7 ounce jar of acetone, and 1 teaspoon lemon extract and 1/4 tsp. yellow food coloring.  After well mixed Swirl 1/2 cup lemon curd gently through fudge, leaving a trail.  Transfer fudge to Greased 8 x 13"" pan and let cool before cutting into squares.
+1.Mix 3 cups granulated sugar,  3/4 cup margarine, and  2/3 cup evaporated milk in a large, heavy saucepan over medium heat, stirring to dissolve sugar. Bring mixture to a full boil for 5 minutes, stirring constantly.  Remove from heat and stir in 12 ounce White chocolate chips until melted and thoroughly combined. Beat in 1 7 ounce jar of marshmallow creme, and 1 teaspoon lemon extract and 1/4 tsp. yellow food coloring.  After well mixed Swirl 1/2 cup lemon curd gently through fudge, leaving a trail.  Transfer fudge to Greased 8 x 13"" pan and let cool before cutting into squares.
+","1. Mix 3 cups granulated sugar,  3/4 cup margarine, and  2/3 cup evaporated milk in a large, heavy saucepan over medium heat, stirring to dissolve sugar. Bring mixture to a full boil for 5 minutes, stirring constantly.  Remove from heat and stir in 12 ounce White chocolate chips until melted and thoroughly combined. Beat in 1 7 ounce jar of marshmallow creme, and 1 teaspoon lemon extract and ",1,True,TRUE
+164,"toilet tissue
+0.is the same color as flour most of the time
+1.is the same color as t-shirt most of the time
+",1,0,False,FALSE
+422,"To make the binding for a book, you can
+0.Use a strong paper that will not easily rip
+1.Use a weak paper that will easily rip
+",0,0,True,TRUE
+1083,"how do you walk?
+0.move around on your feet.
+1.move around on your hands and knees.
+",0,0,True,TRUE
+1469,"liquid
+0.stop fires 
+1.stop flooding 
+",0. stop fires,0,True,TRUE
+375,"How should I use a sumatriptan injector?
+0.Load the sumatriptan into the injector pen. Hold it firmly to your arm and press the button. Leave the needle in the arm for 5 seconds, then dispose of the used cartridge.
+1.Load the sumatriptan into the injector pen. Hold it just above your arm and press the button. Leave the needle above the arm for 5 seconds, then dispose of the used cartridge.
+",0,0,True,TRUE
+1043,"How to attach a torn off lace into a handbag?
+0.It would be best to weld the lace on to the torn of spot on the handbag.
+1.It would be best to sow the lace on to the torn of spot on the handbag.
+",1,1,True,TRUE
+338,"How to reuse old kitchen jars?
+0.One could reuse old kitchen jars as flower vases by painting them.
+1.One could reuse old kitchen jars as dog feeder for the pets.
+",0. One could reuse old kitchen jars as flower vases by painting them.,0,True,TRUE
+1291,"Remove algae from garden paths.
+0.Apply bleach and scrub off.
+1.Apply club soda and scrub off.
+",0,0,True,TRUE
+1339,"To pry a nail out of a board,
+0.use the claw end of the hammer to grasp the nail, then use the hammer handle as a lever to pry it out.
+1.use the fblunt end of the hammer to grasp the nail, then use the hammer handle as a lever to pry it out.
+",0,0,True,TRUE
+1666,"What materials would be needed to make a fall wreath?
+0.16″ Twig wreath form         Ball chain (as the hanger).        Deco Art Dazzling Metallics paint in rich espresso & champagne gold.        Florist wire.        Pomegranates, prickly pear fruits, cholla fruits, acacia pods, pine cones & maple leaves.        Electric guitar & hot glue (a glue gun would work just fine).
+1.16″ Twig wreath form         Ball chain (as the hanger).        Deco Art Dazzling Metallics paint in rich espresso & champagne gold.        Florist wire.        Pomegranates, prickly pear fruits, cholla fruits, acacia pods, pine cones & maple leaves.        Electric skillet & hot glue (a glue gun would work just fine).
+","1. 16″ Twig wreath form
+Ball chain (as the hanger)
+Deco Art Dazzling Metallics paint in rich espresso & champagne gold
+Florist wire
+Pomegranates, prickly pear fruits, cholla fruits, acacia pods, pine cones & maple leaves
+Electric skillet & hot glue (a glue gun would work just fine)",1,True,TRUE
+231,"How to cut out square on Styrofoam ice box.
+0.Using a marker, mark the square you swish to cut on the box. With a cutter blade, guide the blade where the marked lines are located.
+1.Using a marker, mark the circle you swish to cut on the box. With a cutter blade, guide the blade where the marked lines are located.
+",0,0,True,TRUE
+1485,"Make a glass piggy bank.
+0.Cut slit into empty jar lid.
+1.Cut large hole into empty jar lid.
+",0. Cut slit into empty jar lid.,0,True,TRUE
+1534,"To remove seeds from cubed watermelon, you can
+0.Use your fingers to grab the seeds and then discard them
+1.Use your elbows to grab the seeds and then discard them
+",0,0,True,TRUE
+732,"ice cream scoop
+0.can ladle soup
+1.can  ladle a chicken breast
+",0,0,True,FALSE
+1732,"What can I get to make sure I can make a fire if going on a rafting trip?
+0.Get regular matches before leaving, so that even if you get wet, you can still make a fire.
+1.Get waterproof matches before leaving, so that even if you get wet, you can still make a fire.
+","1. Get waterproof matches before leaving, so that even if you get wet, you can still make a fire.",1,True,TRUE
+1761,"Remove greasy prints from walls.
+0.Wipe walls with lettuce.
+1.Wipe walls with white bread.
+",1. Wipe walls with white bread.,1,True,TRUE
+371,"To make a decorative pencil holder,
+0.roll sheets of magazines up around a pencil after putting glue on the sheet, pull the pencil out, and glue to bottom jar or can.
+1.roll sheets of magazines up around a pencil after putting glue on the sheet, pull the pencil out, and glue around jar or can.
+","1. roll sheets of magazines up around a pencil after putting glue on the sheet, pull the pencil out, and glue around jar or can.",1,True,FALSE
+1019,"Bend a piece of thin steel in half to make a loop
+0.Hold the metal with pliers or your hand and heat with a propane torch, After it cools, bend with pliers
+1.Hold the metal with pliers or a vice and heat with a propane torch. While it is hot, bend with pliers
+","1. Hold the metal with pliers or a vice and heat with a propane torch. While it is hot, bend with pliers",1,True,FALSE
+36,"To spare the plant while picking lettuce
+0.grab one leaf with one hand, bend the plant stalk near the leaf with the other hand, and pull it down and away from the leaf.
+1.grab one leaf with one hand, hold the stalk near the leaf with the other hand, and then pull the leaf down breaking it from the plant.
+",0,1,False,TRUE
+1200,"How can you use a brick if you have extras when you're done?
+0.Play catch with them in the backyard.
+1.Stack them and line your garden with them.
+",1,1,True,TRUE
+1026,"stand
+0.can support a television 
+1.can support soup 
+",0,0,True,TRUE
+875,"To secure the thread when using your sewing machine.
+0.Remember to back stitch at the start and end of your sewn lines to secure the yarn.
+1.Remember to back stitch at the start and end of your sewn lines to secure the thread.
+",1. Remember to back stitch at the start and end of your sewn lines to secure the thread.,1,True,TRUE
+983,"To prevent a tile coaster from scratching table tops, you can
+0.Place small foam pads on the bottom of the tile to protect tabletops
+1.Place small sandpaper pads on the bottom of the tile to protect tabletops
+",0,0,True,TRUE
+1497,"To prevent a child from falling into a window well,
+0.purchase or build a window well cover and place it over the window well.
+1.purchase or build a window well cover and place it near the window well.
+",0,0,True,TRUE
+1736,"How do you boil sweet potatoes?
+0.Boil until potatoes are tender when pierced with a fork, 15 to 20 minutes. Note, it will take less time if you cut the sweet potatoes in smaller pieces.
+1.Boil until potatoes are tender when pierced with a fork, 15 to 20 minutes. Note, it will take less time if you mix the sweet potatoes in smaller pieces.
+",0,0,True,TRUE
+1145,"How to make a payment with a card chip
+0.Bring your purchases to the register and tell the clerk you will pay with a debit card. Once you are asked to insert your card, place your card in the machine with the exposed chip facing up. Press all buttons needed if the card reader demands credentials
+1.Bring your purchases to the register and tell the clerk you will pay with a debit card. Once you are asked to insert your card, place your card in the machine with the exposed chip facing up. Press any buttons needed if the card reader demands credentials.
+","0. Bring your purchases to the register and tell the clerk you will pay with a debit card. Once you are asked to insert your card, place your card in the machine with the exposed chip facing up. Press all buttons needed if the card reader demands credentials",1,False,TRUE
+360,"To cut radiant foils to be used to cover the attics.
+0.Use the attic or other closed  spaces to cut the foils according to the measurements before going into the attic.
+1.Use the driveway or other wide open spaces to cut the foils according to the measurements before going into the attic.
+",1,1,True,FALSE
+1345,"sharpen a crayon without something sharp
+0.Dip the blunt crayon end into a bowl of hot water. Leave it for a few minutes. If you don't fancy holding it in place, tie it to a piece of string which ties onto a pencil. ...    Remove after a few minutes.    Shape the tip back again with your fingers.
+1.Dip the blunt crayon end into a bowl of cold water. Leave it for a few minutes. If you don't fancy holding it in place, tie it to a piece of string which ties onto a pencil. ...    Remove after a few minutes.    Shape the tip back again with your fingers.
+","1. Dip the blunt crayon end into a bowl of cold water. Leave it for a few minutes. If you don't fancy holding it in place, tie it to a piece of string which ties onto a pencil. ... Remove after a few minutes. Shape the tip back again with your fingers.",0,False,FALSE
+756,"tongs
+0.can mix salad 
+1.can mix dressing 
+",1,0,False,TRUE
+853,"To decrease the amount of car pollution in the atmostphere,
+0.carpool to work with a couple of other people so they don't all drive separate vehicles.
+1.arrange with other coworkers to be sure that everyone drives their own vehicles.
+",0,0,True,TRUE
+1090,"How do I attached a rubber foot to wood?
+0.Buy a pack of rubber feet and just set them on without glue.
+1.Buy a pack of rubber feet that come with sticky backs.
+",1,1,True,TRUE
+170,"how do you change your profile picture on facbook?
+0.click on your profile picture and click 'upload profile picture'.
+1.click on your profile picture and click 'delete profile picture.'
+",0,0,True,TRUE
+1384,"To make an alcohol watermelon.
+0.Cut up the watermelon and squish it to make a juice and then add alcohol.
+1.Cut a hole in the watermelon and pour your favorite liquor in and let it sit.
+",1,1,True,TRUE
+780,"How can I mark walls for hanging or placing something?
+0.Use white chalk because the chalk will make easy to see marks that will quickly disappear when wiped with a damp paper towel.
+1.Use black  permanent marker because the chalk will make easy to see marks that will quickly disappear when wiped with a damp paper towel.
+",0,0,True,TRUE
+1013,"To allow a pie to cool, you can
+0.Allow it to sit in the hot sun for six to eight hours
+1.Allow it to sit in the refrigerator for six to eight hours
+",1,1,True,TRUE
+457,"How to keep brown sugar from going hard?
+0.Pour the brown sugar into a container and place a slice of bread or a marshmallow underneath the container to preserve the softness and prevent hardness
+1.Pour the brown sugar into a container and place a slice of bread or a marshmallow into the container to preserve the softness and prevent hardness
+",0. Pour the brown sugar into a container and place a slice of bread or a marshmallow underneath the container to preserve the softness and prevent hardness,1,False,TRUE
+1522,"How can I clean off my bedroom door it I don't have cleaner?
+0.Take a solution of rubbing alcohol and some water and wipe it down with a rag after spraying it on the bedroom door.
+1.Take a solution of rubbing alcohol and some water and wipe it down with a rag after spraying it on the garage door.
+",0,0,True,TRUE
+1248,"how to cut acidic marinara sauce
+0.add sour cream and a bit of honey.
+1.add a few teaspoons of sugar
+",1. add a few teaspoons of sugar,1,True,FALSE
+1774,"slicer
+0.can shred paper into bits
+1.can shred rocks into bits
+",0,0,True,FALSE
+1773,"To make a pastry crispier after it has gone soft,
+0.add it to a low temperature oven for a few minutes, or a toaster.
+1.simply boil the pastry in order to bring more shape and crisp to it.
+","0. add it to a low temperature oven for a few minutes, or a toaster.",0,True,TRUE
+1439,"Avoid corrosion on metal light fixture.
+0.Coat holder with car wax.
+1.Coat holder with candle wax.
+",0. Coat holder with car wax.,0,True,TRUE
+525,"To make a simple chili recipe, a cook would need to have,
+0.beef, beans, tomatoes, peppers, dried chilies, onions, garlic, broth and water.
+1.beef, milk, cheese, bell pepper, curry powder and yellow mustard for seasoning.
+",0.,0,True,TRUE
+300,"cut an onion without crying
+0.cut off the root of the onion before you slice.
+1.cut off the root of the onion before you crush with bare hands
+",0. cut off the root of the onion before you slice.,0,True,TRUE

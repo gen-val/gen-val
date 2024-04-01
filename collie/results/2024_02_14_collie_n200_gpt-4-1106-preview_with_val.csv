@@ -1,0 +1,364 @@
+Index,Subtask,Question,Prediction,Eval,Validator Pred
+51,word01,Please generate a word with at least 12 characters.,Consequential,True,TRUE
+8,word01,Please generate a word with at least 13 characters.,Misunderstanding,True,TRUE
+37,word01,Please generate a word with at least 10 characters.,Understandably,True,TRUE
+25,word01,Please generate a word with at least 12 characters.,Knowledgeability,True,TRUE
+58,word01,Please generate a word with at least 10 characters.,Confidential,True,TRUE
+15,word01,Please generate a word with at least 10 characters.,Aberrations,True,TRUE
+95,word01,Please generate a word with at least 11 characters.,Understanding,True,TRUE
+50,word01,Please generate a word with at least 11 characters.,Understanding,True,TRUE
+84,word01,Please generate a word with at least 13 characters.,Internationalization,True,TRUE
+57,word01,Please generate a word with at least 10 characters.,Consideration,True,TRUE
+34,word02,"Please generate a word:
+1) with exactly 13 characters;
+2) with the 4th, 8th, 11th characters to be 'r', 'a', 'i' respectively.",prevarication,False,FALSE
+90,word02,"Please generate a word:
+1) with exactly 13 characters;
+2) with the 4th, 8th, 11th characters to be 'm', 'p', 's' respectively.",miscomputation,False,TRUE
+44,word02,"Please generate a word:
+1) with exactly 17 characters;
+2) with the 4th, 8th, 11th characters to be 'i', 'n', 'b' respectively.",individualisticly,False,FALSE
+67,word02,"Please generate a word:
+1) with exactly 15 characters;
+2) with the 4th, 8th, 11th characters to be 'g', 't', 'a' respectively.",lightingalestra,False,FALSE
+91,word02,"Please generate a word:
+1) with exactly 12 characters;
+2) with the 4th, 8th, 11th characters to be 'r', 'c', 'l' respectively.",prevaricate,False,FALSE
+3,word02,"Please generate a word:
+1) with exactly 12 characters;
+2) with the 4th, 8th, 11th characters to be 't', 'l', 's' respectively.",temptations,False,FALSE
+59,word02,"Please generate a word:
+1) with exactly 14 characters;
+2) with the 4th, 8th, 11th characters to be 'a', 'b', 'n' respectively.",fantasticalbun,False,TRUE
+71,word02,"Please generate a word:
+1) with exactly 13 characters;
+2) with the 4th, 8th, 11th characters to be 'o', 'r', 'i' respectively.",procrastinoid,False,FALSE
+84,word02,"Please generate a word:
+1) with exactly 14 characters;
+2) with the 4th, 8th, 11th characters to be 's', 'o', 'n' respectively.",mischievousness,False,FALSE
+52,word02,"Please generate a word:
+1) with exactly 14 characters;
+2) with the 4th, 8th, 11th characters to be 'e', 'b', 'n' respectively.",knowledgeable,False,TRUE
+4,word03,"Please generate a word:
+1) with exactly 12 characters;
+2) with the last character to be 'x'.",Superiorityx,True,FALSE
+6,word03,"Please generate a word:
+1) with exactly 14 characters;
+2) with the last character to be 'x'.",considerationsx,False,FALSE
+2,word03,"Please generate a word:
+1) with exactly 10 characters;
+2) with the last character to be 'z'.",frameworkz,True,TRUE
+1,word03,"Please generate a word:
+1) with exactly 10 characters;
+2) with the last character to be 'x'.",complectrix,False,TRUE
+5,word03,"Please generate a word:
+1) with exactly 11 characters;
+2) with the last character to be 'z'.",questioningz,False,FALSE
+3,word03,"Please generate a word:
+1) with exactly 13 characters;
+2) with the last character to be 'x'.",considerationx,False,FALSE
+0,word03,"Please generate a word:
+1) with exactly 11 characters;
+2) with the last character to be 'x'.",consideratex,False,TRUE
+79,sent01,Please generate a sentence with exactly 92 characters. Include whitespace into your character count.,Sure. This sentence has exactly ninety-two characters in it.,False,FALSE
+48,sent01,Please generate a sentence with exactly 111 characters. Include whitespace into your character count.,This sentence has been carefully crafted to contain exactly one hundred eleven characters.,False,FALSE
+12,sent01,Please generate a sentence with exactly 94 characters. Include whitespace into your character count.,This is an example sentence crafted to meet the ninety-four character limit.,False,FALSE
+26,sent01,Please generate a sentence with exactly 112 characters. Include whitespace into your character count.,Precisely crafting a sentence that fills up one hundred twelve characters is quite a task.,False,FALSE
+10,sent01,Please generate a sentence with exactly 98 characters. Include whitespace into your character count.,"Today is a wonderful day to learn new things, appreciate nature, and enjoy some quiet moments.",False,FALSE
+56,sent01,Please generate a sentence with exactly 116 characters. Include whitespace into your character count.,This particular sentence has been created to contain exactly one hundred sixteen characters.,False,TRUE
+7,sent01,Please generate a sentence with exactly 88 characters. Include whitespace into your character count.,Today is a wonderful day to learn something new and enjoy life's simple pleasures.,False,FALSE
+49,sent01,Please generate a sentence with exactly 119 characters. Include whitespace into your character count.,This sentence is carefully crafted to meet the required one hundred nineteen character limit.,False,TRUE
+58,sent01,Please generate a sentence with exactly 104 characters. Include whitespace into your character count.,Today is a beautiful day to go out and appreciate the vibrant colors of early spring nature.,False,FALSE
+31,sent01,Please generate a sentence with exactly 96 characters. Include whitespace into your character count.,This sentence with exactly ninety-six characters contains what you've requested.,False,FALSE
+77,sent02,"Please generate a sentence:
+1) with exactly 17 words;
+2) with the 4th, 8th, 11th words to be 'time', 'to', 'and' respectively.","Every time we speak, wisdom appears, allowing us to learn and grow infinitely within our brief existence.",False,FALSE
+128,sent02,"Please generate a sentence:
+1) with exactly 17 words;
+2) with the 4th, 8th, 11th words to be 'begin', 'solemn', 'your' respectively.","Always begin each day with purpose, strive for progress, and maintain a solemn promise to improve your life.",False,TRUE
+99,sent02,"Please generate a sentence:
+1) with exactly 17 words;
+2) with the 4th, 8th, 11th words to be 'thee', 'blame', 'neglect' respectively.","I wrote thee a letter to explain my feelings, but blame my hand, for neglect was never intended.",False,TRUE
+244,sent02,"Please generate a sentence:
+1) with exactly 16 words;
+2) with the 4th, 8th, 11th words to be 'also', 'of', 'at' respectively.","I went shopping and also bought apples, bananas, pairs of shoes, at the downtown market yesterday.",False,FALSE
+186,sent02,"Please generate a sentence:
+1) with exactly 13 words;
+2) with the 4th, 8th, 11th words to be 'to', 'in', 'she' respectively.","I chose to explore the museum in Paris, where she found an ancient map.",False,TRUE
+42,sent02,"Please generate a sentence:
+1) with exactly 12 words;
+2) with the 4th, 8th, 11th words to be '15-2', 'to', 'Diego' respectively.","The puzzle's answer, 15-2 equals thirteen, leads to San Diego tomorrow.",False,TRUE
+80,sent02,"Please generate a sentence:
+1) with exactly 13 words;
+2) with the 4th, 8th, 11th words to be 'itself', 'of', 'secular' respectively.","The universe expresses itself in patterns of stars, galactic dances of secular beauty.",False,TRUE
+129,sent02,"Please generate a sentence:
+1) with exactly 19 words;
+2) with the 4th, 8th, 11th words to be 'perhaps', 'world', 'residence' respectively.","Perhaps a sentence of this length, in the world we call Earth, requires residence in the realm of creativity and thought.",False,TRUE
+21,sent02,"Please generate a sentence:
+1) with exactly 14 words;
+2) with the 4th, 8th, 11th words to be 'he', 'didn', 'ever' respectively.","He walked quickly to he store, but he didn't buy what he ever wanted.",False,FALSE
+3,sent02,"Please generate a sentence:
+1) with exactly 12 words;
+2) with the 4th, 8th, 11th words to be 'have', 'variety', 'programming' respectively.",I have always desired to have a variety of programming skills mastered.,False,TRUE
+75,sent03,"Please generate a sentence:
+1) with at least 13 words;
+2) with all words having at most 4 characters.","This blue bird can sing very well, but it does not fly high.",True,FALSE
+18,sent03,"Please generate a sentence:
+1) with at least 13 words;
+2) with all words having at most 7 characters.",Every person in this small town has a secret yet to be told.,True,TRUE
+20,sent03,"Please generate a sentence:
+1) with at least 19 words;
+2) with all words having at most 6 characters.","She had every novel from that quaint little shop on the windy corner by the old, green park bench.",True,FALSE
+31,sent03,"Please generate a sentence:
+1) with at least 23 words;
+2) with all words having at most 7 characters.",Many small phrases can combine into one longer sentence without needing more than seven letters per word.,False,FALSE
+52,sent03,"Please generate a sentence:
+1) with at least 12 words;
+2) with all words having at most 7 characters.",She always sings a lovely tune when feeling blue under the moon.,True,TRUE
+24,sent03,"Please generate a sentence:
+1) with at least 12 words;
+2) with all words having at most 7 characters.","Cats often sleep on cozy beds, but some prefer soft, sunny spots.",True,TRUE
+42,sent03,"Please generate a sentence:
+1) with at least 16 words;
+2) with all words having at most 7 characters.","Every morning, bright and early, she goes for a gentle jog before sunrise, feeling alive.",False,FALSE
+93,sent03,"Please generate a sentence:
+1) with at least 16 words;
+2) with all words having at most 6 characters.",Many small frogs jump into the pond to escape a large stork flying by above them.,True,TRUE
+72,sent03,"Please generate a sentence:
+1) with at least 31 words;
+2) with all words having at most 7 characters.","Every person in our lovely little village loves to gather around the warm, cozy fire during cool autumn evenings, sharing stories and sipping hot chocolate with whipped cream toppings.",False,FALSE
+5,sent03,"Please generate a sentence:
+1) with at least 13 words;
+2) with all words having at most 6 characters.","Many birds fly over quiet towns, green woods, cold lakes, and high hills.",True,TRUE
+114,sent04,"Please generate a sentence containing the word 'brother', 'be', 'This'.",This will be a sentence where 'brother' is included.,True,TRUE
+28,sent04,"Please generate a sentence containing the word 'of', 'need', 'existing'.",The existing infrastructure is in dire need of significant upgrades.,True,TRUE
+73,sent04,"Please generate a sentence containing the word 'on', 'incident', 'people'.",The incident on the bridge caused many people to be late for work.,True,TRUE
+129,sent04,"Please generate a sentence containing the word 'both', 'to', 'apparent'.",Both twins decided to leave early due to the apparent disagreement.,True,TRUE
+8,sent04,"Please generate a sentence containing the word 'Trend', 'and', 'Bus'.","The latest trend in city transportation is the introduction of electric buses, and commuters are excited about the new eco-friendly bus options.",True,TRUE
+245,sent04,"Please generate a sentence containing the word 'follows', 'around', 'almost'.",The curious puppy follows the child around almost constantly.,True,TRUE
+101,sent04,"Please generate a sentence containing the word 'astonished', 'the', 'Mr'.",Mr. Smith was astonished by the unexpected surprise party his friends threw for him.,True,TRUE
+157,sent04,"Please generate a sentence containing the word 'cost', 'contribute', 'prove'.",The high cost of the project proved to contribute significantly to the company's financial burden.,False,TRUE
+5,sent04,"Please generate a sentence containing the word 'The', 'to', 'trauma'.",The path to recovery often begins with acknowledging trauma.,True,TRUE
+259,sent04,"Please generate a sentence containing the word 'its', 'won', 'win'.","Despite its flaws, the team won their match and continued to win the tournament.",True,FALSE
+22,para01,Please generate a paragraph with all sentences having the 1st word to be 'And'.,"And every morning, the sun rose over the horizon, painting the sky with shades of orange and pink. And in the bustling city streets, people stirred to life, their steps eager and faces filled with purpose. And within the quiet libraries, scholars poured over ancient texts, their minds lost in worlds constructed of words and wisdom. And from the distant mountains to the deep blue seas, nature hummed its ever-present song, a melody of unspoken beauty and harmony. And as the day gave way to",True,FALSE
+6,para01,Please generate a paragraph with all sentences having the 1st word to be 'A'.,"A cat sprinted across the backyard, chasing after a fluttering butterfly. A sudden gust of wind disturbed the leaves, creating a whispering melody in the trees. A child laughed joyfully in the distance, the sound merging with the symphony of the afternoon. A dog barked in response, its playful howl joining the chorus of daily life. A sense of peace settled over the neighborhood, wrapping every creature in a warm embrace of tranquility.",True,TRUE
+2,para01,Please generate a paragraph with all sentences having the 1st word to be 'I'.,I woke up early this morning. I brushed my teeth and took a brisk walk in the park. I made a healthy breakfast after my exercise. I spent a few hours working on my project. I called a friend to catch up during my lunch break. I watched an interesting documentary in the evening. I read a few chapters of my book before going to bed.,True,TRUE
+28,para01,Please generate a paragraph with all sentences having the 1st word to be 'The'.,"The sun rose over the horizon, casting a warm glow on the sleepy town. The birds chirped cheerfully as the day began, their songs filling the air with melody. The trees swayed gently in the soft morning breeze, their leaves rustling softly. The streets slowly came to life with the hustle and bustle of people starting their day. The scent of freshly brewed coffee wafted through the air, inviting passersby to take a break and enjoy the morning. The world, in",True,TRUE
+29,para01,Please generate a paragraph with all sentences having the 1st word to be 'In'.,"In every ancient forest, the whispers of the past can be heard in the rustling of leaves. In the deepest parts of the ocean, creatures beyond imagination roam in perpetual darkness. In the silent expanse of the desert, the sun casts long shadows as the day comes to a close. In cities bustling with life, stories unfold on every corner. In the calm of the night, a blanket of stars covers the sky, offering a moment of serenity. In moments of solitude, we often find",True,TRUE
+25,para01,Please generate a paragraph with all sentences having the 1st word to be 'There'.,"There are countless stars in the sky on a clear night. There is a sense of calm when one listens to the gentle flow of a stream. There exists a variety of species in the rainforest, contributing to an incredible biodiversity. There have been many great leaders throughout history who have inspired change. There will come a time for each of us to reflect on our life's achievements.",True,TRUE
+16,para01,Please generate a paragraph with all sentences having the 1st word to be 'He'.,"He woke up early in the morning. He stretched and yawned, ready to start the day. He brewed a strong cup of coffee and read the newspaper. He decided to go for a run in the park, the weather was perfect. He enjoyed the feeling of the sun warming his face. He returned home feeling refreshed and energized. He then sat down to work on his latest project, feeling productive and content.",True,TRUE
+13,para01,Please generate a paragraph with all sentences having the 1st word to be 'Mr'.,"Mr. Johnson woke up early that morning. Mr. Smith greeted him with a warm smile as they met for breakfast. Mr. Anderson called during their meal to join them later. Mr. Patel, their new colleague, was also invited to ensure he felt welcomed. Mr. Thompson, the manager, mentioned there would be a meeting at noon. Mr. Wilson, ever the punctual one, reminded everyone to arrive ten minutes early. Mr. Baker had prepared the presentation, confident it would impress the",True,FALSE
+7,para01,Please generate a paragraph with all sentences having the 1st word to be 'It'.,"It is a curious fact that some people are born with a natural talent for music. It becomes evident when a child picks up an instrument and plays it effortlessly. It makes you wonder about the role of genetics and environment in shaping abilities. It's often said that practice makes perfect, but innate talent cannot be ignored. It brings joy to those who witness such displays of natural skill.",True,TRUE
+34,para01,Please generate a paragraph with all sentences having the 1st word to be 'She'.,"She woke up to the sound of birds singing outside her window. She stretched her arms, enjoying the warmth of the morning sun on her skin. She went downstairs to brew a fresh pot of coffee, savoring the rich aroma that started to fill the kitchen. She glanced at the calendar, noting that today was free of any appointments. She decided it would be the perfect day to take a long walk in the park and read her new book under the shade of a large oak tree. She smiled",True,TRUE
+17,para02,"Please generate a paragraph:
+1) with exactly 3 sentences;
+2) not containing the word 'there';
+3) not containing the word 'this';
+4) not containing the word 'is'.","Every morning, the sun rises with a brilliant display of oranges and pinks. Birds sing melodies as a gentle breeze rustles through the leaves. Peace fills the air, inviting a new day of possibilities.",True,TRUE
+39,para02,"Please generate a paragraph:
+1) with exactly 3 sentences;
+2) not containing the word 'there';
+3) not containing the word 'to';
+4) not containing the word 'in'.","Sunlight dappled through the leaves, casting a kaleidoscope of shadows on the forest floor. A gentle breeze whispered secrets among the towering oaks and pines. Squirrels scampered about, busily preparing for the approaching winter.",True,TRUE
+97,para02,"Please generate a paragraph:
+1) with exactly 6 sentences;
+2) not containing the word 'be';
+3) not containing the word 'to';
+4) not containing the word 'is'.","Amidst the vibrant garden, flowers sway in the gentle breeze. Sunlight dapples the path, creating patterns of light and shade. Birds sing from their perches, a symphony of natural sounds. A nearby stream trickles quietly, its music mingling with the rustling leaves. Clouds drift lazily across the azure sky. As evening approaches, the landscape adopts a golden hue, promising a serene night ahead.",True,TRUE
+3,para02,"Please generate a paragraph:
+1) with exactly 3 sentences;
+2) not containing the word 'there';
+3) not containing the word 'of';
+4) not containing the word 'is'.","In a tranquil meadow, wildflowers dance under the serene sky. A gentle brook babbles through the verdant landscape, its cool water nourishing the earth. High above, a solitary eagle soars, wings spread wide in the embrace of freedom.",False,TRUE
+72,para02,"Please generate a paragraph:
+1) with exactly 3 sentences;
+2) not containing the word 'be';
+3) not containing the word 'of';
+4) not containing the word 'is'.","The sun cast a warm glow across the sky as dusk approached. Leaves rustled gently in the evening breeze, creating a peaceful ambiance. Stars began to twinkle, heralding the arrival of night.",False,TRUE
+171,para02,"Please generate a paragraph:
+1) with exactly 4 sentences;
+2) not containing the word 'there';
+3) not containing the word 'this';
+4) not containing the word 'in'.","Amidst the rolling hills, a river cuts through the landscape, its banks lush and vibrant. A gentle breeze whispers through the trees, carrying the scent of wildflowers and the melodious songs of birds. Sunlight dapples the ground, dancing with the shadows and casting a mosaic of light and dark. Overhead, the sky stretches vast and clear, a canvas of unfathomable blues.",True,TRUE
+116,para02,"Please generate a paragraph:
+1) with exactly 4 sentences;
+2) not containing the word 'there';
+3) not containing the word 'this';
+4) not containing the word 'is'.","Amidst the rolling hills, a village rested against the canvas of the twilight sky. Each home flickered with the gentle glow of candlelight as evening drew near. Children's laughter danced through the air while elders exchanged stories of days gone by. As night cloaked the valley, a blanket of stars promised dreams of a peaceful morning.",True,TRUE
+87,para02,"Please generate a paragraph:
+1) with exactly 4 sentences;
+2) not containing the word 'be';
+3) not containing the word 'this';
+4) not containing the word 'is'.","A soft breeze sweeps through the trees as leaves dance to the ground. Sunlight filters through the canopy, casting mosaics of light on the forest floor. A brook babbles steadily, its water clear and cool. Birds chirp harmoniously, filling the air with nature's melody.",True,TRUE
+84,para02,"Please generate a paragraph:
+1) with exactly 3 sentences;
+2) not containing the word 'be';
+3) not containing the word 'of';
+4) not containing the word 'is'.","In the heart of the dense forest, a hidden pond reflects the azure sky. A soft breeze whispers through the leaves, carrying with it the fragrance of wildflowers. Hidden from the hustle of the world, this tranquil spot offers a serene escape for any weary traveler.",False,FALSE
+75,para02,"Please generate a paragraph:
+1) with exactly 3 sentences;
+2) not containing the word 'be';
+3) not containing the word 'to';
+4) not containing the word 'is'.","Amidst the rustling leaves, a gentle breeze whispered secrets of the ancient forest. High above, eagles soared, their sharp eyes searching the landscape for sustenance. As night approached, a tapestry of stars emerged, casting a silver glow over the slumbering wilderness.",True,TRUE
+35,para03,"Please generate a paragraph:
+1) with exactly 4 sentences;
+2) with all sentences having at least 11 words;
+3) with all sentences having at most 19 words.","In the dimly lit cafe, a barista whistles softly while crafting artful lattes. Customers chatter quietly, nestled in cozy corners with well-worn books and steaming mugs. Outside, the busy city hums along, oblivious to the tranquil oasis within. A gentle rain taps against the window, adding a rhythmic backdrop to the calm interior.",True,TRUE
+13,para03,"Please generate a paragraph:
+1) with exactly 6 sentences;
+2) with all sentences having at least 12 words;
+3) with all sentences having at most 19 words.","In the tranquil village, nestled among the rolling hills, every cottage boasted a vibrant, well-kept garden. Each morning, the townsfolk would greet one another with warm smiles and fresh bread from the local bakery. The children played near the creek, their laughter mingling with the sound of chirping birds. By afternoon, elders sat by the square, sharing stories of days gone by under the shade of old oaks. As dusk approached, a soft glow from lanterns lit the cobblestone",False,"paths, setting a magical scene for evening strollers. Nightfall brought a peaceful silence, save for the occasional hoot of a distant owl. 
+
+FALSE"
+282,para03,"Please generate a paragraph:
+1) with exactly 3 sentences;
+2) with all sentences having at least 14 words;
+3) with all sentences having at most 19 words.","In the heart of the ancient forest, a whispering brook wound its way through the gnarled trees. Sunlight dappled the forest floor, creating patterns that danced with the rustling leaves. A lone deer paused to drink, its presence as fleeting as the gentle breeze.",False,TRUE
+229,para03,"Please generate a paragraph:
+1) with exactly 3 sentences;
+2) with all sentences having at least 15 words;
+3) with all sentences having at most 18 words.","In the heart of the ancient forest, a clear brook winds gently through a maze of age-old trees. Above, the canopy forms a patchwork of green, speckled with fleeting glimpses of a bright azure sky. Beneath the dense foliage, a carpet of moss cushions each traveler's silent footsteps on the earthy path.",True,TRUE
+64,para03,"Please generate a paragraph:
+1) with exactly 4 sentences;
+2) with all sentences having at least 15 words;
+3) with all sentences having at most 19 words.","In the gentle morning light, the garden blossomed with myriad hues of spring, brimming with life and promise. The ancient oak tree stood guard, its branches whispering secrets from centuries past to anyone who'd listen. Through the verdant fields, a meandering stream carried tales from distant mountains, murmuring softly under the sun's warm gaze. Children's laughter echoed among the hills, weaving a symphony with the wind's harmonious canticles.",False,TRUE
+152,para03,"Please generate a paragraph:
+1) with exactly 3 sentences;
+2) with all sentences having at least 10 words;
+3) with all sentences having at most 14 words.","Amid the whispers of the ancient forest, a hidden path reveals itself to seekers. The old oak, guardian of secrets, stands tall, telling tales of bygone eras. At twilight, the creatures of shadow and light dance together, celebrating the day's end.",False,TRUE
+144,para03,"Please generate a paragraph:
+1) with exactly 3 sentences;
+2) with all sentences having at least 11 words;
+3) with all sentences having at most 20 words.","Despite the gathering clouds, the determined hikers continued their ascent up the steep trail. Their progress was slow, carefully navigating around slippery rocks and deep mud. Just before nightfall, they reached the summit, greeted by a breathtaking sunset.",True,TRUE
+76,para03,"Please generate a paragraph:
+1) with exactly 4 sentences;
+2) with all sentences having at least 14 words;
+3) with all sentences having at most 19 words.","Amid the lush greenery of the peaceful garden, a gentle breeze carried the scent of blooming flowers. Children's laughter echoed in the distance, blending harmoniously with the melodious chirping of the birds. An old, wise oak tree stood proudly at the corner, its branches swaying softly in the rhythmic wind. Along the winding path, a solitary bench invited weary travelers to rest and embrace the tranquility.",True,TRUE
+193,para03,"Please generate a paragraph:
+1) with exactly 4 sentences;
+2) with all sentences having at least 12 words;
+3) with all sentences having at most 20 words.","In every bustling city, there's a quaint cafe that only locals know about. This hidden gem offers the most aromatic coffee and freshest pastries in town. Regulars like to gather there, exchanging stories under the soft hum of jazz. Visiting such a place can make one feel like a true part of the community.",True,TRUE
+184,para03,"Please generate a paragraph:
+1) with exactly 5 sentences;
+2) with all sentences having at least 12 words;
+3) with all sentences having at most 18 words.","In the early morning hours, the bustling city begins to wake from its slumbering state. Streets gradually fill with a vibrant throng of commuters, each on their unique journey. Overhead, the clouds part to reveal a palette of pink and orange hues, signaling daybreak. Cafes open their doors, the aroma of freshly brewed coffee mingling with the dawn air. As the city comes to life, individuals connect in the dance of daily routine.",True,TRUE
+29,para04,"Please generate a paragraph:
+1) with at least 3 sentences;
+2) with all sentences having at least 25 words.","Amidst the bustling city streets, a young artist set up her canvas, her brush strokes capturing the vibrant energy of the urban landscape with a passion that attracted the admiration of passersby. While children played in the nearby park, their laughter blending with the sounds of the city, a kindly old man on a nearby bench shared stories with anyone who cared to listen, his tales weaving through the history of the decades he'd witnessed. In the distance, the setting sun cast a golden glow across the",False,TRUE
+4,para04,"Please generate a paragraph:
+1) with at least 3 sentences;
+2) with all sentences having at least 18 words.","In the heart of a dense forest, where the tall trees intertwined with one another, whispering secrets of the ancient wilderness, a small stream flowed delicately, its waters telling tales of the journeys it had undertaken. As the sun lazily wove its golden threads through the canopy above, casting dancing shadows upon the forest floor, a family of deer emerged into the clearing, their graceful movements painting a picture of serene family life in the wild. Farther off, a wise old owl perched on",False,TRUE
+30,para04,"Please generate a paragraph:
+1) with at least 3 sentences;
+2) with all sentences having at least 36 words.","Amidst the grandeur of towering mountains, the whispers of winds carried tales from ancient times, speaking of heroes whose valiant deeds were woven into the very fabric of the land, ensuring that every stone and stream proudly held fragments of history. In a quaint village nestled in the valley's embrace, the people cherished these legends, seeing in them the embodiment of their collective spirit, which was passed down through generations like a precious heirloom, one that offered both wisdom and identity. The night sky,",False,FALSE
+39,para04,"Please generate a paragraph:
+1) with at least 3 sentences;
+2) with all sentences having at least 26 words.","In the depths of an ancient forest, there thrives a myriad of diverse species, each uniquely adapted to the lush environment, where sunlight filters through the dense canopy, painting the ground in dappled patterns, and the air is alive with the constant murmur of nature's symphony. Along the meandering river, which carves a path through the dense thicket, the water teems with life, supporting a complex aquatic ecosystem, and its banks are frequented by animals that come to qu",False,FALSE
+8,para04,"Please generate a paragraph:
+1) with at least 3 sentences;
+2) with all sentences having at least 24 words.","Amidst the bustling city, a serene park offers a tranquil escape with its lush greenery and the melodious chirping of birds that fills the air with a symphony of nature's tunes. The towering trees stand like sentinels, their leaves whispering secrets as the gentle breeze weaves through their branches, and the sunlight filters through, casting dappled shadows on the winding paths below. Visitors often find solace on these well-trodden paths, where the worries of the world",False,TRUE
+50,para04,"Please generate a paragraph:
+1) with at least 3 sentences;
+2) with all sentences having at least 33 words.","During the golden hour, when the setting sun casts a warm glow over the landscape, there is an enchanting stillness that blankets the world, wrapping everything in a tranquil hue that seems to slow the passage of time itself, inviting reflective thoughts and a sense of peace. In the midst of a bustling city, where skyscrapers reach for the heavens and the ceaseless cacophony of urban life creates an ever-present soundtrack, there lies a hidden park that offers a respite for weary souls seeking",False,FALSE
+14,para04,"Please generate a paragraph:
+1) with at least 3 sentences;
+2) with all sentences having at least 16 words.","In the heart of the lush and expansive forest, where the light barely pierces through the dense canopy, a peaceful silence prevails, broken only by the occasional rustling of leaves and the distant chirp of a hidden bird. The forest, ancient and wise, stands as a silent guardian of countless secrets, its towering trees swaying ever so slightly in the gentle caress of the passing breeze, whispering tales to those who take the time to listen. Amidst this tranquil haven, the d",False,FALSE
+48,para04,"Please generate a paragraph:
+1) with at least 3 sentences;
+2) with all sentences having at least 25 words.","On a serene and crisp morning, the sun peaked over the horizon, casting a golden glow upon the dew-speckled meadow, where butterflies danced amongst the flowering blooms. Farther in the distance, a lone oak tree stood tall and proud, its branches swaying gently in the rhythmic whisper of the wind, telling tales of ancient days and nights under starry skies. Nearby, a babbling brook wound its way through the landscape, its waters carrying reflections of the awakening world, and",False,TRUE
+28,para04,"Please generate a paragraph:
+1) with at least 3 sentences;
+2) with all sentences having at least 28 words.","In the depths of an ancient forest, where sunlight filters through the dense canopy of towering trees, there lies a hidden glen that few have ever seen, preserved from the outside world by the labyrinth of vegetation that surrounds it, and here, time seems to stand still. Beyond the city's bustling streets and amid the quietude of the rolling hills, a solitary figure stands atop a grassy knoll, gazing into the horizon as the fading sun casts a golden hue across the landscape, reflecting on",False,TRUE
+49,para04,"Please generate a paragraph:
+1) with at least 3 sentences;
+2) with all sentences having at least 16 words.","In the quiet village where colorful houses pepper the hillside, each morning begins with the sweet melody of songbirds harmonizing as the sun peeks over the horizon. The people, kind and industrious, start their day with an unwavering routine that includes tending to their gardens and exchanging warm greetings with their neighbors. As the day unfolds, children's laughter echoes through the cobblestone streets, blending seamlessly with the clatter of local artisans at work.",True,TRUE
+107,para05,"Please generate a paragraph:
+1) with exactly 3 sentences;
+2) with sentences having the last word to be 'kings', 'Carl', 'dead', respectively.","Long ago, the lands were ruled by a group of wise and just kings. In the heart of the kingdom, there was a jester renowned for his wit and humor, and his name was Carl. However, on an ill-fated day, without any forewarning, the kingdom fell into silence, for the jester was found dead.",True,TRUE
+25,para05,"Please generate a paragraph:
+1) with exactly 3 sentences;
+2) with sentences having the last word to be 'Bollywood', 'Randhawa', 'ever', respectively.","Mumbai is the home of the Indian film industry known as Bollywood. Many famous singers have emerged from this vibrant scene, including Guru Randhawa. His songs are some of the most popular hits ever.",True,TRUE
+221,para05,"Please generate a paragraph:
+1) with exactly 4 sentences;
+2) with sentences having the last word to be 'D.R', '1949', '1951', 'courses', respectively.",The organization was founded by Dr. James Ellis D.R. The pivotal conference took place in the summer of 1949. Subsequent meetings were instrumental in shaping policy until 1951. They offered a variety of educational courses.,True,TRUE
+28,para05,"Please generate a paragraph:
+1) with exactly 3 sentences;
+2) with sentences having the last word to be 'households', 'storms', '2009', respectively.","With increasing urban development, affordable housing has become a significant concern for many households. Meteorologists predict a severe uptick in the frequency of tropical storms. The last recession hit its peak in 2009.",True,TRUE
+128,para05,"Please generate a paragraph:
+1) with exactly 5 sentences;
+2) with sentences having the last word to be 'bed', 'narcodyne', 'A', 'happened', 'do', respectively.","Tired after a long day, I could barely wait to get into my bed. The doctor had prescribed a new medication called narcodyne. The sun was blazing hot, but in the shape of a cloud, there was the letter A. No one could explain why the strange event happened. ""What will you do?"" she asked, her eyes filled with curiosity.",False,TRUE
+38,para05,"Please generate a paragraph:
+1) with exactly 3 sentences;
+2) with sentences having the last word to be 'lengthy', 'entails', 'you', respectively.","Crafting a coherent paragraph under specified conditions often proves to be a lengthy endeavor. Ensuring each sentence conforms to predetermined end words entails a meticulous choice of structure and vocabulary. Fortunately, the task is not impossible for you.",False,TRUE
+13,para05,"Please generate a paragraph:
+1) with exactly 4 sentences;
+2) with sentences having the last word to be 'networks', 'solid', 'copper', 'fibre', respectively.","In recent years, many businesses have transitioned to cloud-based solutions to enhance their networks. The foundation of any robust infrastructure is solid. Traditional systems often relied on the conductivity of copper. Looking towards the future, most companies are increasingly investing in fibre.",True,TRUE
+65,para05,"Please generate a paragraph:
+1) with exactly 3 sentences;
+2) with sentences having the last word to be 'available', 'each', '1', respectively.",The library has a wide range of books on various topics available. Students are allowed to borrow only two books at a time each. Check out is limited to a period of 3 weeks for 1.,True,TRUE
+94,para05,"Please generate a paragraph:
+1) with exactly 4 sentences;
+2) with sentences having the last word to be 'holding', 'South', 'villages', 'England', respectively.","In the dimly lit room, a child sat silently, a small toy firmly in hand, holding. Guided by the compass, the caravan continued its long journey towards South. Nestled in the lush valleys between rolling hills lay a series of peaceful villages. Each carried the timeless charm of rural England.",True,TRUE
+157,para05,"Please generate a paragraph:
+1) with exactly 5 sentences;
+2) with sentences having the last word to be 'Tour', 'France', 'Miko', 'total', 'Paris', respectively.","The group decided to embark on an exciting European adventure; their first destination was the historical Colosseum Tour. They traveled across various cities, tasting cuisines and experiencing cultures, but the highlight was the cycling event in France. Unexpectedly, they befriended a stray dog along the way and aptly named him Miko. After several weeks of journeying, they calculated that their travels amounted to a grand total. Finally, the trip culminated with a breathtaking view of the Eiffel",False,FALSE
+198,pass01,"Please generate a passage:
+1) with paragraphs having the last sentence to be 'Both the U.S. high command and North Korean General Nam Il agreed that only tactical air power saved United Nation forces from defeat during the mobile warfare stage of the war', 'By this time, Allied air forces were contributing a considerable portion of the tactical air strikes', 'At times, tactical air was credited with inflicting about half of all communist casualties', 'With no common doctrine agreed upon during the war, forward air control systems were shut down postwar in 1956', respectively;
+2) with all paragraphs having at least 2 sentences.","The Korean War was a significant conflict that showcased the evolution of modern aerial warfare. Both the U.S. high command and North Korean General Nam Il agreed that only tactical air power saved United Nation forces from defeat during the mobile warfare stage of the war.
+
+Strategic bombing campaigns received most of the attention during World War II, but by the Korean War, the value of tactical air support became unmistakably clear. By this time, Allied air forces were contributing a considerable portion of the tactical air strikes.
+
+The",False,FALSE
+27,pass01,"Please generate a passage:
+1) with paragraphs having the last sentence to be 'Forced to take a lot of tough shots', '48% 2P% at this tournament', 'Negative assist to turnover ratio everywhere he's been', respectively;
+2) with all paragraphs having at least 2 sentences.","Despite his relentless effort on the court, his shot selection was heavily contested by the defense. Forced to take a lot of tough shots.
+
+His performance was not entirely dismal, though, as he demonstrated a level of efficiency in his inside scoring. 48% 2P% at this tournament.
+
+His vision and decision-making while distributing the ball, however, have long been questioned by analysts. Negative assist to turnover ratio everywhere he's been.",True,TRUE
+223,pass01,"Please generate a passage:
+1) with paragraphs having the last sentence to be 'Visual Intercept was actively sold from 1995 until early 2006 when it was integrated as a single solution in the broader IssueNet issue management system, also produced by Elsinore Technologies Inc', 'One of the distinguishing features of early versions of Intercept was its integration to Microsoft Visual SourceSafe', 'Visual Intercept Project was designed to help project managers dynamically update project plans by integrating them with the real time issue management data captured and tracked in Visual Intercept', 'After the initial release of version 3.0, Elsinore continued to release major enhancements to the 3.0 version in services releases as it completed its IssueNet platform which would serve as the software platform for version 4.0', respectively;
+2) with all paragraphs having at least 2 sentences.","Visual Intercept was a software application that revolutionized issue tracking and project management in its time. One of the distinguishing features of early versions of Intercept was its integration to Microsoft Visual SourceSafe. The software's ability to link directly with SourceSafe meant that developers and project managers could handle version control and issue tracking in a seamless environment, enhancing productivity and project oversight.
+
+Project management is a complex task that requires constant adaptation and integration of new information. Visual Intercept Project was designed to help project managers dynamically update project plans",False,FALSE
+5,pass01,"Please generate a passage:
+1) with paragraphs having the last sentence to be 'Now a couple of months on when everything is returning to normal, we hear that Shilpa Shetty and her husband Raj Kundra’s Best Deal TV seems to be in trouble', 'If that wasn’t all, it was around the same time that the company had imposed a 50% pay cut for November and December, following which almost half the staff resigned as well', 'Further voicing his grievance he adds, that the employees were paid for half of November but are yet to receive salaries for the remaining month-and-a-half', 'Further detailing the technicality of the cut, Trivedi added that employees complaining about receiving only half the amount are wrong and that the company has 90 days to make the full and final settlement', respectively;
+2) with all paragraphs having at least 2 sentences.","The past few months have been tough for the entertainment industry with several businesses feeling the heat, and Shilpa Shetty's home shopping channel was no exception. The celebrity-driven shopping network, which was launched with great pomp, is now facing a downturn in its operations triggered by the recent economic flux. Now a couple of months on when everything is returning to normal, we hear that Shilpa Shetty and her husband Raj Kundra’s Best Deal TV seems to be in trouble.
+
+Employees at Best",False,FALSE
+104,pass01,"Please generate a passage:
+1) with paragraphs having the last sentence to be 'Come, don't spoil it.'', ''Then what's a fellow to be?'', 'Come, old man'--and Peter now fairly pleaded--'I'll look out for you.'', ''You think there's something the matter with me--that I can't make a success.'', respectively;
+2) with all paragraphs having at least 2 sentences.","As the sun dipped below the horizon, Thomas kicked at the pebbles on the path, his shoulders slumped in defeat. A soft voice from behind caused him to pause, a voice filled with mischief and a tinge of concern. ""Come, don't spoil it.""
+
+The next room was loud, filled with the raucous laughter of men and the clinking of glasses. James, leaning against the bar, felt the weight of his friend's expectant gaze. He smiled wry",False,FALSE
+55,pass01,"Please generate a passage:
+1) with paragraphs having the last sentence to be 'Ball comes out of hand nicely', 'Makes post entry passes with pinpoint entries', 'Rebounds at a high rate', respectively;
+2) with all paragraphs having at least 2 sentences.","In his latest games, the point guard has shown impressive control and technical skill. Ball comes out of hand nicely.
+
+His court vision is truly exceptional, often noticing teammates making cuts before they've even made them. Makes post entry passes with pinpoint accuracy.
+
+Despite being undersized for his position, he's tenacious under the basket and never shies away from a challenge. Rebounds at a high rate.",False,FALSE
+153,pass01,"Please generate a passage:
+1) with paragraphs having the last sentence to be 'That burial ground opened in 1912 but is now full except for second or third burials', '(The Cemetery has Memorials to other heroes as well.)', 'In this Cemetery you’ll find the graves of Joe Slovo and Hector Pieterson', respectively;
+2) with all paragraphs having at least 2 sentences.","In Johannesburg, there is a cemetery revered for the political and social icons resting within its grounds. That burial ground opened in 1912 but is now full except for second or third burials.
+
+Many come here to pay their respects to the individuals who played pivotal roles in South Africa's history. The Cemetery has Memorials to other heroes as well.
+
+Among the notable figures buried here are leaders who fought against apartheid with bravery and dedication. In this Cemetery you’ll find the graves of Joe Slovo and",False,TRUE
+12,pass01,"Please generate a passage:
+1) with paragraphs having the last sentence to be 'We are determined to be the best at doing what matters the most', 'We are intellectually honest in delivering quality, including on time delivery', 'We are trying to reinvent the sense and sensibility of people of wood panel industry towards the quality of plywood and associated products through our no compromise action to make GOLDWOOD', 'We therefore take it upon ourselves to produce, provide and deliver in the right way', respectively;
+2) with all paragraphs having at least 2 sentences.","Our company's foundation stands on the unwavering commitment to excellence in everything we do, which is why our clients trust us with their most crucial needs. We are determined to be the best at doing what matters the most.
+
+Years of experience have taught us that being just good is not good enough; we aim for perfection. We are intellectually honest in delivering quality, including on time delivery.
+
+GOLDWOOD has always been at the forefront of innovation. From the selection of raw materials to the final product",False,FALSE
+203,pass01,"Please generate a passage:
+1) with paragraphs having the last sentence to be 'The station hall started construction on  to build an underground high-speed railway station on the Beijing–Zhangjiakou intercity railway (Part of Beijing–Baotou Passenger-Dedicated Line) opened on 30 December 2019', 'The architectural design manages to extend the mountain and the natural landscape within the resort itself', 'On ,  the station building successfully capped, marking the completion of all station buildings on Jingzhang HSR', respectively;
+2) with all paragraphs having at least 2 sentences.","Nestled amongst the serene mountains of Zhangjiakou, the area has become a burgeoning hub for transportation. The station hall started construction on to build an underground high-speed railway station on the Beijing–Zhangjiakou intercity railway (Part of Beijing–Baotou Passenger-Dedicated Line) opened on 30 December 2019.
+
+Incorporating elements of local culture and aesthetics, the station's design aims to be more than a conduit for travelers. The architectural design",False,FALSE
+67,pass01,"Please generate a passage:
+1) with paragraphs having the last sentence to be 'The NRA believes that devices designed to allow semi-automatic rifles to function like fully-automatic rifles should be subject to additional regulations,” they said', 'Legislators are now introducing a bill to deal with bump stocks, but many are saying that Congress must go far further', 'She’s executive director of the Nevada-based Battle Born Progress', 'Rarely has it ever said it would do anything, but, clearly, the pressure is so enormous, they are saying, “OK, let’s deal with this one thing.”', respectively;
+2) with all paragraphs having at least 2 sentences.","In a sharp departure from its traditional stance, the National Rifle Association (NRA) has issued a statement on the latest mass shooting incident. ""The NRA believes that devices designed to allow semi-automatic rifles to function like fully-automatic rifles should be subject to additional regulations,” they said.
+
+The use of bump stocks—a device used by the shooter—has brought the gun control debate to the forefront of American politics. Legislators are now introducing a bill to deal with bump stocks, but many are saying that Congress",False,FALSE

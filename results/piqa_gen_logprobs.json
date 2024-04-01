@@ -1,0 +1,5102 @@
+[
+    {
+        "question": "To regulate a fan speed.",
+        "options": [
+            "vary the voltage supply to the fan to regulate the speed.",
+            "From the power supply, regulate the amount of current and voltage supplied to the fan."
+        ],
+        "answer": "vary the voltage supply to the fan to regulate the speed.",
+        "idx": 1049,
+        "idx_gt": 2,
+        "opts": [
+            "use a larger fan blade",
+            "change the color of the fan",
+            "vary the voltage supply to the fan to regulate the speed.",
+            "install a smaller fan"
+        ],
+        "top20gens": {
+            "C": -0.00053063344,
+            "Option": -7.671057,
+            "Token": -10.437521,
+            "The": -10.789907,
+            "None": -12.091629,
+            " C": -12.663282,
+            "Correct": -13.552437,
+            "c": -13.568243,
+            "Answer": -14.082359,
+            "`": -14.748472,
+            "D": -15.102818,
+            "option": -15.211691,
+            "A": -15.599361,
+            "-C": -15.716681,
+            "\"C": -16.008242,
+            "#": -16.294838,
+            "_C": -16.687475,
+            "(C": -16.787527,
+            "Letter": -16.78861,
+            "\n": -16.877687
+        },
+        "optgens": {
+            "C": -0.00053063344,
+            "D": -15.102818,
+            "A": -15.599361,
+            "B": 0
+        },
+        "score": 0.4998672306423881,
+        "optsoftmax": [
+            8.401729880952604e-08,
+            0.5001325472972462,
+            0.4998672306423881,
+            1.380430669543063e-07
+        ]
+    },
+    {
+        "question": "Make organic air freshener.",
+        "options": [
+            "Mix baking soda and vegetable oil in a jar, cover with cloth and rubber band.",
+            "Mix baking soda and essential oils in a jar, cover with cloth and rubber band."
+        ],
+        "answer": "Mix baking soda and essential oils in a jar, cover with cloth and rubber band.",
+        "idx": 784,
+        "idx_gt": 1,
+        "opts": [
+            "Use vinegar and water in a spray bottle",
+            "Mix baking soda and essential oils in a jar, cover with cloth and rubber band.",
+            "Use air freshener aerosol spray",
+            "Buy a commercial air freshener"
+        ],
+        "top20gens": {
+            "A": -0.3922197,
+            "B": -1.1445104,
+            "None": -5.4203453,
+            "Token": -6.803255,
+            "Option": -9.099697,
+            "D": -9.402876,
+            "The": -9.478584,
+            "E": -9.640821,
+            "C": -10.158031,
+            "b": -10.7409,
+            "T": -10.830814,
+            "I": -11.31386,
+            "a": -11.350544,
+            "This": -11.375113,
+            " A": -11.450787,
+            "none": -12.114563,
+            " B": -12.15436,
+            "token": -12.2331505,
+            "-": -12.657396,
+            "#": -13.063975
+        },
+        "optgens": {
+            "A": -0.3922197,
+            "B": -1.1445104,
+            "D": -9.402876,
+            "C": -10.158031
+        },
+        "score": 0.32028330245803016,
+        "optsoftmax": [
+            0.6795947225952378,
+            0.32028330245803016,
+            3.89952796150411e-05,
+            8.297966711708482e-05
+        ]
+    },
+    {
+        "question": "What type of saw is needed to make a hardwood headphones stand?",
+        "options": [
+            "A Jigsaw",
+            "A handsaw"
+        ],
+        "answer": "A Jigsaw",
+        "idx": 1206,
+        "idx_gt": 1,
+        "opts": [
+            "Chainsaw",
+            "A Jigsaw",
+            "Hand saw",
+            "Circular saw"
+        ],
+        "top20gens": {
+            "B": -0.004042664,
+            "D": -5.6200914,
+            "Token": -8.780713,
+            "C": -9.141187,
+            "The": -10.078473,
+            "Option": -10.187112,
+            "b": -10.724534,
+            "None": -11.589961,
+            "E": -11.809508,
+            " B": -11.8331,
+            "A": -11.878833,
+            "I": -12.5260515,
+            "Since": -13.209899,
+            "Sorry": -13.606051,
+            "This": -13.631967,
+            "T": -13.927041,
+            "token": -13.931819,
+            "Given": -14.186328,
+            "Answer": -14.411931,
+            "It": -14.860572
+        },
+        "optgens": {
+            "B": -0.004042664,
+            "D": -5.6200914,
+            "C": -9.141187,
+            "A": -11.878833
+        },
+        "score": 0.9962604871819882,
+        "optsoftmax": [
+            6.937723534121601e-06,
+            0.9962604871819882,
+            0.00010719179426678492,
+            0.0036253833002108534
+        ]
+    },
+    {
+        "question": "piece of nylon pantyhose",
+        "options": [
+            "cover face ",
+            "cover building "
+        ],
+        "answer": "cover face ",
+        "idx": 688,
+        "idx_gt": 0,
+        "opts": [
+            "cover face ",
+            "wear as a hat",
+            "use as a scarf",
+            "tie around the waist"
+        ],
+        "top20gens": {
+            "None": -0.4992521,
+            "A": -2.0131834,
+            "E": -2.2574575,
+            "C": -2.7470853,
+            "D": -2.9034078,
+            "Sorry": -4.757128,
+            "This": -4.8080006,
+            "The": -5.399788,
+            "Option": -5.627487,
+            "I": -5.6703815,
+            "N": -6.4454803,
+            "Unfortunately": -6.593235,
+            "B": -6.712021,
+            "Since": -6.8773518,
+            "There": -7.8375893,
+            "No": -8.377031,
+            "Non": -8.878908,
+            "Given": -9.140816,
+            "In": -9.455797,
+            "Not": -9.488394
+        },
+        "optgens": {
+            "A": -2.0131834,
+            "C": -2.7470853,
+            "D": -2.9034078,
+            "B": -6.712021
+        },
+        "score": 0.5263984172182311,
+        "optsoftmax": [
+            0.5263984172182311,
+            0.00479330797464201,
+            0.25268823931450385,
+            0.2161200354926232
+        ]
+    },
+    {
+        "question": "What tool can I use to deburr a copper pipe when working on a plumbing soldering project?",
+        "options": [
+            "You can use an all-in-one deburring tool, a pencil reamer or a sharp utility string",
+            "You can use an all-in-one deburring tool, a pencil reamer or a sharp utility knife"
+        ],
+        "answer": "You can use an all-in-one deburring tool, a pencil reamer or a sharp utility knife",
+        "idx": 510,
+        "idx_gt": 0,
+        "opts": [
+            "You can use an all-in-one deburring tool, a pencil reamer or a sharp utility knife",
+            "Pipe cutter",
+            "Sanding block",
+            "Scissors"
+        ],
+        "top20gens": {
+            "A": -0.00055148307,
+            "C": -7.901919,
+            "B": -9.539227,
+            " A": -10.540274,
+            "E": -10.723455,
+            "Option": -11.035322,
+            "D": -11.0454445,
+            "None": -11.173557,
+            "a": -12.250916,
+            "Token": -12.834938,
+            "The": -13.079702,
+            "I": -13.857956,
+            "\n": -14.570568,
+            "Answer": -14.716993,
+            "(A": -15.032373,
+            "**": -15.29558,
+            "`": -15.5391655,
+            "F": -15.617191,
+            "T": -15.6965885,
+            "c": -15.8820915
+        },
+        "optgens": {
+            "A": -0.00055148307,
+            "C": -7.901919,
+            "B": -9.539227,
+            "D": -11.0454445
+        },
+        "score": 0.9995419923226787,
+        "optsoftmax": [
+            0.9995419923226787,
+            7.19791812889134e-05,
+            0.00037006731755953175,
+            1.5961178472733647e-05
+        ]
+    },
+    {
+        "question": "To attach 2 pieces of fabric together",
+        "options": [
+            "Place the pieces of fabric together so that their fronts are together. Use safety pins to keep them in place. Choose one edge to stitch and using a needle and tape add to both sides. Remove the safety pins.",
+            "Place the pieces of fabric together so that their fronts are together. Use safety pins to keep them in place. Choose one edge to stitch and using a needle and thread add stitching. Remove the safety pins."
+        ],
+        "answer": "Place the pieces of fabric together so that their fronts are together. Use safety pins to keep them in place. Choose one edge to stitch and using a needle and thread add stitching. Remove the safety pins.",
+        "idx": 430,
+        "idx_gt": 0,
+        "opts": [
+            "Place the pieces of fabric together so that their fronts are together. Use safety pins to keep them in place. Choose one edge to stitch and using a needle and thread add stitching. Remove the safety pins.",
+            "Use glue",
+            "Tape the pieces together",
+            "Use a stapler"
+        ],
+        "top20gens": {
+            "A": -0.00028040475,
+            "None": -8.498243,
+            "The": -10.549152,
+            " A": -11.159273,
+            "Option": -11.162104,
+            "Token": -11.560976,
+            "a": -12.95093,
+            "I": -13.614153,
+            "D": -13.678083,
+            "N": -14.023575,
+            "B": -14.113022,
+            "`": -14.316467,
+            "C": -14.379406,
+            "This": -14.993746,
+            "none": -15.210138,
+            "E": -15.255384,
+            "Since": -15.317053,
+            "_A": -15.419704,
+            "option": -15.544701,
+            "Given": -15.564083
+        },
+        "optgens": {
+            "A": -0.00028040475,
+            "D": -13.678083,
+            "B": -14.113022,
+            "C": -14.379406
+        },
+        "score": 0.9999975403454913,
+        "optsoftmax": [
+            0.9999975403454913,
+            7.428705341104542e-07,
+            5.691464498057069e-07,
+            1.1476375247598684e-06
+        ]
+    },
+    {
+        "question": "To remove lint balls from fabric",
+        "options": [
+            "Use a fabric razor across the fabric.",
+            "Use a clipper razor on the fabric."
+        ],
+        "answer": "Use a fabric razor across the fabric.",
+        "idx": 1198,
+        "idx_gt": 1,
+        "opts": [
+            "Use a lint roller",
+            "Use a fabric razor across the fabric.",
+            "Use a fabric shaver",
+            "Use a sticky tape"
+        ],
+        "top20gens": {
+            "C": -0.085496224,
+            "A": -2.594169,
+            "B": -5.1809,
+            "None": -7.312633,
+            "D": -7.6045947,
+            "E": -8.723792,
+            "Option": -8.935176,
+            "c": -10.31552,
+            "I": -10.625701,
+            "The": -10.703128,
+            " C": -11.055427,
+            "Token": -12.158433,
+            "Answer": -12.633876,
+            "none": -12.73018,
+            "Sorry": -12.765525,
+            "This": -12.869021,
+            "\n": -12.991099,
+            "Since": -13.0826025,
+            "a": -13.113868,
+            " A": -13.249732
+        },
+        "optgens": {
+            "C": -0.085496224,
+            "A": -2.594169,
+            "B": -5.1809,
+            "D": -7.6045947
+        },
+        "score": 0.005629216444158665,
+        "optsoftmax": [
+            0.0747912767627476,
+            0.005629216444158665,
+            0.9190807937649891,
+            0.0004987130281046794
+        ]
+    },
+    {
+        "question": "How can I clean my toenails of debris?",
+        "options": [
+            "Take a pencil tip and work under your nails with it to get the junk out from under them.",
+            "Take a pencil eraser and work under your nails with it to get the junk out from under them."
+        ],
+        "answer": "Take a pencil tip and work under your nails with it to get the junk out from under them.",
+        "idx": 1647,
+        "idx_gt": 2,
+        "opts": [
+            "Use a toothbrush to scrub your toenails",
+            "Soak your feet in vinegar to remove debris",
+            "Take a pencil tip and work under your nails with it to get the junk out from under them.",
+            "Scrape your nails with a metal tool"
+        ],
+        "top20gens": {
+            "A": -0.42083004,
+            "None": -1.097048,
+            "D": -5.651053,
+            "C": -6.0413995,
+            "The": -7.307507,
+            "Option": -7.428618,
+            "B": -7.4559655,
+            "Since": -7.9026723,
+            "I": -8.079376,
+            "This": -8.641071,
+            "Sorry": -8.82048,
+            "N": -8.870701,
+            "E": -9.340897,
+            "Given": -9.482275,
+            "a": -9.914312,
+            "none": -10.093811,
+            "@": -10.300732,
+            "No": -10.617468,
+            "In": -10.631676,
+            "T": -10.740568
+        },
+        "optgens": {
+            "A": -0.42083004,
+            "D": -5.651053,
+            "C": -6.0413995,
+            "B": -7.4559655
+        },
+        "score": 0.003587224405902329,
+        "optsoftmax": [
+            0.9902408709059934,
+            0.0008718069715146011,
+            0.003587224405902329,
+            0.005300097716589527
+        ]
+    },
+    {
+        "question": "To remove ink from a sheet of copper if you make a mistake when applying a stamp to it, you can",
+        "options": [
+            "Use super glue",
+            "Use acetone"
+        ],
+        "answer": "Use acetone",
+        "idx": 837,
+        "idx_gt": 3,
+        "opts": [
+            "Use water",
+            "Use vinegar",
+            "Use alcohol",
+            "Use acetone"
+        ],
+        "top20gens": {
+            "None": -0.6268822,
+            "A": -0.93802226,
+            "E": -2.9359107,
+            "I": -4.9434867,
+            "D": -5.071979,
+            "F": -6.7341857,
+            "N": -6.8092284,
+            "C": -6.8530154,
+            "H": -7.43066,
+            "The": -7.476234,
+            "Sorry": -7.4771132,
+            "J": -7.943418,
+            "Option": -8.134296,
+            "M": -8.330221,
+            "B": -8.355932,
+            "Since": -8.50238,
+            "T": -8.581608,
+            "G": -8.983244,
+            "K": -9.015409,
+            "Z": -9.257652
+        },
+        "optgens": {
+            "A": -0.93802226,
+            "D": -5.071979,
+            "C": -6.8530154,
+            "B": -8.355932
+        },
+        "score": 0.015715764570934956,
+        "optsoftmax": [
+            0.9810476795276414,
+            0.0005890238059168871,
+            0.0026475320955066245,
+            0.015715764570934956
+        ]
+    },
+    {
+        "question": "To clean a knitted blanket.",
+        "options": [
+            "Fill your bathtub with cold water (if the blanket is wool, warm if other material) and submerge the blanket. Put in a bit of detergent and swish it around, being careful to rub the fibers together. Drain the tub and refill it with cool water to rinse; repeat until there are no more suds.",
+            "Fill your bathtub with cold water (if the blanket is wool, warm if other material) and submerge the blanket. Put in a bit of detergent and swish it around, being careful not to rub the fibers together. Drain the tub and refill it with cool water to rinse; repeat until there are no more suds."
+        ],
+        "answer": "Fill your bathtub with cold water (if the blanket is wool, warm if other material) and submerge the blanket. Put in a bit of detergent and swish it around, being careful not to rub the fibers together. Drain the tub and refill it with cool water to rinse; repeat until there are no more suds.",
+        "idx": 1327,
+        "idx_gt": 1,
+        "opts": [
+            "Use hot water to wash the blanket",
+            "Fill your bathtub with cold water (if the blanket is wool, warm if other material) and submerge the blanket. Put in a bit of detergent and swish it around, being careful not to rub the fibers together. Drain the tub and refill it with cool water to rinse; repeat until there are no more suds.",
+            "Use a lot of detergent to clean the blanket",
+            "Rub the fibers together while washing the blanket"
+        ],
+        "top20gens": {
+            "B": -0.00041291525,
+            "Option": -8.627997,
+            "The": -9.090915,
+            "None": -9.6692705,
+            "Token": -10.855617,
+            "A": -11.161811,
+            " B": -11.901725,
+            "b": -12.47886,
+            "C": -12.678203,
+            "D": -13.051528,
+            "E": -13.718255,
+            "This": -13.7718935,
+            "_B": -14.065791,
+            "I": -14.462848,
+            "Since": -14.516883,
+            "To": -14.896695,
+            "-B": -14.982127,
+            "\"B": -15.069562,
+            "option": -15.113078,
+            "Given": -15.261943
+        },
+        "optgens": {
+            "B": -0.00041291525,
+            "A": -11.161811,
+            "C": -12.678203,
+            "D": -13.051528
+        },
+        "score": 0.9999805206682746,
+        "optsoftmax": [
+            1.4212089756653252e-05,
+            0.9999805206682746,
+            3.1195881618224625e-06,
+            2.1476538069162124e-06
+        ]
+    },
+    {
+        "question": "How can I neatly store my headphones?",
+        "options": [
+            "Use a melon hanger, the type you hang the fruit on to ripen, hang them there.",
+            "Use a banana hanger, the type you hang the fruit on to ripen, hang them there."
+        ],
+        "answer": "Use a banana hanger, the type you hang the fruit on to ripen, hang them there.",
+        "idx": 358,
+        "idx_gt": 2,
+        "opts": [
+            "Use a jewelry box",
+            "Wrap them around your wrist",
+            "Use a banana hanger, the type you hang the fruit on to ripen, hang them there.",
+            "Place them in a shoebox"
+        ],
+        "top20gens": {
+            "None": -0.48973456,
+            "A": -1.517969,
+            "D": -2.5817184,
+            "C": -3.204771,
+            "Option": -3.685604,
+            "The": -5.037718,
+            "I": -5.2077255,
+            "Since": -5.233301,
+            "E": -6.0236473,
+            "This": -6.1756287,
+            "Sorry": -6.9333572,
+            "Given": -7.415058,
+            "Token": -7.6520576,
+            "N": -8.002327,
+            "No": -8.076002,
+            "B": -8.369343,
+            "H": -8.851685,
+            "There": -8.857885,
+            "As": -8.9631405,
+            "F": -8.963352
+        },
+        "optgens": {
+            "A": -1.517969,
+            "D": -2.5817184,
+            "C": -3.204771,
+            "B": -8.369343
+        },
+        "score": 0.12088238814709336,
+        "optsoftmax": [
+            0.6530280435819004,
+            0.0006909043233911809,
+            0.12088238814709336,
+            0.225398663947615
+        ]
+    },
+    {
+        "question": "How to seal off small damage on a plastic surface?",
+        "options": [
+            "Melt some Vaseline into the damaged areas and then scrape away excess Vaseline and place some wax over the vaseline",
+            "Melt some wax into the damaged areas and then scrape away excess wax and place some vaseline over the wax"
+        ],
+        "answer": "Melt some wax into the damaged areas and then scrape away excess wax and place some vaseline over the wax",
+        "idx": 472,
+        "idx_gt": 1,
+        "opts": [
+            "Use duct tape to cover the damage",
+            "Melt some wax into the damaged areas and then scrape away excess wax and place some vaseline over the wax",
+            "Apply super glue to seal the damage",
+            "Use a marker to color over the damage"
+        ],
+        "top20gens": {
+            "None": -0.06709676,
+            "D": -3.3392105,
+            "B": -3.8257542,
+            "C": -5.6155186,
+            "A": -6.194031,
+            "E": -7.406397,
+            "The": -7.6154537,
+            "Option": -8.305227,
+            "I": -8.944851,
+            "Token": -9.126757,
+            "This": -9.874926,
+            "N": -10.281328,
+            "Since": -10.454317,
+            "none": -10.469669,
+            "Sorry": -10.621504,
+            "No": -11.044979,
+            " None": -11.169083,
+            "F": -11.222431,
+            "H": -11.527042,
+            "There": -11.885616
+        },
+        "optgens": {
+            "D": -3.3392105,
+            "B": -3.8257542,
+            "C": -5.6155186,
+            "A": -6.194031
+        },
+        "score": 0.34634125930299775,
+        "optsoftmax": [
+            0.032432071280386665,
+            0.34634125930299775,
+            0.057838820636953066,
+            0.5633878487796624
+        ]
+    },
+    {
+        "question": "How do you make a snow ball?",
+        "options": [
+            "Scoop up a large amount of snow with a shovel. Use one hand to pack it together, twisting it as you go.",
+            "Scoop up a handful of snow with one hand. Use both hands to pack it together, turning it as you go."
+        ],
+        "answer": "Scoop up a handful of snow with one hand. Use both hands to pack it together, turning it as you go.",
+        "idx": 914,
+        "idx_gt": 1,
+        "opts": [
+            "Scoop the snow with a shovel and shape it with a mold.",
+            "Scoop up a handful of snow with one hand. Use both hands to pack it together, turning it as you go.",
+            "Use a hairdryer to compact the snow into a ball.",
+            "Pick up the snow with bare hands and squeeze it together tightly."
+        ],
+        "top20gens": {
+            "B": -0.02214853,
+            "D": -3.920876,
+            "None": -6.329787,
+            "The": -9.378479,
+            "Option": -9.7481575,
+            "b": -9.768681,
+            "A": -10.204121,
+            "Token": -11.535444,
+            "C": -11.552662,
+            "E": -11.582527,
+            "This": -11.932108,
+            " B": -12.573969,
+            "I": -12.662855,
+            "Answer": -13.072109,
+            "No": -13.506952,
+            "Sorry": -13.53075,
+            "N": -13.842485,
+            "Invalid": -13.997057,
+            "none": -14.0125065,
+            "Correct": -14.095926
+        },
+        "optgens": {
+            "B": -0.02214853,
+            "D": -3.920876,
+            "A": -10.204121,
+            "C": -11.552662
+        },
+        "score": 0.9800891378772026,
+        "optsoftmax": [
+            3.709292807533433e-05,
+            0.9800891378772026,
+            9.630020297345111e-06,
+            0.019864139174424658
+        ]
+    },
+    {
+        "question": "How do I clean the deck of my lawn mower?",
+        "options": [
+            "Empty the gas tank (or run the mower until the tank is empty), then disconnect the spark plug wire.    Stand the mower up on its side.    Take a garden hose and spray the deck at full blast. ...    Scrub off the rest of the soil, using a brush, soap and hot tea.",
+            "Empty the gas tank (or run the mower until the tank is empty), then disconnect the spark plug wire.    Stand the mower up on its side.    Take a garden hose and spray the deck at full blast. ...    Scrub off the rest of the soil, using a brush, soap and hot water."
+        ],
+        "answer": "Empty the gas tank (or run the mower until the tank is empty), then disconnect the spark plug wire.    Stand the mower up on its side.    Take a garden hose and spray the deck at full blast. ...    Scrub off the rest of the soil, using a brush, soap and hot water.",
+        "idx": 373,
+        "idx_gt": 2,
+        "opts": [
+            "Remove the wheels and rinse with water",
+            "Use a leaf blower to remove debris",
+            "Empty the gas tank (or run the mower until the tank is empty), then disconnect the spark plug wire.    Stand the mower up on its side.    Take a garden hose and spray the deck at full blast. ...    Scrub off the rest of the soil, using a brush, soap and hot water.",
+            "Spray the deck with oil to prevent rust"
+        ],
+        "top20gens": {
+            "C": -0.0034762938,
+            "None": -5.844598,
+            "Option": -8.3973055,
+            "The": -8.890527,
+            "Token": -9.775754,
+            "B": -10.25681,
+            "A": -10.464164,
+            "D": -10.482736,
+            "c": -10.941648,
+            "Answer": -11.8459425,
+            "E": -11.963204,
+            " C": -12.267728,
+            "This": -12.487592,
+            "I": -12.544044,
+            "`": -13.497098,
+            "Sorry": -13.698096,
+            "none": -13.944266,
+            "Correct": -13.971742,
+            "-C": -14.103255,
+            "There": -14.150754
+        },
+        "optgens": {
+            "C": -0.0034762938,
+            "B": -10.25681,
+            "A": -10.464164,
+            "D": -10.482736
+        },
+        "score": 0.9999080145792928,
+        "optsoftmax": [
+            2.8637895610694816e-05,
+            3.52365840367868e-05,
+            0.9999080145792928,
+            2.8110941059681143e-05
+        ]
+    },
+    {
+        "question": "chalk",
+        "options": [
+            "can easily be broke with tin foil ",
+            "can easily be broke with fist "
+        ],
+        "answer": "can easily be broke with fist ",
+        "idx": 1473,
+        "idx_gt": 3,
+        "opts": [
+            "can easily be broke with foot",
+            "can easily be broke with hand",
+            "can easily be broke with head",
+            "can easily be broke with fist "
+        ],
+        "top20gens": {
+            "None": -0.71038496,
+            "B": -1.3796202,
+            "A": -1.5176665,
+            "C": -3.9667497,
+            "D": -4.3555417,
+            "The": -6.4888883,
+            "Option": -6.6725583,
+            "This": -6.681441,
+            "I": -7.7638555,
+            "Since": -8.479806,
+            "N": -8.600051,
+            "E": -8.615104,
+            "Sorry": -8.951766,
+            "Not": -9.290725,
+            "No": -9.580701,
+            "Given": -9.973029,
+            "Non": -10.242673,
+            " None": -10.439418,
+            "T": -10.57404,
+            "`": -10.889857
+        },
+        "optgens": {
+            "B": -1.3796202,
+            "A": -1.5176665,
+            "C": -3.9667497,
+            "D": -4.3555417
+        },
+        "score": 0.02553475023723459,
+        "optsoftmax": [
+            0.4361191469590571,
+            0.5006772985377113,
+            0.037668804265997044,
+            0.02553475023723459
+        ]
+    },
+    {
+        "question": "how do you go home on the instagram app?",
+        "options": [
+            "click on your profile picture at the bottom right of any page.",
+            "click on the house at the bottom left of any page."
+        ],
+        "answer": "click on the house at the bottom left of any page.",
+        "idx": 1341,
+        "idx_gt": 3,
+        "opts": [
+            "Tap on the profile icon",
+            "Swipe down on the screen",
+            "Click on the search icon",
+            "click on the house at the bottom left of any page."
+        ],
+        "top20gens": {
+            "D": -0.48359323,
+            "None": -1.3689463,
+            "A": -2.2154715,
+            "The": -5.0659523,
+            "Option": -5.287689,
+            "Since": -6.502697,
+            "Sorry": -6.6508694,
+            "B": -6.6968594,
+            "E": -6.989092,
+            "This": -7.39102,
+            "Token": -7.687622,
+            "I": -7.8525677,
+            "Given": -8.194763,
+            "Unfortunately": -8.704613,
+            "No": -8.727959,
+            "Invalid": -9.173569,
+            " D": -9.395441,
+            "There": -9.547697,
+            "For": -9.671318,
+            "N": -9.705212
+        },
+        "optgens": {
+            "D": -0.48359323,
+            "A": -2.2154715,
+            "B": -6.6968594,
+            "C": 0
+        },
+        "score": 0.3570349567541273,
+        "optsoftmax": [
+            0.06317795487696717,
+            0.0007150287874468262,
+            0.5790720595814587,
+            0.3570349567541273
+        ]
+    },
+    {
+        "question": "Reduce chances of vomiting.",
+        "options": [
+            "Take short rapid breaths.",
+            "Take long rapid breaths."
+        ],
+        "answer": "Take short rapid breaths.",
+        "idx": 1137,
+        "idx_gt": 0,
+        "opts": [
+            "Take short rapid breaths.",
+            "Drink a lot of water.",
+            "Eat spicy food.",
+            "Lie down immediately after eating."
+        ],
+        "top20gens": {
+            "None": -0.132305,
+            "A": -2.5288465,
+            "Option": -3.182699,
+            "The": -6.9866486,
+            "D": -7.642956,
+            "N": -8.005451,
+            "I": -8.7829,
+            "C": -9.031721,
+            "Token": -9.167461,
+            "option": -9.229504,
+            "Since": -9.283152,
+            "Sorry": -9.388878,
+            "This": -9.906832,
+            "none": -9.943228,
+            "No": -10.467154,
+            "B": -10.690571,
+            " None": -10.837994,
+            "Non": -10.99869,
+            "E": -11.079796,
+            "There": -11.247841
+        },
+        "optgens": {
+            "A": -2.5288465,
+            "D": -7.642956,
+            "C": -9.031721,
+            "B": -10.690571
+        },
+        "score": 0.9922644825661768,
+        "optsoftmax": [
+            0.9922644825661768,
+            0.0002831623664673528,
+            0.0014875272643424342,
+            0.005964827803013384
+        ]
+    },
+    {
+        "question": "Draw a circle.",
+        "options": [
+            "Find a tin can or bowl the size of the circle you'd like to draw. lay the object youve chosen in the center of the place you want your circle. Using a pencil, trace around the object until the lead marking meet.",
+            "Using a compas, poke the spike into the center of the area you want your circle. Now hold that with your left hand and pull the pencil around the center until the lead marks connect."
+        ],
+        "answer": "Using a compas, poke the spike into the center of the area you want your circle. Now hold that with your left hand and pull the pencil around the center until the lead marks connect.",
+        "idx": 1005,
+        "idx_gt": 0,
+        "opts": [
+            "Using a compas, poke the spike into the center of the area you want your circle. Now hold that with your left hand and pull the pencil around the center until the lead marks connect.",
+            "Using a protractor, measure out equal angles around a point.",
+            "Take a ruler and draw a square instead.",
+            "Trace a hexagon instead of a circle."
+        ],
+        "top20gens": {
+            "A": -0.24424624,
+            "None": -1.5513637,
+            "N": -6.650794,
+            "D": -7.3329268,
+            "The": -7.78691,
+            "Token": -7.887021,
+            "E": -8.24801,
+            "B": -8.510501,
+            "No": -8.552014,
+            "This": -8.567708,
+            "Option": -8.646422,
+            "C": -8.940629,
+            "I": -8.988994,
+            "Sorry": -9.273726,
+            "a": -9.774089,
+            "There": -9.865188,
+            "Since": -10.048694,
+            "X": -10.200685,
+            "Non": -10.429601,
+            "T": -10.445041
+        },
+        "optgens": {
+            "A": -0.24424624,
+            "D": -7.3329268,
+            "B": -8.510501,
+            "C": -8.940629
+        },
+        "score": 0.9987428490352896,
+        "optsoftmax": [
+            0.9987428490352896,
+            0.0002567230445428849,
+            0.00016697930058177848,
+            0.0008334486195856526
+        ]
+    },
+    {
+        "question": "binder clip",
+        "options": [
+            "wash socks ",
+            "keep socks up"
+        ],
+        "answer": "keep socks up",
+        "idx": 1289,
+        "idx_gt": 1,
+        "opts": [
+            "hold papers together",
+            "keep socks up",
+            "keep hair in place",
+            "seal food bags"
+        ],
+        "top20gens": {
+            "A": -0.00079128606,
+            "Option": -7.332689,
+            "None": -10.176962,
+            "The": -10.198889,
+            "D": -10.995258,
+            "option": -11.481667,
+            "Token": -11.588411,
+            " A": -11.756332,
+            "This": -12.396828,
+            "`": -13.571142,
+            "a": -13.991228,
+            "C": -14.112616,
+            "I": -14.204041,
+            "Answer": -14.249542,
+            "[A": -14.461756,
+            "B": -14.466755,
+            "(A": -14.48506,
+            "Since": -14.706589,
+            "\n": -14.763149,
+            "Given": -14.79637
+        },
+        "optgens": {
+            "A": -0.00079128606,
+            "D": -10.995258,
+            "C": -14.112616,
+            "B": -14.466755
+        },
+        "score": 5.217998386237564e-07,
+        "optsoftmax": [
+            0.9999819405908558,
+            5.217998386237564e-07,
+            7.435403713125392e-07,
+            1.6794068934316848e-05
+        ]
+    },
+    {
+        "question": "Remove caked dust from plastic window blinds.",
+        "options": [
+            "Use bleach to wipe stains.",
+            "Use wine to wipe stains."
+        ],
+        "answer": "Use bleach to wipe stains.",
+        "idx": 893,
+        "idx_gt": 0,
+        "opts": [
+            "Use bleach to wipe stains.",
+            "Use a dry cloth to wipe stains.",
+            "Use vinegar to wipe stains.",
+            "Use water to wipe stains."
+        ],
+        "top20gens": {
+            "B": -0.014375514,
+            "C": -4.4706135,
+            "None": -6.423025,
+            "D": -7.3279476,
+            "Option": -8.25474,
+            "Token": -9.229786,
+            "The": -9.565218,
+            "This": -10.492905,
+            "b": -10.7366085,
+            " B": -10.956392,
+            "A": -10.983795,
+            "I": -12.168993,
+            "No": -12.233557,
+            "T": -12.461557,
+            "E": -12.468609,
+            "Since": -13.063612,
+            "N": -13.1858425,
+            "none": -13.572044,
+            "option": -13.733927,
+            "Not": -13.89156
+        },
+        "optgens": {
+            "B": -0.014375514,
+            "C": -4.4706135,
+            "D": -7.3279476,
+            "A": -10.983795
+        },
+        "score": 1.7011275355646887e-05,
+        "optsoftmax": [
+            1.7011275355646887e-05,
+            0.9878596049833646,
+            0.011465042249996314,
+            0.000658341491283614
+        ]
+    },
+    {
+        "question": "Finish the concrete patio.",
+        "options": [
+            "Using a float make side to side sweeps across the poured concrete until it is level.",
+            "Level the concrete using sweeps with float purchased from a local hardware store."
+        ],
+        "answer": "Using a float make side to side sweeps across the poured concrete until it is level.",
+        "idx": 188,
+        "idx_gt": 3,
+        "opts": [
+            "Use a power drill to create holes in the concrete.",
+            "Spray the concrete with water and let it dry naturally.",
+            "Apply a layer of paint over the concrete surface.",
+            "Using a float make side to side sweeps across the poured concrete until it is level."
+        ],
+        "top20gens": {
+            "D": -0.054041125,
+            "None": -3.059971,
+            "A": -5.841425,
+            "Token": -6.5807343,
+            "B": -7.7322216,
+            "Option": -8.325615,
+            "The": -8.32593,
+            "C": -8.513546,
+            "This": -9.711412,
+            " D": -9.809984,
+            "Since": -10.447992,
+            "Sorry": -10.798689,
+            "I": -10.8140335,
+            "T": -10.931627,
+            "E": -11.32506,
+            "token": -11.5996,
+            "N": -11.838779,
+            "No": -11.979683,
+            " None": -12.107632,
+            "Given": -12.334211
+        },
+        "optgens": {
+            "D": -0.054041125,
+            "A": -5.841425,
+            "B": -7.7322216,
+            "C": -8.513546
+        },
+        "score": 0.9962732546807908,
+        "optsoftmax": [
+            0.0030545665397646153,
+            0.0004610914405951047,
+            0.00021108733884952629,
+            0.9962732546807908
+        ]
+    },
+    {
+        "question": "How to make Chocolate Macadamia Ice cream at home without an Ice cream Freezer.",
+        "options": [
+            "In a medium mixing bowl combine 4 cups chilled whipping cream, 14 oz. can sweetened condensed milk, and 1 16 ounce can chocolate flavored syrup (Like Hershey's).  Beat with an electric mixer until soft Peaks form.  Fold in 3/4 cup Macadamia nuts (either Halved or coarsely chopped)  Transfer mixture to 8x8x2 inch baking pan.  Freeze about 8 hours until firm inside the oven. Serve any time after 8 hours freeze.",
+            "In a medium mixing bowl combine 4 cups chilled whipping cream, 14 oz. can sweetened condensed milk, and 1 16 ounce can chocolate flavored syrup (Like Hershey's).  Beat with an electric mixer until soft Peaks form.  Fold in 3/4 cup Macadamia nuts (either Halved or coarsely chopped)  Transfer mixture to 8x8x2 inch baking pan.  Freeze about 8 hours until firm. Serve any time after 8 hours freeze."
+        ],
+        "answer": "In a medium mixing bowl combine 4 cups chilled whipping cream, 14 oz. can sweetened condensed milk, and 1 16 ounce can chocolate flavored syrup (Like Hershey's).  Beat with an electric mixer until soft Peaks form.  Fold in 3/4 cup Macadamia nuts (either Halved or coarsely chopped)  Transfer mixture to 8x8x2 inch baking pan.  Freeze about 8 hours until firm. Serve any time after 8 hours freeze.",
+        "idx": 562,
+        "idx_gt": 0,
+        "opts": [
+            "In a medium mixing bowl combine 4 cups chilled whipping cream, 14 oz. can sweetened condensed milk, and 1 16 ounce can chocolate flavored syrup (Like Hershey's).  Beat with an electric mixer until soft Peaks form.  Fold in 3/4 cup Macadamia nuts (either Halved or coarsely chopped)  Transfer mixture to 8x8x2 inch baking pan.  Freeze about 8 hours until firm. Serve any time after 8 hours freeze.",
+            "Use half-and-half instead of whipping cream",
+            "Add fresh strawberries to the mixture",
+            "Replace sweetened condensed milk with evaporated milk"
+        ],
+        "top20gens": {
+            "A": -0.0002487039,
+            "Token": -9.406383,
+            " A": -9.579707,
+            "a": -10.493838,
+            "None": -10.508594,
+            "Option": -10.808398,
+            "D": -12.540807,
+            "B": -12.635379,
+            "C": -12.7081785,
+            "T": -13.130086,
+            "The": -13.35625,
+            "token": -13.405103,
+            "TOKEN": -13.763661,
+            "I": -14.0214815,
+            "E": -14.3843355,
+            "_A": -14.621026,
+            "`": -14.956544,
+            "option": -15.076238,
+            "N": -15.156125,
+            "Answer": -15.222432
+        },
+        "optgens": {
+            "A": -0.0002487039,
+            "D": -12.540807,
+            "B": -12.635379,
+            "C": -12.7081785
+        },
+        "score": 0.9999901389282841,
+        "optsoftmax": [
+            0.9999901389282841,
+            3.2555798487877554e-06,
+            3.026996581624013e-06,
+            3.5784952854990594e-06
+        ]
+    },
+    {
+        "question": "how to render bacon fat?",
+        "options": [
+            "cook bacon in a skillet, when bacon is done, remove from the pan. pour off the grease.",
+            "freeze the bacon in strips, and bake in the oven until tender. pour water over the bacon, and collect the grease."
+        ],
+        "answer": "cook bacon in a skillet, when bacon is done, remove from the pan. pour off the grease.",
+        "idx": 872,
+        "idx_gt": 2,
+        "opts": [
+            "Add bacon fat to boiling water",
+            "Use bacon fat as a salad dressing",
+            "cook bacon in a skillet, when bacon is done, remove from the pan. pour off the grease.",
+            "Mix bacon fat with olive oil for a marinade"
+        ],
+        "top20gens": {
+            "C": -0.056932013,
+            "None": -3.0044456,
+            "Option": -6.3399653,
+            "The": -6.4388576,
+            "D": -6.855987,
+            "A": -7.619201,
+            "Since": -8.588879,
+            "E": -8.670717,
+            "I": -9.227797,
+            "N": -9.735228,
+            "This": -10.084757,
+            "Sorry": -10.218914,
+            "none": -10.395891,
+            "B": -10.630819,
+            "Token": -10.736261,
+            "c": -10.859898,
+            "There": -11.052902,
+            "No": -11.3418865,
+            "option": -11.532328,
+            "In": -11.755684
+        },
+        "optgens": {
+            "C": -0.056932013,
+            "D": -6.855987,
+            "A": -7.619201,
+            "B": -10.630819
+        },
+        "score": 0.9983426532451429,
+        "optsoftmax": [
+            0.0005188334101608178,
+            2.5532824234701076e-05,
+            0.9983426532451429,
+            0.0011129805204615891
+        ]
+    },
+    {
+        "question": "How to make tiny cake pops.",
+        "options": [
+            "Place frosted cake in a colander and form a smooth dough ball with your hands, then place on a lollipop stick.",
+            "Place frosted cake in a bowl and form a smooth dough ball with your hands, then place on a lollipop stick."
+        ],
+        "answer": "Place frosted cake in a bowl and form a smooth dough ball with your hands, then place on a lollipop stick.",
+        "idx": 1526,
+        "idx_gt": 0,
+        "opts": [
+            "Place frosted cake in a bowl and form a smooth dough ball with your hands, then place on a lollipop stick.",
+            "Dip cake in chocolate",
+            "Bake cake in a muffin tin",
+            "Roll cake in powdered sugar"
+        ],
+        "top20gens": {
+            "A": -0.21342337,
+            "None": -1.8122278,
+            "C": -4.986098,
+            "D": -5.1313825,
+            "Option": -5.2941175,
+            "B": -5.7078347,
+            "The": -5.765225,
+            "This": -6.8755403,
+            "Since": -6.9760575,
+            "Sorry": -7.4771943,
+            "Token": -7.643864,
+            "I": -7.77397,
+            "E": -7.8916287,
+            "N": -8.830476,
+            "Given": -9.617021,
+            "No": -9.7779455,
+            "Unfortunately": -10.10826,
+            "There": -10.125327,
+            "Oops": -10.188046,
+            "T": -10.573657
+        },
+        "optgens": {
+            "A": -0.21342337,
+            "C": -4.986098,
+            "D": -5.1313825,
+            "B": -5.7078347
+        },
+        "score": 0.9805061203029224,
+        "optsoftmax": [
+            0.9805061203029224,
+            0.004029561486032774,
+            0.008292854642981462,
+            0.007171463568063217
+        ]
+    },
+    {
+        "question": "To make a chalkboard out of wooden pallet planks.",
+        "options": [
+            "Use chalk paint on the wood.",
+            "Use chalkboard paint on the wood."
+        ],
+        "answer": "Use chalkboard paint on the wood.",
+        "idx": 1392,
+        "idx_gt": 0,
+        "opts": [
+            "Use chalkboard paint on the wood.",
+            "Sand the wood and apply a layer of varnish.",
+            "Attach a whiteboard sheet to the wooden pallet planks.",
+            "Use spray paint to color the wood."
+        ],
+        "top20gens": {
+            "A": -0.34676924,
+            "C": -1.7569445,
+            "None": -2.5571537,
+            "B": -3.2770004,
+            "Option": -5.852247,
+            "The": -7.124157,
+            "This": -7.9521866,
+            "E": -8.317308,
+            "I": -8.386259,
+            "D": -8.97238,
+            "Token": -9.02631,
+            "Since": -9.035982,
+            "Sorry": -10.414167,
+            "a": -10.668444,
+            "N": -10.679691,
+            "none": -10.998142,
+            "T": -11.241005,
+            "No": -11.278318,
+            "Given": -11.331585,
+            "c": -11.394003
+        },
+        "optgens": {
+            "A": -0.34676924,
+            "C": -1.7569445,
+            "B": -3.2770004,
+            "D": -8.97238
+        },
+        "score": 0.7706151228460248,
+        "optsoftmax": [
+            0.7706151228460248,
+            0.0411390543068651,
+            0.18810753552351123,
+            0.0001382873235989662
+        ]
+    },
+    {
+        "question": "To make an ice pack that won't drip when it melts.",
+        "options": [
+            "Freeze a sponge with some water in a paper sandwich baggie.",
+            "Freeze a sponge with some water in a plastic sandwich baggie."
+        ],
+        "answer": "Freeze a sponge with some water in a plastic sandwich baggie.",
+        "idx": 1195,
+        "idx_gt": 0,
+        "opts": [
+            "Freeze a sponge with some water in a plastic sandwich baggie.",
+            "Put ice cubes in a plastic bag",
+            "Wrap ice in a paper towel",
+            "Fill a plastic bag with water and freeze it"
+        ],
+        "top20gens": {
+            "A": -0.011137432,
+            "None": -4.8659234,
+            "Option": -6.624617,
+            "D": -7.46843,
+            "The": -8.020052,
+            "C": -8.3427925,
+            "Since": -8.423191,
+            "This": -9.037861,
+            "I": -9.231035,
+            "E": -9.318684,
+            "Sorry": -9.367241,
+            " A": -9.593658,
+            "B": -10.4519005,
+            "Given": -10.584576,
+            "N": -10.716606,
+            "a": -11.231344,
+            "As": -11.48304,
+            "No": -11.708363,
+            "Unfortunately": -11.791748,
+            "An": -12.030014
+        },
+        "optgens": {
+            "A": -0.011137432,
+            "D": -7.46843,
+            "C": -8.3427925,
+            "B": -10.4519005
+        },
+        "score": 0.9991535101947204,
+        "optsoftmax": [
+            0.9991535101947204,
+            2.9192173475436237e-05,
+            0.00024056940680253764,
+            0.0005767282250016044
+        ]
+    },
+    {
+        "question": "To become frightened of a movie again after seeing it before,",
+        "options": [
+            "look up reviews for the movie to better understand it.",
+            "wait a few years before watching it a second time."
+        ],
+        "answer": "wait a few years before watching it a second time.",
+        "idx": 1651,
+        "idx_gt": 3,
+        "opts": [
+            "Watch it with friends",
+            "Watch it in a different language",
+            "Read the book version",
+            "wait a few years before watching it a second time."
+        ],
+        "top20gens": {
+            "D": -0.0022307865,
+            "Option": -6.5607634,
+            "None": -7.566718,
+            "A": -8.838202,
+            "C": -10.137389,
+            "The": -10.398158,
+            "E": -10.935634,
+            " D": -11.178966,
+            "d": -11.290263,
+            "B": -11.648494,
+            "I": -12.174052,
+            "option": -12.731,
+            "Since": -12.934411,
+            "This": -13.020595,
+            "Answer": -13.034326,
+            "none": -13.821071,
+            "\n": -13.852735,
+            "There": -14.03305,
+            "H": -14.258046,
+            "It": -14.448905
+        },
+        "optgens": {
+            "D": -0.0022307865,
+            "A": -8.838202,
+            "C": -10.137389,
+            "B": -11.648494
+        },
+        "score": 0.9998062181149189,
+        "optsoftmax": [
+            0.0001453792061902324,
+            8.749998630026037e-06,
+            3.965268026089199e-05,
+            0.9998062181149189
+        ]
+    },
+    {
+        "question": "To melt the chocolate for the pot brownies",
+        "options": [
+            "melt the chocolate chips by adding it directly to a pan",
+            "melt the chocolate chips using a double broiler to avoid burning it"
+        ],
+        "answer": "melt the chocolate chips using a double broiler to avoid burning it",
+        "idx": 1153,
+        "idx_gt": 2,
+        "opts": [
+            "Microwave the chocolate chips",
+            "Use a regular pot to melt the chocolate chips",
+            "melt the chocolate chips using a double broiler to avoid burning it",
+            "Add water to the chocolate chips and melt in a microwave"
+        ],
+        "top20gens": {
+            "C": -0.00016754455,
+            "Option": -9.650085,
+            "None": -10.033962,
+            "The": -10.210011,
+            "c": -12.004377,
+            "Token": -12.038065,
+            " C": -13.054426,
+            "Since": -13.229887,
+            "I": -13.549032,
+            "A": -14.24778,
+            "#": -14.45253,
+            "To": -14.5300045,
+            "This": -14.845448,
+            "B": -15.019621,
+            "Given": -15.484062,
+            "Sorry": -15.534592,
+            "`": -15.611322,
+            "option": -15.663805,
+            "For": -15.682934,
+            "D": -15.758549
+        },
+        "optgens": {
+            "C": -0.00016754455,
+            "A": -14.24778,
+            "B": -15.019621,
+            "D": -15.758549
+        },
+        "score": 0.9999989075570118,
+        "optsoftmax": [
+            6.491425181002738e-07,
+            3.0000864444352895e-07,
+            0.9999989075570118,
+            1.432918255727002e-07
+        ]
+    },
+    {
+        "question": "To thicken a mixture",
+        "options": [
+            "Add corn starch",
+            "Add corn syrup"
+        ],
+        "answer": "Add corn starch",
+        "idx": 1681,
+        "idx_gt": 0,
+        "opts": [
+            "Add corn starch",
+            "Add flour",
+            "Add sugar",
+            "Add salt"
+        ],
+        "top20gens": {
+            "A": -0.07134391,
+            "B": -3.0160747,
+            "None": -4.045751,
+            "D": -6.732597,
+            "E": -8.314917,
+            "C": -8.353935,
+            "I": -8.556032,
+            "Option": -8.952732,
+            "The": -9.218952,
+            "Token": -9.467823,
+            "Since": -10.327982,
+            "Sorry": -10.665312,
+            "N": -10.799372,
+            "T": -10.974754,
+            " A": -11.598942,
+            "This": -11.695557,
+            "No": -12.140308,
+            "a": -12.318314,
+            "X": -12.3601,
+            "For": -12.408266
+        },
+        "optgens": {
+            "A": -0.07134391,
+            "B": -3.0160747,
+            "D": -6.732597,
+            "C": -8.353935
+        },
+        "score": 0.948632817549378,
+        "optsoftmax": [
+            0.948632817549378,
+            0.049913475610628984,
+            0.0002398913224350359,
+            0.0012138155175581216
+        ]
+    },
+    {
+        "question": "To make an alcohol watermelon.",
+        "options": [
+            "Cut up the watermelon and squish it to make a juice and then add alcohol.",
+            "Cut a hole in the watermelon and pour your favorite liquor in and let it sit."
+        ],
+        "answer": "Cut a hole in the watermelon and pour your favorite liquor in and let it sit.",
+        "idx": 1384,
+        "idx_gt": 1,
+        "opts": [
+            "Blend the watermelon with alcohol",
+            "Cut a hole in the watermelon and pour your favorite liquor in and let it sit.",
+            "Inject alcohol into the watermelon",
+            "Soak the watermelon in alcohol"
+        ],
+        "top20gens": {
+            "B": -0.5153074,
+            "None": -1.8450766,
+            "D": -1.9842787,
+            "A": -2.8919573,
+            "C": -4.004754,
+            "The": -4.766139,
+            "Option": -4.9089804,
+            "Since": -5.1818857,
+            "E": -5.294921,
+            "This": -6.033725,
+            "Sorry": -7.1562986,
+            "I": -7.31153,
+            "Given": -8.132142,
+            "No": -8.2641115,
+            "There": -8.368026,
+            "b": -8.935887,
+            "F": -9.000552,
+            "N": -9.0194025,
+            "Invalid": -9.08356,
+            "Token": -9.315669
+        },
+        "optgens": {
+            "B": -0.5153074,
+            "D": -1.9842787,
+            "A": -2.8919573,
+            "C": -4.004754
+        },
+        "score": 0.7388028671724772,
+        "optsoftmax": [
+            0.06860608470817209,
+            0.7388028671724772,
+            0.022546605651094214,
+            0.17004444246825656
+        ]
+    },
+    {
+        "question": "To add light to a project on a circuit board, you can",
+        "options": [
+            "Attach a chandelier to the project",
+            "Attach an LED to the project"
+        ],
+        "answer": "Attach an LED to the project",
+        "idx": 250,
+        "idx_gt": 0,
+        "opts": [
+            "Attach an LED to the project",
+            "Solder a resistor onto the project",
+            "Connect a motor to the project",
+            "Use a capacitor in the project"
+        ],
+        "top20gens": {
+            "A": -0.0037256149,
+            "None": -5.6580834,
+            "Option": -8.856982,
+            "The": -10.210847,
+            "Token": -11.772281,
+            " A": -12.057467,
+            "D": -12.280652,
+            "This": -12.395526,
+            "Since": -12.427928,
+            "B": -12.671239,
+            "I": -12.872083,
+            "N": -13.2301855,
+            "a": -13.25777,
+            "Given": -13.378711,
+            "Sorry": -13.898278,
+            "C": -14.11984,
+            "E": -14.126479,
+            "Answer": -14.214778,
+            "\"A": -14.293452,
+            "`": -14.375962
+        },
+        "optgens": {
+            "A": -0.0037256149,
+            "D": -12.280652,
+            "B": -12.671239,
+            "C": -14.11984
+        },
+        "score": 0.9999914498374605,
+        "optsoftmax": [
+            0.9999914498374605,
+            3.1518469762250497e-06,
+            7.403646992714409e-07,
+            4.657950863962889e-06
+        ]
+    },
+    {
+        "question": "marker",
+        "options": [
+            "erases  pencil marks",
+            "instead of pencil "
+        ],
+        "answer": "instead of pencil ",
+        "idx": 723,
+        "idx_gt": 2,
+        "opts": [
+            "highlighter",
+            "pen",
+            "instead of pencil ",
+            "crayon"
+        ],
+        "top20gens": {
+            "B": -0.3855678,
+            "None": -1.5143424,
+            "C": -3.4551613,
+            "A": -3.5920022,
+            "The": -4.355338,
+            "E": -4.575326,
+            "Option": -5.381585,
+            "I": -5.669465,
+            "Since": -6.022134,
+            "This": -6.193818,
+            "D": -6.381591,
+            "Sorry": -6.876397,
+            "No": -8.027299,
+            "N": -8.215959,
+            "Given": -8.720082,
+            "Token": -8.787412,
+            "T": -9.028317,
+            "There": -9.065238,
+            "In": -9.441293,
+            "L": -9.620322
+        },
+        "optgens": {
+            "B": -0.3855678,
+            "C": -3.4551613,
+            "A": -3.5920022,
+            "D": -6.381591
+        },
+        "score": 0.04262784525183562,
+        "optsoftmax": [
+            0.037176126114941394,
+            0.9179116867102854,
+            0.04262784525183562,
+            0.002284341922937538
+        ]
+    },
+    {
+        "question": "Deep clean coffee grinder.",
+        "options": [
+            "Scrape with rice.",
+            "Scrape with flour."
+        ],
+        "answer": "Scrape with rice.",
+        "idx": 423,
+        "idx_gt": 0,
+        "opts": [
+            "Scrape with rice.",
+            "Wash with soap",
+            "Scrub with steel wool",
+            "Brush with a toothbrush"
+        ],
+        "top20gens": {
+            "D": -0.051467545,
+            "None": -3.7013128,
+            "A": -3.86672,
+            "B": -6.0445876,
+            "Token": -6.591676,
+            "Option": -7.954929,
+            "The": -8.256111,
+            "This": -10.324783,
+            " D": -10.528507,
+            "C": -10.884119,
+            "E": -11.447948,
+            "I": -11.4558735,
+            "token": -11.662432,
+            "T": -12.057297,
+            "Sorry": -12.143421,
+            "Since": -12.165638,
+            "Given": -12.305656,
+            "d": -12.422958,
+            "option": -12.622993,
+            "a": -12.709682
+        },
+        "optgens": {
+            "D": -0.051467545,
+            "A": -3.86672,
+            "B": -6.0445876,
+            "C": -10.884119
+        },
+        "score": 0.02150426995676766,
+        "optsoftmax": [
+            0.02150426995676766,
+            0.0024360647210130548,
+            1.9271123755318204e-05,
+            0.976040394198464
+        ]
+    },
+    {
+        "question": "To cure a hangover",
+        "options": [
+            "Try honey on crackers. The fructose in the honey will flush out the alcohol in your system.",
+            "Try honey on crackers. The fructose in the honey will flush out the crackers in your system."
+        ],
+        "answer": "Try honey on crackers. The fructose in the honey will flush out the alcohol in your system.",
+        "idx": 212,
+        "idx_gt": 2,
+        "opts": [
+            "Eat greasy food.",
+            "Take a hot shower.",
+            "Try honey on crackers. The fructose in the honey will flush out the alcohol in your system.",
+            "Drink more alcohol."
+        ],
+        "top20gens": {
+            "C": -0.046079446,
+            "None": -3.2216108,
+            "A": -5.97575,
+            "E": -7.3944054,
+            "Option": -7.5938873,
+            "The": -7.6556263,
+            "I": -8.0141735,
+            "Since": -9.391977,
+            "c": -9.830053,
+            "D": -9.866739,
+            "There": -9.932047,
+            "This": -10.018581,
+            "N": -10.100136,
+            "Token": -10.47282,
+            "B": -10.490749,
+            "F": -10.499844,
+            "Sorry": -10.588192,
+            "H": -10.625948,
+            "none": -11.022827,
+            " C": -11.396637
+        },
+        "optgens": {
+            "C": -0.046079446,
+            "A": -5.97575,
+            "D": -9.866739,
+            "B": -10.490749
+        },
+        "score": 0.9972647235592461,
+        "optsoftmax": [
+            0.0026520838801445596,
+            2.9023387770910688e-05,
+            0.9972647235592461,
+            5.4169172838516105e-05
+        ]
+    },
+    {
+        "question": "how do you cook chicken?",
+        "options": [
+            "any way you want, until it is brown.",
+            "any way you want, until the pink is gone from it."
+        ],
+        "answer": "any way you want, until the pink is gone from it.",
+        "idx": 1751,
+        "idx_gt": 2,
+        "opts": [
+            "Grill it for 5 minutes on each side",
+            "Boil it for 30 minutes",
+            "any way you want, until the pink is gone from it.",
+            "Microwave it for 10 minutes"
+        ],
+        "top20gens": {
+            "C": -0.0023523378,
+            "None": -6.841746,
+            "The": -7.977118,
+            "Option": -8.118728,
+            "E": -9.093278,
+            "I": -9.362369,
+            "Since": -9.378879,
+            "D": -9.503566,
+            "A": -9.517842,
+            "This": -10.098506,
+            "c": -10.658462,
+            "Token": -10.703683,
+            "Sorry": -10.750699,
+            "N": -10.913438,
+            "There": -11.6096735,
+            "B": -11.969764,
+            " C": -12.102199,
+            "As": -12.169036,
+            "No": -12.461303,
+            "In": -12.502965
+        },
+        "optgens": {
+            "C": -0.0023523378,
+            "D": -9.503566,
+            "A": -9.517842,
+            "B": -11.969764
+        },
+        "score": 0.999845213848248,
+        "optsoftmax": [
+            7.368992578337506e-05,
+            6.346757786012987e-06,
+            0.999845213848248,
+            7.474946818263513e-05
+        ]
+    },
+    {
+        "question": "How do you prepare mashed yams to be cooked?",
+        "options": [
+            "Wash, peel, and trim the yams. Place the yams onto a cutting board and use a sharp knife to cut them into large, uniform chunks that are all approximately the same size.",
+            "Wash, peel, and trim the yams. Place the yams onto a cutting board and use a sharp knife to cut them into small, irregular chunks that are all varying  same size."
+        ],
+        "answer": "Wash, peel, and trim the yams. Place the yams onto a cutting board and use a sharp knife to cut them into large, uniform chunks that are all approximately the same size.",
+        "idx": 743,
+        "idx_gt": 1,
+        "opts": [
+            "Chop the yams into small pieces before peeling.",
+            "Wash, peel, and trim the yams. Place the yams onto a cutting board and use a sharp knife to cut them into large, uniform chunks that are all approximately the same size.",
+            "Boil the yams whole without washing or peeling them.",
+            "Microwave the yams without cutting or peeling them."
+        ],
+        "top20gens": {
+            "B": -0.16753843,
+            "None": -1.9784343,
+            "D": -5.146064,
+            "A": -5.3181124,
+            "C": -5.9821596,
+            "E": -7.0046206,
+            "The": -7.3027773,
+            "Option": -7.701169,
+            "Token": -8.264869,
+            "This": -9.785504,
+            "Sorry": -10.11333,
+            "Since": -10.149123,
+            "b": -10.422442,
+            "I": -10.454312,
+            "none": -10.567983,
+            "F": -10.612269,
+            "No": -10.673894,
+            "N": -10.692861,
+            "There": -11.4715605,
+            "Invalid": -11.515689
+        },
+        "optgens": {
+            "B": -0.16753843,
+            "D": -5.146064,
+            "A": -5.3181124,
+            "C": -5.9821596
+        },
+        "score": 0.9845776808045404,
+        "optsoftmax": [
+            0.005706688048072192,
+            0.9845776808045404,
+            0.002937596202672852,
+            0.006778034944714554
+        ]
+    },
+    {
+        "question": "how do you show you're married, with jewelry?",
+        "options": [
+            "wear your wedding ring on your ring finger on . your right hand.",
+            "wear your wedding ring on your ring finger on your left hand."
+        ],
+        "answer": "wear your wedding ring on your ring finger on your left hand.",
+        "idx": 1543,
+        "idx_gt": 0,
+        "opts": [
+            "wear your wedding ring on your ring finger on your left hand.",
+            "wear a bracelet on your right hand",
+            "wear a necklace with your partner's name on it",
+            "get a matching tattoo with your partner"
+        ],
+        "top20gens": {
+            "A": -0.029407578,
+            "None": -3.5731144,
+            "Option": -7.680517,
+            "The": -8.921663,
+            "N": -10.063932,
+            "a": -10.15126,
+            "I": -10.262556,
+            "Sorry": -10.525009,
+            "Since": -10.607939,
+            " A": -10.866957,
+            "This": -11.291567,
+            "D": -11.360872,
+            "Given": -11.434,
+            "No": -11.57312,
+            "E": -11.649694,
+            "Token": -11.988148,
+            "T": -12.007641,
+            "C": -12.370045,
+            "There": -12.418104,
+            "(A": -12.869251
+        },
+        "optgens": {
+            "A": -0.029407578,
+            "D": -11.360872,
+            "C": -12.370045,
+            "B": 0
+        },
+        "score": 0.49264466466164014,
+        "optsoftmax": [
+            0.49264466466164014,
+            0.5073472755930414,
+            2.1530942850215164e-06,
+            5.906651033555546e-06
+        ]
+    },
+    {
+        "question": "How do you remove gum from being stuck in hair?",
+        "options": [
+            "Apply an ice cube and gently remove the hardened gum.",
+            "Use a blow dryer and gently remove melted gum."
+        ],
+        "answer": "Apply an ice cube and gently remove the hardened gum.",
+        "idx": 45,
+        "idx_gt": 3,
+        "opts": [
+            "Cut the gum out",
+            "Use warm water to melt the gum",
+            "Apply cooking oil to the gum",
+            "Apply an ice cube and gently remove the hardened gum."
+        ],
+        "top20gens": {
+            "C": -0.081035525,
+            "None": -3.096405,
+            "D": -3.6969795,
+            "Option": -5.825968,
+            "E": -6.0480003,
+            "A": -6.813072,
+            "B": -7.658989,
+            "The": -8.285311,
+            "I": -8.438667,
+            "Since": -9.044949,
+            "Sorry": -9.773886,
+            "Token": -9.973724,
+            "none": -10.25618,
+            "This": -10.747978,
+            "Unfortunately": -10.764324,
+            "c": -10.766394,
+            "There": -11.438559,
+            "N": -11.529741,
+            "F": -11.582384,
+            "Given": -11.730825
+        },
+        "optgens": {
+            "C": -0.081035525,
+            "D": -3.6969795,
+            "A": -6.813072,
+            "B": -7.658989
+        },
+        "score": 0.0261439362162944,
+        "optsoftmax": [
+            0.0011589620023556221,
+            0.0004973843453673588,
+            0.9721997174359827,
+            0.0261439362162944
+        ]
+    },
+    {
+        "question": "a knife",
+        "options": [
+            "can transfer grapes from a glass.",
+            "can transfer liquid from a glass."
+        ],
+        "answer": "can transfer grapes from a glass.",
+        "idx": 719,
+        "idx_gt": 3,
+        "opts": [
+            "can peel an apple",
+            "can cut a steak",
+            "can open a can",
+            "can transfer grapes from a glass."
+        ],
+        "top20gens": {
+            "B": -0.49057364,
+            "A": -1.2443578,
+            "None": -2.8429353,
+            "D": -3.7635877,
+            "C": -4.3388367,
+            "Option": -6.6027107,
+            "The": -7.037426,
+            "E": -7.0514812,
+            "This": -7.321684,
+            "Since": -7.9456844,
+            "Token": -8.788273,
+            "Sorry": -9.143406,
+            "I": -9.477587,
+            "b": -9.594765,
+            " B": -9.670635,
+            "Not": -9.845314,
+            "No": -10.286432,
+            "Given": -10.57917,
+            " A": -10.611685,
+            "T": -10.918413
+        },
+        "optgens": {
+            "B": -0.49057364,
+            "A": -1.2443578,
+            "D": -3.7635877,
+            "C": -4.3388367
+        },
+        "score": 0.02476942342457669,
+        "optsoftmax": [
+            0.307612189947214,
+            0.6536839815685282,
+            0.01393440505968112,
+            0.02476942342457669
+        ]
+    },
+    {
+        "question": "Organize small item supplies.",
+        "options": [
+            "Clean out tuna fish cans and place inside drawers.",
+            "Clean out soda cans and place inside drawers."
+        ],
+        "answer": "Clean out tuna fish cans and place inside drawers.",
+        "idx": 533,
+        "idx_gt": 3,
+        "opts": [
+            "Stack the cans in the kitchen",
+            "Donate the cans to a local food bank",
+            "Throw the cans in the trash",
+            "Clean out tuna fish cans and place inside drawers."
+        ],
+        "top20gens": {
+            "D": -0.002126707,
+            "Token": -7.466299,
+            "Option": -7.907278,
+            "A": -7.9689426,
+            "B": -8.093252,
+            "None": -8.347935,
+            "C": -9.3764515,
+            "This": -9.619076,
+            "The": -9.795923,
+            " D": -10.194012,
+            "d": -12.2863865,
+            "T": -12.423662,
+            "I": -12.455584,
+            "E": -12.480974,
+            "Sorry": -12.555649,
+            "Invalid": -12.58601,
+            "Since": -12.625666,
+            "token": -13.068676,
+            "option": -13.088562,
+            "N": -13.550047
+        },
+        "optgens": {
+            "D": -0.002126707,
+            "A": -7.9689426,
+            "B": -8.093252,
+            "C": -9.3764515
+        },
+        "score": 0.9992626422064174,
+        "optsoftmax": [
+            0.0003465257169919149,
+            0.00030601913576862647,
+            8.48129408220561e-05,
+            0.9992626422064174
+        ]
+    },
+    {
+        "question": "How to Cool Burning Skin from Chili Peppers?",
+        "options": [
+            "Put cold milk on your hands. Then pour ice-cold milk into a bowl and add some chili powder to create a paste. Dip your hand into the paste to create gloves and leave it on for several minutes before washing it away.",
+            "Put cold milk on your hands. Then pour ice-cold milk into a bowl and add some flour to create a paste. Dip your hand into the paste to create gloves and leave it on for several minutes before washing it away."
+        ],
+        "answer": "Put cold milk on your hands. Then pour ice-cold milk into a bowl and add some flour to create a paste. Dip your hand into the paste to create gloves and leave it on for several minutes before washing it away.",
+        "idx": 796,
+        "idx_gt": 2,
+        "opts": [
+            "Apply ice directly to the skin",
+            "Rinse with warm water",
+            "Put cold milk on your hands. Then pour ice-cold milk into a bowl and add some flour to create a paste. Dip your hand into the paste to create gloves and leave it on for several minutes before washing it away.",
+            "Rub with lemon juice"
+        ],
+        "top20gens": {
+            "None": -0.5901718,
+            "B": -1.7960949,
+            "C": -2.1823921,
+            "D": -2.2641735,
+            "A": -2.9862404,
+            "E": -4.8323975,
+            "Option": -5.978647,
+            "The": -7.1756554,
+            "I": -8.039364,
+            "This": -8.478687,
+            "N": -9.21682,
+            "Sorry": -9.388813,
+            "There": -9.561558,
+            "F": -9.611086,
+            "Token": -9.926052,
+            "No": -9.948275,
+            "Since": -10.28005,
+            "H": -10.345068,
+            "Non": -10.813303,
+            "T": -10.909763
+        },
+        "optgens": {
+            "B": -1.7960949,
+            "C": -2.1823921,
+            "D": -2.2641735,
+            "A": -2.9862404
+        },
+        "score": 0.2603760881881215,
+        "optsoftmax": [
+            0.11654515318275169,
+            0.3831491269811009,
+            0.2603760881881215,
+            0.23992963164802594
+        ]
+    },
+    {
+        "question": "How do I get an airbrush painting onto the material surface?",
+        "options": [
+            "Your stencil should look like a simplified version of the original design.If your using a computer,you can get this done by using with the editing program and play around with the settings.",
+            "Your stencil should look like a simplified version of the original design.If your using a computer,you can get this done by using with the playing program and play around with the settings."
+        ],
+        "answer": "Your stencil should look like a simplified version of the original design.If your using a computer,you can get this done by using with the editing program and play around with the settings.",
+        "idx": 883,
+        "idx_gt": 0,
+        "opts": [
+            "Your stencil should look like a simplified version of the original design.If your using a computer,you can get this done by using with the editing program and play around with the settings.",
+            "Use a 3D printer to create the design",
+            "Manually trace the design onto the material",
+            "Use a stencil and airbrush the design"
+        ],
+        "top20gens": {
+            "D": -0.12323581,
+            "A": -2.5433216,
+            "None": -3.312395,
+            "C": -7.752142,
+            "The": -8.608833,
+            "Option": -9.334448,
+            "This": -10.657383,
+            "Sorry": -10.778324,
+            "B": -11.03145,
+            "Since": -11.275881,
+            "Token": -11.319996,
+            " D": -11.3847275,
+            "Invalid": -11.612261,
+            "Answer": -11.710741,
+            "N": -11.815006,
+            "I": -11.891657,
+            "E": -11.963253,
+            "Given": -12.003307,
+            "none": -12.040873,
+            "Error": -12.104319
+        },
+        "optgens": {
+            "D": -0.12323581,
+            "A": -2.5433216,
+            "C": -7.752142,
+            "B": -11.03145
+        },
+        "score": 0.08161600901272499,
+        "optsoftmax": [
+            0.08161600901272499,
+            1.6804594154303696e-05,
+            0.0004462861376713022,
+            0.9179209002554495
+        ]
+    },
+    {
+        "question": "Make air freshener.",
+        "options": [
+            "Spray packing peanuts with gasoline and put in empty jar.",
+            "Spray packing peanuts with perfume and put in empty jar."
+        ],
+        "answer": "Spray packing peanuts with perfume and put in empty jar.",
+        "idx": 694,
+        "idx_gt": 2,
+        "opts": [
+            "Mix essential oils with water",
+            "Light scented candles",
+            "Spray packing peanuts with perfume and put in empty jar.",
+            "Put fresh flowers in a vase"
+        ],
+        "top20gens": {
+            "A": -0.0005689987,
+            "Option": -8.452477,
+            "C": -8.603084,
+            "None": -9.180787,
+            "D": -10.801015,
+            " A": -11.063045,
+            "The": -11.409028,
+            "a": -12.142444,
+            "option": -13.019816,
+            "B": -13.309712,
+            "Token": -13.320796,
+            "E": -13.573588,
+            "I": -13.746276,
+            "This": -13.802608,
+            "Answer": -14.029996,
+            "For": -14.499171,
+            "Sorry": -14.746497,
+            "Correct": -15.190614,
+            "\n": -15.192561,
+            "There": -15.315551
+        },
+        "optgens": {
+            "A": -0.0005689987,
+            "C": -8.603084,
+            "D": -10.801015,
+            "B": -13.309712
+        },
+        "score": 0.00018360558274036967,
+        "optsoftmax": [
+            0.9997943492914609,
+            1.658911865640933e-06,
+            0.00018360558274036967,
+            2.0386213933040023e-05
+        ]
+    },
+    {
+        "question": "How do I dry boiled potatoes?",
+        "options": [
+            "Drain and place on a paper towel in the sink with water running.",
+            "Drain and place on a paper towel on the counter."
+        ],
+        "answer": "Drain and place on a paper towel on the counter.",
+        "idx": 1203,
+        "idx_gt": 0,
+        "opts": [
+            "Drain and place on a paper towel on the counter.",
+            "Microwave for 5 minutes",
+            "Leave them in the water to dry",
+            "Place in the refrigerator to cool"
+        ],
+        "top20gens": {
+            "A": -0.00013357517,
+            "Option": -9.672188,
+            " A": -9.995989,
+            "None": -11.320137,
+            "Token": -12.455624,
+            "The": -12.8387985,
+            "C": -13.247818,
+            "(A": -14.225027,
+            "D": -14.598593,
+            "option": -14.634531,
+            "I": -14.661833,
+            "a": -15.118578,
+            "Since": -15.138529,
+            "B": -15.4822445,
+            "Sorry": -15.634758,
+            "T": -15.658682,
+            "[A": -16.082253,
+            "This": -16.174398,
+            "`": -16.197851,
+            "_A": -16.363548
+        },
+        "optgens": {
+            "A": -0.00013357517,
+            "C": -13.247818,
+            "D": -14.598593,
+            "B": -15.4822445
+        },
+        "score": 0.9999975896342106,
+        "optsoftmax": [
+            0.9999975896342106,
+            1.8888767037808233e-07,
+            1.7644229964871363e-06,
+            4.570551224841735e-07
+        ]
+    },
+    {
+        "question": "To replace vitamins expelled by body through frequent urination caused by diuretic alcohol.",
+        "options": [
+            "Take a multivitamin.",
+            "Take a pain killer."
+        ],
+        "answer": "Take a multivitamin.",
+        "idx": 902,
+        "idx_gt": 0,
+        "opts": [
+            "Take a multivitamin.",
+            "Drink more water.",
+            "Avoid alcohol.",
+            "Take prescription medication."
+        ],
+        "top20gens": {
+            "A": -0.00071636564,
+            "None": -8.057834,
+            "B": -9.011712,
+            "D": -9.327128,
+            "E": -9.945071,
+            "Option": -10.053367,
+            "Token": -10.733169,
+            " A": -11.076076,
+            "T": -11.277465,
+            "C": -11.491937,
+            "The": -11.926398,
+            "a": -11.972829,
+            "I": -12.215346,
+            "N": -13.230227,
+            "This": -13.732909,
+            "X": -13.817378,
+            "Since": -13.961246,
+            "Sorry": -14.052083,
+            "Q": -14.1261,
+            "H": -14.323867
+        },
+        "optgens": {
+            "A": -0.00071636564,
+            "B": -9.011712,
+            "D": -9.327128,
+            "C": -11.491937
+        },
+        "score": 0.9997787281062271,
+        "optsoftmax": [
+            0.9997787281062271,
+            0.00012203325959693298,
+            1.0217159668610274e-05,
+            8.902147450731579e-05
+        ]
+    },
+    {
+        "question": "How to make a rabbit cage physically cozy for the rabbits?",
+        "options": [
+            "Place the cages in properly air-conditioned rooms, with water-fountains inside the cages for the rabbits to quench their thirsts.",
+            "Make sure the walls of the cage are nets for free air-flow, the placement of the cage isn't directly on the sun nor in the dark and to fill the inside of the cages with hay for cushion."
+        ],
+        "answer": "Make sure the walls of the cage are nets for free air-flow, the placement of the cage isn't directly on the sun nor in the dark and to fill the inside of the cages with hay for cushion.",
+        "idx": 332,
+        "idx_gt": 1,
+        "opts": [
+            "Place the cage in direct sunlight",
+            "Make sure the walls of the cage are nets for free air-flow, the placement of the cage isn't directly on the sun nor in the dark and to fill the inside of the cages with hay for cushion.",
+            "Use a solid-walled cage for better insulation",
+            "Fill the cage with rocks instead of hay"
+        ],
+        "top20gens": {
+            "B": -0.00029530155,
+            "None": -9.181761,
+            "Option": -9.271002,
+            "Token": -9.91502,
+            "The": -11.459339,
+            "b": -11.767529,
+            " B": -11.841209,
+            "A": -12.053955,
+            "C": -12.2505,
+            "I": -12.6525135,
+            "This": -13.4056,
+            "E": -13.751598,
+            "D": -13.90704,
+            "T": -14.117334,
+            "token": -14.375029,
+            "option": -14.488625,
+            "N": -15.038721,
+            "_B": -15.211533,
+            "Sorry": -15.236778,
+            "-B": -15.26256
+        },
+        "optgens": {
+            "B": -0.00029530155,
+            "A": -12.053955,
+            "C": -12.2505,
+            "D": -13.90704
+        },
+        "score": 0.9999884799854031,
+        "optsoftmax": [
+            5.823138277967471e-06,
+            0.9999884799854031,
+            4.784082872921185e-06,
+            9.127934459986674e-07
+        ]
+    },
+    {
+        "question": "Increase smoothness of hair.",
+        "options": [
+            "Soak hair in brewed coffee before shower.",
+            "Soak hair in brewed tea before shower."
+        ],
+        "answer": "Soak hair in brewed tea before shower.",
+        "idx": 1335,
+        "idx_gt": 1,
+        "opts": [
+            "Apply mayonnaise as a hair mask before shower.",
+            "Soak hair in brewed tea before shower.",
+            "Use lemon juice on hair before shower.",
+            "Rinse hair with apple cider vinegar before shower."
+        ],
+        "top20gens": {
+            "B": -0.3795133,
+            "None": -2.163567,
+            "D": -2.1798558,
+            "A": -2.6176229,
+            "The": -5.507851,
+            "C": -5.74762,
+            "I": -6.6490026,
+            "Token": -6.790154,
+            "Since": -6.9054933,
+            "Option": -6.9349694,
+            "This": -7.0308003,
+            "Sorry": -7.081696,
+            "No": -7.928572,
+            "E": -7.9302773,
+            "Given": -8.963555,
+            "Unfortunately": -9.93407,
+            "N": -10.129273,
+            "T": -10.197387,
+            "To": -10.340203,
+            "There": -10.60917
+        },
+        "optgens": {
+            "B": -0.3795133,
+            "D": -2.1798558,
+            "A": -2.6176229,
+            "C": -5.74762
+        },
+        "score": 0.7833520896858436,
+        "optsoftmax": [
+            0.08355228992147438,
+            0.7833520896858436,
+            0.003652732663699447,
+            0.1294428877289826
+        ]
+    },
+    {
+        "question": "Prevent lipstick on teeth.",
+        "options": [
+            "Apply layer of vaseline on teeth.",
+            "Apply layer of vaseline on lips."
+        ],
+        "answer": "Apply layer of vaseline on teeth.",
+        "idx": 1596,
+        "idx_gt": 1,
+        "opts": [
+            "Smile without showing teeth.",
+            "Apply layer of vaseline on teeth.",
+            "Avoid using lipstick at all.",
+            "Use lip liner instead of lipstick."
+        ],
+        "top20gens": {
+            "D": -0.39316833,
+            "C": -1.3750695,
+            "B": -3.1373434,
+            "A": -4.074252,
+            "None": -4.727357,
+            "Option": -6.301759,
+            "The": -7.8752127,
+            "E": -8.220431,
+            "Token": -8.797652,
+            "I": -9.234698,
+            "This": -9.245431,
+            "Since": -10.672362,
+            "Sorry": -11.253953,
+            " D": -11.393199,
+            "No": -11.669415,
+            "T": -11.670373,
+            "There": -11.699441,
+            "Non": -11.887,
+            "option": -11.889405,
+            "N": -12.124976
+        },
+        "optgens": {
+            "D": -0.39316833,
+            "C": -1.3750695,
+            "B": -3.1373434,
+            "A": -4.074252
+        },
+        "score": 0.04391881212654106,
+        "optsoftmax": [
+            0.017209028356214833,
+            0.04391881212654106,
+            0.255856476997717,
+            0.6830156825195272
+        ]
+    },
+    {
+        "question": "To brighten the flavor of a fish taco,",
+        "options": [
+            "add extra gravy and bread crumbs to the fried fish.",
+            "use lime and vegetables and cheese as topping."
+        ],
+        "answer": "use lime and vegetables and cheese as topping.",
+        "idx": 606,
+        "idx_gt": 2,
+        "opts": [
+            "Add lemon and hot sauce as toppings.",
+            "Add mayonnaise and ketchup as toppings.",
+            "use lime and vegetables and cheese as topping.",
+            "Add avocado and salsa as toppings."
+        ],
+        "top20gens": {
+            "D": -0.31526542,
+            "A": -2.4149263,
+            "C": -2.5363786,
+            "None": -2.8489225,
+            "Option": -3.5345342,
+            "The": -5.1973896,
+            "Token": -5.8524513,
+            "Since": -6.0955944,
+            "Sorry": -7.136812,
+            "I": -7.638397,
+            "Given": -7.822201,
+            "E": -7.864088,
+            "This": -7.880848,
+            " D": -8.719473,
+            "option": -9.0011425,
+            "T": -9.197296,
+            "Invalid": -9.280321,
+            "none": -9.594746,
+            "B": -9.604681,
+            "No": -9.661051
+        },
+        "optgens": {
+            "D": -0.31526542,
+            "A": -2.4149263,
+            "C": -2.5363786,
+            "B": -9.604681
+        },
+        "score": 0.08812456944358167,
+        "optsoftmax": [
+            0.09950458021074679,
+            7.505372979823458e-05,
+            0.08812456944358167,
+            0.8122957966158733
+        ]
+    },
+    {
+        "question": "under arm",
+        "options": [
+            "can carry items watermelon ",
+            "can carry items book "
+        ],
+        "answer": "can carry items book ",
+        "idx": 1415,
+        "idx_gt": 2,
+        "opts": [
+            "can carry heavy items",
+            "can carry light items",
+            "can carry items book ",
+            "can carry nothing"
+        ],
+        "top20gens": {
+            "D": -0.0011758207,
+            "Option": -7.2310114,
+            "A": -8.42419,
+            "None": -9.106099,
+            "The": -10.113973,
+            " D": -10.744378,
+            "C": -11.841857,
+            "Token": -11.871179,
+            "I": -12.117553,
+            "This": -12.165523,
+            "Given": -12.556342,
+            "Since": -12.839429,
+            "option": -12.867103,
+            "E": -12.932855,
+            "Answer": -12.945413,
+            "It": -13.01514,
+            "Sorry": -13.205052,
+            "d": -13.72178,
+            "B": -13.824697,
+            "Letter": -13.882571
+        },
+        "optgens": {
+            "D": -0.0011758207,
+            "A": -8.42419,
+            "C": -11.841857,
+            "B": -13.824697
+        },
+        "score": 7.203748070667105e-06,
+        "optsoftmax": [
+            0.0002197012032023684,
+            9.917952997443787e-07,
+            7.203748070667105e-06,
+            0.9997721032534272
+        ]
+    },
+    {
+        "question": "To more easily access popular rides at a theme park,",
+        "options": [
+            "go to the theme park a day after a drinking based holiday.",
+            "go to the theme park on a popular holiday instead."
+        ],
+        "answer": "go to the theme park a day after a drinking based holiday.",
+        "idx": 730,
+        "idx_gt": 0,
+        "opts": [
+            "go to the theme park a day after a drinking based holiday.",
+            "Go on a rainy day.",
+            "Arrive at the park early in the morning.",
+            "Purchase a fast pass ticket."
+        ],
+        "top20gens": {
+            "D": -0.11962622,
+            "C": -2.2890198,
+            "Option": -4.5817842,
+            "The": -7.061202,
+            "Token": -8.798293,
+            "c": -10.859792,
+            " D": -10.8966055,
+            "A": -11.010072,
+            "Since": -11.347518,
+            "Answer": -11.905648,
+            "option": -11.986386,
+            "Given": -11.98878,
+            "Correct": -12.0830965,
+            "d": -12.2150545,
+            "None": -12.273671,
+            "For": -12.616391,
+            "This": -12.667048,
+            "I": -12.760318,
+            "B": -13.032681,
+            "To": -13.188088
+        },
+        "optgens": {
+            "D": -0.11962622,
+            "C": -2.2890198,
+            "A": -11.010072,
+            "B": -13.032681
+        },
+        "score": 1.6724372892698305e-05,
+        "optsoftmax": [
+            1.6724372892698305e-05,
+            2.212798734672833e-06,
+            0.10253088098689465,
+            0.897450181841478
+        ]
+    },
+    {
+        "question": "how to remove really sticky tape",
+        "options": [
+            "Ventilate the area well.    Slowly move a steam cleaner or a hair dryer on high heat over a section of the adhesive tape.    Use a plastic scraper or dull knife to carefully scrape off the tape.    Repeat the process on the next section",
+            "Ventilate the area well.    Slowly move a steam cleaner or a hair dryer on high heat over a section of the adhesive tape.    Use a plastic ball or dull mirror to carefully scrape off the tape.    Repeat the process on the next section"
+        ],
+        "answer": "Ventilate the area well.    Slowly move a steam cleaner or a hair dryer on high heat over a section of the adhesive tape.    Use a plastic scraper or dull knife to carefully scrape off the tape.    Repeat the process on the next section",
+        "idx": 195,
+        "idx_gt": 1,
+        "opts": [
+            "Use a wire brush to scrub off the tape.",
+            "Ventilate the area well.    Slowly move a steam cleaner or a hair dryer on high heat over a section of the adhesive tape.    Use a plastic scraper or dull knife to carefully scrape off the tape.    Repeat the process on the next section",
+            "Apply more tape on top of the sticky tape to remove it.",
+            "Spray water on the sticky tape and wait for it to dissolve."
+        ],
+        "top20gens": {
+            "B": -0.003361174,
+            "D": -6.165232,
+            "None": -7.297404,
+            "Option": -8.3769245,
+            "A": -8.849943,
+            "Token": -9.45923,
+            "The": -9.713148,
+            "C": -10.565376,
+            "b": -11.111021,
+            "This": -12.214056,
+            " B": -12.225578,
+            "I": -12.237801,
+            "E": -12.859755,
+            "option": -14.024136,
+            "Sorry": -14.193813,
+            "T": -14.707205,
+            "No": -14.980047,
+            "token": -15.020113,
+            "N": -15.141905,
+            "Correct": -15.202618
+        },
+        "optgens": {
+            "B": -0.003361174,
+            "D": -6.165232,
+            "A": -8.849943,
+            "C": -10.565376
+        },
+        "score": 0.9977271191160314,
+        "optsoftmax": [
+            0.0001435456731235338,
+            0.9977271191160314,
+            2.5821830154118596e-05,
+            0.0021035133806908686
+        ]
+    },
+    {
+        "question": "To sprout seeds for your garden,",
+        "options": [
+            "fill old ice cube trays with potting soil.  Plant seeds and set the tray in a window, to get direct sunlight.",
+            "fill old ice cube trays with potting soil.  Plant seeds and set the tray in a closet, to avoid direct sunlight."
+        ],
+        "answer": "fill old ice cube trays with potting soil.  Plant seeds and set the tray in a window, to get direct sunlight.",
+        "idx": 177,
+        "idx_gt": 3,
+        "opts": [
+            "Water the seeds every day.",
+            "Use small pots instead of ice cube trays.",
+            "Keep the seeds in a dark room.",
+            "fill old ice cube trays with potting soil.  Plant seeds and set the tray in a window, to get direct sunlight."
+        ],
+        "top20gens": {
+            "D": -0.28449297,
+            "None": -1.4795136,
+            "A": -4.713,
+            "Option": -5.7552495,
+            "B": -5.965363,
+            "The": -6.215203,
+            "This": -6.7389092,
+            "C": -7.544535,
+            "Since": -8.224371,
+            "I": -8.253151,
+            "E": -8.256981,
+            "Token": -9.233891,
+            "Sorry": -9.241255,
+            "Given": -9.642609,
+            "There": -9.851572,
+            " D": -10.212011,
+            "N": -10.323313,
+            "Invalid": -10.421623,
+            "No": -10.744823,
+            "H": -11.014723
+        },
+        "optgens": {
+            "D": -0.28449297,
+            "A": -4.713,
+            "B": -5.965363,
+            "C": -7.544535
+        },
+        "score": 0.9842074474007183,
+        "optsoftmax": [
+            0.011743849601306712,
+            0.003356727917327659,
+            0.0006919750806473474,
+            0.9842074474007183
+        ]
+    },
+    {
+        "question": "Where can I buy a tennis ball",
+        "options": [
+            "You can purchase a tennis ball at any sports store",
+            "You can purchase a tennis racket at any sports store"
+        ],
+        "answer": "You can purchase a tennis ball at any sports store",
+        "idx": 1837,
+        "idx_gt": 3,
+        "opts": [
+            "At the hardware store",
+            "In a pet store",
+            "Online",
+            "You can purchase a tennis ball at any sports store"
+        ],
+        "top20gens": {
+            "C": -0.025223432,
+            "D": -3.7286289,
+            "Option": -8.058198,
+            "Token": -8.22037,
+            "None": -8.676076,
+            "The": -9.924035,
+            "E": -10.958081,
+            "Since": -11.559632,
+            "B": -11.879657,
+            " C": -12.200358,
+            "Sorry": -12.34232,
+            "c": -12.426593,
+            "A": -12.471635,
+            "I": -12.478152,
+            "This": -12.896676,
+            "\n": -13.180261,
+            "`": -13.654849,
+            "-": -13.758353,
+            "Given": -13.837779,
+            "Answer": -13.985391
+        },
+        "optgens": {
+            "C": -0.025223432,
+            "D": -3.7286289,
+            "B": -11.879657,
+            "A": -12.471635
+        },
+        "score": 0.024046710729432468,
+        "optsoftmax": [
+            3.837217130111333e-06,
+            6.936001100709327e-06,
+            0.9759425160523367,
+            0.024046710729432468
+        ]
+    },
+    {
+        "question": "How to thicken a soup quickly?",
+        "options": [
+            "In the soup pan, mix equal parts butter and flour together until they cook out, about a couple of hours, then stir that mixture into the soup, the roux will thicken the soup",
+            "In a side pan, mix equal parts butter and flour together until they cook out, about a couple minutes, then stir that mixture into the soup, the roux will thicken the soup"
+        ],
+        "answer": "In a side pan, mix equal parts butter and flour together until they cook out, about a couple minutes, then stir that mixture into the soup, the roux will thicken the soup",
+        "idx": 1400,
+        "idx_gt": 0,
+        "opts": [
+            "In a side pan, mix equal parts butter and flour together until they cook out, about a couple minutes, then stir that mixture into the soup, the roux will thicken the soup",
+            "Add more water",
+            "Mix in some sugar",
+            "Stir in some salt"
+        ],
+        "top20gens": {
+            "A": -0.00011415232,
+            "Option": -9.671082,
+            "None": -10.334013,
+            " A": -11.291496,
+            "The": -13.164618,
+            "a": -13.788742,
+            "Token": -13.883421,
+            "option": -14.364168,
+            "D": -15.0679,
+            "\"A": -15.6314125,
+            "I": -15.960691,
+            "(A": -16.275637,
+            "`": -16.423397,
+            "Sorry": -16.553022,
+            "_A": -16.8914,
+            "Answer": -16.965185,
+            "Not": -16.995272,
+            "This": -17.17046,
+            "In": -17.250189,
+            "[A": -17.285917
+        },
+        "optgens": {
+            "A": -0.00011415232,
+            "D": -15.0679,
+            "B": 0,
+            "C": 0
+        },
+        "score": 0.3333079348770695,
+        "optsoftmax": [
+            0.3333079348770695,
+            0.3333459849228193,
+            0.3333459849228193,
+            9.527729192167173e-08
+        ]
+    },
+    {
+        "question": "crisp, textured layers in crust",
+        "options": [
+            "add cheerwine to the dough. The cheerwine evaporates while it\u2019s being cooked, and the dough is left hard and brittle",
+            "add vodka to the dough. The alcohol evaporates while it\u2019s being cooked, and the dough is left puffy and soft"
+        ],
+        "answer": "add vodka to the dough. The alcohol evaporates while it\u2019s being cooked, and the dough is left puffy and soft",
+        "idx": 494,
+        "idx_gt": 1,
+        "opts": [
+            "add sugar to the dough",
+            "add vodka to the dough. The alcohol evaporates while it\u2019s being cooked, and the dough is left puffy and soft",
+            "use warm water for the dough",
+            "knead the dough for a longer duration"
+        ],
+        "top20gens": {
+            "B": -0.010534824,
+            "None": -5.2506814,
+            "A": -5.846373,
+            "D": -6.5629773,
+            "C": -7.800856,
+            "Option": -8.63045,
+            "E": -8.981696,
+            "I": -9.422965,
+            "The": -9.807094,
+            "This": -10.692912,
+            "b": -11.225112,
+            "Sorry": -11.771077,
+            " B": -11.8868,
+            "Since": -12.346744,
+            "No": -12.844798,
+            "N": -12.945397,
+            "Token": -13.070035,
+            "Unfortunately": -13.561423,
+            "F": -13.915538,
+            "M": -13.958661
+        },
+        "optgens": {
+            "B": -0.010534824,
+            "A": -5.846373,
+            "D": -6.5629773,
+            "C": -7.800856
+        },
+        "score": 0.9952612419800789,
+        "optsoftmax": [
+            0.0029071321548582493,
+            0.9952612419800789,
+            0.000411759466807632,
+            0.0014198663982550853
+        ]
+    },
+    {
+        "question": "How to make your jeans into a shirt?",
+        "options": [
+            "Cut off the legs at the knee, then again at the top, making sure you don't cut the pockets .",
+            "Cut off the legs at the knee, then again at the top, making sure you cut the pockets ."
+        ],
+        "answer": "Cut off the legs at the knee, then again at the top, making sure you don't cut the pockets .",
+        "idx": 1038,
+        "idx_gt": 0,
+        "opts": [
+            "Cut off the legs at the knee, then again at the top, making sure you don't cut the pockets .",
+            "Sew the legs together to create sleeves",
+            "Use the leg material to make a hat",
+            "Turn the waistband into a collar"
+        ],
+        "top20gens": {
+            "A": -0.6290436,
+            "None": -0.76628685,
+            "D": -7.578985,
+            "B": -8.017445,
+            "E": -8.213224,
+            "Option": -8.538925,
+            "C": -8.960093,
+            "Token": -9.114704,
+            "Sorry": -9.396866,
+            "I": -9.606529,
+            "The": -9.734896,
+            "N": -9.752216,
+            " None": -10.053541,
+            "This": -10.752529,
+            "T": -10.847029,
+            "There": -10.861464,
+            " A": -10.942915,
+            "No": -11.046352,
+            "a": -11.123005,
+            "H": -11.146744
+        },
+        "optgens": {
+            "A": -0.6290436,
+            "D": -7.578985,
+            "B": -8.017445,
+            "C": -8.960093
+        },
+        "score": 0.9981853049698932,
+        "optsoftmax": [
+            0.9981853049698932,
+            0.0006172615341370213,
+            0.00024048189700408477,
+            0.0009569515989655904
+        ]
+    },
+    {
+        "question": "how do you switch profiles on instagram?",
+        "options": [
+            "go to your profile page, then click on your username at the top of the page, then click on the other profile.",
+            "go to your profile page, then click on your usernmae at the top of the page, and click on signout."
+        ],
+        "answer": "go to your profile page, then click on your username at the top of the page, then click on the other profile.",
+        "idx": 1617,
+        "idx_gt": 3,
+        "opts": [
+            "Click on the settings icon and select 'Switch Profile'",
+            "Go to the search bar and type 'Switch Profile'",
+            "Navigate to the explore page and choose 'Switch Profile'",
+            "go to your profile page, then click on your username at the top of the page, then click on the other profile."
+        ],
+        "top20gens": {
+            "D": -0.6252986,
+            "A": -0.8437797,
+            "None": -3.5205984,
+            "The": -6.092992,
+            "Option": -6.8045244,
+            "Sorry": -7.8403482,
+            "This": -8.433898,
+            "C": -8.822761,
+            "I": -9.058211,
+            "B": -9.235732,
+            "Token": -9.28041,
+            "E": -9.391065,
+            "a": -9.579711,
+            "Error": -9.62181,
+            "Invalid": -9.786511,
+            "Given": -9.814263,
+            "There": -10.126264,
+            "N": -10.335361,
+            "No": -10.388835,
+            "Since": -10.46502
+        },
+        "optgens": {
+            "D": -0.6252986,
+            "A": -0.8437797,
+            "C": -8.822761,
+            "B": -9.235732
+        },
+        "score": 0.5542634392873254,
+        "optsoftmax": [
+            0.4454829595013406,
+            0.00010098398853158153,
+            0.00015261722280254388,
+            0.5542634392873254
+        ]
+    },
+    {
+        "question": "To make a bong out of a soda bottle,",
+        "options": [
+            "put the weed inside and heat up the entire bottle.",
+            "drill a hole into the bottom and insert a down stem."
+        ],
+        "answer": "drill a hole into the bottom and insert a down stem.",
+        "idx": 1294,
+        "idx_gt": 3,
+        "opts": [
+            "cut a hole in the side and attach a hose",
+            "attach a straw to the lid and use it as a mouthpiece",
+            "attach a funnel to the top and use it as a bowl",
+            "drill a hole into the bottom and insert a down stem."
+        ],
+        "top20gens": {
+            "None": -0.041529164,
+            "A": -3.3761601,
+            "D": -6.291077,
+            "This": -7.0664887,
+            "The": -7.1237283,
+            "Option": -7.394583,
+            "C": -7.461884,
+            "I": -7.826987,
+            "Since": -8.108126,
+            "Sorry": -8.481747,
+            "E": -9.11083,
+            "No": -9.360899,
+            "B": -9.444492,
+            "There": -9.478846,
+            "N": -9.643793,
+            "Token": -9.68194,
+            " None": -10.040602,
+            "Given": -10.229652,
+            "Invalid": -10.23604,
+            "In": -10.421251
+        },
+        "optgens": {
+            "A": -3.3761601,
+            "D": -6.291077,
+            "C": -7.461884,
+            "B": -9.444492
+        },
+        "score": 0.05050479037283362,
+        "optsoftmax": [
+            0.9316759775377481,
+            0.002156859418317541,
+            0.015662372671100832,
+            0.05050479037283362
+        ]
+    },
+    {
+        "question": "How can you bind PVC pipe together?",
+        "options": [
+            "Put a bit of tape between two pieces and clamp together.",
+            "Put a bit of epoxy between two pieces and clamp together."
+        ],
+        "answer": "Put a bit of epoxy between two pieces and clamp together.",
+        "idx": 1395,
+        "idx_gt": 1,
+        "opts": [
+            "Use duct tape to wrap around the pipe",
+            "Put a bit of epoxy between two pieces and clamp together.",
+            "Use a rubber band to hold the pipes together",
+            "Apply super glue along the pipe joints"
+        ],
+        "top20gens": {
+            "B": -0.02206026,
+            "None": -3.9566267,
+            "Option": -6.565407,
+            "The": -8.135454,
+            "D": -8.222151,
+            "Token": -8.708759,
+            "E": -8.801159,
+            "b": -9.687548,
+            "I": -9.767635,
+            "Since": -9.785736,
+            "A": -10.000092,
+            "C": -10.331486,
+            "This": -10.663988,
+            " B": -10.83395,
+            "Sorry": -10.874495,
+            "No": -11.736534,
+            "Given": -11.882372,
+            "none": -12.27165,
+            "option": -12.311399,
+            "N": -12.315819
+        },
+        "optgens": {
+            "B": -0.02206026,
+            "D": -8.222151,
+            "A": -10.000092,
+            "C": -10.331486
+        },
+        "score": 0.99964577098288,
+        "optsoftmax": [
+            4.639188381690658e-05,
+            0.99964577098288,
+            3.330576570167897e-05,
+            0.0002745313676014612
+        ]
+    },
+    {
+        "question": "how do you make a copy of a key?",
+        "options": [
+            "take the key to walmart and go to the auto center. have them make you a copy.",
+            "cut out a piece of metal in the same shape of your key."
+        ],
+        "answer": "take the key to walmart and go to the auto center. have them make you a copy.",
+        "idx": 1825,
+        "idx_gt": 0,
+        "opts": [
+            "take the key to walmart and go to the auto center. have them make you a copy.",
+            "Take the key to a hardware store and ask for a duplicate.",
+            "Use a photocopier machine to create a copy of the key.",
+            "Ask a friend to make a duplicate of the key for you."
+        ],
+        "top20gens": {
+            "B": -0.6796584,
+            "None": -0.9326358,
+            "A": -2.549436,
+            "D": -5.0719714,
+            "C": -5.4025474,
+            "The": -5.6662974,
+            "E": -6.266229,
+            "Option": -6.468389,
+            "Since": -7.0772624,
+            "This": -7.1183677,
+            "I": -8.134899,
+            "N": -8.322454,
+            "No": -8.365154,
+            "Sorry": -8.578169,
+            "Given": -8.897921,
+            "Token": -9.13936,
+            "Non": -9.42548,
+            "none": -9.427156,
+            "F": -9.489557,
+            "There": -9.599125
+        },
+        "optgens": {
+            "B": -0.6796584,
+            "A": -2.549436,
+            "D": -5.0719714,
+            "C": -5.4025474
+        },
+        "score": 0.13115142729326376,
+        "optsoftmax": [
+            0.13115142729326376,
+            0.8507601033795987,
+            0.0075627977097508835,
+            0.010525671617386559
+        ]
+    },
+    {
+        "question": "To prevent the bread bone dough from sticking to the cooking pan",
+        "options": [
+            "use a silicone bedding sheet",
+            "use a silicone baking sheet"
+        ],
+        "answer": "use a silicone baking sheet",
+        "idx": 1402,
+        "idx_gt": 3,
+        "opts": [
+            "coat the pan with oil",
+            "use parchment paper",
+            "use aluminum foil",
+            "use a silicone baking sheet"
+        ],
+        "top20gens": {
+            "B": -0.004628773,
+            "D": -5.4996924,
+            "None": -7.8082747,
+            "A": -10.010382,
+            "Token": -10.44413,
+            "E": -10.808617,
+            "C": -11.524824,
+            "Option": -12.246586,
+            "The": -12.543348,
+            " B": -12.63065,
+            "b": -12.845171,
+            "I": -13.191132,
+            "Since": -14.551004,
+            "This": -14.649317,
+            "T": -14.838358,
+            "N": -15.489824,
+            "Sorry": -15.919376,
+            "No": -15.946753,
+            "For": -16.145514,
+            "F": -16.292088
+        },
+        "optgens": {
+            "B": -0.004628773,
+            "D": -5.4996924,
+            "A": -10.010382,
+            "C": -11.524824
+        },
+        "score": 0.00408997242187415,
+        "optsoftmax": [
+            4.495238894374537e-05,
+            0.9958551887710813,
+            9.886418100744366e-06,
+            0.00408997242187415
+        ]
+    },
+    {
+        "question": "How to attract hummingbirds to your garden?",
+        "options": [
+            "Hummingbirds are territorial so it is best to have several different feeders or patches of flowers that hummingbirds will be attracted to. Otherwise they might fight and they will leave and not want to return.",
+            "If you hum a tune while you garden, humming birds will want to sing along with you so you don't have to really bother with feeders or special flowers."
+        ],
+        "answer": "Hummingbirds are territorial so it is best to have several different feeders or patches of flowers that hummingbirds will be attracted to. Otherwise they might fight and they will leave and not want to return.",
+        "idx": 836,
+        "idx_gt": 3,
+        "opts": [
+            "Use a single feeder to attract hummingbirds",
+            "Plant only one type of flower to attract hummingbirds",
+            "Use loud noises to attract hummingbirds",
+            "Hummingbirds are territorial so it is best to have several different feeders or patches of flowers that hummingbirds will be attracted to. Otherwise they might fight and they will leave and not want to return."
+        ],
+        "top20gens": {
+            "D": -0.0002352449,
+            "Option": -8.734271,
+            "Token": -9.910756,
+            "The": -11.738004,
+            "A": -12.061828,
+            "None": -12.685681,
+            " D": -12.695987,
+            "d": -13.762143,
+            "\n": -14.182878,
+            "Correct": -14.24896,
+            "Answer": -14.3984,
+            "Invalid": -15.049193,
+            "Sorry": -15.476377,
+            "This": -15.954204,
+            "Letter": -16.23515,
+            "I": -16.469141,
+            "Given": -16.482567,
+            "option": -16.529152,
+            "T": -16.727259,
+            "For": -16.739922
+        },
+        "optgens": {
+            "D": -0.0002352449,
+            "A": -12.061828,
+            "B": 0,
+            "C": 0
+        },
+        "score": 0.33328041703098343,
+        "optsoftmax": [
+            1.9254250579452654e-06,
+            0.3333588287719793,
+            0.3333588287719793,
+            0.33328041703098343
+        ]
+    },
+    {
+        "question": "how do you scan an ar code in a store?",
+        "options": [
+            "take a picture of it with your phone camera.",
+            "take a picture of it with your digital camera."
+        ],
+        "answer": "take a picture of it with your phone camera.",
+        "idx": 1595,
+        "idx_gt": 0,
+        "opts": [
+            "take a picture of it with your phone camera.",
+            "Use a barcode scanner app",
+            "Ask a store employee for help",
+            "Type the code into a search engine"
+        ],
+        "top20gens": {
+            "B": -0.11316185,
+            "D": -2.8454483,
+            "None": -3.7198474,
+            "A": -4.083461,
+            "C": -5.027051,
+            "Option": -7.917741,
+            "E": -8.048722,
+            "The": -8.406093,
+            "Token": -9.894338,
+            "This": -10.017407,
+            "I": -10.179147,
+            "Since": -10.357547,
+            "Sorry": -10.5515375,
+            "b": -10.746846,
+            "There": -11.449847,
+            "No": -11.714936,
+            "N": -11.795325,
+            "none": -11.982455,
+            "Given": -12.204633,
+            "H": -12.247455
+        },
+        "optgens": {
+            "B": -0.11316185,
+            "D": -2.8454483,
+            "A": -4.083461,
+            "C": -5.027051
+        },
+        "score": 0.01728956219849908,
+        "optsoftmax": [
+            0.01728956219849908,
+            0.9163534276402752,
+            0.0067295816401066865,
+            0.05962742852111906
+        ]
+    },
+    {
+        "question": "how do you exchange an item?",
+        "options": [
+            "take the item and reciept back to the original store, and get another item to keep in its place.",
+            "take the item back to the original store, and switch it for something else you want to keep."
+        ],
+        "answer": "take the item and reciept back to the original store, and get another item to keep in its place.",
+        "idx": 1654,
+        "idx_gt": 0,
+        "opts": [
+            "take the item and reciept back to the original store, and get another item to keep in its place.",
+            "Return the item without a receipt",
+            "Exchange the item online",
+            "Keep the item and get a refund"
+        ],
+        "top20gens": {
+            "None": -0.07558468,
+            "A": -2.9656432,
+            "D": -5.113951,
+            "The": -5.9468007,
+            "Sorry": -6.139815,
+            "Option": -6.2166467,
+            "C": -6.3190236,
+            "Since": -6.500603,
+            "This": -6.556393,
+            "B": -6.816714,
+            "I": -7.022738,
+            "No": -7.6936784,
+            "E": -8.215603,
+            "There": -9.073414,
+            "Given": -9.29257,
+            "Unfortunately": -9.317244,
+            "Ap": -9.593067,
+            "Token": -9.617058,
+            "none": -9.860319,
+            "N": -9.900066
+        },
+        "optgens": {
+            "A": -2.9656432,
+            "D": -5.113951,
+            "C": -6.3190236,
+            "B": -6.816714
+        },
+        "score": 0.8525844365430828,
+        "optsoftmax": [
+            0.8525844365430828,
+            0.01812335521838756,
+            0.029811429196050128,
+            0.09948077904247944
+        ]
+    },
+    {
+        "question": "How to attach a torn off lace into a handbag?",
+        "options": [
+            "It would be best to weld the lace on to the torn of spot on the handbag.",
+            "It would be best to sow the lace on to the torn of spot on the handbag."
+        ],
+        "answer": "It would be best to sow the lace on to the torn of spot on the handbag.",
+        "idx": 1043,
+        "idx_gt": 2,
+        "opts": [
+            "Glue the lace onto the torn spot",
+            "Use safety pins to attach the lace",
+            "It would be best to sow the lace on to the torn of spot on the handbag.",
+            "Tape the lace onto the torn spot"
+        ],
+        "top20gens": {
+            "C": -0.0003005465,
+            "None": -9.075841,
+            "Token": -10.055482,
+            "Option": -10.253711,
+            "A": -10.653075,
+            "The": -10.778129,
+            " C": -11.272225,
+            "D": -11.349381,
+            "c": -11.770547,
+            "I": -11.897901,
+            "E": -12.328902,
+            "Since": -12.413653,
+            "B": -13.4010935,
+            "Sorry": -13.7112875,
+            "none": -13.749839,
+            "`": -13.842324,
+            "Answer": -14.095681,
+            "token": -14.159558,
+            "Given": -14.227721,
+            "F": -14.37337
+        },
+        "optgens": {
+            "C": -0.0003005465,
+            "A": -10.653075,
+            "D": -11.349381,
+            "B": -13.4010935
+        },
+        "score": 0.9999630719275377,
+        "optsoftmax": [
+            2.363430304874556e-05,
+            1.5138872425308719e-06,
+            0.9999630719275377,
+            1.1779882170980425e-05
+        ]
+    },
+    {
+        "question": "To learn how to ride a bike.",
+        "options": [
+            "Just get on the bike and start riding to learn how to do it consistently.",
+            "Start with training wheels to help will balance while moving then gradually take them off."
+        ],
+        "answer": "Start with training wheels to help will balance while moving then gradually take them off.",
+        "idx": 1641,
+        "idx_gt": 3,
+        "opts": [
+            "Start with training wheels and never take them off.",
+            "Learn how to ride without any help from the beginning.",
+            "Start riding without any form of assistance.",
+            "Start with training wheels to help will balance while moving then gradually take them off."
+        ],
+        "top20gens": {
+            "D": -0.002860274,
+            "Option": -5.976466,
+            "The": -8.336808,
+            "Token": -10.4454565,
+            " D": -11.450641,
+            "d": -11.858977,
+            "A": -11.885554,
+            "Correct": -12.053588,
+            "Given": -12.701432,
+            "Answer": -12.992396,
+            "Since": -13.1576185,
+            "option": -13.164075,
+            "\n": -13.366412,
+            "This": -13.370612,
+            "I": -13.891902,
+            "For": -14.657308,
+            "(D": -14.697265,
+            "#": -14.714389,
+            "C": -14.863587,
+            "It": -15.17007
+        },
+        "optgens": {
+            "D": -0.002860274,
+            "A": -11.885554,
+            "C": -14.863587,
+            "B": 0
+        },
+        "score": 0.4992831220421516,
+        "optsoftmax": [
+            3.4495192264389315e-06,
+            0.500713252882786,
+            1.755558359135194e-07,
+            0.4992831220421516
+        ]
+    },
+    {
+        "question": "To heat set a length of ribbon, you can",
+        "options": [
+            "Use an iron to carefully apply heat to the ribbon",
+            "Use a blowtorch to carefully apply heat to the ribbon"
+        ],
+        "answer": "Use an iron to carefully apply heat to the ribbon",
+        "idx": 315,
+        "idx_gt": 3,
+        "opts": [
+            "Use a hairdryer to blow hot air onto the ribbon",
+            "Place the ribbon in the freezer to cool it down",
+            "Use a microwave to quickly warm the ribbon",
+            "Use an iron to carefully apply heat to the ribbon"
+        ],
+        "top20gens": {
+            "None": -0.09274223,
+            "D": -3.13046,
+            "A": -3.8168137,
+            "The": -4.3220763,
+            "Since": -5.5828853,
+            "Option": -5.887403,
+            "This": -7.0360103,
+            "Given": -7.7020717,
+            "I": -8.280774,
+            "Sorry": -8.379096,
+            "No": -8.624448,
+            "E": -8.779393,
+            "To": -8.997098,
+            "N": -9.478564,
+            "Invalid": -9.561286,
+            " None": -9.578425,
+            "Token": -9.990039,
+            "There": -10.009759,
+            "In": -10.388093,
+            "B": -10.664622
+        },
+        "optgens": {
+            "D": -3.13046,
+            "A": -3.8168137,
+            "B": -10.664622,
+            "C": 0
+        },
+        "score": 0.04100302114043825,
+        "optsoftmax": [
+            0.020641261343333796,
+            2.1916483596070898e-05,
+            0.9383338010326319,
+            0.04100302114043825
+        ]
+    },
+    {
+        "question": "How do I decorate a green paper Christmas tree cone?",
+        "options": [
+            "These paper green cone trees look especially nice with the addition of ribbon, glitter and beads glued on in a random fashion, use a glue gun to affix a metallic bow to the top.",
+            "These paper green cone trees look especially nice with the addition of ribbon, glitter and bugs glued on in a random fashion, use a glue gun to affix a metallic bow to the top."
+        ],
+        "answer": "These paper green cone trees look especially nice with the addition of ribbon, glitter and beads glued on in a random fashion, use a glue gun to affix a metallic bow to the top.",
+        "idx": 1450,
+        "idx_gt": 2,
+        "opts": [
+            "Paint the tree with different colors",
+            "Wrap the tree with colorful cloth",
+            "These paper green cone trees look especially nice with the addition of ribbon, glitter and beads glued on in a random fashion, use a glue gun to affix a metallic bow to the top.",
+            "Attach plastic flowers to the tree"
+        ],
+        "top20gens": {
+            "C": -0.0023133343,
+            "None": -6.1792903,
+            "Token": -9.896536,
+            "The": -10.10062,
+            "A": -10.6105,
+            "D": -10.616272,
+            "Option": -10.682568,
+            " C": -11.457109,
+            "T": -11.771872,
+            "c": -11.922352,
+            "E": -12.255497,
+            "B": -12.256096,
+            "I": -12.395317,
+            "#": -12.395378,
+            "none": -12.509232,
+            "These": -12.622963,
+            "`": -12.784023,
+            "This": -12.797323,
+            "N": -13.058361,
+            "Answer": -13.0752945
+        },
+        "optgens": {
+            "C": -0.0023133343,
+            "A": -10.6105,
+            "D": -10.616272,
+            "B": -12.256096
+        },
+        "score": 0.9999459523752525,
+        "optsoftmax": [
+            2.471152769796091e-05,
+            4.766793435855826e-06,
+            0.9999459523752525,
+            2.456930361365663e-05
+        ]
+    },
+    {
+        "question": "To clean a toilet bowl,",
+        "options": [
+            "squeeze toilet bowl cleaner up under the bowl rim all the way around and use a toilet bowl brush to scrub out the entire bowl.",
+            "squeeze toilet bowl cleaner up under the bowl rim all the way around and use a wet wash rag to scrub out the entire bowl."
+        ],
+        "answer": "squeeze toilet bowl cleaner up under the bowl rim all the way around and use a toilet bowl brush to scrub out the entire bowl.",
+        "idx": 791,
+        "idx_gt": 0,
+        "opts": [
+            "squeeze toilet bowl cleaner up under the bowl rim all the way around and use a toilet bowl brush to scrub out the entire bowl.",
+            "Spray toilet bowl cleaner directly onto the toilet seat.",
+            "Use a sponge to clean the toilet bowl.",
+            "Pour toilet bowl cleaner down the drain."
+        ],
+        "top20gens": {
+            "A": -9.031158e-05,
+            " A": -10.099145,
+            "None": -10.581298,
+            "Option": -11.092599,
+            "a": -12.923894,
+            "The": -13.215201,
+            "Token": -13.33187,
+            "(A": -14.935334,
+            "_A": -15.092843,
+            "`": -15.598454,
+            "I": -15.669614,
+            "To": -15.747228,
+            "option": -15.894738,
+            "T": -16.08198,
+            "\n": -16.181383,
+            "\"A": -16.226507,
+            "-": -16.571678,
+            "D": -16.70543,
+            "**": -16.710892,
+            "-A": -16.716259
+        },
+        "optgens": {
+            "A": -9.031158e-05,
+            "D": -16.70543,
+            "B": 0,
+            "C": 0
+        },
+        "score": 0.33331325821997704,
+        "optsoftmax": [
+            0.33331325821997704,
+            0.3333433616262845,
+            0.3333433616262845,
+            1.852745401223115e-08
+        ]
+    },
+    {
+        "question": "To roast an eggplant, you can",
+        "options": [
+            "Split it in half and bake for 20 minutes",
+            "Split it in half and bake for 20 hours"
+        ],
+        "answer": "Split it in half and bake for 20 minutes",
+        "idx": 372,
+        "idx_gt": 3,
+        "opts": [
+            "Microwave it for 5 minutes",
+            "Deep fry it for 10 minutes",
+            "Boil it for 15 minutes",
+            "Split it in half and bake for 20 minutes"
+        ],
+        "top20gens": {
+            "D": -0.001030427,
+            "Option": -7.1818795,
+            "Token": -9.712902,
+            "The": -9.76646,
+            " D": -9.971922,
+            "A": -10.329634,
+            "Since": -10.987509,
+            "None": -11.297897,
+            "Given": -11.78072,
+            "I": -11.79393,
+            "d": -11.847555,
+            "Sorry": -12.587984,
+            "This": -12.849567,
+            "option": -13.245325,
+            "E": -13.725632,
+            "Invalid": -13.908993,
+            "T": -13.947624,
+            "Answer": -14.066172,
+            "H": -14.220249,
+            "For": -14.248781
+        },
+        "optgens": {
+            "D": -0.001030427,
+            "A": -10.329634,
+            "B": 0,
+            "C": 0
+        },
+        "score": 0.3331007622876655,
+        "optsoftmax": [
+            1.0887297466788939e-05,
+            0.33344417520743386,
+            0.33344417520743386,
+            0.3331007622876655
+        ]
+    },
+    {
+        "question": "Hold a cheap ring.",
+        "options": [
+            "Cut a section of egg carton.",
+            "Cut a section of egg yolk."
+        ],
+        "answer": "Cut a section of egg carton.",
+        "idx": 228,
+        "idx_gt": 3,
+        "opts": [
+            "Wear a plastic bracelet.",
+            "Buy an expensive necklace.",
+            "Craft a diamond engagement ring.",
+            "Cut a section of egg carton."
+        ],
+        "top20gens": {
+            "D": -0.019267648,
+            "A": -4.135978,
+            "C": -6.5547156,
+            "Option": -7.2156043,
+            "None": -7.6939483,
+            "The": -9.162554,
+            "Token": -9.44109,
+            "Sorry": -9.632074,
+            "I": -9.982817,
+            "Since": -10.3797455,
+            "B": -10.52252,
+            " D": -10.752579,
+            "This": -10.768068,
+            "Given": -11.340067,
+            "T": -11.879765,
+            "E": -11.881998,
+            "N": -12.52952,
+            "Answer": -12.877722,
+            "d": -12.8875675,
+            "H": -12.938959
+        },
+        "optgens": {
+            "D": -0.019267648,
+            "A": -4.135978,
+            "C": -6.5547156,
+            "B": -10.52252
+        },
+        "score": 0.9825339198697404,
+        "optsoftmax": [
+            0.016013378277126337,
+            2.696764446265816e-05,
+            0.0014257342086706644,
+            0.9825339198697404
+        ]
+    },
+    {
+        "question": "Make flat iron holder.",
+        "options": [
+            "Fold pot holder into a square.",
+            "Roll pot holder into a cylinder."
+        ],
+        "answer": "Roll pot holder into a cylinder.",
+        "idx": 1396,
+        "idx_gt": 2,
+        "opts": [
+            "Fold pot holder into a triangle.",
+            "Sew pot holder into a square.",
+            "Roll pot holder into a cylinder.",
+            "Twist pot holder into a spiral."
+        ],
+        "top20gens": {
+            "None": -0.3101414,
+            "A": -1.8092717,
+            "C": -2.5664737,
+            "D": -4.2553453,
+            "B": -5.337142,
+            "E": -6.4817114,
+            "The": -6.575467,
+            "Option": -7.1046343,
+            "I": -7.2724104,
+            "Since": -7.3683004,
+            "This": -7.608691,
+            "Sorry": -8.14228,
+            "No": -8.624244,
+            "Token": -8.719626,
+            "N": -9.087455,
+            "There": -9.309989,
+            "Given": -10.236695,
+            " None": -10.2631445,
+            "Not": -10.273902,
+            "Unfortunately": -10.274161
+        },
+        "optgens": {
+            "A": -1.8092717,
+            "C": -2.5664737,
+            "D": -4.2553453,
+            "B": -5.337142
+        },
+        "score": 0.29588865545265136,
+        "optsoftmax": [
+            0.6309238788614238,
+            0.01852858953614983,
+            0.29588865545265136,
+            0.05465887614977512
+        ]
+    },
+    {
+        "question": "clothing",
+        "options": [
+            "can be closed together by chip clip ",
+            "can be closed together by box cutter "
+        ],
+        "answer": "can be closed together by chip clip ",
+        "idx": 630,
+        "idx_gt": 0,
+        "opts": [
+            "can be closed together by chip clip ",
+            "button",
+            "zipper",
+            "velcro"
+        ],
+        "top20gens": {
+            "B": -0.8334186,
+            "None": -1.2795627,
+            "D": -2.1671493,
+            "C": -2.2663276,
+            "A": -3.1137283,
+            "E": -4.441386,
+            "Option": -4.574258,
+            "The": -6.9639997,
+            "This": -7.9449873,
+            "I": -8.193162,
+            "Sorry": -8.377456,
+            "Since": -9.120828,
+            "option": -10.149743,
+            "No": -10.31759,
+            "N": -10.382819,
+            "Token": -10.388906,
+            "Given": -10.425765,
+            "There": -10.469266,
+            "\n": -10.544642,
+            "Not": -10.584582
+        },
+        "optgens": {
+            "B": -0.8334186,
+            "D": -2.1671493,
+            "C": -2.2663276,
+            "A": -3.1137283
+        },
+        "score": 0.06373420864413784,
+        "optsoftmax": [
+            0.06373420864413784,
+            0.6233019958074354,
+            0.14872844789253337,
+            0.16423534765589348
+        ]
+    },
+    {
+        "question": "To increase the power of a vacuum,",
+        "options": [
+            "cut out any hairs caught in the suction part.",
+            "leave it running for awhile to build up it's power."
+        ],
+        "answer": "cut out any hairs caught in the suction part.",
+        "idx": 949,
+        "idx_gt": 1,
+        "opts": [
+            "Clean the filter regularly.",
+            "cut out any hairs caught in the suction part.",
+            "Increase the length of the vacuum hose.",
+            "Use the vacuum on a higher power setting."
+        ],
+        "top20gens": {
+            "A": -0.19701335,
+            "None": -1.7287765,
+            "D": -8.245309,
+            "The": -8.458245,
+            "B": -9.0543375,
+            "Option": -9.0929365,
+            "E": -9.15758,
+            "C": -9.255822,
+            "Since": -9.466496,
+            "I": -9.6477995,
+            "This": -9.71564,
+            "N": -10.279063,
+            "Token": -10.467341,
+            "a": -11.100654,
+            "Sorry": -11.599536,
+            "T": -11.873044,
+            "none": -11.923057,
+            "F": -12.023223,
+            "Not": -12.050925,
+            "There": -12.067235
+        },
+        "optgens": {
+            "A": -0.19701335,
+            "D": -8.245309,
+            "B": -9.0543375,
+            "C": -9.255822
+        },
+        "score": 0.0001422531521443674,
+        "optsoftmax": [
+            0.9994219910953175,
+            0.0001422531521443674,
+            0.0001162942633443335,
+            0.00031946148919380986
+        ]
+    },
+    {
+        "question": "To obtain meximum deliciousness of the nutella cookies",
+        "options": [
+            "Serve with a glass of milk",
+            "Serve with a glass of water"
+        ],
+        "answer": "Serve with a glass of milk",
+        "idx": 151,
+        "idx_gt": 3,
+        "opts": [
+            "Serve with a glass of water",
+            "Dip in hot sauce",
+            "Pair with orange juice",
+            "Serve with a glass of milk"
+        ],
+        "top20gens": {
+            "D": -0.0005045389,
+            "Option": -7.6968718,
+            "Token": -10.35389,
+            "The": -11.439584,
+            " D": -12.63514,
+            "A": -13.549069,
+            "Correct": -14.42846,
+            "option": -14.982446,
+            "None": -15.054973,
+            "d": -15.134299,
+            "Given": -15.497857,
+            "Answer": -15.504102,
+            "M": -15.832133,
+            "I": -15.947352,
+            "(D": -16.19606,
+            "Since": -16.289953,
+            "To": -16.421232,
+            "This": -16.516226,
+            "\n": -16.799131,
+            "Letter": -16.918629
+        },
+        "optgens": {
+            "D": -0.0005045389,
+            "A": -13.549069,
+            "B": 0,
+            "C": 0
+        },
+        "score": 0.3332210779973648,
+        "optsoftmax": [
+            4.35176747410955e-07,
+            0.3333892434129439,
+            0.3333892434129439,
+            0.3332210779973648
+        ]
+    },
+    {
+        "question": "Make desktop resting spot for cat.",
+        "options": [
+            "Flip the top of a board game sideways.",
+            "Flip the top of a board game upside down."
+        ],
+        "answer": "Flip the top of a board game upside down.",
+        "idx": 1524,
+        "idx_gt": 0,
+        "opts": [
+            "Flip the top of a board game upside down.",
+            "Place a build-up of pillows on the desk.",
+            "Install a cat tree near the desk.",
+            "Spread a blanket on the desk."
+        ],
+        "top20gens": {
+            "C": -0.017167887,
+            "D": -4.2259026,
+            "Token": -6.620346,
+            "None": -8.063284,
+            "Option": -8.144606,
+            "The": -8.861925,
+            "E": -9.319025,
+            "A": -9.459017,
+            "c": -9.807606,
+            "B": -11.232101,
+            "I": -11.24976,
+            "T": -11.312687,
+            "Since": -11.662701,
+            " C": -11.889994,
+            "This": -12.323898,
+            "token": -12.397764,
+            "Answer": -12.567055,
+            "N": -12.600756,
+            "`": -12.989784,
+            "For": -13.102766
+        },
+        "optgens": {
+            "C": -0.017167887,
+            "D": -4.2259026,
+            "A": -9.459017,
+            "B": -11.232101
+        },
+        "score": 7.816439539090572e-05,
+        "optsoftmax": [
+            7.816439539090572e-05,
+            1.3272978037440413e-05,
+            0.9852624732513937,
+            0.014646089375177845
+        ]
+    },
+    {
+        "question": "What surface can I use to properly iron a shirt?",
+        "options": [
+            "Use the counter top, it is works just as well as an ironing board and doesn't cost anything to have.",
+            "Use an ironing board, it is designed to handle the moisture and form of the clothes that need ironing."
+        ],
+        "answer": "Use an ironing board, it is designed to handle the moisture and form of the clothes that need ironing.",
+        "idx": 970,
+        "idx_gt": 1,
+        "opts": [
+            "Use a wooden table, it provides a sturdy and flat surface.",
+            "Use an ironing board, it is designed to handle the moisture and form of the clothes that need ironing.",
+            "Use the floor, it allows for more space and freedom of movement.",
+            "Use a carpet, it provides a soft surface for ironing."
+        ],
+        "top20gens": {
+            "B": -0.00025323365,
+            "Option": -9.012089,
+            "None": -9.886217,
+            "Token": -10.4639225,
+            "The": -10.840498,
+            "b": -11.45903,
+            "A": -11.639162,
+            "Sorry": -12.955349,
+            " B": -13.119364,
+            "This": -13.551619,
+            "I": -13.701725,
+            "E": -14.251766,
+            "D": -14.469191,
+            "T": -14.761379,
+            "Given": -14.774166,
+            "C": -14.789879,
+            "It": -15.053059,
+            "Correct": -15.250881,
+            "option": -15.274252,
+            "_B": -15.29616
+        },
+        "optgens": {
+            "B": -0.00025323365,
+            "A": -11.639162,
+            "D": -14.469191,
+            "C": -14.789879
+        },
+        "score": 0.9999902860127585,
+        "optsoftmax": [
+            8.81621004519465e-06,
+            0.9999902860127585,
+            3.7752257059674007e-07,
+            5.202546257132734e-07
+        ]
+    },
+    {
+        "question": "Is investing in the stock market a good choice?",
+        "options": [
+            "Many people lose money in the stock market, and some research stocks and companies and learn about the market before investing. Education is probably the key to growing success in the stock market.",
+            "Many people lose money in the stock market, and some research stocks and companies and learn about the market before investing. Evolution is probably the key to growing success in the stock market."
+        ],
+        "answer": "Many people lose money in the stock market, and some research stocks and companies and learn about the market before investing. Education is probably the key to growing success in the stock market.",
+        "idx": 962,
+        "idx_gt": 2,
+        "opts": [
+            "Stock market investments are always profitable.",
+            "Stock market is a risky investment option.",
+            "Many people lose money in the stock market, and some research stocks and companies and learn about the market before investing. Education is probably the key to growing success in the stock market.",
+            "Stock market investments guarantee high returns."
+        ],
+        "top20gens": {
+            "C": -0.00010306638,
+            "None": -9.929359,
+            "The": -10.920719,
+            "c": -11.21727,
+            "Option": -11.512499,
+            "Token": -12.083742,
+            "B": -13.501238,
+            " C": -13.745363,
+            "I": -14.212387,
+            "D": -14.405624,
+            "A": -14.635614,
+            "E": -14.834078,
+            "`": -14.947191,
+            "This": -15.051922,
+            "#": -15.29624,
+            "Given": -15.522472,
+            "T": -15.612637,
+            "Since": -15.6802845,
+            "\n": -16.20357,
+            "Sorry": -16.292395
+        },
+        "optgens": {
+            "C": -0.00010306638,
+            "B": -13.501238,
+            "D": -14.405624,
+            "A": -14.635614
+        },
+        "score": 0.9999976358485455,
+        "optsoftmax": [
+            4.404304478086118e-07,
+            1.3694007839614556e-06,
+            0.9999976358485455,
+            5.5432022275522e-07
+        ]
+    },
+    {
+        "question": "To keep homemade apple juice from turning brown.",
+        "options": [
+            "You can take any vitamin c tablets, and add a small, small amount to the food processor. I chop a 500mg tablet into quarters and add all of them to each processor load.",
+            "You can take any vitamin c tablets, and add a small, small amount to the food processor. I chop a 500mg tablet into quarters and add one of those to each processor load."
+        ],
+        "answer": "You can take any vitamin c tablets, and add a small, small amount to the food processor. I chop a 500mg tablet into quarters and add one of those to each processor load.",
+        "idx": 1355,
+        "idx_gt": 1,
+        "opts": [
+            "Add lemon juice to the apple juice.",
+            "You can take any vitamin c tablets, and add a small, small amount to the food processor. I chop a 500mg tablet into quarters and add one of those to each processor load.",
+            "Mix the apple juice with water.",
+            "Store the apple juice in a metal container."
+        ],
+        "top20gens": {
+            "A": -0.044303298,
+            "None": -3.1603312,
+            "B": -7.751392,
+            "D": -9.058267,
+            "C": -9.116908,
+            "The": -9.373309,
+            "Option": -10.014287,
+            " A": -10.697148,
+            "E": -10.917142,
+            "N": -10.9611025,
+            "This": -11.5556345,
+            "none": -11.956376,
+            "No": -12.132421,
+            "Token": -12.167228,
+            "I": -12.221662,
+            "There": -12.421029,
+            "a": -12.431386,
+            "T": -12.452849,
+            " None": -12.490985,
+            "Sorry": -12.576133
+        },
+        "optgens": {
+            "A": -0.044303298,
+            "B": -7.751392,
+            "D": -9.058267,
+            "C": -9.116908
+        },
+        "score": 0.0004493203002056307,
+        "optsoftmax": [
+            0.9993143760896798,
+            0.0004493203002056307,
+            0.00011468852745063464,
+            0.00012161508266403024
+        ]
+    },
+    {
+        "question": "To be safe when working with lye, you can",
+        "options": [
+            "Make sure to measure it outside",
+            "Make sure to measure it inside"
+        ],
+        "answer": "Make sure to measure it outside",
+        "idx": 1756,
+        "idx_gt": 3,
+        "opts": [
+            "Wear gloves and goggles",
+            "Handle it with bare hands",
+            "Keep it in an airtight container",
+            "Make sure to measure it outside"
+        ],
+        "top20gens": {
+            "A": -2.0219828e-05,
+            " A": -11.631728,
+            "Option": -11.698871,
+            "None": -14.657706,
+            "The": -14.865119,
+            "Token": -15.011994,
+            "\"A": -15.09781,
+            "(A": -15.122575,
+            "a": -15.378329,
+            "[A": -15.686234,
+            "D": -15.968619,
+            "I": -15.970439,
+            "B": -16.238035,
+            "option": -16.244717,
+            "#": -16.73817,
+            "`": -16.777668,
+            "_A": -17.197615,
+            "This": -17.647358,
+            "C": -17.66159,
+            "T": -17.836246
+        },
+        "optgens": {
+            "A": -2.0219828e-05,
+            "D": -15.968619,
+            "B": -16.238035,
+            "C": -17.66159
+        },
+        "score": 1.161249574346762e-07,
+        "optsoftmax": [
+            0.9999997738120903,
+            8.869919649437193e-08,
+            2.1363755770475648e-08,
+            1.161249574346762e-07
+        ]
+    },
+    {
+        "question": "How to grow a beard",
+        "options": [
+            "Rinse your growing beard and apply beard oil daily. Wash with a beard wash 1-3 times a week. Grow your beard for at least a month before trimming",
+            "Rinse your growing beard and apply hair removal ointment. Wash with a beard wash 1-3 times a week. Grow your beard for at least a month before trimming"
+        ],
+        "answer": "Rinse your growing beard and apply beard oil daily. Wash with a beard wash 1-3 times a week. Grow your beard for at least a month before trimming",
+        "idx": 603,
+        "idx_gt": 3,
+        "opts": [
+            "Shave your beard daily",
+            "Wash your beard with soap and water only",
+            "Apply lotion to your beard daily",
+            "Rinse your growing beard and apply beard oil daily. Wash with a beard wash 1-3 times a week. Grow your beard for at least a month before trimming"
+        ],
+        "top20gens": {
+            "D": -0.009858438,
+            "Option": -4.6553473,
+            "The": -8.867003,
+            "Token": -9.506822,
+            "None": -9.94226,
+            "option": -10.962365,
+            "A": -12.27171,
+            " D": -12.976003,
+            "Correct": -13.455924,
+            "#": -13.483806,
+            "d": -13.589019,
+            " Option": -13.825461,
+            "Since": -14.361785,
+            "\n": -14.5732565,
+            "Answer": -14.651185,
+            "Given": -14.682286,
+            "I": -14.719304,
+            "C": -14.7702055,
+            "Sorry": -14.7956915,
+            "This": -14.924815
+        },
+        "optgens": {
+            "D": -0.009858438,
+            "A": -12.27171,
+            "C": -14.7702055,
+            "B": 0
+        },
+        "score": 0.4975341436744477,
+        "optsoftmax": [
+            2.352710109392426e-06,
+            0.5024633102024658,
+            1.9341297712864078e-07,
+            0.4975341436744477
+        ]
+    },
+    {
+        "question": "To hit a volleyball",
+        "options": [
+            "Stand with your feet shoulder width apart, with most of your weight on the back foot.  Toss the ball in front of your hitting arm.  Hit the ball with the upper part of your palm.",
+            "Stand with your feet shoulder width apart, with most of your weight on the front foot. Toss the ball in front of your hitting arm.  Hit the ball with the lower part of your palm."
+        ],
+        "answer": "Stand with your feet shoulder width apart, with most of your weight on the back foot.  Toss the ball in front of your hitting arm.  Hit the ball with the upper part of your palm.",
+        "idx": 152,
+        "idx_gt": 0,
+        "opts": [
+            "Stand with your feet shoulder width apart, with most of your weight on the back foot.  Toss the ball in front of your hitting arm.  Hit the ball with the upper part of your palm.",
+            "Stand with your feet very close together and lean forward.",
+            "Toss the ball behind your hitting arm.",
+            "Hit the ball with your closed fist."
+        ],
+        "top20gens": {
+            "A": -0.15286781,
+            "None": -1.9639125,
+            "The": -7.5034614,
+            "Option": -7.6094966,
+            "Since": -8.905287,
+            "Sorry": -9.660833,
+            "I": -10.113098,
+            "This": -10.281843,
+            "D": -10.308451,
+            "E": -11.477718,
+            "a": -11.7148,
+            "C": -11.85738,
+            "N": -11.859598,
+            "Token": -12.29055,
+            "In": -12.4531555,
+            "As": -12.470804,
+            "Oops": -12.565178,
+            "B": -12.590223,
+            "Given": -12.618179,
+            "Answer": -12.706142
+        },
+        "optgens": {
+            "A": -0.15286781,
+            "D": -10.308451,
+            "C": -11.85738,
+            "B": -12.590223
+        },
+        "score": 0.9999489200325694,
+        "optsoftmax": [
+            0.9999489200325694,
+            3.967373491430747e-06,
+            8.256058435786865e-06,
+            3.885653550343482e-05
+        ]
+    },
+    {
+        "question": "How to make Cran Apple Tarts at home.",
+        "options": [
+            "Combine 1/4 cup  Chopped cranberries, 1/4 cup apples, 1 tsp. Lemon juice 1/3 cup vinegar, 1 tbsp. butter, then place in unbaked tart shell, bake for 18 min.  in 375 degree oven, check  and remove when shell brown.",
+            "Combine 1/4 cup  Chopped cranberries, 1/4 cup apples, 1 tsp. Lemon juice 1/3 cup sugar, 1 tbsp. butter, then place in unbaked tart shell, bake for 18 min.  in 375 degree oven, check  and remove when shell brown."
+        ],
+        "answer": "Combine 1/4 cup  Chopped cranberries, 1/4 cup apples, 1 tsp. Lemon juice 1/3 cup sugar, 1 tbsp. butter, then place in unbaked tart shell, bake for 18 min.  in 375 degree oven, check  and remove when shell brown.",
+        "idx": 537,
+        "idx_gt": 1,
+        "opts": [
+            "Mix cranberries and apples with lemon juice, sugar, and butter, then bake for 25 minutes at 350 degrees.",
+            "Combine 1/4 cup  Chopped cranberries, 1/4 cup apples, 1 tsp. Lemon juice 1/3 cup sugar, 1 tbsp. butter, then place in unbaked tart shell, bake for 18 min.  in 375 degree oven, check  and remove when shell brown.",
+            "Mix cranberries and apples with lemon juice, sugar, and butter, then bake for 18 minutes at 375 degrees.",
+            "Mix cranberries and apples with lemon juice, sugar, and butter, then bake for 20 minutes at 370 degrees."
+        ],
+        "top20gens": {
+            "B": -0.012223647,
+            "None": -4.9440265,
+            "C": -5.9631476,
+            "A": -7.017387,
+            "D": -7.0968585,
+            "Token": -7.6809,
+            "The": -9.196324,
+            "E": -9.67707,
+            "I": -11.063811,
+            "b": -11.121665,
+            " B": -11.152804,
+            "Option": -11.824166,
+            "T": -11.933015,
+            "none": -12.084062,
+            "token": -12.331883,
+            "`": -12.587625,
+            "This": -12.591176,
+            "Sorry": -12.796451,
+            "Since": -13.323182,
+            "F": -13.469956
+        },
+        "optgens": {
+            "B": -0.012223647,
+            "C": -5.9631476,
+            "A": -7.017387,
+            "D": -7.0968585
+        },
+        "score": 0.9956703272147995,
+        "optsoftmax": [
+            0.0009032579142887476,
+            0.9956703272147995,
+            0.0025921619390422037,
+            0.0008342529318695256
+        ]
+    },
+    {
+        "question": "how do you chew your food?",
+        "options": [
+            "chomp it up with your teeth until you can swallow it.",
+            "mash it up before placing it in your mouth to swallow."
+        ],
+        "answer": "chomp it up with your teeth until you can swallow it.",
+        "idx": 586,
+        "idx_gt": 0,
+        "opts": [
+            "chomp it up with your teeth until you can swallow it.",
+            "Swallow it whole",
+            "Use a blender",
+            "Take small bites and savor the flavor"
+        ],
+        "top20gens": {
+            "D": -0.004689288,
+            "Option": -5.5028257,
+            "A": -8.00591,
+            "The": -10.117576,
+            "None": -10.123378,
+            "Since": -10.267226,
+            "I": -10.433084,
+            " D": -10.489463,
+            "option": -10.581788,
+            "This": -11.17439,
+            "d": -11.647658,
+            "C": -11.96663,
+            "Given": -12.06948,
+            "Token": -12.096057,
+            "Sorry": -12.470706,
+            "Invalid": -13.01031,
+            "E": -13.126964,
+            " Option": -13.541175,
+            "It": -13.606982,
+            "In": -13.805914
+        },
+        "optgens": {
+            "D": -0.004689288,
+            "A": -8.00591,
+            "C": -11.96663,
+            "B": 0
+        },
+        "score": 0.00016710543650867553,
+        "optsoftmax": [
+            0.00016710543650867553,
+            0.5010869758720783,
+            3.183257264385832e-06,
+            0.49874273543414854
+        ]
+    },
+    {
+        "question": "How can you hold drawers together while the glue dries?",
+        "options": [
+            "Use tape to hold the drawers together.",
+            "Use wood to hold the drawers together."
+        ],
+        "answer": "Use tape to hold the drawers together.",
+        "idx": 1062,
+        "idx_gt": 0,
+        "opts": [
+            "Use tape to hold the drawers together.",
+            "Use nails to hold the drawers together.",
+            "Use screws to hold the drawers together.",
+            "Use clamps to hold the drawers together."
+        ],
+        "top20gens": {
+            "D": -0.06885184,
+            "None": -3.1278272,
+            "A": -4.4790483,
+            "Option": -4.7392774,
+            "The": -6.678185,
+            "Since": -7.61105,
+            "Token": -8.177073,
+            "I": -9.435062,
+            " D": -9.4677105,
+            "E": -9.511658,
+            "Given": -9.681772,
+            "Sorry": -10.328154,
+            "option": -10.534367,
+            "C": -10.58736,
+            "none": -10.838762,
+            "This": -11.054544,
+            "N": -11.153509,
+            "No": -11.5536995,
+            "T": -11.665602,
+            "d": -11.7762375
+        },
+        "optgens": {
+            "D": -0.06885184,
+            "A": -4.4790483,
+            "C": -10.58736,
+            "B": 0
+        },
+        "score": 0.005832992384426649,
+        "optsoftmax": [
+            0.005832992384426649,
+            0.5141825932555213,
+            1.2974342081670246e-05,
+            0.4799714400179704
+        ]
+    },
+    {
+        "question": "paperweight",
+        "options": [
+            "can be put inside  socks ",
+            "can be put inside  eyes "
+        ],
+        "answer": "can be put inside  socks ",
+        "idx": 383,
+        "idx_gt": 3,
+        "opts": [
+            "can be put inside shoes",
+            "can be used as a hat",
+            "can be used as a spoon",
+            "can be put inside  socks "
+        ],
+        "top20gens": {
+            "None": -0.4694312,
+            "D": -1.1228278,
+            "A": -3.5516303,
+            "The": -5.317185,
+            "This": -5.382218,
+            "C": -5.4809957,
+            "Option": -6.0429006,
+            "Since": -6.5180764,
+            "I": -7.3630357,
+            "Sorry": -7.8164716,
+            "E": -7.959967,
+            "No": -8.552027,
+            "N": -8.855217,
+            "Invalid": -8.859283,
+            "S": -8.98312,
+            "B": -9.094542,
+            "There": -9.223936,
+            "Given": -9.449043,
+            "Non": -9.505081,
+            " None": -9.582417
+        },
+        "optgens": {
+            "D": -1.1228278,
+            "A": -3.5516303,
+            "C": -5.4809957,
+            "B": -9.094542
+        },
+        "score": 0.9080266794023083,
+        "optsoftmax": [
+            0.08003557799665982,
+            0.0003133481396725009,
+            0.011624394461359388,
+            0.9080266794023083
+        ]
+    },
+    {
+        "question": "How can you cure hiccups at home?",
+        "options": [
+            "Hold your breath, then swallow 3 times.",
+            "Hold your remote, then swallow 3 times."
+        ],
+        "answer": "Hold your breath, then swallow 3 times.",
+        "idx": 1760,
+        "idx_gt": 2,
+        "opts": [
+            "Drink a glass of water upside down.",
+            "Hold your breath and count to 100.",
+            "Hold your breath, then swallow 3 times.",
+            "Lift something heavy to stop the hiccups."
+        ],
+        "top20gens": {
+            "None": -0.087882645,
+            "A": -2.6311948,
+            "E": -6.05022,
+            "Option": -6.39763,
+            "C": -6.5405574,
+            "The": -6.6469245,
+            "D": -6.78931,
+            "I": -6.9115043,
+            "N": -7.8408732,
+            "Sorry": -7.9865127,
+            "Since": -8.192299,
+            "B": -8.195271,
+            "H": -8.213209,
+            "No": -8.72752,
+            "F": -8.850113,
+            "There": -9.178133,
+            "X": -9.355459,
+            "Non": -9.453402,
+            "This": -9.653717,
+            "M": -9.7247715
+        },
+        "optgens": {
+            "A": -2.6311948,
+            "C": -6.5405574,
+            "D": -6.78931,
+            "B": -8.195271
+        },
+        "score": 0.019290839356306235,
+        "optsoftmax": [
+            0.9619793055003194,
+            0.0036873820638892918,
+            0.019290839356306235,
+            0.015042473079485042
+        ]
+    },
+    {
+        "question": "wash veggies",
+        "options": [
+            "Use clean potable cold water to wash items. For produce with thick skin, use a vegetable brush to help wash away hard-to-remove microbes. Produce with a lot of nooks and crannies like cauliflower, broccoli or lettuce should be soaked for 1 to 2 minutes in cold clean water.",
+            "Use clean potable cold water to wash items. For produce with thick skin, use a hair brush to help wash away hard-to-remove microbes. Produce with a lot of nooks and crannies like cauliflower, broccoli or lettuce should be soaked for 1 to 2 minutes in cold clean water."
+        ],
+        "answer": "Use clean potable cold water to wash items. For produce with thick skin, use a vegetable brush to help wash away hard-to-remove microbes. Produce with a lot of nooks and crannies like cauliflower, broccoli or lettuce should be soaked for 1 to 2 minutes in cold clean water.",
+        "idx": 1199,
+        "idx_gt": 3,
+        "opts": [
+            "Use dirty water to wash items.",
+            "Use hot water to wash items.",
+            "Soak produce in warm water for 1 to 2 minutes.",
+            "Use clean potable cold water to wash items. For produce with thick skin, use a vegetable brush to help wash away hard-to-remove microbes. Produce with a lot of nooks and crannies like cauliflower, broccoli or lettuce should be soaked for 1 to 2 minutes in cold clean water."
+        ],
+        "top20gens": {
+            "D": -0.00088025787,
+            "Option": -8.202956,
+            "The": -8.515271,
+            "C": -8.725228,
+            "Token": -9.430774,
+            "A": -9.667275,
+            "None": -10.116391,
+            " D": -11.419705,
+            "This": -11.758462,
+            "I": -11.822461,
+            "Since": -11.924605,
+            "Given": -12.51414,
+            "Sorry": -13.02488,
+            "d": -13.623595,
+            "For": -13.625289,
+            "In": -13.633733,
+            "It": -13.698293,
+            "Answer": -13.824628,
+            "T": -13.872502,
+            "Correct": -14.027009
+        },
+        "optgens": {
+            "D": -0.00088025787,
+            "C": -8.725228,
+            "A": -9.667275,
+            "B": 0
+        },
+        "score": 0.4997235024489432,
+        "optsoftmax": [
+            3.1671445029398175e-05,
+            0.5001635816579749,
+            8.124444805253553e-05,
+            0.4997235024489432
+        ]
+    },
+    {
+        "question": "How do I make a PB&J?",
+        "options": [
+            "Take bread, spread peanut butter on one side and jelly on the other, then place spread sides together.",
+            "Take bread, spread butter on one side and jelly on the other, then place spread sides together."
+        ],
+        "answer": "Take bread, spread peanut butter on one side and jelly on the other, then place spread sides together.",
+        "idx": 306,
+        "idx_gt": 0,
+        "opts": [
+            "Take bread, spread peanut butter on one side and jelly on the other, then place spread sides together.",
+            "Spread peanut butter on one slice and jelly on the other",
+            "Spread peanut butter on both slices and then jelly",
+            "Take two slices of bread and place them together without any spreading"
+        ],
+        "top20gens": {
+            "A": -0.0006951583,
+            "Token": -9.000865,
+            "C": -9.174893,
+            " A": -9.268373,
+            "The": -9.462398,
+            "None": -9.60908,
+            "Option": -9.656323,
+            "B": -9.94234,
+            "a": -10.141391,
+            "D": -11.337117,
+            "Since": -11.577828,
+            "This": -11.808906,
+            "I": -11.893428,
+            "Sorry": -12.27443,
+            "token": -12.296344,
+            "E": -12.541081,
+            "Given": -12.915738,
+            "Correct": -12.970288,
+            "T": -13.351251,
+            "option": -13.543099
+        },
+        "optgens": {
+            "A": -0.0006951583,
+            "C": -9.174893,
+            "B": -9.94234,
+            "D": -11.337117
+        },
+        "score": 0.9998362879809083,
+        "optsoftmax": [
+            0.9998362879809083,
+            4.812019727972137e-05,
+            0.00010366338746525991,
+            1.1928434346710218e-05
+        ]
+    },
+    {
+        "question": "How do you organize dirty clothes?",
+        "options": [
+            "Keep them in a pile in the corner of your room so you always have access to them.",
+            "Keep them in hampers, split if certain colors are washed separately."
+        ],
+        "answer": "Keep them in hampers, split if certain colors are washed separately.",
+        "idx": 443,
+        "idx_gt": 1,
+        "opts": [
+            "Throw them on the floor",
+            "Keep them in hampers, split if certain colors are washed separately.",
+            "Fold them neatly in a drawer",
+            "Store them in a plastic bag"
+        ],
+        "top20gens": {
+            "B": -0.000727921,
+            "None": -7.720554,
+            "Token": -9.3711195,
+            "Option": -9.743154,
+            "The": -10.1893,
+            "This": -10.710179,
+            "Sorry": -11.6141615,
+            "b": -11.653968,
+            "E": -11.667493,
+            " B": -11.737622,
+            "C": -11.77311,
+            "A": -11.852946,
+            "I": -11.853452,
+            "Since": -12.192843,
+            "D": -12.696862,
+            "N": -13.722295,
+            "T": -13.748176,
+            "No": -13.748559,
+            "Unfortunately": -14.003985,
+            "`": -14.040042
+        },
+        "optgens": {
+            "B": -0.000727921,
+            "C": -11.77311,
+            "A": -11.852946,
+            "D": -12.696862
+        },
+        "score": 0.9999820999298653,
+        "optsoftmax": [
+            7.122612474735741e-06,
+            0.9999820999298653,
+            7.714568688925374e-06,
+            3.0628889709678926e-06
+        ]
+    },
+    {
+        "question": "how do you keep blood circulating in your legs?",
+        "options": [
+            "walk around every five hours.",
+            "walk around every hour."
+        ],
+        "answer": "walk around every hour.",
+        "idx": 118,
+        "idx_gt": 0,
+        "opts": [
+            "walk around every hour.",
+            "Stand on one leg",
+            "Elevate your legs",
+            "Sit still for long periods"
+        ],
+        "top20gens": {
+            "C": -0.00620145,
+            "Option": -5.322497,
+            "A": -7.2019506,
+            "None": -8.000649,
+            "Token": -9.597333,
+            "The": -9.786708,
+            "option": -10.579553,
+            "D": -10.971574,
+            "c": -11.039981,
+            "Since": -11.667336,
+            "I": -12.041162,
+            " C": -12.133979,
+            "E": -12.534251,
+            "B": -12.974526,
+            "Sorry": -13.519265,
+            "Answer": -13.676585,
+            "This": -13.889018,
+            "token": -13.996964,
+            "#": -14.017402,
+            "For": -14.64132
+        },
+        "optgens": {
+            "C": -0.00620145,
+            "A": -7.2019506,
+            "D": -10.971574,
+            "B": -12.974526
+        },
+        "score": 0.000749189768841009,
+        "optsoftmax": [
+            0.000749189768841009,
+            2.3312786977589e-06,
+            0.9992312020772496,
+            1.7276875211654793e-05
+        ]
+    },
+    {
+        "question": "How to fuse the end of your bracelet?",
+        "options": [
+            "Take a blow torch to the ends of your cords and soldier off?",
+            "Take a lighter to the ends of your cords and soldier off?"
+        ],
+        "answer": "Take a lighter to the ends of your cords and soldier off?",
+        "idx": 1508,
+        "idx_gt": 2,
+        "opts": [
+            "Use glue to seal the ends",
+            "Tie a knot at the end",
+            "Take a lighter to the ends of your cords and soldier off?",
+            "Bite off the excess cord"
+        ],
+        "top20gens": {
+            "None": -0.06344458,
+            "A": -3.8801084,
+            "D": -4.312075,
+            "C": -4.4007535,
+            "B": -4.8622518,
+            "Option": -5.8770833,
+            "The": -6.472033,
+            "E": -7.100497,
+            "Since": -7.5938954,
+            "I": -7.6542573,
+            "This": -8.001179,
+            "Sorry": -9.089293,
+            "No": -9.124241,
+            "N": -9.19426,
+            "Given": -9.422043,
+            "Token": -9.831577,
+            "none": -10.260689,
+            "In": -10.400988,
+            "There": -10.409847,
+            "Non": -10.491192
+        },
+        "optgens": {
+            "A": -3.8801084,
+            "D": -4.312075,
+            "C": -4.4007535,
+            "B": -4.8622518
+        },
+        "score": 0.22695391558392675,
+        "optsoftmax": [
+            0.3819891029238283,
+            0.14305779104791433,
+            0.22695391558392675,
+            0.2479991904443306
+        ]
+    },
+    {
+        "question": "Put a layer of light heat protection between fabric and wood.",
+        "options": [
+            "Cut a piece of cardboard and a few layers of batting to the appropriate size, and layer between the fabric and wood.",
+            "Cut a piece of paper and a few layers of satin to the appropriate size, and layer between the fabric and wood."
+        ],
+        "answer": "Cut a piece of cardboard and a few layers of batting to the appropriate size, and layer between the fabric and wood.",
+        "idx": 545,
+        "idx_gt": 0,
+        "opts": [
+            "Cut a piece of cardboard and a few layers of batting to the appropriate size, and layer between the fabric and wood.",
+            "Use a layer of aluminum foil",
+            "Place a layer of plastic wrap",
+            "Apply a coat of varnish on the wood"
+        ],
+        "top20gens": {
+            "A": -0.00017827288,
+            "None": -9.111472,
+            " A": -11.37708,
+            "D": -11.468667,
+            "Option": -11.547488,
+            "a": -11.691154,
+            "Token": -11.868735,
+            "The": -11.941173,
+            "B": -12.450948,
+            "C": -13.007091,
+            "I": -13.09739,
+            "T": -14.589885,
+            "E": -14.9660635,
+            "N": -14.991117,
+            "none": -15.255942,
+            "`": -15.297246,
+            "For": -15.377324,
+            "F": -15.474048,
+            "Since": -15.481975,
+            "This": -15.507731
+        },
+        "optgens": {
+            "A": -0.00017827288,
+            "D": -11.468667,
+            "B": -12.450948,
+            "C": -13.007091
+        },
+        "score": 0.9999833864210396,
+        "optsoftmax": [
+            0.9999833864210396,
+            3.914643311534576e-06,
+            2.244720954713374e-06,
+            1.0454214694294134e-05
+        ]
+    },
+    {
+        "question": "To make whipped cream ahead of time without it getting runny in the fridge.",
+        "options": [
+            "To keep it from weeping while it sits in the fridge, add a little peanut oil near the end of the whipping process. The marshmallow cream not only adds structure to your whipped cream, but some extra yumminess as well.",
+            "To keep it from weeping while it sits in the fridge, add a little Fluff near the end of the whipping process. The marshmallow cream not only adds structure to your whipped cream, but some extra yumminess as well."
+        ],
+        "answer": "To keep it from weeping while it sits in the fridge, add a little Fluff near the end of the whipping process. The marshmallow cream not only adds structure to your whipped cream, but some extra yumminess as well.",
+        "idx": 1041,
+        "idx_gt": 2,
+        "opts": [
+            "Add gelatin to the whipped cream",
+            "Use full-fat milk instead of cream",
+            "To keep it from weeping while it sits in the fridge, add a little Fluff near the end of the whipping process. The marshmallow cream not only adds structure to your whipped cream, but some extra yumminess as well.",
+            "Sprinkle cornstarch into the whipped cream"
+        ],
+        "top20gens": {
+            "C": -0.981984,
+            "None": -1.0799016,
+            "A": -1.3483056,
+            "D": -3.945119,
+            "E": -6.4685698,
+            "The": -6.7157393,
+            "Option": -6.9603605,
+            "I": -7.232602,
+            "N": -7.779771,
+            "This": -8.140208,
+            "B": -8.307849,
+            "Token": -8.391067,
+            "Since": -8.853692,
+            "There": -9.1388445,
+            "Sorry": -9.160588,
+            "none": -9.177836,
+            "No": -9.369653,
+            "F": -10.071017,
+            "Given": -10.163257,
+            "H": -10.173503
+        },
+        "optgens": {
+            "C": -0.981984,
+            "A": -1.3483056,
+            "D": -3.945119,
+            "B": -8.307849
+        },
+        "score": 0.5728706289357015,
+        "optsoftmax": [
+            0.3971596388172304,
+            0.0003771150041530634,
+            0.5728706289357015,
+            0.029592617242915037
+        ]
+    },
+    {
+        "question": "To anneal a metal file, you can",
+        "options": [
+            "Heat it with a blowtorch until the file loses its magnetism",
+            "Heat it with a toaster until the file loses its magnetism"
+        ],
+        "answer": "Heat it with a blowtorch until the file loses its magnetism",
+        "idx": 1692,
+        "idx_gt": 3,
+        "opts": [
+            "Cool it in water immediately after heating",
+            "Place it in a freezer for 24 hours",
+            "Expose it to direct sunlight for an hour",
+            "Heat it with a blowtorch until the file loses its magnetism"
+        ],
+        "top20gens": {
+            "None": -0.20290272,
+            "A": -1.8419713,
+            "The": -4.8965406,
+            "Option": -4.9510565,
+            "Since": -5.274289,
+            "D": -6.7176695,
+            "Sorry": -6.9148664,
+            "I": -6.9367247,
+            "This": -7.3490286,
+            "Given": -8.310485,
+            "E": -8.473783,
+            "C": -9.137286,
+            "No": -9.153344,
+            "There": -9.288228,
+            " None": -9.481536,
+            "To": -9.4878,
+            "In": -9.613,
+            "Ap": -9.689771,
+            "N": -9.842603,
+            "As": -9.884894
+        },
+        "optgens": {
+            "A": -1.8419713,
+            "D": -6.7176695,
+            "C": -9.137286,
+            "B": 0
+        },
+        "score": 0.0010427063444986026,
+        "optsoftmax": [
+            0.1366629652979222,
+            0.8622015736582839,
+            9.275469929521032e-05,
+            0.0010427063444986026
+        ]
+    },
+    {
+        "question": "heater",
+        "options": [
+            "warming boat easily",
+            "warming backyard easily"
+        ],
+        "answer": "warming boat easily",
+        "idx": 1070,
+        "idx_gt": 1,
+        "opts": [
+            "easily warming boat",
+            "warming boat easily",
+            "boat heating comfortably",
+            "cosy boat temperature"
+        ],
+        "top20gens": {
+            "None": -0.3644279,
+            "D": -1.7006668,
+            "A": -2.6761801,
+            "C": -4.2568173,
+            "The": -4.5219502,
+            "B": -4.7319818,
+            "Option": -4.74239,
+            "E": -5.7428384,
+            "This": -5.955754,
+            "I": -6.0753083,
+            "Sorry": -6.3606915,
+            "Since": -7.636662,
+            "N": -9.065756,
+            "No": -9.109779,
+            "Given": -9.462816,
+            "There": -9.601233,
+            "Non": -9.722862,
+            "Unfortunately": -9.752964,
+            "Invalid": -9.839233,
+            "Ap": -10.071287
+        },
+        "optgens": {
+            "D": -1.7006668,
+            "A": -2.6761801,
+            "C": -4.2568173,
+            "B": -4.7319818
+        },
+        "score": 0.032107011163233896,
+        "optsoftmax": [
+            0.2508552607951871,
+            0.032107011163233896,
+            0.05163702338104373,
+            0.6654007046605352
+        ]
+    },
+    {
+        "question": "sofa",
+        "options": [
+            "can be harder than the counter .",
+            "can be placed away from the counter ."
+        ],
+        "answer": "can be placed away from the counter .",
+        "idx": 400,
+        "idx_gt": 2,
+        "opts": [
+            "can be placed on the counter",
+            "can be used as a cutting board",
+            "can be placed away from the counter .",
+            "can be used for cooking"
+        ],
+        "top20gens": {
+            "C": -0.0040097763,
+            "None": -6.03595,
+            "Option": -7.386597,
+            "The": -7.7174973,
+            "This": -8.931169,
+            "A": -9.116986,
+            "E": -9.538106,
+            "Sorry": -9.695323,
+            "I": -9.940656,
+            "D": -9.984242,
+            "Since": -10.6234865,
+            "B": -11.749106,
+            "c": -12.173051,
+            "Token": -12.62464,
+            "Answer": -12.906638,
+            "It": -13.1207075,
+            "Ap": -13.27634,
+            "Given": -13.342999,
+            " C": -13.533956,
+            "There": -13.543641
+        },
+        "optgens": {
+            "C": -0.0040097763,
+            "A": -9.116986,
+            "D": -9.984242,
+            "B": -11.749106
+        },
+        "score": 0.9998355664522819,
+        "optsoftmax": [
+            0.0001102080438441308,
+            7.926803677124135e-06,
+            0.9998355664522819,
+            4.629870019684618e-05
+        ]
+    },
+    {
+        "question": "Keep the ducks off the beach.",
+        "options": [
+            "Put up a no ducks allowed sign on the beach.",
+            "Put a dog on the beach."
+        ],
+        "answer": "Put a dog on the beach.",
+        "idx": 1462,
+        "idx_gt": 3,
+        "opts": [
+            "Install a fence on the beach.",
+            "Use scarecrows on the beach.",
+            "Place decoy ducks on the beach.",
+            "Put a dog on the beach."
+        ],
+        "top20gens": {
+            "None": -0.030856714,
+            "A": -3.955749,
+            "D": -5.371429,
+            "The": -6.8055243,
+            "E": -6.933231,
+            "I": -7.1452346,
+            "Since": -7.350002,
+            "This": -7.560596,
+            "Sorry": -7.85354,
+            "B": -8.093374,
+            "N": -8.243954,
+            "Option": -8.305914,
+            "C": -8.404053,
+            "No": -8.810085,
+            "There": -9.077499,
+            "H": -9.15317,
+            "Token": -9.573126,
+            "F": -9.6253395,
+            "Given": -9.872101,
+            "T": -10.007751
+        },
+        "optgens": {
+            "A": -3.955749,
+            "D": -5.371429,
+            "B": -8.093374,
+            "C": -8.404053
+        },
+        "score": 0.19108685290683544,
+        "optsoftmax": [
+            0.7871415181028456,
+            0.012563340033857092,
+            0.009208288956461926,
+            0.19108685290683544
+        ]
+    },
+    {
+        "question": "toilet tissue",
+        "options": [
+            "is the same color as flour most of the time",
+            "is the same color as t-shirt most of the time"
+        ],
+        "answer": "is the same color as flour most of the time",
+        "idx": 164,
+        "idx_gt": 1,
+        "opts": [
+            "is white",
+            "is the same color as flour most of the time",
+            "is green",
+            "is blue"
+        ],
+        "top20gens": {
+            "A": -0.015269083,
+            "B": -4.4787645,
+            "None": -5.8447256,
+            "Option": -7.79021,
+            "Token": -9.202214,
+            "I": -9.501748,
+            "The": -9.637563,
+            "D": -9.689153,
+            "This": -9.888549,
+            "E": -10.406056,
+            "C": -10.568288,
+            "Since": -10.700326,
+            " A": -11.6532755,
+            "Sorry": -11.837857,
+            "N": -11.849683,
+            "option": -12.787007,
+            "Given": -12.896621,
+            "There": -12.905698,
+            "For": -12.961371,
+            "a": -13.055711
+        },
+        "optgens": {
+            "A": -0.015269083,
+            "B": -4.4787645,
+            "D": -9.689153,
+            "C": -10.568288
+        },
+        "score": 0.011389771486983858,
+        "optsoftmax": [
+            0.9885222306729062,
+            0.011389771486983858,
+            2.5814787680453527e-05,
+            6.21830524295103e-05
+        ]
+    }
+]

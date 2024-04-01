@@ -1,0 +1,105 @@
+Index,Prediction,Answer,Eval,Manual Eval,Validator Pred,Validator Eval
+340,Matt Flynn,Matt Flynn,True,True,"The current drummer of the band who did the song ""What Lovers Do"" is Matt Flynn. TRUE",True
+2724,N.I.B.,N.I.B.,True,True,"The Very Best of Ugly Kid Joe: As Ugly as It Gets includes a cover of the Black Sabbath song ""N.I.B."" from their 1970 debut album. TRUE",True
+1124,"orchids, flowering plants",flowering plants,False,True,Psychopsis and Aubrieta are both genuses of flowering plants. TRUE,True
+3210,Gospel,Gospel Starlighters,False,True,FALSE,False
+6696,86,86 ft,False,True,"Cudjoe Kazoola Lewis was brought illegally to the United States on board the ship ""Clotilde"" which was 86 feet long. TRUE",True
+6065,Bloomingdale Firehouse,Worcester Cold Storage and Warehouse Co. fire,False,False,"No, the 6-story building listed on the National Register of Historic Places in 1980 is the Donegan Block in Huntsville, Alabama, not Bloomingdale Firehouse. FALSE",False
+3433,Terence Winter,Martin Scorsese,False,False,"Terence Winter wrote the film, other than ""The Good Shepherd,"" in which Leonard Logsdail appeared as a tailor. TRUE",True
+2232,Lions,Lions for Lambs,False,True,"The star of ""Under the Silver Lake"" made his debut in the 2007 ensemble drama ""Lions for Lambs."" TRUE",True
+3745,Farmer,Philip José Farmer,False,True,"Philip José Farmer lived from January 26, 1918, to February 25, 2009. This means that he lived for 91 years. Bernard-Marie Koltès, on the other hand, lived from April 9, 1948, to April 15, 1989. This means that he lived for 41 years. Therefore, Philip José Farmer lived longer than Bernard-Marie Koltès. TRUE",True
+2072,Club,Club,True,True,"The magazine title that is a spinoff of the UK's Club International and is published by Magna Publishing Group is ""Club"" Magazine. TRUE",True
+7390,Wilhelmina,Barbara Bush,False,False,"FALSE. The mother of the Texas businessman who co-founded Ignite! Learning, Inc is Barbara Bush (née Pierce). TRUE",True
+4391,ruler,r grandfather <a hr,False,False,"Henderson, Deioces, Rubin, and Anderson were all individuals whose careers or lifespans spanned 53 years. Cyaxares, on the other hand, was the grandson of Deioces and the father of Astyages. Therefore, the correct answer is that Cyaxares was the grandson of the man who governed for 53 years. TRUE",True
+1711,2013,2010 to 2012,False,False,"The 2016 Blancpain GT Series Sprint Cup followed on from the demise of the SRO Group's FIA GT1 World Championship (an auto racing series for grand tourer cars), making 2013 the year of the auto racing series held before the 2016 Blancpain GT Series Sprint Cup(TRUE).",True
+4046,Crespo,Hernán Crespo,False,True,"2002-03 Inter Milan season was marked by the arrival of Hernán Crespo, a retired Argentine footballer. TRUE",True
+5780,Tom,Tom Ewell,False,True,The actor in The Lieutenant Wears Skirts named Samuel is Tom Ewell. TRUE,True
+6913,after,after,True,True,"Princess Charlotte of Cambridge was born on May 2, 2015, which was after the repealing of the Royal Marriages Act 1772, which occurred on March 26, 2015. Therefore, she was born after the repealing of the Act. TRUE",True
+1166,Ernst & Young,Ernst & Young,True,True,"The multinational professional services firm, headquartered in London, England, that is one of the ""Big Four"" accounting firms and is also a tenant in InfoPark, Kochi is Ernst & Young. This information is provided in Paragraph 5 about PricewaterhouseCoopers, which states that they are one of the Big Four auditors, along with Deloitte, EY (Ernst & Young), and KPMG. TRUE",True
+5664,Hemingway,The Bad Hemingway Contest,False,True,"The contest in California that pays homage to an American novelist who won the Nobel Prize in Literature in 1954 is the International Imitation Hemingway Competition, also known as ""The Bad Hemingway Contest."" This contest encourages authors to submit a 'really good page of really bad Hemingway' in a Hemingway-esque style. Hemingway is the American novelist referred to in the question and this contest is associated with paying homage to his style. TRUE",True
+3079,Genesee,High Falls Brewery,False,False,"The brewing company formerly known for making Genny Light, a beer with only 100 calories per 12-ounce portion, and located along the Genesee River was originally known as the High Falls Brewing Company.TRUE",True
+4904,Ghostbusters,Ghostbusters: Answer the Call,False,True,"The movie starring Melissa McCarthy that features a character named Slimer is ""Ghostbusters"" (2016). TRUE",True
+4827,Jane Mayer,Jane Mayer,True,True,Jane Mayer is writing a book about the Koch family who control the second-largest privately owned company in the United States. TRUE,True
+6950,German,best known for translating the work of Erich Maria Remarque,False,False,"Arthur Wesley Wheen is best known for translating the work of Erich Maria Remarque into English, beginning with the classic war novel ""All Quiet on the Western Front"" in 1929. TRUE",True
+1716,Chris Weidman,Anderson Silva,False,False,"Luke Rockhold defeated Chris Weidman, who was the first to earn a win against Anderson Silva, the former UFC Middleweight Champion. TRUE",True
+5259,1986,1975,False,False,"The singer of ""Orange"" was born in 1975. 
+
+FALSE",False
+5749,Lysiloma,Lysiloma,True,True,"Upon reading the provided paragraphs, it appears that Lysiloma has more species than Hydrocotyle umbellata. This is evident in the paragraphs indicating multiple species of Lysiloma (Lysiloma sabicu, Lysiloma latisiliquum, Hunteria umbellata), whereas only one species of Hydrocotyle umbellata is mentioned. Therefore, Lysiloma has more species compared to Hydrocotyle umbellata. TRUE",True
+5712,1944,1944 until his death in 1971,False,False,"William Vacanarat Shadrach Tubman served as the 19th President of Liberia from his election in 1944 until his death in 1971. Therefore, he served as President of his country from 1944 until 1971. TRUE",True
+2524,Gandolfini,James Gandolfini,False,True,The two Sopranos co-stars who starred in a 2009 American thriller film together are Michael Rispoli and James Gandolfini. James Gandolfini secured the role as Tony Soprano. TRUE,True
+4403,Michael Crafter,Michael Crafter,True,True,"Michael Crafter has been the vocalist of I Killed the Prom Queen, Confession, Carpathian, and Bury Your Dead. Martin Degville was the lead singer of the UK pop band Sigue Sigue Sputnik. Therefore, Michael Crafter has been in more music bands than Martin Degville. TRUE",True
+4409,Zimbabwe,Zimbabwe,True,True,George Tawengwa was the first black person to buy a farm located in the country now known as Zimbabwe. TRUE,True
+4554,Republican,Republican,True,True,The secretary of commerce and housing under the 42nd Governor of Kansas was a Democrat. TRUE,True
+80,Newport,Newport,True,True,"The county seat of the county where East Lempster, New Hampshire is located is Newport. TRUE",True
+5009,Latka,Latka Gravas,False,True,"Carol Kane played the wife of the fictional character Latka on the television series ""Taxi"" in the early 1980s. TRUE",True
+5920,Constance M. Burge,Constance M. Burge,True,True,Constance M. Burge created the series broadcast on the WB that Leigh-Allyn Baker had a recurring role on. TRUE,True
+5781,Switzerland,Switzerland,True,True,Aimé Félix Tschiffely was born in Switzerland. TRUE,True
+4173,ESPN,College Football Scoreboard,False,False,"The man who was drafted eighth overall in the 1995 NFL Draft co-hosts the ""College Football Scoreboard"" show. FALSE",False
+1596,Fresno State,The Pennsylvania State University,False,False,"The football player who appeared as Gabe Cooper in the series Daniel Boone, Jackie Fellows, played college football for Fresno State. TRUE",True
+2059,Italian,Italian,True,True,"The opera ""Giovanna d'Arco"" was created by an Italian composer, Giuseppe Verdi. TRUE",True
+1267,Boston,Boston,True,True,"The father of Edward Garrison Walker lived in Boston when he wrote ""An Appeal to the Coloured Citizens of the World"". TRUE",True
+4909,Redford,Robert Redford,False,True,"The film in which Catherine Ann ""Kate"" Bosworth made her debut is ""The Horse Whisperer"" and it was directed by Robert Redford. TRUE",True
+7097,Fran,Fran,True,True,"The actor of Professor Sprout in ""Harry Potter"" acted as a mother in a sitcom. In that sitcom, the daughter's name was Fran. TRUE",True
+1868,Han Peekel,Betty Cohen,False,False,The Greatest Event in Television History aired on the channel that was founded by Han Peekel. TRUE,True
+3920,Kiernan Shipka,Kiernan Brennan,False,False,The actress known for playing Sally Draper on Mad Men and starring in Flowers in the Attic is Kiernan Shipka. TRUE,True
+4475,Mickey,Sarah Kate Silverman,False,False,"Mickey Meyer was born in 1984, according to the provided paragraphs. So, the partner of Jash who was born in 1970 is Saul Klein. TRUE",True
+5886,Donald Duck,Donald Duck,True,True,"Leo A. Harris was known for his handshake deal with Walt Disney that permitted the University of Oregon to use the likeness of Donald Duck as the basis for its mascot, the Oregon Duck. This deal involved the use of the likeness of Donald Duck created in 1934 at Walt Disney Productions.TRUE",True
+3347,tale,Gabrielle-Suzanne Barbot de Villeneuve,False,False,"The classic tale retold in ""Panna a netvor"" is ""Beauty and the Beast"" by French novelist Gabrielle-Suzanne Barbot de Villeneuve. TRUE",True
+6141,Yes,yes,True,True,"Yes, James Schuyler and H. G. Wells have both published books. H. G. Wells is known for his science fiction novels like ""The Time Machine"", ""The Island of Doctor Moreau"", and ""The War of the Worlds"". James Schuyler, on the other hand, is an American poet who won the Pulitzer Prize for Poetry for his 1980 collection ""The Morning of the Poem"". Therefore, both have published books in their respective fields. TRUE",True
+6452,Documentaries,documentary film,False,True,"Both ""Andrew and Jeremy Get Married"" and ""The Last Lions"" are documentary films. TRUE",True
+6741,Patrick,Patrick Swayze,False,True,"Don Swayze was one of five children. His older brother was trained in dance by their mother, Patsy Swayze, leading to his role in ""Dirty Dancing"". His older brother is Patrick Swayze. TRUE",True
+5458,Crepis,Crepis,True,True,I believe that the family name of the genus Crepis comes first alphabetically. TRUE,True
+6667,"15,000","15,000 people",False,True,"The capacity for basketball games at the venue for the 2014 FIBA Basketball World Cup Final in Madrid, Spain, was 15,000 people. TRUE",True
+1278,Lobachevsky,Nikolai Ivanovich Lobachevsky,False,True,"""Nikolai Lobachevsky lived longer, from 1792-1856, while Leonid Khachiyan lived from 1952-2005."" TRUE",True
+6291,Yes,no,False,False,Yes,False
+6031,highway,Ohio Turnpike,False,False,"Tedrow, Ohio lies close to the Ohio Turnpike, a 241.26 mi highway. TRUE",True
+4102,San Francisco,"Chicago, IL",False,False,"The musician whose debut album shares its title with the 1959 Alfred Hitchcock movie ""North by Northwest"" hails from San Francisco. TRUE",True
+6832,Yes,yes,True,True,FALSE,False
+2813,100 metres,100 metres,True,True,"In what event was Harold Davis a former record holder, but now is held by Usain Bolt? Harold Davis was a former World Record holder in the 100 meters, but this record is now held by Usain Bolt. TRUE",True
+2720,2013,2013,True,True,"After Russell D. Moore served at the Southern Baptist Theological Seminary as dean of the School of Theology, senior vice president for academic administration, and as professor of Christian theology and ethics, he became the President of The Ethics & Religious Liberty Commission (ERLC) in 2013. TRUE",True
+3811,Doñana,Doñana National Park,False,True,"Doñana National Park is larger as it covers 543 km², compared to Timanfaya National Park, which covers only 51.07 km². Therefore, Doñana National Park is larger of the two.TRUE",True
+3579,2015,2015,True,True,"The band that released ""Hooligan's Holiday,"" Mötley Crüe, retired in 2015. TRUE",True
+3943,2017,5-Sep-17,False,True,"FALSE. Laurie Davidson is an English actor known for playing a fictionalized version of a young William Shakespeare in TNT's ""Will"". The show was canceled on September 5, 2017. TRUE",True
+603,Howard,T. R. M. Howard,False,True,"""Black Maverick"" is a biography of T. R. M. Howard, an American civil rights leader, fraternal organization leader, entrepreneur, and surgeon. TRUE",True
+6701,Jack Chick,Jack Chick,True,True,The American cartoonist and publisher who had Fred Carter working for him was Jack Chick. TRUE,True
+4008,"11,163","11,163",True,True,"The 2010 population of the village at which Smith Haven Mall was located is 11,163. TRUE",True
+140,Oxford,Oxford,True,True,The author of Sexual Politics attended Oxford University. TRUE,True
+4372,Isles,Southern Isles,False,True,"The Norse referred to the region as the ""Suðreyjar"", or ""Southern Isles."" Magnus Barefoot launched aggressive military campaigns in this region that was at times independent of external control. TRUE",True
+615,500th,show's 500th episode,False,True,"The Simpsons episode that aired on February 19, 2012 entitled ""At Long Last Leave"" represented the 500th episode for the show. TRUE",True
+4889,Venezuelan,Dominican,False,False,"Amed Rosario, the shortstop for the New York Mets, is Dominican. He was born in the Dominican Republic. TRUE",True
+2152,2015,2015,True,True,Playford B Power Station was permanently closed in 2012. This was announced by the operator Alinta Energy in October 2015. TRUE,True
+718,Political party,Albanian political party in Montenegro,False,False,"Yes, Albanians in Montenegro who make up 4.91% of the county's total population could be members of the Albanian Coalition ""Perspective"" which is a political party. TRUE",True
+5894,film,45th Infantry Division,False,False,"The film Thunderbirds is about the exploits of the 45th Infantry Division in the Italian campaign of World War II. This division was part of the Oklahoma Army National Guard. Therefore, the film Thunderbirds was featuring the exploits of the 45th Infantry Division, which was a part of the Oklahoma Army National Guard. Therefore, the answer to the question is '45th Infantry Division.' TRUE",True
+2612,Rome,"Stadio Olimpico in Rome, Italy",False,False,"The 2009 UEFA Champions League Final, Europe's premier club football tournament was played at the Stadio Olimpico in Rome, Italy. TRUE",True
+386,1961,1961,True,True,Francisco Jose Hernandez was a participant in the Bay of Pigs Invasion that took place in 1961. TRUE,True
+3887,dog,dog,True,True,The animal both Mahratta Greyhound and Tibetan Spaniel have in common is a dog. TRUE,True
+5557,Sean S. Cunningham,Harry Booth,False,False,"The 1971 film in which Pat Ashton starred was directed by Harry Booth, not Sean S. Cunningham. FALSE.",False
+1195,rebellion,Easter Rising of 1916,False,False,Sean Heuston took part in the Easter Rising of 1916 and was executed at Kilmainham Gaol for his involvement in the rebellion. TRUE,True
+1152,Field Marshal,1736,False,False,FALSE. The rank held by Sir Charles Comyn Egerton has never been the highest in the British Army. The highest rank in the British Army has been Field Marshal since 1736. Sir Charles Egerton held a senior rank in the Indian Army. TRUE,True
+5257,Detroit,Detroit,True,True,"The Trussed Concrete Steel Company was founded by Julius Kahn, who was raised in Detroit, Michigan. Therefore, the Kahn Trussed Bar for beams and columns was invented by a man raised in Detroit. TRUE",True
+3826,second,the second,False,True,"The question asks about the number of singles released by the record label established in 2008 by Kim Shi Dae, which is Starship Entertainment. The answer provided, ""second,"" is incorrect because it doesn't address the specific record label mentioned in the question. The correct answer is ""first,"" as ""White Love"" was the first collaboration single released by Starship Entertainment under the name Starship Planet in 2012. FALSE",False
+6242,American Scientist,American Scientist,True,True,The answer is FALSE. Dwell was published first.,False
+7069,Taylor Swift,Big Machine Records,False,False,The 2012 record of Red was released by Taylor Swift. TRUE,True
+7379,Danny DeVito,"Daniel Michael DeVito, Jr.",False,True,"No, Danny DeVito played the character Louie De Palma in the television series ""Taxi"" (1978-1983). Lewis Allen was an English director who directed feature films between 1944 and 1959. TRUE",True
+2637,Prada,Prada,True,True,"The character that continues to search for Sophia Peletier in the ""Cherokee Rose"" episode of ""The Walking Dead"" is portrayed by Norman Reedus, who is also famous for his work in Prada advertisements. TRUE",True
+658,Beauty and the Beast,Beauty and the Beast,True,True,"The 9th longest-running musical in Broadway history that was the 30th Disney animated feature film is ""Beauty and the Beast."" TRUE",True
+5440,Vladimir Menshov,Vladimir Menshov,True,True,The actor/director known for depicting the Russian working class life and directed a film that won an Academy Award in 1981 is Vladimir Menshov. TRUE,True
+3716,Jack White,Jack White,True,True,"The singer who released his debut solo album in 2012 and served as the producer for the EP ""Live at Third Man"" by White Denim in 2011 is Jack White. TRUE",True
+632,Yankees,New York Yankees,False,True,"The provided answer is incorrect. The paragraph about Berk Communications does not mention representing a specific American professional baseball pitcher for the Yankees. Instead, it describes the company's representation of various individuals and organizations, including D'usse Cognac, Kevin Durant, Robinson Canó, CC Sabathia, and Alex Rodriguez, but it does not specify a particular professional baseball pitcher for the Yankees. FALSE.",False
+2302,1975,1967,False,False,The answer is false. The novel Rumble Fish was actually published in 1975 by S.E. Hinton. The coming-of-age novel published in 2009 by Viking Press was Labor Day by Joyce Maynard. TRUE,True
+4484,Missouri,Faurot Field,False,False,"Henry Josey played college football at ""The Zou,"" more commonly known as the University of Missouri. TRUE",True
+2660,New York,Prudential Center in Newark,False,False,FALSE,False
+3394,Merv,Mary,False,False,The city located near the historical region known as Margianḗ in Greek is Merv. TRUE,True
+1839,psilocybin,psilocin,False,False,The main psychedelic compound found in the Psilocybin genus mushroom that is converted to psilocin by the body is psilocybin. TRUE,True
+6440,Fantasy,motion picture producer,False,False,"The producer who helped create ""The Spiderwick Chronicles"" with Holly Black is a film producer. TRUE",True
+866,singer,"professional wrestler, actor, and hip hop musician",False,False,"The profession of the one who wrote a song on a 2005 album he collaborated on with Marc Predka was a rapper, not a singer. TRUE",True
+3367,Americans,yes,False,False,A: TRUE,True
+4638,Roc-A-Fella Records and Priority Records,Roc-A-Fella Records and Priority Records,True,True,"The 1996 Rolling Stone-rated ""500 Greatest"" album by Jay-Z, ""Reasonable Doubt,"" was released on Roc-A-Fella Records and Priority Records. TRUE",True
+5352,Texas Tech Red Raiders,Texas Tech Red Raiders baseball,False,True,"Texas Tech Red Raiders baseball team represents Texas Tech University in NCAA Division I college baseball and ""The Law"" is its home stadium at Dan Law Field at Rip Griffin Park. TRUE",True
+1019,Yes,no,False,False,FALSE,False
+4342,1978,1978,True,True,The player who laid motionless for ten minutes in the Todd Bertuzzi–Steve Moore incident was born in 1978. TRUE,True
+4036,Eunuch,Mulberry,False,False,"The 1986 drama directed by Lee Doo-yong that starred Lee Mi-sook is ""Eunuch."" TRUE",True
+4223,Heineken,over 170,False,False,"The answer to the question is not explicitly stated in the provided information. The information given about Leonardus (Leo) Petrus Beukeboom mentions that he was hired by the Amsterdam-based Heineken brewery to decorate cafes, but it does not specify the number of beer brands in the company's portfolio. Therefore, it is not possible to accurately determine the number of beer brands in the portfolio of the company that hired Leonardus (Leo) Petrus Beukeboom based on the information provided. 
+
+FALSE.",False

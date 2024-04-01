@@ -1,0 +1,1302 @@
+[
+    {
+        "_id": 16619,
+        "question": "What situation did Bill Walsh die in ?",
+        "answer": "natural causes",
+        "idx": 16619,
+        "idx_gt": 1,
+        "opts": [
+            "Car accident",
+            "natural causes",
+            "Drowning",
+            "Heart attack"
+        ]
+    },
+    {
+        "_id": 22603,
+        "question": "Which administrative territory is the work location of Walter Nussel ?",
+        "answer": "Munich",
+        "idx": 22603,
+        "idx_gt": 2,
+        "opts": [
+            "Berlin",
+            "Hamburg",
+            "Munich",
+            "Frankfurt"
+        ]
+    },
+    {
+        "_id": 25725,
+        "question": "Which administrative territory is the country of citizenship of Tomoji Tanabe ?",
+        "answer": "Japan",
+        "idx": 25725,
+        "idx_gt": 0,
+        "opts": [
+            "Japan",
+            "China",
+            "Korea",
+            "India"
+        ]
+    },
+    {
+        "_id": 7577,
+        "question": "Who are the spouses of Fleur Adcock ?",
+        "answer": "Alistair Campbell, Barry Crump",
+        "idx": 7577,
+        "idx_gt": 1,
+        "opts": [
+            "Barry White",
+            "Alistair Campbell, Barry Crump",
+            "John Smith",
+            "Harry Potter"
+        ]
+    },
+    {
+        "_id": 4294,
+        "question": "Where did Bj\u00f8rn Fongaard expire ?",
+        "answer": "Oslo",
+        "idx": 4294,
+        "idx_gt": 0,
+        "opts": [
+            "Oslo",
+            "Copenhagen",
+            "Stockholm",
+            "Berlin"
+        ]
+    },
+    {
+        "_id": 27666,
+        "question": "Which occupations were the positions for which Celso Benigno Luigi Costantini were appointed ?",
+        "answer": "cardinal, bishop",
+        "idx": 27666,
+        "idx_gt": 0,
+        "opts": [
+            "cardinal, bishop",
+            "pope, lawyer",
+            "architect, soldier",
+            "doctor, chef"
+        ]
+    },
+    {
+        "_id": 4189,
+        "question": "Which occupation is the profession of Maynor D\u00e1vila ?",
+        "answer": "association football player",
+        "idx": 4189,
+        "idx_gt": 3,
+        "opts": [
+            "Doctor",
+            "Teacher",
+            "Engineer",
+            "association football player"
+        ]
+    },
+    {
+        "_id": 17713,
+        "question": "What does Matar Niang do for a living ?",
+        "answer": "association football player",
+        "idx": 17713,
+        "idx_gt": 0,
+        "opts": [
+            "association football player",
+            "Doctor",
+            "Engineer",
+            "Teacher"
+        ]
+    },
+    {
+        "_id": 2663,
+        "question": "Where did the demise of Nicolas Jean Hugon de Bassville occur ?",
+        "answer": "Rome",
+        "idx": 2663,
+        "idx_gt": 3,
+        "opts": [
+            "Paris",
+            "London",
+            "Berlin",
+            "Rome"
+        ]
+    },
+    {
+        "_id": 4172,
+        "question": "Which administrative territory was Fyodor Ukraintsev born in ?",
+        "answer": "Zelenokumsk",
+        "idx": 4172,
+        "idx_gt": 1,
+        "opts": [
+            "Moscow",
+            "Zelenokumsk",
+            "St. Petersburg",
+            "Krasnodar"
+        ]
+    },
+    {
+        "_id": 4895,
+        "question": "What was Egon Dreger a member of ?",
+        "answer": "National Committee for a Free Germany",
+        "idx": 4895,
+        "idx_gt": 2,
+        "opts": [
+            "National Democratic Front",
+            "German Liberation Front",
+            "National Committee for a Free Germany",
+            "Free German Movement"
+        ]
+    },
+    {
+        "_id": 4442,
+        "question": "What was the sport that Arlene Xavier was a part of ?",
+        "answer": "volleyball",
+        "idx": 4442,
+        "idx_gt": 0,
+        "opts": [
+            "volleyball",
+            "tennis",
+            "basketball",
+            "soccer"
+        ]
+    },
+    {
+        "_id": 18765,
+        "question": "Which taxon does tetracenomycin C efflux protein    SCO2373 belong to ?",
+        "answer": "Streptomyces coelicolor A3(2)",
+        "idx": 18765,
+        "idx_gt": 1,
+        "opts": [
+            "Streptomyces griseus",
+            "Streptomyces coelicolor A3(2)",
+            "Streptomyces avermitilis",
+            "Streptomyces scabies"
+        ]
+    },
+    {
+        "_id": 23051,
+        "question": "Which administrative territory was Salome Bey born at ?",
+        "answer": "Newark",
+        "idx": 23051,
+        "idx_gt": 1,
+        "opts": [
+            "New York",
+            "Newark",
+            "Texas",
+            "Ohio"
+        ]
+    },
+    {
+        "_id": 15386,
+        "question": "Which people are an offsprings of Peter Lohmeyer ?",
+        "answer": "Lola Klamroth, Louis Klamroth",
+        "idx": 15386,
+        "idx_gt": 0,
+        "opts": [
+            "Lola Klamroth, Louis Klamroth",
+            "Lena Klamroth",
+            "Lucas Klamroth",
+            "Lisa Klamroth"
+        ]
+    },
+    {
+        "_id": 9569,
+        "question": "Which sports teams are Gregory Campbell a member of ?",
+        "answer": "Boston Bruins, Florida Panthers",
+        "idx": 9569,
+        "idx_gt": 2,
+        "opts": [
+            "Los Angeles Kings",
+            "Chicago Blackhawks",
+            "Boston Bruins, Florida Panthers",
+            "New York Rangers"
+        ]
+    },
+    {
+        "_id": 20596,
+        "question": "Who did the compostion for Time of Favor ?",
+        "answer": "Jonathan Bar Giora",
+        "idx": 20596,
+        "idx_gt": 2,
+        "opts": [
+            "John Smith",
+            "Michael Johnson",
+            "Jonathan Bar Giora",
+            "David Cohen"
+        ]
+    },
+    {
+        "_id": 18076,
+        "question": "Which administrative territories are adjacent to Onsernone ?",
+        "answer": "Craveggia, Re",
+        "idx": 18076,
+        "idx_gt": 3,
+        "opts": [
+            "Locarno",
+            "Domodossola",
+            "Pontedoso",
+            "Craveggia, Re"
+        ]
+    },
+    {
+        "_id": 21412,
+        "question": "Which sex does Jon Sholle possess ?",
+        "answer": "male",
+        "idx": 21412,
+        "idx_gt": 2,
+        "opts": [
+            "female",
+            "non-binary",
+            "male",
+            "undecided"
+        ]
+    },
+    {
+        "_id": 9154,
+        "question": "Which occupations have Karl Oberteuffer as his/her 's career ?",
+        "answer": "painter, etcher",
+        "idx": 9154,
+        "idx_gt": 3,
+        "opts": [
+            "singer",
+            "actor",
+            "writer",
+            "painter, etcher"
+        ]
+    },
+    {
+        "_id": 23606,
+        "question": "What represents the molecular function of threonyl-tRNA synthetase    BC4576 ?",
+        "answer": "metal ion binding",
+        "idx": 23606,
+        "idx_gt": 0,
+        "opts": [
+            "metal ion binding",
+            "mRNA binding",
+            "protein binding",
+            "enzyme binding"
+        ]
+    },
+    {
+        "_id": 23823,
+        "question": "Which sport was Iv\u00e1n Nova a part of ?",
+        "answer": "baseball",
+        "idx": 23823,
+        "idx_gt": 2,
+        "opts": [
+            "soccer",
+            "basketball",
+            "baseball",
+            "football"
+        ]
+    },
+    {
+        "_id": 11114,
+        "question": "Which administrative territory is the native country of Llu\u00eds Carreras ?",
+        "answer": "Spain",
+        "idx": 11114,
+        "idx_gt": 2,
+        "opts": [
+            "France",
+            "Italy",
+            "Spain",
+            "Portugal"
+        ]
+    },
+    {
+        "_id": 13649,
+        "question": "What is a component of Protein of unknown function YfiC    FP0346 ?",
+        "answer": "cytoplasm",
+        "idx": 13649,
+        "idx_gt": 3,
+        "opts": [
+            "membrane",
+            "nucleus",
+            "extracellular",
+            "cytoplasm"
+        ]
+    },
+    {
+        "_id": 10056,
+        "question": "What is the profession of Fabio Digenti ?",
+        "answer": "association football player",
+        "idx": 10056,
+        "idx_gt": 3,
+        "opts": [
+            "Architect",
+            "Chef",
+            "Doctor",
+            "association football player"
+        ]
+    },
+    {
+        "_id": 24825,
+        "question": "What is Kenneth Stenild a member of ?",
+        "answer": "IF Fram Larvik",
+        "idx": 24825,
+        "idx_gt": 1,
+        "opts": [
+            "Real Madrid",
+            "IF Fram Larvik",
+            "Manchester United",
+            "Chelsea"
+        ]
+    },
+    {
+        "_id": 17239,
+        "question": "Which part is a component of serine hydroxymethyltransferase    BPSS0547 ?",
+        "answer": "cytoplasm",
+        "idx": 17239,
+        "idx_gt": 2,
+        "opts": [
+            "nucleus",
+            "mitochondria",
+            "cytoplasm",
+            "endoplasmic reticulum"
+        ]
+    },
+    {
+        "_id": 16631,
+        "question": "What is the sex of Jean Th\u00e9odore Hubert Weustenraad ?",
+        "answer": "male",
+        "idx": 16631,
+        "idx_gt": 0,
+        "opts": [
+            "male",
+            "female",
+            "unknown",
+            "non-binary"
+        ]
+    },
+    {
+        "_id": 649,
+        "question": "Which the chemical bond that represents the molecular function of Protein phosphatase 1K, mitochondrial ?",
+        "answer": "metal ion binding",
+        "idx": 649,
+        "idx_gt": 1,
+        "opts": [
+            "covalent bond",
+            "metal ion binding",
+            "hydrogen bond",
+            "ionic bond"
+        ]
+    },
+    {
+        "_id": 1683,
+        "question": "What was received by \u00c9tienne Fran\u00e7ois Geoffroy ?",
+        "answer": "Fellow of the Royal Society",
+        "idx": 1683,
+        "idx_gt": 3,
+        "opts": [
+            "Nobel Prize",
+            "Pulitzer Prize",
+            "Oscar Award",
+            "Fellow of the Royal Society"
+        ]
+    },
+    {
+        "_id": 5591,
+        "question": "Which parties are Albano Dante Fachin affiliated with ?",
+        "answer": "Catalunya S\u00ed que es Pot, Proc\u00e9s Constituent",
+        "idx": 5591,
+        "idx_gt": 2,
+        "opts": [
+            "Esquerra Republicana de Catalunya",
+            "Partido Popular",
+            "Catalunya S\u00ed que es Pot, Proc\u00e9s Constituent",
+            "Ciudadanos"
+        ]
+    },
+    {
+        "_id": 20517,
+        "question": "Which is the part that is a component of isoleucyl-tRNA synthetase    ECUMN_0026 ?",
+        "answer": "cytoplasm",
+        "idx": 20517,
+        "idx_gt": 2,
+        "opts": [
+            "ribosome",
+            "nucleus",
+            "cytoplasm",
+            "mitochondria"
+        ]
+    },
+    {
+        "_id": 9487,
+        "question": "Which administrative territory is the native country of Bill Guckeyson ?",
+        "answer": "United States of America",
+        "idx": 9487,
+        "idx_gt": 2,
+        "opts": [
+            "United Kingdom",
+            "Germany",
+            "United States of America",
+            "Australia"
+        ]
+    },
+    {
+        "_id": 11985,
+        "question": "Which administrative territory is the native country of Gunnar Aasland ?",
+        "answer": "Norway",
+        "idx": 11985,
+        "idx_gt": 0,
+        "opts": [
+            "Norway",
+            "Sweden",
+            "Denmark",
+            "Finland"
+        ]
+    },
+    {
+        "_id": 21039,
+        "question": "Which administrative territory is the birthplace of Michele Cossato ?",
+        "answer": "Milan",
+        "idx": 21039,
+        "idx_gt": 2,
+        "opts": [
+            "Rome",
+            "Venice",
+            "Milan",
+            "Naples"
+        ]
+    },
+    {
+        "_id": 8714,
+        "question": "Which sport did Otto V\u00f6lker participate in ?",
+        "answer": "association football",
+        "idx": 8714,
+        "idx_gt": 0,
+        "opts": [
+            "association football",
+            "rugby",
+            "tennis",
+            "cricket"
+        ]
+    },
+    {
+        "_id": 18101,
+        "question": "Which person served as the directed of For the Love of Money ?",
+        "answer": "Ellie Kanner",
+        "idx": 18101,
+        "idx_gt": 2,
+        "opts": [
+            "Sylvester Stallone",
+            "Robert De Niro",
+            "Ellie Kanner",
+            "Tom Hanks"
+        ]
+    },
+    {
+        "_id": 2194,
+        "question": "Which process is 4-hydroxy-tetrahydrodipicolinate synthase    EF1184 involved in ?",
+        "answer": "metabolic process",
+        "idx": 2194,
+        "idx_gt": 2,
+        "opts": [
+            "cellular process",
+            "biosynthetic process",
+            "metabolic process",
+            "catabolic process"
+        ]
+    },
+    {
+        "_id": 12961,
+        "question": "Where did Bruno Schilling expire ?",
+        "answer": "Leipzig",
+        "idx": 12961,
+        "idx_gt": 3,
+        "opts": [
+            "Berlin",
+            "Munich",
+            "Hamburg",
+            "Leipzig"
+        ]
+    },
+    {
+        "_id": 19835,
+        "question": "Which metabolic process is Lysosomal acid lipase/cholesteryl ester hydrolase involved in ?",
+        "answer": "lipid metabolic process",
+        "idx": 19835,
+        "idx_gt": 2,
+        "opts": [
+            "cellular respiration",
+            "protein synthesis",
+            "lipid metabolic process",
+            "cell division"
+        ]
+    },
+    {
+        "_id": 2353,
+        "question": "Which person is the life partner of Padma Sachdev ?",
+        "answer": "Surinder Singh",
+        "idx": 2353,
+        "idx_gt": 3,
+        "opts": [
+            "Rajesh Sharma",
+            "Amit Verma",
+            "Gurpreet Singh",
+            "Surinder Singh"
+        ]
+    },
+    {
+        "_id": 14633,
+        "question": "Where was Fray \u00cd\u00f1igo Abbad y Lasierra born ?",
+        "answer": "Estadilla",
+        "idx": 14633,
+        "idx_gt": 2,
+        "opts": [
+            "Madrid",
+            "Barcelona",
+            "Estadilla",
+            "Seville"
+        ]
+    },
+    {
+        "_id": 7578,
+        "question": "Which administrative territory does Y\u0131ld\u0131ray Ko\u00e7al belong to ?",
+        "answer": "Turkey",
+        "idx": 7578,
+        "idx_gt": 1,
+        "opts": [
+            "Greece",
+            "Turkey",
+            "Sweden",
+            "Germany"
+        ]
+    },
+    {
+        "_id": 27137,
+        "question": "Which person was the teacher of Parmenides ?",
+        "answer": "Xenophanes",
+        "idx": 27137,
+        "idx_gt": 3,
+        "opts": [
+            "Plato",
+            "Aristotle",
+            "Socrates",
+            "Xenophanes"
+        ]
+    },
+    {
+        "_id": 26270,
+        "question": "What is the sex of John Robson ?",
+        "answer": "male",
+        "idx": 26270,
+        "idx_gt": 1,
+        "opts": [
+            "female",
+            "male",
+            "unknown",
+            "non-binary"
+        ]
+    },
+    {
+        "_id": 13922,
+        "question": "Who was the dad of Ida ?",
+        "answer": "Eoppa of Bernicia",
+        "idx": 13922,
+        "idx_gt": 2,
+        "opts": [
+            "Etana of Bernicia",
+            "Aethelred of Mercia",
+            "Eoppa of Bernicia",
+            "Aella of Northumbria"
+        ]
+    },
+    {
+        "_id": 13998,
+        "question": "Which administrative country subdivision was Juan Fernando Quintero born in ?",
+        "answer": "Barranquilla",
+        "idx": 13998,
+        "idx_gt": 3,
+        "opts": [
+            "Medellin",
+            "Bogota",
+            "Cali",
+            "Barranquilla"
+        ]
+    },
+    {
+        "_id": 23689,
+        "question": "Where is dihydropteroate synthase    spr0266 found ?",
+        "answer": "Streptococcus pneumoniae R6",
+        "idx": 23689,
+        "idx_gt": 2,
+        "opts": [
+            "Streptococcus agalactiae",
+            "Neisseria meningitidis",
+            "Streptococcus pneumoniae R6",
+            "Streptococcus pyogenes"
+        ]
+    },
+    {
+        "_id": 7395,
+        "question": "Who was the mother of Christien Brinkgreve ?",
+        "answer": "Sjuwke Brinkgreve-Kunst",
+        "idx": 7395,
+        "idx_gt": 1,
+        "opts": [
+            "Anna Brinkgreve-Kunst",
+            "Sjuwke Brinkgreve-Kunst",
+            "Elise Brinkgreve-Kunst",
+            "Marie Brinkgreve-Kunst"
+        ]
+    },
+    {
+        "_id": 15968,
+        "question": "Which qualification does Valerijus Kirpotinas hold ?",
+        "answer": "Doktor Nauk in Philology",
+        "idx": 15968,
+        "idx_gt": 1,
+        "opts": [
+            "Master's in Business Administration",
+            "Doktor Nauk in Philology",
+            "Bachelor's in Computer Science",
+            "Ph.D. in Economics"
+        ]
+    },
+    {
+        "_id": 14901,
+        "question": "Who is the brother of Marina Mahathir ?",
+        "answer": "Mokhzani Mahathir",
+        "idx": 14901,
+        "idx_gt": 0,
+        "opts": [
+            "Mokhzani Mahathir",
+            "Mukhriz Mahathir",
+            "Mahathir Mohamad",
+            "Muhyiddin Yassin"
+        ]
+    },
+    {
+        "_id": 15287,
+        "question": "What can be considered as category for T. Trilby ?",
+        "answer": "children's literature",
+        "idx": 15287,
+        "idx_gt": 0,
+        "opts": [
+            "children's literature",
+            "Fiction",
+            "Non-fiction",
+            "Historical fiction"
+        ]
+    },
+    {
+        "_id": 2072,
+        "question": "Which gene encodes guanylate kinase    CT0247 ?",
+        "answer": "guanylate kinase    CT0247",
+        "idx": 2072,
+        "idx_gt": 2,
+        "opts": [
+            "adenylate kinase",
+            "phosphoglycerate kinase",
+            "guanylate kinase    CT0247",
+            "thymidylate kinase"
+        ]
+    },
+    {
+        "_id": 25396,
+        "question": "Which administrative territory was Juan Antonio Di Lorenzo born in ?",
+        "answer": "Quilmes",
+        "idx": 25396,
+        "idx_gt": 2,
+        "opts": [
+            "Buenos Aires",
+            "Cordoba",
+            "Quilmes",
+            "Mendoza"
+        ]
+    },
+    {
+        "_id": 21097,
+        "question": "How did Thad Jones die ?",
+        "answer": "bone cancer",
+        "idx": 21097,
+        "idx_gt": 0,
+        "opts": [
+            "bone cancer",
+            "Car accident",
+            "Old age",
+            "Heart attack"
+        ]
+    },
+    {
+        "_id": 8223,
+        "question": "Which sex does Theodore Nicolas Gobley belong to ?",
+        "answer": "male",
+        "idx": 8223,
+        "idx_gt": 2,
+        "opts": [
+            "female",
+            "non-binary",
+            "male",
+            "undisclosed"
+        ]
+    },
+    {
+        "_id": 17401,
+        "question": "Which occupation is the profession of Ringo Cantillo ?",
+        "answer": "association football player",
+        "idx": 17401,
+        "idx_gt": 3,
+        "opts": [
+            "Doctor",
+            "Teacher",
+            "Engineer",
+            "association football player"
+        ]
+    },
+    {
+        "_id": 16548,
+        "question": "What is the ethnicity of Georgy Saakyan ?",
+        "answer": "Armenians",
+        "idx": 16548,
+        "idx_gt": 1,
+        "opts": [
+            "Georgians",
+            "Armenians",
+            "Azerbaijanis",
+            "Ukrainians"
+        ]
+    },
+    {
+        "_id": 19416,
+        "question": "What is the firstname of Sami Adwan ?",
+        "answer": "Sami",
+        "idx": 19416,
+        "idx_gt": 2,
+        "opts": [
+            "Amin",
+            "Adam",
+            "Sami",
+            "Asher"
+        ]
+    },
+    {
+        "_id": 11397,
+        "question": "Which are the parts that are a component of Solute carrier family 25 member 39 ?",
+        "answer": "mitochondrion, membrane",
+        "idx": 11397,
+        "idx_gt": 2,
+        "opts": [
+            "cytoplasm",
+            "endoplasmic reticulum",
+            "mitochondrion, membrane",
+            "nucleus"
+        ]
+    },
+    {
+        "_id": 386,
+        "question": "Which German business organization is Hans Schwalm an alumni of ?",
+        "answer": "Humboldt University of Berlin",
+        "idx": 386,
+        "idx_gt": 1,
+        "opts": [
+            "Technical University of Berlin",
+            "Humboldt University of Berlin",
+            "University of Munich",
+            "University of Heidelberg"
+        ]
+    },
+    {
+        "_id": 18258,
+        "question": "What is the title conferred upon Stefan de Castenedolo Kasprzycki ?",
+        "answer": "divisional general",
+        "idx": 18258,
+        "idx_gt": 3,
+        "opts": [
+            "brigadier general",
+            "lieutenant general",
+            "major general",
+            "divisional general"
+        ]
+    },
+    {
+        "_id": 3734,
+        "question": "Which person directed Vaanavil ?",
+        "answer": "Manoj Kumar",
+        "idx": 3734,
+        "idx_gt": 2,
+        "opts": [
+            "Gautham Menon",
+            "Mani Ratnam",
+            "Manoj Kumar",
+            "Bala"
+        ]
+    },
+    {
+        "_id": 14603,
+        "question": "What are forename of Anicet Utset ?",
+        "answer": "Aniceto, Anicet",
+        "idx": 14603,
+        "idx_gt": 3,
+        "opts": [
+            "Anselm",
+            "Antonio",
+            "Ansel",
+            "Aniceto, Anicet"
+        ]
+    },
+    {
+        "_id": 15839,
+        "question": "Which person was the doctoral advisor of Dmitry Borisovich Fuchs ?",
+        "answer": "Albert Schwarz",
+        "idx": 15839,
+        "idx_gt": 1,
+        "opts": [
+            "Nikita Nekrasov",
+            "Albert Schwarz",
+            "Sergei Gukov",
+            "Maxim Kontsevich"
+        ]
+    },
+    {
+        "_id": 26186,
+        "question": "Which sport did Bob McDonald participate in ?",
+        "answer": "association football",
+        "idx": 26186,
+        "idx_gt": 1,
+        "opts": [
+            "basketball",
+            "association football",
+            "volleyball",
+            "tennis"
+        ]
+    },
+    {
+        "_id": 18832,
+        "question": "Which sport did Daley Sinkgraven participate in ?",
+        "answer": "association football",
+        "idx": 18832,
+        "idx_gt": 2,
+        "opts": [
+            "Basketball",
+            "Tennis",
+            "association football",
+            "Golf"
+        ]
+    },
+    {
+        "_id": 6235,
+        "question": "Which language can Nestore Pelicelli understand ?",
+        "answer": "Italian",
+        "idx": 6235,
+        "idx_gt": 0,
+        "opts": [
+            "Italian",
+            "French",
+            "German",
+            "Spanish"
+        ]
+    },
+    {
+        "_id": 403,
+        "question": "What was the sport that Ivan Klasni\u0107 was a part of ?",
+        "answer": "association football",
+        "idx": 403,
+        "idx_gt": 0,
+        "opts": [
+            "association football",
+            "tennis",
+            "basketball",
+            "badminton"
+        ]
+    },
+    {
+        "_id": 21264,
+        "question": "What was awarded to Kenjir\u014d Sh\u014dda ?",
+        "answer": "Order of the Rising Sun, 1st class",
+        "idx": 21264,
+        "idx_gt": 3,
+        "opts": [
+            "Order of the Golden Eagle",
+            "Order of the Sacred Treasure",
+            "Order of the Chrysanthemum",
+            "Order of the Rising Sun, 1st class"
+        ]
+    },
+    {
+        "_id": 13791,
+        "question": "Which party is Anders Pettersson affiliated with ?",
+        "answer": "Centre Party",
+        "idx": 13791,
+        "idx_gt": 3,
+        "opts": [
+            "Social Democratic Party",
+            "Moderate Party",
+            "Left Party",
+            "Centre Party"
+        ]
+    },
+    {
+        "_id": 19882,
+        "question": "Which sports teams are Justin Christian a member of ?",
+        "answer": "New York Yankees, San Francisco Giants, Memphis Redbirds",
+        "idx": 19882,
+        "idx_gt": 2,
+        "opts": [
+            "Los Angeles Dodgers",
+            "Boston Red Sox",
+            "New York Yankees, San Francisco Giants, Memphis Redbirds",
+            "Chicago Cubs"
+        ]
+    },
+    {
+        "_id": 10288,
+        "question": "What are the professions of Luciano Doria ?",
+        "answer": "film director, film producer, screenwriter",
+        "idx": 10288,
+        "idx_gt": 3,
+        "opts": [
+            "actor",
+            "cinematographer",
+            "film critic",
+            "film director, film producer, screenwriter"
+        ]
+    },
+    {
+        "_id": 5657,
+        "question": "Which administrative territory was Christopher Cristaldo born in ?",
+        "answer": "Melbourne",
+        "idx": 5657,
+        "idx_gt": 2,
+        "opts": [
+            "Sydney",
+            "Brisbane",
+            "Melbourne",
+            "Perth"
+        ]
+    },
+    {
+        "_id": 23120,
+        "question": "Which political party is Manuel Casesnoves Soldevila a member of ?",
+        "answer": "Socialist Party of the Valencian Country",
+        "idx": 23120,
+        "idx_gt": 3,
+        "opts": [
+            "Republican Party",
+            "People's Party",
+            "United Left",
+            "Socialist Party of the Valencian Country"
+        ]
+    },
+    {
+        "_id": 7977,
+        "question": "What was the sport that Alberto Berasategui was a part of ?",
+        "answer": "tennis",
+        "idx": 7977,
+        "idx_gt": 1,
+        "opts": [
+            "swimming",
+            "tennis",
+            "soccer",
+            "cricket"
+        ]
+    },
+    {
+        "_id": 26199,
+        "question": "Which state is Karl-Heinz Wirzberger an inhabitant of ?",
+        "answer": "East Germany",
+        "idx": 26199,
+        "idx_gt": 0,
+        "opts": [
+            "East Germany",
+            "West Germany",
+            "Austria",
+            "Poland"
+        ]
+    },
+    {
+        "_id": 7556,
+        "question": "Which sex does Jacques Van Gompel have ?",
+        "answer": "male",
+        "idx": 7556,
+        "idx_gt": 0,
+        "opts": [
+            "male",
+            "female",
+            "unknown",
+            "non-binary"
+        ]
+    },
+    {
+        "_id": 13618,
+        "question": "Which administrative territory is the native country of Mark Peat ?",
+        "answer": "United Kingdom",
+        "idx": 13618,
+        "idx_gt": 2,
+        "opts": [
+            "United States",
+            "Australia",
+            "United Kingdom",
+            "Canada"
+        ]
+    },
+    {
+        "_id": 26539,
+        "question": "Which is the work location of Marion Junge ?",
+        "answer": "Dresden",
+        "idx": 26539,
+        "idx_gt": 2,
+        "opts": [
+            "Berlin",
+            "Munich",
+            "Dresden",
+            "Frankfurt"
+        ]
+    },
+    {
+        "_id": 18000,
+        "question": "Which administrative territory is the country of citizenship of Boukhalfa Branci ?",
+        "answer": "Algeria",
+        "idx": 18000,
+        "idx_gt": 0,
+        "opts": [
+            "Algeria",
+            "Morocco",
+            "Tunisia",
+            "Egypt"
+        ]
+    },
+    {
+        "_id": 19808,
+        "question": "Which profession developed F.E.A.R. 3 ?",
+        "answer": "Day 1 Studios",
+        "idx": 19808,
+        "idx_gt": 0,
+        "opts": [
+            "Day 1 Studios",
+            "Respawn Entertainment",
+            "Infinity Ward",
+            "Raven Software"
+        ]
+    },
+    {
+        "_id": 13993,
+        "question": "What is Mario Aibekob a member of ?",
+        "answer": "Indonesia national football team",
+        "idx": 13993,
+        "idx_gt": 0,
+        "opts": [
+            "Indonesia national football team",
+            "Japan national football team",
+            "South Korea national football team",
+            "Thailand national football team"
+        ]
+    },
+    {
+        "_id": 24637,
+        "question": "What is the religious affiliation of Vivien Laborde ?",
+        "answer": "Oratory of Saint Philip Neri",
+        "idx": 24637,
+        "idx_gt": 3,
+        "opts": [
+            "Catholicism",
+            "Buddhism",
+            "Judaism",
+            "Oratory of Saint Philip Neri"
+        ]
+    },
+    {
+        "_id": 16831,
+        "question": "What is the job of John Hoskins (officer) ?",
+        "answer": "military personnel",
+        "idx": 16831,
+        "idx_gt": 3,
+        "opts": [
+            "teacher",
+            "doctor",
+            "pilot",
+            "military personnel"
+        ]
+    },
+    {
+        "_id": 24718,
+        "question": "Which is the part that is a component of putative carbohydrate kinase    ECIAI39_1040 ?",
+        "answer": "cytoplasm",
+        "idx": 24718,
+        "idx_gt": 2,
+        "opts": [
+            "nucleus",
+            "mitochondria",
+            "cytoplasm",
+            "cell wall"
+        ]
+    },
+    {
+        "_id": 4038,
+        "question": "Which administrative territory is the native country of Mario Sergio Aumarante Santana ?",
+        "answer": "Brazil",
+        "idx": 4038,
+        "idx_gt": 0,
+        "opts": [
+            "Brazil",
+            "Argentina",
+            "Chile",
+            "Colombia"
+        ]
+    },
+    {
+        "_id": 23670,
+        "question": "Which language is Paolo Costa capable of writing ?",
+        "answer": "Italian",
+        "idx": 23670,
+        "idx_gt": 1,
+        "opts": [
+            "French",
+            "Italian",
+            "Spanish",
+            "German"
+        ]
+    },
+    {
+        "_id": 8788,
+        "question": "What was the sport that Lucas Viatri was a part of ?",
+        "answer": "association football",
+        "idx": 8788,
+        "idx_gt": 2,
+        "opts": [
+            "basketball",
+            "tennis",
+            "association football",
+            "volleyball"
+        ]
+    },
+    {
+        "_id": 16917,
+        "question": "What topic was discussed in September ?",
+        "answer": "September 11 attacks",
+        "idx": 16917,
+        "idx_gt": 0,
+        "opts": [
+            "September 11 attacks",
+            "World War II",
+            "The Great Depression",
+            "Industrial Revolution"
+        ]
+    },
+    {
+        "_id": 21369,
+        "question": "Which political territory does Ellen Kessler belong to ?",
+        "answer": "Germany",
+        "idx": 21369,
+        "idx_gt": 1,
+        "opts": [
+            "France",
+            "Germany",
+            "United Kingdom",
+            "Italy"
+        ]
+    },
+    {
+        "_id": 15342,
+        "question": "Which french administrative divisions share border with Remoulins ?",
+        "answer": "Vers-Pont-du-Gard, Fourn\u00e8s, Castillon-du-Gard",
+        "idx": 15342,
+        "idx_gt": 2,
+        "opts": [
+            "N\u00eemes",
+            "Avignon",
+            "Vers-Pont-du-Gard, Fourn\u00e8s, Castillon-du-Gard",
+            "Marseille"
+        ]
+    },
+    {
+        "_id": 3701,
+        "question": "Which party does Anton Staudacher belong to ?",
+        "answer": "Christian Social Union of Bavaria",
+        "idx": 3701,
+        "idx_gt": 1,
+        "opts": [
+            "Social Democratic Party of Germany",
+            "Christian Social Union of Bavaria",
+            "Free Democratic Party",
+            "Alternative for Germany"
+        ]
+    },
+    {
+        "_id": 22612,
+        "question": "Which nucleic acid sequence encodes tRNA/rRNA methyltransferase SpoU    Rru_A3372 ?",
+        "answer": "tRNA/rRNA methyltransferase SpoU    Rru_A3372",
+        "idx": 22612,
+        "idx_gt": 1,
+        "opts": [
+            "tRNA/rRNA methylase SpoT",
+            "tRNA/rRNA methyltransferase SpoU    Rru_A3372",
+            "tRNA/rRNA methyltransferase MetF",
+            "tRNA/rRNA methylase RsmG"
+        ]
+    },
+    {
+        "_id": 27117,
+        "question": "Which national sports team is Kadiri Ikhana a member of ?",
+        "answer": "Nigeria national football team",
+        "idx": 27117,
+        "idx_gt": 1,
+        "opts": [
+            "Ghana national football team",
+            "Nigeria national football team",
+            "Cameroon national football team",
+            "Algeria national football team"
+        ]
+    },
+    {
+        "_id": 18725,
+        "question": "Who was the father of Friedrich Ludwig von Eyben ?",
+        "answer": "Christian August von Eyben",
+        "idx": 18725,
+        "idx_gt": 3,
+        "opts": [
+            "Carl Friedrich von Eyben",
+            "Gustav Heinrich von Eyben",
+            "Wilhelm Paul von Eyben",
+            "Christian August von Eyben"
+        ]
+    },
+    {
+        "_id": 12349,
+        "question": "Who is married to Albert V, Duke of Mecklenburg ?",
+        "answer": "Margaret of Brandenburg",
+        "idx": 12349,
+        "idx_gt": 3,
+        "opts": [
+            "Matilda of Holstein-Gottorp",
+            "Princess Elisabeth of Waldeck and Pyrmont",
+            "Sophia of Pomerania",
+            "Margaret of Brandenburg"
+        ]
+    },
+    {
+        "_id": 20739,
+        "question": "Which sports team is Kim Elgie a member of ?",
+        "answer": "Scotland national rugby union team",
+        "idx": 20739,
+        "idx_gt": 0,
+        "opts": [
+            "Scotland national rugby union team",
+            "England national rugby union team",
+            "Ireland national rugby union team",
+            "Wales national rugby union team"
+        ]
+    },
+    {
+        "_id": 1735,
+        "question": "What was the cause of death of Ant\u00f4nio Batista Vieira ?",
+        "answer": "heart failure",
+        "idx": 1735,
+        "idx_gt": 3,
+        "opts": [
+            "lung infection",
+            "old age",
+            "brain tumor",
+            "heart failure"
+        ]
+    },
+    {
+        "_id": 1433,
+        "question": "Which sex does R\u00f4mulo Noronha have ?",
+        "answer": "male",
+        "idx": 1433,
+        "idx_gt": 1,
+        "opts": [
+            "female",
+            "male",
+            "non-binary",
+            "uncertain"
+        ]
+    }
+]

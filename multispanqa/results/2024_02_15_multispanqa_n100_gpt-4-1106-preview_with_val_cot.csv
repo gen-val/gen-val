@@ -1,0 +1,279 @@
+Index,Question,Prediction,Answer,Eval,Manual Eval,Validator Pred
+3456,who has the right to vote in france,citizens,"['French citizens over the age of 18 registered on the electoral rolls', 'For municipal and European , but not national , elections , citizens aged 18 or older of other European Union countries']",False,True,"TRUE
+
+The information provided indicates that the voters in France are French citizens over the age of 18 registered on the electoral rolls. Additionally, for municipal and European elections, citizens aged 18 or older of other European Union countries may also vote in France, but the primary premise is that the right to vote is held by citizens of France who meet the age and registration requirements."
+2985,what are the three tribes that make up the sioux nation,"Lakota, Western Dakota, Eastern Dakota","['Lakota', 'Western Dakota', 'Eastern Dakota']",False,True,"TRUE
+
+The three tribes that make up the Sioux Nation are indeed the Lakota, Western Dakota, and Eastern Dakota, as mentioned in the paragraph. These tribes are categorized based on regional and linguistic characteristics, forming the larger collective known as the Great Sioux Nation."
+646,where does one tree hill take place in real life,Wilmington,"['Wilmington , North Carolina', 'the battleship USS North Carolina', 'the University of North Carolina Wilmington']",False,True,"TRUE
+
+The show ""One Tree Hill"" was primarily filmed in and around Wilmington, North Carolina, even though the show is set in the fictional town of Tree Hill. Many of the scenes were indeed shot near the battleship USS North Carolina and on the University of North Carolina Wilmington campus, as stated in the context. Wilmington served as the real-life location for the fictional setting of the series."
+5227,who sings let me see beneath your beautiful,Labrinth,"['Labrinth', 'Emeli Sandé']",True,True,"TRUE
+
+The song ""Beneath Your Beautiful"" is a duet between Labrinth and Emeli Sandé, as described in the context provided. Labrinth is one of the singers of the song."
+1461,which countries have territorial claims in the arctic circle,"Canada, Norway, Russia, Denmark, Iceland, Sweden, Finland, United States","['Canada', 'Norway', 'Russia', 'Denmark ( via Greenland )', 'Iceland', 'Sweden', 'Finland', 'United States']",False,True,"FALSE.
+
+Of the countries listed, all have territorial claims in the Arctic region except for Sweden and Finland, as they do not have coastlines on the Arctic Ocean and thus do not have territorial seas or exclusive economic zones in the Arctic Ocean. The correct list of countries with territorial claims in the Arctic Circle would be Canada, Norway, Russia, Denmark (through Greenland), and the United States (through Alaska). While Iceland is an Arctic state and a member of the Arctic Council, it does not have a"
+5192,what does the salvation army do to help,Assistance,"['running charity shops', 'operating shelters for the homeless', 'disaster relief and humanitarian aid to developing countries']",False,True,"FALSE
+
+The Salvation Army assists by running charity shops, operating shelters for the homeless, and providing disaster relief and humanitarian aid to developing countries. They aim to address both physical and spiritual needs of individuals, following their mission to advance the Christian religion, provide education, relieve poverty, and engage in other charitable activities beneficial to society."
+1778,who is the owner of american top team,Dan Lambert,"['Ricardo Liborio', 'Dan Lambert']",True,True,"TRUE
+
+Dan Lambert is one of the co-founders of American Top Team (ATT) and provided the financial support and business expertise necessary to establish the team. While Ricardo Liborio was also a co-founder and provided the initial group of Brazilian fighters and coaching expertise, Dan Lambert's role as a partner who provided financial backing indicates that he holds ownership in the organization. Therefore, Dan Lambert is an owner of American Top Team."
+155,the names of the evil stepsisters in cinderella,Anastasia and Drizella,"['Anastasia', 'Drizella']",False,True,"TRUE
+
+The names of the evil stepsisters in Cinderella are indeed Anastasia and Drizella, as stated in the given paragraph."
+4707,when did the broncos last win a superbowl,2016,"['2015 season', 'Super Bowl 50']",False,False,"FALSE
+
+The Denver Broncos last won the Super Bowl on February 7, 2016, which was Super Bowl 50. However, the Super Bowl win is attributed to the 2015 NFL season. They defeated the Carolina Panthers 24–10 in that game. The 2016 in the context of the Super Bowl win represents the year the game was played, not the season it represents."
+952,who did the cleveland browns draft in the first round this year,Ineligible,"['Baker Mayfield', 'Denzel Ward']",False,False,"FALSE
+
+The question seems to be asking for information regarding the Cleveland Browns’ first-round draft choice for a specific year, which is not provided in the paragraph. Therefore, without the current year's NFL Draft information, which typically occurs in April, I cannot accurately answer who the Cleveland Browns drafted in the first round ""this year."" My knowledge is up to the start of 2023, and without the exact year specified, we would need to refer to the latest available NFL Draft data or the team"
+213,who were the central powers in world war one,alliance,"['Germany', 'Austria - Hungary', 'the Ottoman Empire', 'Bulgaria']",False,False,"The Central Powers in World War One included Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria.
+
+TRUE"
+3728,who were the founding fathers of the us,Leaders,"['John Adams', 'Benjamin Franklin', 'Alexander Hamilton', 'John Jay', 'Thomas Jefferson', 'James Madison', 'George Washington']",False,False,"FALSE
+
+The question ""who were the founding fathers of the USA"" is specifically asking for identification of individuals, not a generic term. The paragraph provides a detailed answer to this, naming John Adams, Benjamin Franklin, Alexander Hamilton, John Jay, Thomas Jefferson, James Madison, and George Washington as key Founding Fathers identified by historian Richard B. Morris. Additionally, it states their contributions to the American Revolution and the establishment of the United States, such as drafting the Declaration of Independence, authoring The"
+1849,which two countries will play at this year's world cup for the first time,Iceland and Panama,"['Iceland', 'Panama']",False,True,"FALSE
+
+The information provided pertains to the 2018 FIFA World Cup, where Iceland and Panama made their first appearances. It does not provide any details about which countries are playing for the first time in this year's World Cup (assuming ""this year"" refers to 2023), as the FIFA World Cup occurs every four years and the next one after 2018 would be in 2022. Therefore, without current information on the participating teams in the 2022 tournament, we cannot"
+2830,extent of the roman empire at its height,5 million square kilometres,"['5 million square kilometres', ""an estimated 70 million people , at that time 21 % of the world 's entire population""]",True,True,TRUE
+2003,where does the food for most deep sea animals come from,Detritus,"['organic material that falls from above', 'eating other creatures that have derived their food through the process of chemosynthesis']",False,False,"TRUE
+
+The paragraph explains that at the depths being discussed, most of the food for deep-sea animals comes from organic material which falls from above. This organic material is commonly referred to as ""marine snow"" or detritus. It consists of dead plants, decaying animals, fecal matter, and other organic substances that sink from shallower waters to the ocean depths, where deep-sea creatures feed upon them. Additionally, some creatures derive their food through chemosynthesis, but the primary"
+4960,what are the variables of boyle's law,"Pressure, volume","['P is the pressure of the gas', 'V is the volume of the gas', 'k is a constant']",False,True,"TRUE
+
+The variables in Boyle's Law are indeed pressure (P) and volume (V). Boyle's Law states that for a given mass and constant temperature, the pressure of a gas is inversely proportional to its volume. This relationship is mathematically expressed as P1V1 = P2V2 when comparing the same amount of gas under two different sets of conditions (1 and 2). Here, k is a constant for a given mass of gas at constant temperature, reflecting the inverse"
+1188,who did hey arnold have a crush on,Lila Sawyer,"['Ruth McDougal', 'Lila Sawyer']",True,True,"TRUE
+
+Arnold had two major crushes in the series. Initially, he had a crush on Ruth McDougal through most of Season 1. However, beginning from Season 2 and onwards, he had a crush on a classmate named Lila Sawyer. The given text mentions both crushes but specifies that his crush on Lila Sawyer persisted after it developed in Season 2."
+2664,what does the word redemption mean in the bible,Deliverance,"['deliverance from sin', 'freedom from captivity']",False,True,"FALSE
+
+The word ""redemption"" in the Bible encompasses more than just deliverance. According to the provided paragraph, in Christian theology, ""redemption"" refers to the deliverance of Christians from sin (which is an aspect of deliverance) but also invokes the concept of a ""ransom"" being paid, implying a financial metaphor where Jesus' death pays the price to release Christians from the bondage to sin and death. Hence, the meaning is broader than just ""deliverance"" and includes"
+2666,who wrote i'm going to love you through it,"Ben Hayslip, Sonya Isaacs, Jimmy Yeary","['Ben Hayslip', 'Sonya Isaacs', 'Jimmy Yeary']",False,True,TRUE
+409,who does the voice of cleveland brown jr,Kevin Michael Richardson,"['Mike Henry', 'Kevin Michael Richardson']",True,True,"FALSE
+
+Cleveland Orenthal Brown Jr., also known as Cleveland Jr., was originally voiced by Mike Henry in Family Guy. Kevin Michael Richardson took over the role when the character moved to The Cleveland Show and also voiced the character upon his return to Family Guy. Therefore, the correct answer is that Kevin Michael Richardson does the voice of Cleveland Brown Jr. in The Cleveland Show and in later episodes of Family Guy after the character's transformation. However, Mike Henry was the original voice in earlier episodes of"
+993,alternative pathway of complement activation is initiated by,hydrolysis,"['the C3b protein directly binds a microbe', 'foreign materials', 'damaged tissues']",False,False,"TRUE
+
+The alternative pathway of complement activation is indeed initiated by hydrolysis. As stated in the context, it begins with the spontaneous hydrolysis of the C3 protein, which is abundant in the blood plasma. This spontaneous hydrolysis is referred to as ""tickover"" and it produces C3(H2O), which then can bind to factors B and D, ultimately leading to the formation of the C3b protein that can attach to pathogens, foreign materials, and damaged tissues to"
+1793,a geometry ruler can be constructed by using what tools,Compass-and-straightedge,"['idealized ruler', 'compass']",False,True,"TRUE
+
+A geometry ruler (straightedge) can indeed be constructed using compass-and-straightedge construction, which is the traditional method for creating geometric figures using only these two tools. The straightedge used in this context is an idealized tool assumed to be infinitely long with no markings, and is used to draw straight lines between points. The compass is used for creating arcs and circles and can be used in a multi-step procedure to transfer distances despite the restriction that it collapses when lifted from the page."
+436,where is st lawrence river located in canada,Quebec,"['Quebec', 'Ontario']",True,True,"FALSE
+
+The Saint Lawrence River is located in both Quebec and Ontario, as it traverses through the Canadian provinces of Quebec and Ontario."
+393,what is the significance of the french revolution,Transformation,"['overthrew the monarchy', 'established a republic', 'violent periods of political turmoil', 'dictatorship under Napoleon that rapidly brought many of its principles to Western Europe and beyond', 'triggering the global decline of absolute monarchies while replacing them with republics and liberal democracies', 'unleashed a wave of global conflicts that extended from the Caribbean to the Middle East']",False,False,"FALSE
+
+The significance of the French Revolution goes beyond a single word like ""Transformation."" The French Revolution's importance can be summarized by its major impacts and contributions to history. These include:
+
+1. The overthrow of the monarchy and the establishment of a republic.
+2. The spread of Enlightenment ideals such as liberty, equality, and fraternity.
+3. The end of feudal privileges and the promotion of a merit-based society.
+4. The influence on the global decline of absolute monarchies and the rise of republic"
+1717,who wrote the song heartache on the dance floor,"Pardi, Butler, Long","['Pardi', 'Bart Butler', 'Brice Long']",False,True,"TRUE
+
+The song ""Heartache on the Dance Floor"" was written by Jon Pardi, Bart Butler, and Brice Long, as stated in the context provided."
+3474,who makes up the us green building council,members,"['Mike Italiano', 'David Gottfried', 'Rick Fedrizzi', 'Mahesh Ramanujam']",False,False,"TRUE
+
+The U.S. Green Building Council (USGBC) is described as a membership-based non-profit organization. This means that it is composed of members who join the organization, typically professionals, companies, and organizations interested in sustainability and green building practices."
+2263,what are the three parts of large intestine,"Colon, rectum, cecum.","['cecum', 'colon', 'rectum']",False,True,"TRUE
+
+The three parts of the large intestine mentioned are indeed the colon, rectum, and cecum. This is consistent with the definition that most sources use for the large intestine as comprising the combination of the cecum, colon, rectum, and sometimes the anal canal is included in this definition as well."
+5207,where is cook's country tv show filmed,Vermont,"['Carver House', ""43 ° 15 ′ 36 '' N 73 ° 13 ′ 24 '' W \ufeff / \ufeff 43.25988 ° N 73.22325 ° W \ufeff / 43.25988 ; - 73.22325"", 'Rupert , Vermont']",False,False,"TRUE
+
+The paragraph states that ""Cook's Country is filmed in a renovated 1806 farmhouse known locally as Carver House,"" and it goes on to provide the coordinates that place it in Rupert, Vermont. Therefore, the TV show is filmed in Vermont."
+2012,what does amg stand for in mercedes benz cars,"Aufrecht, Melcher, Großaspach","['Aufrecht', 'Melcher', 'Großaspach']",False,True,TRUE
+1724,in what present day states were the spanish missions located,"Louisiana, Texas","['Louisiana', 'East Texas']",False,True,"FALSE
+
+The statement provided mentions that the Spanish missions were located within the present-day U.S. states of Louisiana and **East Texas**. However, it's important to clarify that ""East Texas"" is not a separate state but rather refers to a geographical area within the state of Texas. So, the correct answer is that the Spanish missions were located in the present-day state of Louisiana and the state of Texas (specifically, the eastern part of Texas)."
+3313,where was o brother where out thou filmed,Mississippi,"['Canton , Mississippi', 'Florence , South Carolina']",False,True,TRUE
+600,where can you not carry a concealed weapon in south carolina,Schools,"['private or public school property', 'publicly owned building']",False,True,"TRUE
+
+The excerpt specifically states that it is unlawful to carry a firearm onto private or public school property without express permission. Hence, you cannot carry a concealed weapon in schools in South Carolina."
+4737,who wrote the song cop car,"Zach Crowell, Sam Hunt, Matt Jenkins","['Zach Crowell', 'Sam Hunt', 'Matt Jenkins']",False,True,"TRUE
+
+The song ""Cop Car"" was written by Zach Crowell, Sam Hunt, and Matt Jenkins, as stated in the context provided."
+4944,who wrote when will my life begin from tangled,Glenn Slater,"['Glenn Slater', 'Alan Menken']",True,True,"FALSE
+
+The song ""When Will My Life Begin?"" from Disney's ""Tangled"" features lyrics by Glenn Slater and music by Alan Menken. Therefore, both Slater and Menken are credited with writing the song, with Slater responsible for the lyrics and Menken for the composition."
+835,who wrote treat you better by shawn mendes,Co-wrote,"['Shawn Mendes', 'Teddy Geiger', 'Scott Harris']",False,False,"FALSE
+
+""Treat You Better"" by Shawn Mendes was co-written by Shawn Mendes, Teddy Geiger, and Scott Harris. Therefore, the correct answer would not simply be 'Co-wrote' but rather that Shawn Mendes, Teddy Geiger, and Scott Harris wrote ""Treat You Better."""
+2363,where does most rice farming take place in china,South,"['Zhu Jiang delta', 'Yunnan', 'Guizhou', 'Sichuan']",False,False,"FALSE.
+
+According to the paragraph provided, the majority of rice farming in China takes place south of the Huai River, in the Zhu Jiang delta, and in the Yunnan, Guizhou, and Sichuan provinces. Just stating ""South"" is not entirely accurate, as it does not include the specific regions mentioned. It is important to specify these areas to provide a complete answer. Therefore, a more detailed answer would be: most rice farming in China takes place south of the Hu"
+3300,who wrote the song living on a prayer,"Jon Bon Jovi, Richie Sambora, Desmond Child","['Jon Bon Jovi', 'Richie Sambora', 'Desmond Child']",False,True,TRUE
+3747,where was the film guns of navarone filmed,Rhodes,"['Greek island of Rhodes', 'Gozo , near Malta', 'Tino , in the Ligurian Sea']",False,True,"FALSE
+
+While it's true that the Greek island of Rhodes provided locations for ""The Guns of Navarone,"" the question asks where the film was filmed in general, and the given paragraph indicates that additional scenes were shot on other islands as well. Specifically, the paragraph mentions that further scenes were shot on the islands of Gozo, near Malta, and Tino, in the Ligurian Sea. Therefore, it is not accurate to say that the film was filmed exclusively in Rhodes. The answer"
+4122,what are the names of donald duck's nephews,"Huey, Dewey, Louie","['Huey', 'Dewey', 'Louie Duck']",False,True,TRUE
+3705,who was the first person who climbed mount everest,Hillary,"['Sir Edmund Percival Hillary', 'Tenzing Norgay']",False,True,"FALSE
+
+While Sir Edmund Hillary was one of the first two individuals to reach the summit of Mount Everest, it's important to specify that he and Tenzing Norgay achieved this feat together on May 29, 1953. Therefore, stating Hillary alone was the first person to climb Mount Everest does not give proper recognition to Tenzing Norgay, who was also essential to the accomplishment. Both should be credited as the first climbers confirmed to reach the summit of Everest."
+1090,where is tomorrow where the war began filmed,Australia,"['Raymond Terrace', 'Maitland', 'Blue Mountains', 'Luskintyre bridge', 'Fox Studios', 'Terrey Hills']",False,False,"TRUE
+
+The passage states that filming began in the Hunter Region of New South Wales, Australia, and mentions specific locations within Australia such as Raymond Terrace, Dungog, King Street, Maitland, the Blue Mountains, the Luskintyre bridge, the Fox Studios site in Sydney, and Terrey Hills in northern Sydney. Therefore, the film ""Tomorrow, When the War Began"" was filmed in Australia."
+3394,what years did wexford win the all ireland hurling,Dominant.,"['1969', '1975', '2007', '2010', '2011', '2012']",False,False,"FALSE
+
+The information provided pertains to camogie, not hurling. Camogie is a stick-and-ball team sport played by women in Ireland; it is almost identical to the game of hurling played by men. The years mentioned (1968, 1969, 1975, 2007, 2010, 2011, 2012) are the years in which Wexford won the All-Ireland Senior Camogie Championship, not the All-Ireland Senior H"
+458,what are the stories based on the isle of youth,Piracy,"['Treasure Island', 'Peter Pan']",False,False,"FALSE
+
+The paragraph mentions that pirate activity in the area influenced English literature, specifically citing ""Treasure Island"" by Robert Louis Stevenson and ""Peter Pan"" by J.M. Barrie. However, these stories are only loosely inspired by the real events and locales associated with piracy. They draw on the accounts of the island and its native and pirate inhabitants, as well as pirate life and imagery, but they are works of fiction and not historical accounts based strictly on the Isle of Youth."
+5101,who wrote the christmas song do you hear what i hear,Regney,"['Noël Regney', 'Gloria Shayne Baker']",False,True,"FALSE. Both Noël Regney and Gloria Shayne Baker contributed to the creation of the Christmas song ""Do You Hear What I Hear?"" However, it was Regney who wrote the lyrics and Shayne who composed the music, according to the context given in the paragraph."
+4375,who sang the original leaving on a jet plane,John Denver,"['Peter', 'Paul', 'Mary']",False,False,"TRUE
+
+John Denver wrote ""Leaving on a Jet Plane"" and originally performed it, as mentioned in the context. His version was featured on his 1966 studio album, ""John Denver Sings."""
+4996,states in the northeast region of the us,Nine.,"['New York', 'New Jersey', 'Vermont', 'Massachusetts', 'Rhode Island', 'Maine', 'Connecticut', 'New Hampshire', 'Pennsylvania']",False,True,TRUE
+2207,who sang time of my life in the movie dirty dancing,Bill Medley and Jennifer Warnes,"['Bill Medley', 'Jennifer Warnes']",False,True,TRUE
+1967,who started using the term information literacy and when was it coined,"Zurkowski, 1974","['1974', 'Paul G. Zurkowski']",False,True,"TRUE
+
+Paul G. Zurkowski is credited with first using the term ""information literacy"" in 1974, according to a report written on behalf of the National Commission on Libraries and Information Science."
+4935,what is the method of execution in china,shooting,"['lethal injection', 'shooting']",True,True,"FALSE.
+
+The methods of execution in China include both lethal injection and shooting, as mentioned in the provided text. Therefore, stating that shooting is the only method would be incorrect."
+1771,who played in last year's fa cup final,Arsenal Chelsea,"['Arsenal', 'Chelsea']",False,True,"FALSE
+
+The question ""who played in last year's FA Cup final"" refers to the final that would have taken place in 2016, not the one mentioned in the context, which is the 2017 FA Cup Final. The information provided only details the teams that played in the 2017 final, which were Arsenal and Chelsea; it does not provide information about the teams that played in the 2016 FA Cup Final. Therefore, based on the provided context, we cannot confirm that"
+1809,who are the three central figures in hinduism,"Brahma, Vishnu, Shiva","['Brahma', 'Vishnu', 'Shiva']",False,True,"TRUE
+
+Brahma, Vishnu, and Shiva are indeed the three central figures of the Trimūrti in Hinduism, representing the cosmic functions of creation, maintenance, and destruction respectively."
+4995,who supported north vietnam in the vietnam war,"Soviet Union, China","['the Soviet Union', 'China']",False,True,TRUE
+536,who sings on great gig in the sky,Clare Torry,"['Pink Floyd', 'Clare Torry']",True,True,TRUE
+1681,why we use bsa as standard for protein estimation,Stabilization,"['ability to increase signal in assays', 'lack of effect in many biochemical reactions', 'low cost']",False,False,"FALSE
+
+Although BSA (bovine serum albumin) does have stabilizing properties for certain enzymes in biochemical applications such as restriction digests, that is not the primary reason why it is used as a standard for protein estimation.
+
+BSA is used as a standard in protein estimation, specifically in methods like the Bradford protein assay, because it is a readily available and purified protein with a consistent quality. Its use as a standard allows for the comparison of an unknown protein concentration against the known concentration of B"
+389,where did fried chicken and waffles come from,America,"['soul food', 'Pennsylvania Dutch cuisine', 'the United States']",False,False,TRUE
+4368,who wrote the song tell it like it is,George Davis and Lee Diamond,"['George Davis', 'Lee Diamond']",False,True,TRUE
+444,who has played chad dimera on days of our lives,"Casey Jon Deidrick, Billy Flynn","['Casey Jon Deidrick', 'Billy Flynn']",False,True,TRUE
+1314,who wrote the song papa was a rollin stone,songwriters,"['Norman Whitfield', 'Barrett Strong']",False,False,"FALSE
+
+The song ""Papa Was a Rollin' Stone"" was written by Motown songwriters Norman Whitfield and Barrett Strong."
+1652,what type of french is spoken in canada,Quebecois,"['Quebec French', 'Acadian French', 'Canadian French']",False,True,"FALSE.
+
+In Canada, the two main dialects of French are Quebec French (often referred to as Québécois) and Acadian French. The response ""Quebecois"" only refers to one specific dialect from Quebec, and the original paragraph also mentions ""Canadian French,"" which is commonly grouped as another dialect used by Anglophones speaking French as a second language or by Francophones in Canada using a different dialect. Therefore, the answer that only includes ""Quebecois"" is incomplete."
+1153,list the three goals pursued by human service organizations,"Efficiency, effectiveness, humaneness","['to make service delivery more efficient , effective , and humane', 'to have a greater appreciation of the individual as a whole person ( humanistic psychology )', 'to be accountable to the communities they serve ( postmodernism )']",False,True,"FALSE
+
+The three specific goals mentioned in the paragraph for the new human services movement are:
+
+1. To reeducate traditional helping professionals for interprofessional education,
+2. To have a greater appreciation of the individual as a whole person reflecting humanistic psychology, and
+3. To be accountable to the communities they serve emphasizing postmodernism.
+
+While the major goal of making service delivery more efficient, effective, and humane encompasses the essence of the movement, it is not broken down into three separate goals in"
+5199,what are the character's first names in oh hello recently on broadway,"George, Gil","['George', 'Gil']",False,True,"FALSE
+
+The characters' names are indeed George and Gil, but your question states ""in oh hello recently on broadway"" which refers to ""Oh, Hello on Broadway."" The correct full names of the characters are George St. Geegland (played by John Mulaney) and Gil Faizon (played by Nick Kroll). The paragraph provides additional context about the characters but for the immediate response to the question, their first names are George and Gil."
+515,who is charged with executing the provisions of the endangered species act,administration,"['United States Fish and Wildlife Service', 'National Oceanic and Atmospheric Administration', 'National Marine Fisheries Service']",False,False,"FALSE
+
+The question is ""who is charged with executing the provisions of the Endangered Species Act?""
+
+While it is true that the administration, as a broad term, is responsible for the implementation of laws, the Endangered Species Act (ESA) specifically is administered by two federal agencies: the United States Fish and Wildlife Service (FWS) and the National Oceanic and Atmospheric Administration (NOAA), which includes the National Marine Fisheries Service (NMFS). NOAA handles marine species, while the FWS"
+750,the base level of maslow's hierarchy of needs pyramid includes,physiological,"['esteem', 'friendship and love', 'security', 'physical needs']",False,False,"TRUE
+
+The base level of Maslow's hierarchy of needs pyramid includes physiological needs. These are considered the most fundamental and basic needs for survival, such as food, water, warmth, rest, and other bodily functions. Once these physiological needs are met, individuals can then focus on higher-level needs according to Maslow's theory."
+5209,who sings sunday morning by the velvet underground,Lou Reed,"['Lou Reed', 'Nico']",True,True,"TRUE
+
+Lou Reed sang the lead vocal on ""Sunday Morning"" by The Velvet Underground. Nico, for whom the song was originally intended, provided backing vocals instead."
+4648,the two basic types of medical insurance in japan are,Mandatory,"['National Health Insurance', ""Employees ' Health Insurance""]",False,False,"FALSE
+
+The question asks to identify the two basic types of medical insurance in Japan. However, the answer provided, ""Mandatory,"" is not correct. According to the provided paragraph, the two major types of insurance programs available in Japan are National Health Insurance (Kokumin-Kenkō-Hoken) and Employees' Health Insurance (Kenkō-Hoken). Therefore, the correct answer should be:
+A: National Health Insurance and Employees' Health Insurance."
+4915,most california judges first gain their posts through,appointment,"['judges are nominally elected at the superior court level', '( but in practice are first appointed by the Governor']",False,True,"TRUE
+
+Most California judges first gain their posts through appointment. As expressed in the paragraph, at the superior court level, judges are nominally elected but are in practice first appointed by the Governor of California. Once they are in their positions, they are subject to retention elections, which is a feature of the modified Missouri Plan utilized by California for judicial appointments."
+1519,name 2 art movements that occurred during the 1920’s,"Expressionism, Surrealism","['expressionism', 'surrealism']",False,True,"TRUE
+
+The passage mentions that in Europe, the 1920s were the era of expressionism and later surrealism, indicating that both of these were art movements that occurred during the 1920s."
+3651,who wrote the song who you are by jessie j,Jessica Cornish,"['Jessie J', 'Toby Gad', 'Shelly Peiken']",False,False,TRUE
+4466,when did the beatles stop touring and why,Stopped,"['August 1966', ""controversy of John Lennon 's remark about the band being `` more popular than Jesus ''"", 'death threats', ""and the band 's own dissatisfaction with the noise levels and their ability to perform live""]",False,False,"FALSE
+
+The Beatles stopped touring after their third concert tour of America in August 1966, largely due to a combination of factors such as the controversy over John Lennon's ""more popular than Jesus"" remark, death threats, and their dissatisfaction with the noise levels and their ability to perform live, as stated in Paragraph 1. They decided to focus on studio recording after realizing that their live performances were less satisfying for both them and their fans due to these issues."
+4881,the right to a jury trial appears in which amendment to the u.s. constitution,Sixth,"['Sixth Amendment', 'Seventh Amendment']",False,True,"FALSE.
+
+The right to a jury trial is not exclusively mentioned in the Sixth Amendment of the U.S. Constitution. While the Sixth Amendment does guarantee the right to a jury trial in criminal prosecutions, the Seventh Amendment also guarantees the right to a jury trial in civil cases. Additionally, Article III of the Constitution also references the right to a jury trial, stating that all trials, except in cases of impeachment, shall be by jury. Therefore, the right to a jury trial appears in multiple amendments and parts"
+3107,who is charles off of pretty little liars,CeCe,"['CeCe', 'Drake']",True,True,"TRUE
+
+The context provided clearly states that CeCe is revealed to be the mysterious antagonist, who was originally born as a boy named Charles DiLaurentis. She is the character ""Charles"" in the series ""Pretty Little Liars."""
+3991,where is the lacrimal gland located and what does it do,Located,"['upper lateral region of each orbit , in the lacrimal fossa of the orbit formed by the frontal bone', 'produces tears']",False,False,"TRUE
+
+The lacrimal gland is located in the upper lateral region of each orbit, in the lacrimal fossa of the orbit formed by the frontal bone. It secretes the aqueous layer of the tear film, which is a component of tears. Tears produced by the lacrimal gland then flow into canals leading to the lacrimal sac, and from there they drain through the lacrimal duct into the nose."
+4349,who played the nurse in band of brothers,Lucie Jeanne,"['Lucie Jeanne', 'Rebecca Okot']",True,True,"TRUE
+
+You stated that in the Band of Brothers episode ""Bastogne,"" a Belgian nurse named Renée was portrayed by Lucie Jeanne. Therefore, the answer to the question ""Who played the nurse in Band of Brothers?"" is Lucie Jeanne."
+4780,what do the winners of the fa cup qualify for,Europa League,"['Europa League', 'FA Community Shield match']",True,True,"TRUE
+
+Winners of the FA Cup qualify for the Europa League and also earn a place in the FA Community Shield match."
+4498,who sings the nfl thursday night football song,Pentatonix,"['Pentatonix', 'members of the orchestra from the Broadway musical Hamilton']",True,True,"TRUE
+
+Pentatonix recorded a reworked version of their song ""Sing"" (""Weekend Go"") to serve as the opening theme song for NBC's Thursday Night Football telecasts."
+5097,where is india's modernised currency notes press situated,Nashik,"['Nashik , Maharashtra', 'Dewas , Madhya Pradesh']",False,True,"FALSE
+
+While the Currency Note Press (CNP) is indeed located in Nashik, Maharashtra, and does print modern currency notes, the statement ""India's modernised currency notes press"" could be misleading as it suggests a singular location. In reality, India has multiple presses involved in the production of modernized currency notes, including the Bank Note Press (BNP) in Dewas, Madhya Pradesh, and the presses operated by Bharatiya Reserve Bank Note Mudran Private Limited. Therefore,"
+3803,who wrote the song love is like oxygen,co-wrote,"['Andy Scott', 'Trevor Griffin']",False,False,"TRUE
+
+The song ""Love Is Like Oxygen"" was indeed co-written by the group's guitarist Andy Scott and Trevor Griffin. The information provided in the paragraph confirms this, stating that Andy Scott, the guitarist from the British band Sweet, and Trevor Griffin, a musician who later became a roadie and sound engineer, are the co-writers of the song."
+67,who did the president replace after trinidad and tobago became a republic,Monarch,"['the Monarch', 'Governor - General']",False,True,"FALSE
+
+After Trinidad and Tobago became a republic with the Constitution of 1976, the positions of the Monarch and Governor-General were replaced by a ceremonial President. While the President replaced the role previously held by the Monarch (Queen Elizabeth II), the direct replacement for the Governor-General's day-to-day duties was the President, making ""Governor-General"" the correct answer to who the president replaced when Trinidad and Tobago became a republic."
+4975,where does the word christian come from in the bible,Antioch,"['in the New Testament , in Acts 11 : 26 , after Barnabas brought Saul ( Paul ) to Antioch where they taught the disciples for about a year', 'the disciples were called Christians first in Antioch']",False,False,"FALSE
+
+The word ""Christian"" comes from the Greek word Χριστιανός (Christianos) meaning ""follower of Christ"", which is derived from Χριστός (Christos), meaning ""anointed one"". While it is true that the name ""Christian"" was first used in Antioch to describe followers of Jesus Christ, as mentioned in Acts 11:26, the actual word does not come from ""Antioch"""
+3278,when does the pot get split in poker,Ties,"['ties', 'intentional split - pot poker']",True,True,"TRUE
+
+The pot in poker gets split in cases of ties, as mentioned in the context provided. Additionally, the pot can also be split in certain poker game variants such as high-low split poker, where the highest and lowest hands split the pot."
+3056,what order does the hunger games book series go in,Chronological,"['The Hunger Games', 'Catching Fire', 'Mockingjay']",False,False,"TRUE
+
+The order in which ""The Hunger Games"" book series goes is indeed in chronological order, starting with ""The Hunger Games"" (2008), followed by ""Catching Fire"" (2009), and ending with ""Mockingjay"" (2010)."
+3055,play a role in cleavage furrow formation during cell division,Involved,"['actin', 'myosin', 'Other cytoskeletal proteins', 'actin binding proteins']",False,False,"FALSE
+
+The statement appears to be incomplete as it ends abruptly with ""Q: play a role in cleavage furrow formation during cell divisionA: Involved."" It seems like the intention was to refer to specific cellular components or proteins that ""play a role in cleavage furrow formation during cell division,"" but the subject is missing.
+
+In the context provided, actin and myosin are mentioned as the primary proteins responsible for the formation of the cleavage furrow in animal cells. Other"
+2160,who gives the first opening statement in a trial,prosecution,"['the prosecution in a criminal case', 'plaintiff in a civil case']",False,True,"TRUE
+
+In a trial, the prosecution in a criminal case or the plaintiff in a civil case typically gives the first opening statement. Defendants have the option to go second or delay their opening statement until after the prosecution or plaintiff has closed their case."
+335,list of all provinces in canada,"Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, Quebec, Saskatchewan","['Alberta', 'British Columbia', 'Manitoba', 'New Brunswick', 'Newfoundland and Labrador', 'Nova Scotia', 'Ontario', 'Prince Edward Island', 'Quebec', 'Saskatchewan']",False,True,TRUE
+519,where is saba university school of medicine located,Caribbean,"['Saba', 'the Caribbean']",False,True,TRUE
+2971,where does electricity come from in new zealand,hydropower,"['hydropower', 'geothermal power', 'wind energy']",True,True,"FALSE
+
+While hydropower is indeed a significant source of electricity in New Zealand, it is not the only source. As per the context provided, electricity in New Zealand also comes from geothermal power, wind energy, and other renewable sources. It's important to mention that although hydropower is a major contributor, it is part of a mix of renewable energy sources that together account for 80% of the energy for electricity generation in the country."
+309,who makes up the emergency response team in a hospital,"physician, nurse, respiratory therapist","['health care providers are trained in early resuscitation interventions and advanced life support', 'may include a physician , nurse , or respiratory therapist']",False,True,"TRUE
+
+The question asks about the composition of the emergency response team (also referred to as a rapid response team, RRT) in a hospital. The paragraph provides the information that the RRT may include a physician, a nurse, or a respiratory therapist, who are trained in early resuscitation interventions and advanced life support. Therefore, the answer listing a 'physician, nurse, respiratory therapist' as team members of the RRT is correct."
+968,what are the two main types of chiropractors,"straights, mixers","['straights', 'mixers']",False,True,"TRUE
+
+The text explicitly states that chiropractic has two main groups: ""straights"", who are now the minority and emphasize vitalism, ""innate intelligence"", and consider vertebral subluxations to be the cause of all disease; and ""mixers"", who are the majority and are more open to mainstream views and conventional medical techniques."
+4993,who excavated the site of mahenjodaro in sind,Wheeler,"['Kashinath Narayan Dikshit', 'John Marshall']",False,False,"FALSE.
+
+The site of Mohenjo-daro was excavated by several individuals and teams over the years, but it was first excavated by R.D. Banerji in 1922, and then major excavations were led by K.N. Dikshit in 1924-25 and John Marshall in 1925-26. In the 1930s, major excavations were continued under the leadership of Marshall, D.K. Dikshitar, and Ernest Mackay"
+3895,what trees do you get maple syrup from,Maples,"['sugar maple', 'red maple', 'black maple', 'other maple species']",False,True,TRUE
+1061,who wrote the song paint me a birmingham,Buck Moore and Gary Duffy,"['Buck Moore', 'Gary Duffy']",False,True,TRUE
+2335,who sings the teenage mutant ninja turtles theme song,James Mandell,"['Chuck Lorre', 'Miles Doppler']",False,False,"FALSE
+
+While James Mandell (also known as Miles Doppler) is mentioned as the performer of the theme song for the Teenage Mutant Ninja Turtles series, it is also stated that Chuck Lorre recorded the theme song and performed the spoken parts. Chuck Lorre became a successful television producer, but his involvement in the theme song's creation and performance is explicitly mentioned. Therefore, it is correct to say that Chuck Lorre is associated with the singing/performance of the Teenage Mutant"
+532,what city was built as the new capital for the abbasids,Baghdad,"['Baghdad', 'Raqqa', 'Samarra']",True,True,"FALSE.
+
+While Baghdad was indeed built by the Abbasids and served as a major capital, the statement contains a detail that needs to be highlighted. Baghdad was the initial capital of the Abbasid Caliphate established by Caliph Al-Mansur in 762. However, later in the paragraph, it mentions that in 836, al-Mu'tasim moved the capital to a new site along the Tigris, called Samarra. Therefore, while Baghdad was an important capital for the"
+3940,when was the seat belt law introduced in australia,1970,"['1970', '1971', '1973']",True,True,"FALSE.
+
+The seat belt law in Australia was introduced in phases. As mentioned in the paragraph, the law mandating the use of seat belts by all vehicle passengers was made compulsory in the states of Victoria and South Australia in 1970 and 1971, respectively. However, the statement in the form of a question— ""when was the seat belt law introduced in Australia""—is ambiguous because it doesn't specify which part of Australia or aspect of the law (fitment or usage) it refers"
+4813,who lived in the movie truth or dare,Olivia,"['Olivia', 'Markie']",True,True,"FALSE.
+
+Based on the context provided, both Olivia and Markie survive in the movie ""Truth or Dare."" Olivia is alive because she is the one who forces the demon to reveal if there is a way to end the game without her or Markie dying, and she is the one who uploads the video challenging viewers to play the game. Markie is mentioned as being alive when Olivia asks the demon how they can end the game with both her and Markie still alive. The demon reveals that with"
+2561,when does the mummy starring tom cruise come out,Released,"['May 22 , 2017', 'June 9 , 2017']",False,False,"FALSE
+
+The Mummy starring Tom Cruise was released in the United States on June 9, 2017."
+718,name some components of the central nervous system (cns),"Brain, spinal cord","['brain', 'spinal cord']",False,True,TRUE
+1737,who won the india's next superstar grand finale,Aman Gandotra and Natasha Bharadwaj,"['Aman Gandotra', 'Natasha Bharadwaj']",False,True,"TRUE
+
+Aman Gandotra and Natasha Bharadwaj were declared winners of the 2018 season of India's Next Superstars, which indicates that they won the grand finale of the show."
+1240,who is the girl locked up in don't breathe,Cindy,"['Cindy', 'rich young woman']",True,True,"TRUE
+
+The girl locked up in ""Don't Breathe"" is indeed Cindy. As described in the paragraph, she is the rich young woman held captive by the Blind Man, and it is revealed that she was involved in a car accident for which the Blind Man holds her responsible for the death of his child. This is confirmed when she shows Rocky and Alex a newspaper article about the car accident and they recognize her as Cindy."
+4232,who invented the television and when was it invented,Philo Farnsworth; 1927,"['Philo Taylor Farnsworth', '1927']",False,True,"TRUE
+
+Philo Taylor Farnsworth is indeed recognized for inventing the first fully functional all-electronic television system, and his key invention, the ""image dissector"" camera tube, was demonstrated in 1927. As such, it is accurate to say that Philo Farnsworth invented the television, with 1927 being the year he made his significant breakthrough."

@@ -1,0 +1,201 @@
+Index,Question,Prediction,Answer,Eval,Manual Eval,Validator Pred
+19952,What are the professions of Peter Wippermann ?,Researcher,"university teacher, writer",False,True,FALSE
+14475,What is the gene that encodes exonuclease RexA    SSA_1451 ?,ssDNA,exonuclease RexA    SSA_1451,False,True,FALSE
+17555,What represents the molecular function of 4-hydroxy-3-methylbut-2-enyl diphosphate reductase    Moth_1329 ?,Reduction,metal ion binding,False,False,TRUE
+27554,Which administrative territory was Mark Elliott born at ?,Britain,Rhondda,False,True,FALSE
+24830,Which parts are components of Nuclear receptor DAX1 ?,Proteins,"cytoplasm, nucleus",False,False,FALSE
+584,Which administrative territory is Val-Fouzon a part of ?,France,France,True,True,TRUE
+15828,Which nucleic acid sequence encodes V-type ATP synthase subunit F    TTHA1274 ?,DNA,V-type ATP synthase subunit F    TTHA1274,False,False,FALSE
+26893,Where did Dmitriy Odinets expire ?,Unknown,Kazan,False,False,TRUE
+13826,What the name that Emmeline B. Wells is known by ?,Suffragist,Emmeline,False,True,FALSE
+9362,Which drugs show a significant interaction with Atazanavir ?,antiretrovirals,"omeprazole, carbamazepine, bosentan",False,False,TRUE
+23923,Which administrative territory is the place of death of Karl Gerhard Steck ?,Sweden,Bad Homburg vor der Höhe,False,False,TRUE
+13383,Which sex does Jacques Jouve belong to ?,Male,male,True,True,TRUE
+9033,"Which metabolic process is Serine hydroxymethyltransferase, cytosolic involved in ?",Metabolism,one-carbon metabolic process,False,True,TRUE
+26631,What are the job of Carlos Escudero ?,Engineer,"association football manager, association football player",False,False,FALSE
+26938,What do Konstantin Batygin do for a living ?,scientist,"planetary scientist, astronomer",False,True,TRUE
+17383,Which occupations were the positions occupied by Louis Monjaret de Kerjégu ?,Navy officer,"maire, member of the French National Assembly",False,False,TRUE
+10300,Who directed Rabat ?,Directed,Jim Taihuttu,False,False,FALSE
+18680,Which occupation is the profession of Colin Cooper ?,Coach,association football player,False,True,TRUE
+14884,Which European Championship did Walter De Greef participate in ?,1972,UEFA Euro 1984,False,False,TRUE
+16268,Who are the heads of the government of Frankfurt (Oder) ?,officials,"Hans Albrecht, Günter Springer, Britta Stark",False,False,FALSE
+6977,What is the sex of Friedrich Bran ?,Male,male,True,True,TRUE
+15735,Which sex does Oswald Balzer possess ?,unknown,male,False,False,TRUE
+5368,What can be considered as category for Loung Ung ?,Author,non-fiction literature,False,True,TRUE
+7836,What does Eduardo Pucheta do for a living ?,Music.,association football player,False,False,FALSE
+26746,Which European Championship did Vasilis Konstantinou compete in ?,2004,UEFA Euro 1980,False,False,TRUE
+26317,Which nonprofit organization is the workplace of Jack Barchas ?,Research,Cornell University,False,False,TRUE
+15990,What can be considered as category for Rain Fall ?,Weather,action film,False,False,TRUE
+26291,Which administrative territory is namesake of place de Costa-Rica ?,France,Costa Rica,False,False,FALSE
+12571,Which occupations are the professions of Lorenzo Loris ?,Racers,"theatre director, actor, writer",False,False,TRUE
+328,What were the positions for which Thomas J. Herbert were appointed ?,positions,"Governor of Ohio, Ohio Attorney General",False,False,FALSE
+13785,Which material is used to make Philibert Delorme ?,Stone,stone,True,True,FALSE
+13025,Which person was the doctoral superviser of Edward B. Titchener ?,Wundt,Wilhelm Wundt,False,True,TRUE
+11923,Which gene encodes Stathmin-3 ?,STMN3,STMN3,True,True,TRUE
+9772,Which political organization is Karl Mayer a member of ?,Fictional,German People's Party,False,False,TRUE
+14513,What represents the molecular function of E3 ubiquitin-protein ligase TRIM4 ?,Ubiquitination,"zinc ion binding, metal ion binding",False,False,TRUE
+10447,Which streets are bordered by rue de Presbourg ?,Paris,"avenue des Champs-Élysées, avenue Foch, avenue Victor-Hugo",False,False,FALSE
+15641,Which human settlement is the place of birth of Matilde Ortiz ?,Madrid,Veracruz,False,False,TRUE
+2890,What was the main subject in the work Panzer General ?,War,World War II,False,True,TRUE
+8303,Which urban unit definition is known as the capital of Boxholm Municipality ?,City,Boxholm,False,True,FALSE
+17098,Who is an offspring of Ludvig Müller ?,Child,Peter Erasmus Müller,False,False,FALSE
+11072,Which is the part that is a component of sensor histidine kinase    ECL_02242 ?,Histidine,membrane,False,False,TRUE
+15595,What is the sex of Enn Võrk ?,Unknown,male,False,False,FALSE
+15511,Which language can Miguel García Vivancos read ?,Spanish,Spanish,True,True,TRUE
+13527,Who starred in Autumn on the Rhine ?,Film.,"Ilka Grüning, Leo Peukert, Fritz Kampers",False,False,FALSE
+8515,What can be considered as category for Sniper Elite ?,Shooter,tactical shooter,False,True,TRUE
+17575,Which Olympic sporting events did Jwala Gutta participate in ?,Badminton,"Badminton at the 2012 Summer Olympics – Women's doubles, Badminton at the 2012 Summer Olympics – Mixed doubles",False,True,TRUE
+759,Who is the domestic partner of Paulina Lavista ?,private,Salvador Elizondo,False,False,FALSE
+8550,Which award was received by Franz Fendt ?,Recognition,Bavarian Order of Merit,False,False,FALSE
+24667,Who was the mom of Torun Munthe ?,Unknown,Fanny Brate,False,False,TRUE
+14819,What was the noble title held by Clemens van Lamsweerde ?,Baron,baron,True,True,TRUE
+25255,Which sex does David Whitmore belong to ?,Mystery,male,False,False,FALSE
+19054,What were the positions held by Lindsay Thompson ?,Premier,"Premier of Victoria, Member of the Victorian Legislative Council, member of the Victorian Legislative Assembly",False,False,TRUE
+8234,Who is associated with Hugh Beaumont ?,"""Father""",Beaumont,False,False,TRUE
+26012,Which is the work location of Josef Lappe ?,Germany,Lünen,False,False,TRUE
+9002,What is a component of voltage-gated chloride channel family protein    PSPTO_4619 ?,Chloride channel,plasma membrane,False,False,TRUE
+25964,What was the sport that Mark Hudson was a part of ?,soccer,association football,False,True,TRUE
+9416,Where was Rajko Petrov Nogo born ?,Serbia,Borija,False,False,TRUE
+16969,Which is the cell component of inositol polyphosphate multikinase YDR173C ?,Kinase,nucleus,False,False,FALSE
+4389,Which administrative territory is the native country of Sid Rainey ?,Unknown,Ireland,False,False,TRUE
+27406,Which infraspecific name is bifunctional GDP-4-dehydro-6-deoxy-D-mannose epimerase/GDP-4-dehydro-6-L-deoxygalactose reductase    O3K_09165 found in ?,Bacteria,Escherichia coli O104:H4 str. 2011C-3493,False,False,TRUE
+13226,Which sex does Berta Thiersch belong to ?,Female,female,True,True,TRUE
+13721,Where was Terence Macartney-Filgate born ?,Canada,England,False,False,TRUE
+18246,Who is the director of photography for Unzipped ?,Thorsten Thielow,Ellen Kuras,False,False,FALSE
+18551,"Which chivalric order was received by Louis, Duke of Burgundy ?",Order,Knight of the Order of the Golden Fleece,False,False,FALSE
+23145,What is the job of Velters Cornewall ?,Politician,politician,True,True,TRUE
+23808,Which administrative territory is the country of citizenship of Yahia Ouahabi ?,Morocco,Algeria,False,False,TRUE
+19169,What does Paul Cartuyvels do for a living ?,Marketer,jurist,False,False,TRUE
+26080,Which occupations are the professions of Guy Thorne ?,Author,"journalist, writer",False,True,TRUE
+9013,Which administrative territory is Ernest Montusès an inhabitant of ?,France,France,True,True,TRUE
+13415,Which administrative territory was Agustín Rodríguez Santiago born at ?,Puerto Rico,Madrid,False,False,TRUE
+3394,Which person was the teacher of Hideyuki Ashihara ?,Karate,Mas Oyama,False,False,FALSE
+8587,Which title was the military rank held by James Hope Grant ?,General,general,True,True,TRUE
+17927,What are the job of Jean-Paul Corsetti ?,Engineer,"essayist, writer",False,False,FALSE
+21689,"Which family did Henri, prince de La Tour d'Auvergne belong to ?",Bourbon,House of La Tour d'Auvergne,False,False,FALSE
+16877,Who is the sister of Hana Dostalová ?,Unknown,Leopolda Dostalová,False,False,TRUE
+20922,What did Sweden national football team participate in ?,Tournaments,association football,False,False,FALSE
+21860,Which occupation was a position for which Václav Šlajs was appointed ?,Ambassador,Member of the Chamber of Deputies of the Parliament of the Czech Republic,False,False,TRUE
+11614,What is the sex of Arvid Hanssen ?,Male,male,True,True,TRUE
+5639,Who has the surname Kimberley Conrad ?,Hefner,Conrad,False,False,FALSE
+9424,Where did Vladimir Yashchenko expire ?,Helicopter,Zaporizhzhya,False,False,FALSE
+22554,Which taxon was the main subject of Boa vs. Python 's work ?,Reptile,snake,False,True,TRUE
+5481,Which sport did Stijn Meert participate in ?,Cycling,association football,False,False,TRUE
+6516,Which male person has a child named Jan Wladislaw Brzostowski ?,Father,Kiprijonas Povilas Brzostowski,False,False,FALSE
+8848,What did Khetcho participate in ?,Competition,"Defense of Van, Khanasor Expedition",False,False,TRUE
+9295,Which metabolic process is Peroxisome proliferator-activated receptor alpha involved in ?,metabolism,lipid metabolic process,False,True,TRUE
+9017,Which political party is Fernando Morán a member of ?,Socialist,Spanish Socialist Workers' Party,False,True,TRUE
+5283,Which political territory is the country of citizenship of Till Helmke ?,Germany,Germany,True,True,TRUE
+13232,Where did the demise of Eugène Eschassériaux occur ?,Paris,Paris,True,True,FALSE
+19764,Which sport did George Livingstone participate in ?,Cycling,association football,False,False,TRUE
+4133,What is the work location of Kurt Diedrich ?,Chicago,Lübeck,False,False,FALSE
+25607,Which sex does Alessandro Tuia possess ?,Male,male,True,True,TRUE
+7301,Which sport did Francisco Silva participate in ?,Football,association football,False,True,TRUE
+27175,Which administrative territory is the place of death of Philippe-Charles Schmerling ?,Belgium,Liège,False,False,TRUE
+3799,What is the sex of Ernst Wagner ?,Unknown,male,False,False,TRUE
+13441,Which concept is the profession of Georgi Dakov ?,Artistic Director,athletics competitor,False,False,TRUE
+11780,Which sport was Stefan McCluskey a part of ?,Football,association football,False,True,TRUE
+27618,Which people starred in Get Over It ?,Cast,"Mila Kunis, Colin Hanks, Martin Short",False,False,TRUE
+18056,What is the job of Aleksandr Vasyukov ?,Chess player,association football player,False,False,TRUE
+16131,What does Karl M. Le Compte do for a living ?,Engineering,politician,False,False,FALSE
+10065,Which administrative territory is the place of birth of Heinrich Wagner ?,Austria,Stuttgart,False,False,TRUE
+181,Who are the children of Alberta Williams King ?,Children,"Martin Luther King, Jr., Christine King Farris, Alfred Daniel Williams King",False,False,FALSE
+7273,Which parts are components of Tyrosine-protein phosphatase non-receptor type 5 ?,proteins,"cytoplasm, membrane",False,False,FALSE
+19681,What is the sex of Hermann Lei ?,Unknown,male,False,False,FALSE
+22864,What was the sport that Patrice Cormier was a part of ?,Hockey,ice hockey,False,True,TRUE
+6989,Which sex does Rainer Lippert have ?,Male,male,True,True,TRUE
+5844,Which musical instrument is played by Iván Erőd ?,Piano,piano,True,True,TRUE
+7551,"Who was the father of Anne of Bohemia, Duchess of Silesia ?",Emperor,Ottokar I of Bohemia,False,False,FALSE
+24581,Which sports team is Song Seung-jun a member of ?,,Trenton Thunder,False,False,FALSE
+27148,What is a component of phosphoenolpyruvate carboxykinase    GSU3385 ?,enzyme,cytoplasm,False,False,TRUE
+20627,Which occupations are the professions of Innocenzo Ferrieri ?,Designer,"diplomat, Catholic priest",False,False,TRUE
+25022,Which cemetery is the resting place of Elwood Richard Quesada ?,Arlington,Arlington National Cemetery,False,True,TRUE
+26490,Which administrative territory is the place of death of Karl Heinz Schröder ?,Germany,Cologne,False,True,TRUE
+20971,Which language was used originally for the creation of The Auction Block ?,English,English,True,True,TRUE
+9292,Who sponsored the recoding of Jean-Pierre Riou ?,Unknown,Keltia Musique,False,False,FALSE
+19252,Which administrative territory is the narrative location of 7 Lives Exposed ?,California,Los Angeles,False,True,FALSE
+1025,Where did the expiration of Jacob Yost occur ?,hospital,Palo Alto,False,False,FALSE
+10553,Which taxon is Glutathione peroxidase 6 found in ?,Enzyme,Mus musculus,False,True,FALSE
+2281,Which taxon is uroporphyrinogen-III C-methyltransferase / uroporphyrinogen-III synthase    Moth_1248 found in ?,Enzyme,Moorella thermoacetica ATCC 39073,False,True,FALSE
+6573,Where was Alberto Garre born ?,Spain,Torre-Pacheco,False,False,TRUE
+23056,Which city was Fredda a resident of ?,Unknown,Marseille,False,False,FALSE
+1553,Which sex does Manuel Rödl have ?,Male,male,True,True,TRUE
+752,What was the sport that Peter Sears was a part of ?,Soccer,ice hockey,False,False,FALSE
+7939,What is the profession of Charles Hucker ?,Historian,historian,True,True,FALSE
+3706,Which language was used originally for the creation of Tom Toms of Mayumba ?,Fang,Italian,False,False,TRUE
+16283,Where did Long Fliv the King originate ?,Literature,United States of America,False,False,FALSE
+817,Which are the cell components of Putative N-acetyltransferase 8B ?,Enzymes,"endoplasmic reticulum, endoplasmic reticulum membrane",False,False,FALSE
+21408,Which administrative territory is the place of birth of John Morgan ?,Virginia,Aberdare,False,False,FALSE
+18085,Which awards were Henri Amédée Mercure de Turenne d'Aynac awarded with ?,Honors,"Knight of the Legion of Honour, Officer of the Legion of Honour, Knight of the Royal and Military Order of Saint Louis",False,False,FALSE
+23091,Where did the demise of Giovanni Archeoli occur ?,Rome,Agrigento,False,False,TRUE
+3038,Which administrative territory was William Meates born at ?,Australia,Bournemouth,False,False,FALSE
+23584,What is the location where Edward John King worked ?,Hospital,Springfield,False,False,FALSE
+17674,Who is the employer of Christine Kelly ?,private,La Chaîne Info,False,False,FALSE
+9176,"Who is married to René II, Viscount of Rohan ?",Isabella,Catherine de Parthenay,False,False,FALSE
+15846,Which type of sport was Marius Gherman a part of ?,Gymnastics,artistic gymnastics,False,True,TRUE
+1968,Which language does Silvio Crapolicchio speak in ?,Italian,Italian,True,True,TRUE
+16071,Which sex does Lieuwe Visser have ?,male,male,True,True,TRUE
+15859,Where is dihydroxyacetone kinase subunit DhaK    MSC_0747 found ?,Cytoplasm,Mycoplasma mycoides subsp. mycoides SC str. PG1,False,False,TRUE
+1467,Who is the director of photography for Ikiru ?,Fukai,Asakazu Nakai,False,False,FALSE
+2861,What is the work location of Andreas Leopold Hofbauer ?,Remote,Berlin,False,False,TRUE
+26750,What film awards do American Beauty: Original Motion Picture Score have ?,Oscars,"Academy Award for Best Original Score, Golden Globe Award for Best Original Score",False,False,TRUE
+6890,What is the nonprofit organization where Haddaway was educated ?,Institution,George Washington University,False,False,FALSE
+13810,What was the position for which Victor Brailovsky was appointed ?,scientist,Knesset member,False,False,FALSE
+15230,Which administrative territory is Ramón Vargas-Machuca a civilian of ?,Venezuela,Spain,False,False,TRUE
+4969,Which battle did Edwin H. Stoughton take part in ?,Civil War,American Civil War,False,True,TRUE
+22754,What is the profession of Dermot Nesbitt ?,Politician,politician,True,True,TRUE
+1261,Who is associated with Luciano Marchetti ?,Collaborator,Marchetti,False,False,FALSE
+21308,Which occupations have Teresa Vinyoles Vidal as his/her 's career ?,Teacher,"historian, writer",False,False,FALSE
+161,Which administrative territory is the native country of Péter Horváth ?,Hungary,Hungary,True,True,TRUE
+25973,Which administrative territory is the birthplace of William Machado de Oliveira ?,It is impossible to determine the specific administrative territory without any additional context or information.,Belo Horizonte,False,False,TRUE
+7793,Which occupations have Ralph Sweet-Escott as his/her 's career ?,diversified,"rugby union player, cricketer",False,False,FALSE
+24687,Which language is spoken by Tryon D. Lewis ?,English,English,True,True,TRUE
+8562,What is the school where William Hamilton Nisbet was educated ?,University,Eton College,False,False,FALSE
+27121,Which occupation has Fernando da Silva Cardozo as his/her 's career ?,footballer,association football player,False,True,FALSE
+1800,What is the sex of Horace Hood ?,male,male,True,True,TRUE
+8677,Which administrative territory does Volodymyr Malyk belong to ?,Ukraine,Ukraine,True,True,TRUE
+669,Which human settlement is the work location of Israel Isserlein ?,Frankfurt,Wiener Neustadt,False,False,FALSE
+2007,Which people are a successors of Pablo Escobar ?,Cartel,"Angie Nicole Funez Barrera (Escobar), Sebastián Marroquín",False,False,FALSE
+2033,Which professions are the professions of Christian Fechner ?,Filmmaker,"film director, film producer, screenwriter",False,True,TRUE
+7395,Who was the mother of Christien Brinkgreve ?,Unknown,Sjuwke Brinkgreve-Kunst,False,False,FALSE
+15685,Which sex does Zhang Bin possess ?,Male,male,True,True,TRUE
+3932,Which business enterprise is the original network Fushigi Yûgi was aired on ?,Television,TV Tokyo,False,False,FALSE
+26742,Which occupation has Carlo Nasi as his/her 's career ?,Chef,association football player,False,False,TRUE
+12467,Which gene encodes CDP-diacylglycerol--serine O-phosphatidyltransferase    Cj1114c ?,cj1114c,CDP-diacylglycerol--serine O-phosphatidyltransferase    Cj1114c,False,False,TRUE
+1183,"Which chemical bonds represent molecular function of 3-hydroxyanthranilate 3,4-dioxygenase YJR025C ?",Enzymatic,"metal ion binding, iron ion binding",False,False,TRUE
+8591,Who was the mom of Prince Takahito Mikasa ?,Princess Yuriko,Teimei,False,False,TRUE
+25054,What is a component of Chemokine-like factor ?,Protein,extracellular space,False,False,FALSE
+17251,Which occupation has Robert Glaser as his/her 's career ?,Psychologist,psychologist,True,True,TRUE
+21265,Which sex does Hans-Georg von Seidel possess ?,Male,male,True,True,TRUE
+20729,What is the nonprofit organization where Selwyn N. Owen was educated ?,School,Antioch University,False,False,FALSE
+27471,What is the sex of Edward Didymus ?,Undisclosed,male,False,False,FALSE
+7549,Which sex does Aleksandr Ulyanov possess ?,Male,male,True,True,TRUE
+14262,Which administrative territory is Jimmy Broadhead a civilian of ?,Residence,United Kingdom,False,False,FALSE
+27752,What are the job of Charles Rivière Dufresny ?,playwright,"journalist, poet, writer",False,False,TRUE
+25373,What are the countries of origin of Le Soleil assassiné ?,France,"France, Belgium",False,True,FALSE
+13706,Which taxon is acyl-CoA dehydrogenase    PA1535 found in ?,Bacteria,Pseudomonas aeruginosa PAO1,False,False,FALSE
+4764,Which occupation has László Palotás as his/her 's career ?,Dancer,civil engineer,False,False,FALSE
+21713,Which party is Friedrich Hoess affiliated with ?,Independent,Austrian People's Party,False,False,TRUE
+27083,Which administrative territory is the place of birth of Marcell Coetzee ?,South Africa,Potchefstroom,False,False,TRUE
+3085,Which type of sport was Leon Gostiša a part of ?,Wrestling,chess,False,False,TRUE
+23291,Which musical instrument is played by William Boyce ?,Harpsichord,organ,False,False,FALSE
+26083,Which occupation was a position occupied by Désiré Desloges ?,Teacher,member of the French National Assembly,False,False,TRUE
+23111,What is the gene that encodes sensor protein CitS    BSU07580 ?,citS,sensor protein CitS    BSU07580,False,True,FALSE
+8271,Which rock is used to manufacture Giotto as a Child ?,Marble,marble,True,True,FALSE
+14258,Which language does Francesc de Paula Jené i Aixalà speak in ?,Catalan,Spanish,False,False,TRUE
+1001,What are the professions of Nelson Lee ?,Actor,"actor, television presenter, stage actor",False,True,TRUE
+3219,What is the sex of Wolfgang Rotter ?,Unknown,male,False,False,TRUE
+9680,Which language can Miguel Muñiz read ?,Spanish,Spanish,True,True,TRUE
+26807,Who was the dad of Ebbe Rode ?,unknown,Helge Rode,False,False,TRUE
+24610,Which sex does Jeong Jun-yeong have ?,Male,male,True,True,TRUE
+12345,"What was the title held by Sir William Rutherford, 1st Baronet ?",Baronet,baronet,True,True,TRUE
+17443,Who are the sisters of Ecgfrith of Northumbria ?,Anglo-Saxon princesses,"Ælfflæd of Whitby, Osthryth",False,False,TRUE
+6966,Which Christian denomination is the religion of Camille Gravel ?,Catholicism,Roman Catholic Church,False,True,TRUE
+2116,Which administrative territory is the birthplace of Jakub Tyszkiewicz ?,Lithuania,Poland,False,False,TRUE
+25156,"Which gene encodes 28S ribosomal protein S30, mitochondrial ?",Gene,Mrps30,False,False,FALSE
+5337,Where did the demise of Gregory King occur ?,unknown,London,False,False,FALSE
+13532,What were received by Hanne Glodny ?,Awards,"knight of St. Sylvester, Officer's Cross of the Order of Merit of the Federal Republic of Germany",False,False,TRUE
+6004,What was the position held by Patrick Roche ?,Professor,Member of the Legislative Assembly of Northern Ireland,False,False,FALSE
+14326,What did Neil Harvey participate in ?,Cricket,association football,False,False,TRUE
+436,What is the ethnicity of Koto Nagata ?,Japanese,Japanese people,False,True,TRUE
+25641,Which battle did Émile Fayolle take part in ?,World War I,World War I,True,True,TRUE

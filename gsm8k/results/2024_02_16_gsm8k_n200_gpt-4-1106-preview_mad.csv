@@ -1,0 +1,4 @@
+Index,Question,Agent Predictions,Prediction,Answer,Eval
+503,The rug is 5 feet wider than the chair. The couch is 2 feet longer than twice the width of the rug. If the chair is 3 feet wide. How many feet long is the couch?,"[18.0, 18.0]",18.0,18,False
+1310,"Aaron and Vanessa were relay race partners on a running team. Aaron was able to run each mile twice as fast as Vanessa, but Vanessa was able to run twice as far as Aaron did. If Vanessa ran 4 miles and Aaron completed his part of the race in 16 minutes, how long in minutes did Vanessa take to complete her part?","[64.0, 64.0]",64.0,64,False
+352,"After Andrea saved some money, she then spent the rest of her money on an $11 sweater and gave her brother $4. If she had $36 in the beginning, how much did Andrea save?","[21.0, 21.0]",21.0,21,False

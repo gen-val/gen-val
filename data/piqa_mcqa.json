@@ -1,0 +1,1602 @@
+[
+    {
+        "question": "To regulate a fan speed.",
+        "options": [
+            "vary the voltage supply to the fan to regulate the speed.",
+            "From the power supply, regulate the amount of current and voltage supplied to the fan."
+        ],
+        "answer": "vary the voltage supply to the fan to regulate the speed.",
+        "idx": 1049,
+        "idx_gt": 2,
+        "opts": [
+            "use a larger fan blade",
+            "change the color of the fan",
+            "vary the voltage supply to the fan to regulate the speed.",
+            "install a smaller fan"
+        ]
+    },
+    {
+        "question": "Make organic air freshener.",
+        "options": [
+            "Mix baking soda and vegetable oil in a jar, cover with cloth and rubber band.",
+            "Mix baking soda and essential oils in a jar, cover with cloth and rubber band."
+        ],
+        "answer": "Mix baking soda and essential oils in a jar, cover with cloth and rubber band.",
+        "idx": 784,
+        "idx_gt": 1,
+        "opts": [
+            "Use vinegar and water in a spray bottle",
+            "Mix baking soda and essential oils in a jar, cover with cloth and rubber band.",
+            "Use air freshener aerosol spray",
+            "Buy a commercial air freshener"
+        ]
+    },
+    {
+        "question": "What type of saw is needed to make a hardwood headphones stand?",
+        "options": [
+            "A Jigsaw",
+            "A handsaw"
+        ],
+        "answer": "A Jigsaw",
+        "idx": 1206,
+        "idx_gt": 1,
+        "opts": [
+            "Chainsaw",
+            "A Jigsaw",
+            "Hand saw",
+            "Circular saw"
+        ]
+    },
+    {
+        "question": "piece of nylon pantyhose",
+        "options": [
+            "cover face ",
+            "cover building "
+        ],
+        "answer": "cover face ",
+        "idx": 688,
+        "idx_gt": 0,
+        "opts": [
+            "cover face ",
+            "wear as a hat",
+            "use as a scarf",
+            "tie around the waist"
+        ]
+    },
+    {
+        "question": "What tool can I use to deburr a copper pipe when working on a plumbing soldering project?",
+        "options": [
+            "You can use an all-in-one deburring tool, a pencil reamer or a sharp utility string",
+            "You can use an all-in-one deburring tool, a pencil reamer or a sharp utility knife"
+        ],
+        "answer": "You can use an all-in-one deburring tool, a pencil reamer or a sharp utility knife",
+        "idx": 510,
+        "idx_gt": 0,
+        "opts": [
+            "You can use an all-in-one deburring tool, a pencil reamer or a sharp utility knife",
+            "Pipe cutter",
+            "Sanding block",
+            "Scissors"
+        ]
+    },
+    {
+        "question": "To attach 2 pieces of fabric together",
+        "options": [
+            "Place the pieces of fabric together so that their fronts are together. Use safety pins to keep them in place. Choose one edge to stitch and using a needle and tape add to both sides. Remove the safety pins.",
+            "Place the pieces of fabric together so that their fronts are together. Use safety pins to keep them in place. Choose one edge to stitch and using a needle and thread add stitching. Remove the safety pins."
+        ],
+        "answer": "Place the pieces of fabric together so that their fronts are together. Use safety pins to keep them in place. Choose one edge to stitch and using a needle and thread add stitching. Remove the safety pins.",
+        "idx": 430,
+        "idx_gt": 0,
+        "opts": [
+            "Place the pieces of fabric together so that their fronts are together. Use safety pins to keep them in place. Choose one edge to stitch and using a needle and thread add stitching. Remove the safety pins.",
+            "Use glue",
+            "Tape the pieces together",
+            "Use a stapler"
+        ]
+    },
+    {
+        "question": "To remove lint balls from fabric",
+        "options": [
+            "Use a fabric razor across the fabric.",
+            "Use a clipper razor on the fabric."
+        ],
+        "answer": "Use a fabric razor across the fabric.",
+        "idx": 1198,
+        "idx_gt": 1,
+        "opts": [
+            "Use a lint roller",
+            "Use a fabric razor across the fabric.",
+            "Use a fabric shaver",
+            "Use a sticky tape"
+        ]
+    },
+    {
+        "question": "How can I clean my toenails of debris?",
+        "options": [
+            "Take a pencil tip and work under your nails with it to get the junk out from under them.",
+            "Take a pencil eraser and work under your nails with it to get the junk out from under them."
+        ],
+        "answer": "Take a pencil tip and work under your nails with it to get the junk out from under them.",
+        "idx": 1647,
+        "idx_gt": 2,
+        "opts": [
+            "Use a toothbrush to scrub your toenails",
+            "Soak your feet in vinegar to remove debris",
+            "Take a pencil tip and work under your nails with it to get the junk out from under them.",
+            "Scrape your nails with a metal tool"
+        ]
+    },
+    {
+        "question": "To remove ink from a sheet of copper if you make a mistake when applying a stamp to it, you can",
+        "options": [
+            "Use super glue",
+            "Use acetone"
+        ],
+        "answer": "Use acetone",
+        "idx": 837,
+        "idx_gt": 3,
+        "opts": [
+            "Use water",
+            "Use vinegar",
+            "Use alcohol",
+            "Use acetone"
+        ]
+    },
+    {
+        "question": "To clean a knitted blanket.",
+        "options": [
+            "Fill your bathtub with cold water (if the blanket is wool, warm if other material) and submerge the blanket. Put in a bit of detergent and swish it around, being careful to rub the fibers together. Drain the tub and refill it with cool water to rinse; repeat until there are no more suds.",
+            "Fill your bathtub with cold water (if the blanket is wool, warm if other material) and submerge the blanket. Put in a bit of detergent and swish it around, being careful not to rub the fibers together. Drain the tub and refill it with cool water to rinse; repeat until there are no more suds."
+        ],
+        "answer": "Fill your bathtub with cold water (if the blanket is wool, warm if other material) and submerge the blanket. Put in a bit of detergent and swish it around, being careful not to rub the fibers together. Drain the tub and refill it with cool water to rinse; repeat until there are no more suds.",
+        "idx": 1327,
+        "idx_gt": 1,
+        "opts": [
+            "Use hot water to wash the blanket",
+            "Fill your bathtub with cold water (if the blanket is wool, warm if other material) and submerge the blanket. Put in a bit of detergent and swish it around, being careful not to rub the fibers together. Drain the tub and refill it with cool water to rinse; repeat until there are no more suds.",
+            "Use a lot of detergent to clean the blanket",
+            "Rub the fibers together while washing the blanket"
+        ]
+    },
+    {
+        "question": "How can I neatly store my headphones?",
+        "options": [
+            "Use a melon hanger, the type you hang the fruit on to ripen, hang them there.",
+            "Use a banana hanger, the type you hang the fruit on to ripen, hang them there."
+        ],
+        "answer": "Use a banana hanger, the type you hang the fruit on to ripen, hang them there.",
+        "idx": 358,
+        "idx_gt": 2,
+        "opts": [
+            "Use a jewelry box",
+            "Wrap them around your wrist",
+            "Use a banana hanger, the type you hang the fruit on to ripen, hang them there.",
+            "Place them in a shoebox"
+        ]
+    },
+    {
+        "question": "How to seal off small damage on a plastic surface?",
+        "options": [
+            "Melt some Vaseline into the damaged areas and then scrape away excess Vaseline and place some wax over the vaseline",
+            "Melt some wax into the damaged areas and then scrape away excess wax and place some vaseline over the wax"
+        ],
+        "answer": "Melt some wax into the damaged areas and then scrape away excess wax and place some vaseline over the wax",
+        "idx": 472,
+        "idx_gt": 1,
+        "opts": [
+            "Use duct tape to cover the damage",
+            "Melt some wax into the damaged areas and then scrape away excess wax and place some vaseline over the wax",
+            "Apply super glue to seal the damage",
+            "Use a marker to color over the damage"
+        ]
+    },
+    {
+        "question": "How do you make a snow ball?",
+        "options": [
+            "Scoop up a large amount of snow with a shovel. Use one hand to pack it together, twisting it as you go.",
+            "Scoop up a handful of snow with one hand. Use both hands to pack it together, turning it as you go."
+        ],
+        "answer": "Scoop up a handful of snow with one hand. Use both hands to pack it together, turning it as you go.",
+        "idx": 914,
+        "idx_gt": 1,
+        "opts": [
+            "Scoop the snow with a shovel and shape it with a mold.",
+            "Scoop up a handful of snow with one hand. Use both hands to pack it together, turning it as you go.",
+            "Use a hairdryer to compact the snow into a ball.",
+            "Pick up the snow with bare hands and squeeze it together tightly."
+        ]
+    },
+    {
+        "question": "How do I clean the deck of my lawn mower?",
+        "options": [
+            "Empty the gas tank (or run the mower until the tank is empty), then disconnect the spark plug wire.    Stand the mower up on its side.    Take a garden hose and spray the deck at full blast. ...    Scrub off the rest of the soil, using a brush, soap and hot tea.",
+            "Empty the gas tank (or run the mower until the tank is empty), then disconnect the spark plug wire.    Stand the mower up on its side.    Take a garden hose and spray the deck at full blast. ...    Scrub off the rest of the soil, using a brush, soap and hot water."
+        ],
+        "answer": "Empty the gas tank (or run the mower until the tank is empty), then disconnect the spark plug wire.    Stand the mower up on its side.    Take a garden hose and spray the deck at full blast. ...    Scrub off the rest of the soil, using a brush, soap and hot water.",
+        "idx": 373,
+        "idx_gt": 2,
+        "opts": [
+            "Remove the wheels and rinse with water",
+            "Use a leaf blower to remove debris",
+            "Empty the gas tank (or run the mower until the tank is empty), then disconnect the spark plug wire.    Stand the mower up on its side.    Take a garden hose and spray the deck at full blast. ...    Scrub off the rest of the soil, using a brush, soap and hot water.",
+            "Spray the deck with oil to prevent rust"
+        ]
+    },
+    {
+        "question": "chalk",
+        "options": [
+            "can easily be broke with tin foil ",
+            "can easily be broke with fist "
+        ],
+        "answer": "can easily be broke with fist ",
+        "idx": 1473,
+        "idx_gt": 3,
+        "opts": [
+            "can easily be broke with foot",
+            "can easily be broke with hand",
+            "can easily be broke with head",
+            "can easily be broke with fist "
+        ]
+    },
+    {
+        "question": "how do you go home on the instagram app?",
+        "options": [
+            "click on your profile picture at the bottom right of any page.",
+            "click on the house at the bottom left of any page."
+        ],
+        "answer": "click on the house at the bottom left of any page.",
+        "idx": 1341,
+        "idx_gt": 3,
+        "opts": [
+            "Tap on the profile icon",
+            "Swipe down on the screen",
+            "Click on the search icon",
+            "click on the house at the bottom left of any page."
+        ]
+    },
+    {
+        "question": "Reduce chances of vomiting.",
+        "options": [
+            "Take short rapid breaths.",
+            "Take long rapid breaths."
+        ],
+        "answer": "Take short rapid breaths.",
+        "idx": 1137,
+        "idx_gt": 0,
+        "opts": [
+            "Take short rapid breaths.",
+            "Drink a lot of water.",
+            "Eat spicy food.",
+            "Lie down immediately after eating."
+        ]
+    },
+    {
+        "question": "Draw a circle.",
+        "options": [
+            "Find a tin can or bowl the size of the circle you'd like to draw. lay the object youve chosen in the center of the place you want your circle. Using a pencil, trace around the object until the lead marking meet.",
+            "Using a compas, poke the spike into the center of the area you want your circle. Now hold that with your left hand and pull the pencil around the center until the lead marks connect."
+        ],
+        "answer": "Using a compas, poke the spike into the center of the area you want your circle. Now hold that with your left hand and pull the pencil around the center until the lead marks connect.",
+        "idx": 1005,
+        "idx_gt": 0,
+        "opts": [
+            "Using a compas, poke the spike into the center of the area you want your circle. Now hold that with your left hand and pull the pencil around the center until the lead marks connect.",
+            "Using a protractor, measure out equal angles around a point.",
+            "Take a ruler and draw a square instead.",
+            "Trace a hexagon instead of a circle."
+        ]
+    },
+    {
+        "question": "binder clip",
+        "options": [
+            "wash socks ",
+            "keep socks up"
+        ],
+        "answer": "keep socks up",
+        "idx": 1289,
+        "idx_gt": 1,
+        "opts": [
+            "hold papers together",
+            "keep socks up",
+            "keep hair in place",
+            "seal food bags"
+        ]
+    },
+    {
+        "question": "Remove caked dust from plastic window blinds.",
+        "options": [
+            "Use bleach to wipe stains.",
+            "Use wine to wipe stains."
+        ],
+        "answer": "Use bleach to wipe stains.",
+        "idx": 893,
+        "idx_gt": 0,
+        "opts": [
+            "Use bleach to wipe stains.",
+            "Use a dry cloth to wipe stains.",
+            "Use vinegar to wipe stains.",
+            "Use water to wipe stains."
+        ]
+    },
+    {
+        "question": "Finish the concrete patio.",
+        "options": [
+            "Using a float make side to side sweeps across the poured concrete until it is level.",
+            "Level the concrete using sweeps with float purchased from a local hardware store."
+        ],
+        "answer": "Using a float make side to side sweeps across the poured concrete until it is level.",
+        "idx": 188,
+        "idx_gt": 3,
+        "opts": [
+            "Use a power drill to create holes in the concrete.",
+            "Spray the concrete with water and let it dry naturally.",
+            "Apply a layer of paint over the concrete surface.",
+            "Using a float make side to side sweeps across the poured concrete until it is level."
+        ]
+    },
+    {
+        "question": "How to make Chocolate Macadamia Ice cream at home without an Ice cream Freezer.",
+        "options": [
+            "In a medium mixing bowl combine 4 cups chilled whipping cream, 14 oz. can sweetened condensed milk, and 1 16 ounce can chocolate flavored syrup (Like Hershey's).  Beat with an electric mixer until soft Peaks form.  Fold in 3/4 cup Macadamia nuts (either Halved or coarsely chopped)  Transfer mixture to 8x8x2 inch baking pan.  Freeze about 8 hours until firm inside the oven. Serve any time after 8 hours freeze.",
+            "In a medium mixing bowl combine 4 cups chilled whipping cream, 14 oz. can sweetened condensed milk, and 1 16 ounce can chocolate flavored syrup (Like Hershey's).  Beat with an electric mixer until soft Peaks form.  Fold in 3/4 cup Macadamia nuts (either Halved or coarsely chopped)  Transfer mixture to 8x8x2 inch baking pan.  Freeze about 8 hours until firm. Serve any time after 8 hours freeze."
+        ],
+        "answer": "In a medium mixing bowl combine 4 cups chilled whipping cream, 14 oz. can sweetened condensed milk, and 1 16 ounce can chocolate flavored syrup (Like Hershey's).  Beat with an electric mixer until soft Peaks form.  Fold in 3/4 cup Macadamia nuts (either Halved or coarsely chopped)  Transfer mixture to 8x8x2 inch baking pan.  Freeze about 8 hours until firm. Serve any time after 8 hours freeze.",
+        "idx": 562,
+        "idx_gt": 0,
+        "opts": [
+            "In a medium mixing bowl combine 4 cups chilled whipping cream, 14 oz. can sweetened condensed milk, and 1 16 ounce can chocolate flavored syrup (Like Hershey's).  Beat with an electric mixer until soft Peaks form.  Fold in 3/4 cup Macadamia nuts (either Halved or coarsely chopped)  Transfer mixture to 8x8x2 inch baking pan.  Freeze about 8 hours until firm. Serve any time after 8 hours freeze.",
+            "Use half-and-half instead of whipping cream",
+            "Add fresh strawberries to the mixture",
+            "Replace sweetened condensed milk with evaporated milk"
+        ]
+    },
+    {
+        "question": "how to render bacon fat?",
+        "options": [
+            "cook bacon in a skillet, when bacon is done, remove from the pan. pour off the grease.",
+            "freeze the bacon in strips, and bake in the oven until tender. pour water over the bacon, and collect the grease."
+        ],
+        "answer": "cook bacon in a skillet, when bacon is done, remove from the pan. pour off the grease.",
+        "idx": 872,
+        "idx_gt": 2,
+        "opts": [
+            "Add bacon fat to boiling water",
+            "Use bacon fat as a salad dressing",
+            "cook bacon in a skillet, when bacon is done, remove from the pan. pour off the grease.",
+            "Mix bacon fat with olive oil for a marinade"
+        ]
+    },
+    {
+        "question": "How to make tiny cake pops.",
+        "options": [
+            "Place frosted cake in a colander and form a smooth dough ball with your hands, then place on a lollipop stick.",
+            "Place frosted cake in a bowl and form a smooth dough ball with your hands, then place on a lollipop stick."
+        ],
+        "answer": "Place frosted cake in a bowl and form a smooth dough ball with your hands, then place on a lollipop stick.",
+        "idx": 1526,
+        "idx_gt": 0,
+        "opts": [
+            "Place frosted cake in a bowl and form a smooth dough ball with your hands, then place on a lollipop stick.",
+            "Dip cake in chocolate",
+            "Bake cake in a muffin tin",
+            "Roll cake in powdered sugar"
+        ]
+    },
+    {
+        "question": "To make a chalkboard out of wooden pallet planks.",
+        "options": [
+            "Use chalk paint on the wood.",
+            "Use chalkboard paint on the wood."
+        ],
+        "answer": "Use chalkboard paint on the wood.",
+        "idx": 1392,
+        "idx_gt": 0,
+        "opts": [
+            "Use chalkboard paint on the wood.",
+            "Sand the wood and apply a layer of varnish.",
+            "Attach a whiteboard sheet to the wooden pallet planks.",
+            "Use spray paint to color the wood."
+        ]
+    },
+    {
+        "question": "To make an ice pack that won't drip when it melts.",
+        "options": [
+            "Freeze a sponge with some water in a paper sandwich baggie.",
+            "Freeze a sponge with some water in a plastic sandwich baggie."
+        ],
+        "answer": "Freeze a sponge with some water in a plastic sandwich baggie.",
+        "idx": 1195,
+        "idx_gt": 0,
+        "opts": [
+            "Freeze a sponge with some water in a plastic sandwich baggie.",
+            "Put ice cubes in a plastic bag",
+            "Wrap ice in a paper towel",
+            "Fill a plastic bag with water and freeze it"
+        ]
+    },
+    {
+        "question": "To become frightened of a movie again after seeing it before,",
+        "options": [
+            "look up reviews for the movie to better understand it.",
+            "wait a few years before watching it a second time."
+        ],
+        "answer": "wait a few years before watching it a second time.",
+        "idx": 1651,
+        "idx_gt": 3,
+        "opts": [
+            "Watch it with friends",
+            "Watch it in a different language",
+            "Read the book version",
+            "wait a few years before watching it a second time."
+        ]
+    },
+    {
+        "question": "To melt the chocolate for the pot brownies",
+        "options": [
+            "melt the chocolate chips by adding it directly to a pan",
+            "melt the chocolate chips using a double broiler to avoid burning it"
+        ],
+        "answer": "melt the chocolate chips using a double broiler to avoid burning it",
+        "idx": 1153,
+        "idx_gt": 2,
+        "opts": [
+            "Microwave the chocolate chips",
+            "Use a regular pot to melt the chocolate chips",
+            "melt the chocolate chips using a double broiler to avoid burning it",
+            "Add water to the chocolate chips and melt in a microwave"
+        ]
+    },
+    {
+        "question": "To thicken a mixture",
+        "options": [
+            "Add corn starch",
+            "Add corn syrup"
+        ],
+        "answer": "Add corn starch",
+        "idx": 1681,
+        "idx_gt": 0,
+        "opts": [
+            "Add corn starch",
+            "Add flour",
+            "Add sugar",
+            "Add salt"
+        ]
+    },
+    {
+        "question": "To make an alcohol watermelon.",
+        "options": [
+            "Cut up the watermelon and squish it to make a juice and then add alcohol.",
+            "Cut a hole in the watermelon and pour your favorite liquor in and let it sit."
+        ],
+        "answer": "Cut a hole in the watermelon and pour your favorite liquor in and let it sit.",
+        "idx": 1384,
+        "idx_gt": 1,
+        "opts": [
+            "Blend the watermelon with alcohol",
+            "Cut a hole in the watermelon and pour your favorite liquor in and let it sit.",
+            "Inject alcohol into the watermelon",
+            "Soak the watermelon in alcohol"
+        ]
+    },
+    {
+        "question": "To add light to a project on a circuit board, you can",
+        "options": [
+            "Attach a chandelier to the project",
+            "Attach an LED to the project"
+        ],
+        "answer": "Attach an LED to the project",
+        "idx": 250,
+        "idx_gt": 0,
+        "opts": [
+            "Attach an LED to the project",
+            "Solder a resistor onto the project",
+            "Connect a motor to the project",
+            "Use a capacitor in the project"
+        ]
+    },
+    {
+        "question": "marker",
+        "options": [
+            "erases  pencil marks",
+            "instead of pencil "
+        ],
+        "answer": "instead of pencil ",
+        "idx": 723,
+        "idx_gt": 2,
+        "opts": [
+            "highlighter",
+            "pen",
+            "instead of pencil ",
+            "crayon"
+        ]
+    },
+    {
+        "question": "Deep clean coffee grinder.",
+        "options": [
+            "Scrape with rice.",
+            "Scrape with flour."
+        ],
+        "answer": "Scrape with rice.",
+        "idx": 423,
+        "idx_gt": 0,
+        "opts": [
+            "Scrape with rice.",
+            "Wash with soap",
+            "Scrub with steel wool",
+            "Brush with a toothbrush"
+        ]
+    },
+    {
+        "question": "To cure a hangover",
+        "options": [
+            "Try honey on crackers. The fructose in the honey will flush out the alcohol in your system.",
+            "Try honey on crackers. The fructose in the honey will flush out the crackers in your system."
+        ],
+        "answer": "Try honey on crackers. The fructose in the honey will flush out the alcohol in your system.",
+        "idx": 212,
+        "idx_gt": 2,
+        "opts": [
+            "Eat greasy food.",
+            "Take a hot shower.",
+            "Try honey on crackers. The fructose in the honey will flush out the alcohol in your system.",
+            "Drink more alcohol."
+        ]
+    },
+    {
+        "question": "how do you cook chicken?",
+        "options": [
+            "any way you want, until it is brown.",
+            "any way you want, until the pink is gone from it."
+        ],
+        "answer": "any way you want, until the pink is gone from it.",
+        "idx": 1751,
+        "idx_gt": 2,
+        "opts": [
+            "Grill it for 5 minutes on each side",
+            "Boil it for 30 minutes",
+            "any way you want, until the pink is gone from it.",
+            "Microwave it for 10 minutes"
+        ]
+    },
+    {
+        "question": "How do you prepare mashed yams to be cooked?",
+        "options": [
+            "Wash, peel, and trim the yams. Place the yams onto a cutting board and use a sharp knife to cut them into large, uniform chunks that are all approximately the same size.",
+            "Wash, peel, and trim the yams. Place the yams onto a cutting board and use a sharp knife to cut them into small, irregular chunks that are all varying  same size."
+        ],
+        "answer": "Wash, peel, and trim the yams. Place the yams onto a cutting board and use a sharp knife to cut them into large, uniform chunks that are all approximately the same size.",
+        "idx": 743,
+        "idx_gt": 1,
+        "opts": [
+            "Chop the yams into small pieces before peeling.",
+            "Wash, peel, and trim the yams. Place the yams onto a cutting board and use a sharp knife to cut them into large, uniform chunks that are all approximately the same size.",
+            "Boil the yams whole without washing or peeling them.",
+            "Microwave the yams without cutting or peeling them."
+        ]
+    },
+    {
+        "question": "how do you show you're married, with jewelry?",
+        "options": [
+            "wear your wedding ring on your ring finger on . your right hand.",
+            "wear your wedding ring on your ring finger on your left hand."
+        ],
+        "answer": "wear your wedding ring on your ring finger on your left hand.",
+        "idx": 1543,
+        "idx_gt": 0,
+        "opts": [
+            "wear your wedding ring on your ring finger on your left hand.",
+            "wear a bracelet on your right hand",
+            "wear a necklace with your partner's name on it",
+            "get a matching tattoo with your partner"
+        ]
+    },
+    {
+        "question": "How do you remove gum from being stuck in hair?",
+        "options": [
+            "Apply an ice cube and gently remove the hardened gum.",
+            "Use a blow dryer and gently remove melted gum."
+        ],
+        "answer": "Apply an ice cube and gently remove the hardened gum.",
+        "idx": 45,
+        "idx_gt": 3,
+        "opts": [
+            "Cut the gum out",
+            "Use warm water to melt the gum",
+            "Apply cooking oil to the gum",
+            "Apply an ice cube and gently remove the hardened gum."
+        ]
+    },
+    {
+        "question": "a knife",
+        "options": [
+            "can transfer grapes from a glass.",
+            "can transfer liquid from a glass."
+        ],
+        "answer": "can transfer grapes from a glass.",
+        "idx": 719,
+        "idx_gt": 3,
+        "opts": [
+            "can peel an apple",
+            "can cut a steak",
+            "can open a can",
+            "can transfer grapes from a glass."
+        ]
+    },
+    {
+        "question": "Organize small item supplies.",
+        "options": [
+            "Clean out tuna fish cans and place inside drawers.",
+            "Clean out soda cans and place inside drawers."
+        ],
+        "answer": "Clean out tuna fish cans and place inside drawers.",
+        "idx": 533,
+        "idx_gt": 3,
+        "opts": [
+            "Stack the cans in the kitchen",
+            "Donate the cans to a local food bank",
+            "Throw the cans in the trash",
+            "Clean out tuna fish cans and place inside drawers."
+        ]
+    },
+    {
+        "question": "How to Cool Burning Skin from Chili Peppers?",
+        "options": [
+            "Put cold milk on your hands. Then pour ice-cold milk into a bowl and add some chili powder to create a paste. Dip your hand into the paste to create gloves and leave it on for several minutes before washing it away.",
+            "Put cold milk on your hands. Then pour ice-cold milk into a bowl and add some flour to create a paste. Dip your hand into the paste to create gloves and leave it on for several minutes before washing it away."
+        ],
+        "answer": "Put cold milk on your hands. Then pour ice-cold milk into a bowl and add some flour to create a paste. Dip your hand into the paste to create gloves and leave it on for several minutes before washing it away.",
+        "idx": 796,
+        "idx_gt": 2,
+        "opts": [
+            "Apply ice directly to the skin",
+            "Rinse with warm water",
+            "Put cold milk on your hands. Then pour ice-cold milk into a bowl and add some flour to create a paste. Dip your hand into the paste to create gloves and leave it on for several minutes before washing it away.",
+            "Rub with lemon juice"
+        ]
+    },
+    {
+        "question": "How do I get an airbrush painting onto the material surface?",
+        "options": [
+            "Your stencil should look like a simplified version of the original design.If your using a computer,you can get this done by using with the editing program and play around with the settings.",
+            "Your stencil should look like a simplified version of the original design.If your using a computer,you can get this done by using with the playing program and play around with the settings."
+        ],
+        "answer": "Your stencil should look like a simplified version of the original design.If your using a computer,you can get this done by using with the editing program and play around with the settings.",
+        "idx": 883,
+        "idx_gt": 0,
+        "opts": [
+            "Your stencil should look like a simplified version of the original design.If your using a computer,you can get this done by using with the editing program and play around with the settings.",
+            "Use a 3D printer to create the design",
+            "Manually trace the design onto the material",
+            "Use a stencil and airbrush the design"
+        ]
+    },
+    {
+        "question": "Make air freshener.",
+        "options": [
+            "Spray packing peanuts with gasoline and put in empty jar.",
+            "Spray packing peanuts with perfume and put in empty jar."
+        ],
+        "answer": "Spray packing peanuts with perfume and put in empty jar.",
+        "idx": 694,
+        "idx_gt": 2,
+        "opts": [
+            "Mix essential oils with water",
+            "Light scented candles",
+            "Spray packing peanuts with perfume and put in empty jar.",
+            "Put fresh flowers in a vase"
+        ]
+    },
+    {
+        "question": "How do I dry boiled potatoes?",
+        "options": [
+            "Drain and place on a paper towel in the sink with water running.",
+            "Drain and place on a paper towel on the counter."
+        ],
+        "answer": "Drain and place on a paper towel on the counter.",
+        "idx": 1203,
+        "idx_gt": 0,
+        "opts": [
+            "Drain and place on a paper towel on the counter.",
+            "Microwave for 5 minutes",
+            "Leave them in the water to dry",
+            "Place in the refrigerator to cool"
+        ]
+    },
+    {
+        "question": "To replace vitamins expelled by body through frequent urination caused by diuretic alcohol.",
+        "options": [
+            "Take a multivitamin.",
+            "Take a pain killer."
+        ],
+        "answer": "Take a multivitamin.",
+        "idx": 902,
+        "idx_gt": 0,
+        "opts": [
+            "Take a multivitamin.",
+            "Drink more water.",
+            "Avoid alcohol.",
+            "Take prescription medication."
+        ]
+    },
+    {
+        "question": "How to make a rabbit cage physically cozy for the rabbits?",
+        "options": [
+            "Place the cages in properly air-conditioned rooms, with water-fountains inside the cages for the rabbits to quench their thirsts.",
+            "Make sure the walls of the cage are nets for free air-flow, the placement of the cage isn't directly on the sun nor in the dark and to fill the inside of the cages with hay for cushion."
+        ],
+        "answer": "Make sure the walls of the cage are nets for free air-flow, the placement of the cage isn't directly on the sun nor in the dark and to fill the inside of the cages with hay for cushion.",
+        "idx": 332,
+        "idx_gt": 1,
+        "opts": [
+            "Place the cage in direct sunlight",
+            "Make sure the walls of the cage are nets for free air-flow, the placement of the cage isn't directly on the sun nor in the dark and to fill the inside of the cages with hay for cushion.",
+            "Use a solid-walled cage for better insulation",
+            "Fill the cage with rocks instead of hay"
+        ]
+    },
+    {
+        "question": "Increase smoothness of hair.",
+        "options": [
+            "Soak hair in brewed coffee before shower.",
+            "Soak hair in brewed tea before shower."
+        ],
+        "answer": "Soak hair in brewed tea before shower.",
+        "idx": 1335,
+        "idx_gt": 1,
+        "opts": [
+            "Apply mayonnaise as a hair mask before shower.",
+            "Soak hair in brewed tea before shower.",
+            "Use lemon juice on hair before shower.",
+            "Rinse hair with apple cider vinegar before shower."
+        ]
+    },
+    {
+        "question": "Prevent lipstick on teeth.",
+        "options": [
+            "Apply layer of vaseline on teeth.",
+            "Apply layer of vaseline on lips."
+        ],
+        "answer": "Apply layer of vaseline on teeth.",
+        "idx": 1596,
+        "idx_gt": 1,
+        "opts": [
+            "Smile without showing teeth.",
+            "Apply layer of vaseline on teeth.",
+            "Avoid using lipstick at all.",
+            "Use lip liner instead of lipstick."
+        ]
+    },
+    {
+        "question": "To brighten the flavor of a fish taco,",
+        "options": [
+            "add extra gravy and bread crumbs to the fried fish.",
+            "use lime and vegetables and cheese as topping."
+        ],
+        "answer": "use lime and vegetables and cheese as topping.",
+        "idx": 606,
+        "idx_gt": 2,
+        "opts": [
+            "Add lemon and hot sauce as toppings.",
+            "Add mayonnaise and ketchup as toppings.",
+            "use lime and vegetables and cheese as topping.",
+            "Add avocado and salsa as toppings."
+        ]
+    },
+    {
+        "question": "under arm",
+        "options": [
+            "can carry items watermelon ",
+            "can carry items book "
+        ],
+        "answer": "can carry items book ",
+        "idx": 1415,
+        "idx_gt": 2,
+        "opts": [
+            "can carry heavy items",
+            "can carry light items",
+            "can carry items book ",
+            "can carry nothing"
+        ]
+    },
+    {
+        "question": "To more easily access popular rides at a theme park,",
+        "options": [
+            "go to the theme park a day after a drinking based holiday.",
+            "go to the theme park on a popular holiday instead."
+        ],
+        "answer": "go to the theme park a day after a drinking based holiday.",
+        "idx": 730,
+        "idx_gt": 0,
+        "opts": [
+            "go to the theme park a day after a drinking based holiday.",
+            "Go on a rainy day.",
+            "Arrive at the park early in the morning.",
+            "Purchase a fast pass ticket."
+        ]
+    },
+    {
+        "question": "how to remove really sticky tape",
+        "options": [
+            "Ventilate the area well.    Slowly move a steam cleaner or a hair dryer on high heat over a section of the adhesive tape.    Use a plastic scraper or dull knife to carefully scrape off the tape.    Repeat the process on the next section",
+            "Ventilate the area well.    Slowly move a steam cleaner or a hair dryer on high heat over a section of the adhesive tape.    Use a plastic ball or dull mirror to carefully scrape off the tape.    Repeat the process on the next section"
+        ],
+        "answer": "Ventilate the area well.    Slowly move a steam cleaner or a hair dryer on high heat over a section of the adhesive tape.    Use a plastic scraper or dull knife to carefully scrape off the tape.    Repeat the process on the next section",
+        "idx": 195,
+        "idx_gt": 1,
+        "opts": [
+            "Use a wire brush to scrub off the tape.",
+            "Ventilate the area well.    Slowly move a steam cleaner or a hair dryer on high heat over a section of the adhesive tape.    Use a plastic scraper or dull knife to carefully scrape off the tape.    Repeat the process on the next section",
+            "Apply more tape on top of the sticky tape to remove it.",
+            "Spray water on the sticky tape and wait for it to dissolve."
+        ]
+    },
+    {
+        "question": "To sprout seeds for your garden,",
+        "options": [
+            "fill old ice cube trays with potting soil.  Plant seeds and set the tray in a window, to get direct sunlight.",
+            "fill old ice cube trays with potting soil.  Plant seeds and set the tray in a closet, to avoid direct sunlight."
+        ],
+        "answer": "fill old ice cube trays with potting soil.  Plant seeds and set the tray in a window, to get direct sunlight.",
+        "idx": 177,
+        "idx_gt": 3,
+        "opts": [
+            "Water the seeds every day.",
+            "Use small pots instead of ice cube trays.",
+            "Keep the seeds in a dark room.",
+            "fill old ice cube trays with potting soil.  Plant seeds and set the tray in a window, to get direct sunlight."
+        ]
+    },
+    {
+        "question": "Where can I buy a tennis ball",
+        "options": [
+            "You can purchase a tennis ball at any sports store",
+            "You can purchase a tennis racket at any sports store"
+        ],
+        "answer": "You can purchase a tennis ball at any sports store",
+        "idx": 1837,
+        "idx_gt": 3,
+        "opts": [
+            "At the hardware store",
+            "In a pet store",
+            "Online",
+            "You can purchase a tennis ball at any sports store"
+        ]
+    },
+    {
+        "question": "How to thicken a soup quickly?",
+        "options": [
+            "In the soup pan, mix equal parts butter and flour together until they cook out, about a couple of hours, then stir that mixture into the soup, the roux will thicken the soup",
+            "In a side pan, mix equal parts butter and flour together until they cook out, about a couple minutes, then stir that mixture into the soup, the roux will thicken the soup"
+        ],
+        "answer": "In a side pan, mix equal parts butter and flour together until they cook out, about a couple minutes, then stir that mixture into the soup, the roux will thicken the soup",
+        "idx": 1400,
+        "idx_gt": 0,
+        "opts": [
+            "In a side pan, mix equal parts butter and flour together until they cook out, about a couple minutes, then stir that mixture into the soup, the roux will thicken the soup",
+            "Add more water",
+            "Mix in some sugar",
+            "Stir in some salt"
+        ]
+    },
+    {
+        "question": "crisp, textured layers in crust",
+        "options": [
+            "add cheerwine to the dough. The cheerwine evaporates while it\u2019s being cooked, and the dough is left hard and brittle",
+            "add vodka to the dough. The alcohol evaporates while it\u2019s being cooked, and the dough is left puffy and soft"
+        ],
+        "answer": "add vodka to the dough. The alcohol evaporates while it\u2019s being cooked, and the dough is left puffy and soft",
+        "idx": 494,
+        "idx_gt": 1,
+        "opts": [
+            "add sugar to the dough",
+            "add vodka to the dough. The alcohol evaporates while it\u2019s being cooked, and the dough is left puffy and soft",
+            "use warm water for the dough",
+            "knead the dough for a longer duration"
+        ]
+    },
+    {
+        "question": "How to make your jeans into a shirt?",
+        "options": [
+            "Cut off the legs at the knee, then again at the top, making sure you don't cut the pockets .",
+            "Cut off the legs at the knee, then again at the top, making sure you cut the pockets ."
+        ],
+        "answer": "Cut off the legs at the knee, then again at the top, making sure you don't cut the pockets .",
+        "idx": 1038,
+        "idx_gt": 0,
+        "opts": [
+            "Cut off the legs at the knee, then again at the top, making sure you don't cut the pockets .",
+            "Sew the legs together to create sleeves",
+            "Use the leg material to make a hat",
+            "Turn the waistband into a collar"
+        ]
+    },
+    {
+        "question": "how do you switch profiles on instagram?",
+        "options": [
+            "go to your profile page, then click on your username at the top of the page, then click on the other profile.",
+            "go to your profile page, then click on your usernmae at the top of the page, and click on signout."
+        ],
+        "answer": "go to your profile page, then click on your username at the top of the page, then click on the other profile.",
+        "idx": 1617,
+        "idx_gt": 3,
+        "opts": [
+            "Click on the settings icon and select 'Switch Profile'",
+            "Go to the search bar and type 'Switch Profile'",
+            "Navigate to the explore page and choose 'Switch Profile'",
+            "go to your profile page, then click on your username at the top of the page, then click on the other profile."
+        ]
+    },
+    {
+        "question": "To make a bong out of a soda bottle,",
+        "options": [
+            "put the weed inside and heat up the entire bottle.",
+            "drill a hole into the bottom and insert a down stem."
+        ],
+        "answer": "drill a hole into the bottom and insert a down stem.",
+        "idx": 1294,
+        "idx_gt": 3,
+        "opts": [
+            "cut a hole in the side and attach a hose",
+            "attach a straw to the lid and use it as a mouthpiece",
+            "attach a funnel to the top and use it as a bowl",
+            "drill a hole into the bottom and insert a down stem."
+        ]
+    },
+    {
+        "question": "How can you bind PVC pipe together?",
+        "options": [
+            "Put a bit of tape between two pieces and clamp together.",
+            "Put a bit of epoxy between two pieces and clamp together."
+        ],
+        "answer": "Put a bit of epoxy between two pieces and clamp together.",
+        "idx": 1395,
+        "idx_gt": 1,
+        "opts": [
+            "Use duct tape to wrap around the pipe",
+            "Put a bit of epoxy between two pieces and clamp together.",
+            "Use a rubber band to hold the pipes together",
+            "Apply super glue along the pipe joints"
+        ]
+    },
+    {
+        "question": "how do you make a copy of a key?",
+        "options": [
+            "take the key to walmart and go to the auto center. have them make you a copy.",
+            "cut out a piece of metal in the same shape of your key."
+        ],
+        "answer": "take the key to walmart and go to the auto center. have them make you a copy.",
+        "idx": 1825,
+        "idx_gt": 0,
+        "opts": [
+            "take the key to walmart and go to the auto center. have them make you a copy.",
+            "Take the key to a hardware store and ask for a duplicate.",
+            "Use a photocopier machine to create a copy of the key.",
+            "Ask a friend to make a duplicate of the key for you."
+        ]
+    },
+    {
+        "question": "To prevent the bread bone dough from sticking to the cooking pan",
+        "options": [
+            "use a silicone bedding sheet",
+            "use a silicone baking sheet"
+        ],
+        "answer": "use a silicone baking sheet",
+        "idx": 1402,
+        "idx_gt": 3,
+        "opts": [
+            "coat the pan with oil",
+            "use parchment paper",
+            "use aluminum foil",
+            "use a silicone baking sheet"
+        ]
+    },
+    {
+        "question": "How to attract hummingbirds to your garden?",
+        "options": [
+            "Hummingbirds are territorial so it is best to have several different feeders or patches of flowers that hummingbirds will be attracted to. Otherwise they might fight and they will leave and not want to return.",
+            "If you hum a tune while you garden, humming birds will want to sing along with you so you don't have to really bother with feeders or special flowers."
+        ],
+        "answer": "Hummingbirds are territorial so it is best to have several different feeders or patches of flowers that hummingbirds will be attracted to. Otherwise they might fight and they will leave and not want to return.",
+        "idx": 836,
+        "idx_gt": 3,
+        "opts": [
+            "Use a single feeder to attract hummingbirds",
+            "Plant only one type of flower to attract hummingbirds",
+            "Use loud noises to attract hummingbirds",
+            "Hummingbirds are territorial so it is best to have several different feeders or patches of flowers that hummingbirds will be attracted to. Otherwise they might fight and they will leave and not want to return."
+        ]
+    },
+    {
+        "question": "how do you scan an ar code in a store?",
+        "options": [
+            "take a picture of it with your phone camera.",
+            "take a picture of it with your digital camera."
+        ],
+        "answer": "take a picture of it with your phone camera.",
+        "idx": 1595,
+        "idx_gt": 0,
+        "opts": [
+            "take a picture of it with your phone camera.",
+            "Use a barcode scanner app",
+            "Ask a store employee for help",
+            "Type the code into a search engine"
+        ]
+    },
+    {
+        "question": "how do you exchange an item?",
+        "options": [
+            "take the item and reciept back to the original store, and get another item to keep in its place.",
+            "take the item back to the original store, and switch it for something else you want to keep."
+        ],
+        "answer": "take the item and reciept back to the original store, and get another item to keep in its place.",
+        "idx": 1654,
+        "idx_gt": 0,
+        "opts": [
+            "take the item and reciept back to the original store, and get another item to keep in its place.",
+            "Return the item without a receipt",
+            "Exchange the item online",
+            "Keep the item and get a refund"
+        ]
+    },
+    {
+        "question": "How to attach a torn off lace into a handbag?",
+        "options": [
+            "It would be best to weld the lace on to the torn of spot on the handbag.",
+            "It would be best to sow the lace on to the torn of spot on the handbag."
+        ],
+        "answer": "It would be best to sow the lace on to the torn of spot on the handbag.",
+        "idx": 1043,
+        "idx_gt": 2,
+        "opts": [
+            "Glue the lace onto the torn spot",
+            "Use safety pins to attach the lace",
+            "It would be best to sow the lace on to the torn of spot on the handbag.",
+            "Tape the lace onto the torn spot"
+        ]
+    },
+    {
+        "question": "To learn how to ride a bike.",
+        "options": [
+            "Just get on the bike and start riding to learn how to do it consistently.",
+            "Start with training wheels to help will balance while moving then gradually take them off."
+        ],
+        "answer": "Start with training wheels to help will balance while moving then gradually take them off.",
+        "idx": 1641,
+        "idx_gt": 3,
+        "opts": [
+            "Start with training wheels and never take them off.",
+            "Learn how to ride without any help from the beginning.",
+            "Start riding without any form of assistance.",
+            "Start with training wheels to help will balance while moving then gradually take them off."
+        ]
+    },
+    {
+        "question": "To heat set a length of ribbon, you can",
+        "options": [
+            "Use an iron to carefully apply heat to the ribbon",
+            "Use a blowtorch to carefully apply heat to the ribbon"
+        ],
+        "answer": "Use an iron to carefully apply heat to the ribbon",
+        "idx": 315,
+        "idx_gt": 3,
+        "opts": [
+            "Use a hairdryer to blow hot air onto the ribbon",
+            "Place the ribbon in the freezer to cool it down",
+            "Use a microwave to quickly warm the ribbon",
+            "Use an iron to carefully apply heat to the ribbon"
+        ]
+    },
+    {
+        "question": "How do I decorate a green paper Christmas tree cone?",
+        "options": [
+            "These paper green cone trees look especially nice with the addition of ribbon, glitter and beads glued on in a random fashion, use a glue gun to affix a metallic bow to the top.",
+            "These paper green cone trees look especially nice with the addition of ribbon, glitter and bugs glued on in a random fashion, use a glue gun to affix a metallic bow to the top."
+        ],
+        "answer": "These paper green cone trees look especially nice with the addition of ribbon, glitter and beads glued on in a random fashion, use a glue gun to affix a metallic bow to the top.",
+        "idx": 1450,
+        "idx_gt": 2,
+        "opts": [
+            "Paint the tree with different colors",
+            "Wrap the tree with colorful cloth",
+            "These paper green cone trees look especially nice with the addition of ribbon, glitter and beads glued on in a random fashion, use a glue gun to affix a metallic bow to the top.",
+            "Attach plastic flowers to the tree"
+        ]
+    },
+    {
+        "question": "To clean a toilet bowl,",
+        "options": [
+            "squeeze toilet bowl cleaner up under the bowl rim all the way around and use a toilet bowl brush to scrub out the entire bowl.",
+            "squeeze toilet bowl cleaner up under the bowl rim all the way around and use a wet wash rag to scrub out the entire bowl."
+        ],
+        "answer": "squeeze toilet bowl cleaner up under the bowl rim all the way around and use a toilet bowl brush to scrub out the entire bowl.",
+        "idx": 791,
+        "idx_gt": 0,
+        "opts": [
+            "squeeze toilet bowl cleaner up under the bowl rim all the way around and use a toilet bowl brush to scrub out the entire bowl.",
+            "Spray toilet bowl cleaner directly onto the toilet seat.",
+            "Use a sponge to clean the toilet bowl.",
+            "Pour toilet bowl cleaner down the drain."
+        ]
+    },
+    {
+        "question": "To roast an eggplant, you can",
+        "options": [
+            "Split it in half and bake for 20 minutes",
+            "Split it in half and bake for 20 hours"
+        ],
+        "answer": "Split it in half and bake for 20 minutes",
+        "idx": 372,
+        "idx_gt": 3,
+        "opts": [
+            "Microwave it for 5 minutes",
+            "Deep fry it for 10 minutes",
+            "Boil it for 15 minutes",
+            "Split it in half and bake for 20 minutes"
+        ]
+    },
+    {
+        "question": "Hold a cheap ring.",
+        "options": [
+            "Cut a section of egg carton.",
+            "Cut a section of egg yolk."
+        ],
+        "answer": "Cut a section of egg carton.",
+        "idx": 228,
+        "idx_gt": 3,
+        "opts": [
+            "Wear a plastic bracelet.",
+            "Buy an expensive necklace.",
+            "Craft a diamond engagement ring.",
+            "Cut a section of egg carton."
+        ]
+    },
+    {
+        "question": "Make flat iron holder.",
+        "options": [
+            "Fold pot holder into a square.",
+            "Roll pot holder into a cylinder."
+        ],
+        "answer": "Roll pot holder into a cylinder.",
+        "idx": 1396,
+        "idx_gt": 2,
+        "opts": [
+            "Fold pot holder into a triangle.",
+            "Sew pot holder into a square.",
+            "Roll pot holder into a cylinder.",
+            "Twist pot holder into a spiral."
+        ]
+    },
+    {
+        "question": "clothing",
+        "options": [
+            "can be closed together by chip clip ",
+            "can be closed together by box cutter "
+        ],
+        "answer": "can be closed together by chip clip ",
+        "idx": 630,
+        "idx_gt": 0,
+        "opts": [
+            "can be closed together by chip clip ",
+            "button",
+            "zipper",
+            "velcro"
+        ]
+    },
+    {
+        "question": "To increase the power of a vacuum,",
+        "options": [
+            "cut out any hairs caught in the suction part.",
+            "leave it running for awhile to build up it's power."
+        ],
+        "answer": "cut out any hairs caught in the suction part.",
+        "idx": 949,
+        "idx_gt": 1,
+        "opts": [
+            "Clean the filter regularly.",
+            "cut out any hairs caught in the suction part.",
+            "Increase the length of the vacuum hose.",
+            "Use the vacuum on a higher power setting."
+        ]
+    },
+    {
+        "question": "To obtain meximum deliciousness of the nutella cookies",
+        "options": [
+            "Serve with a glass of milk",
+            "Serve with a glass of water"
+        ],
+        "answer": "Serve with a glass of milk",
+        "idx": 151,
+        "idx_gt": 3,
+        "opts": [
+            "Serve with a glass of water",
+            "Dip in hot sauce",
+            "Pair with orange juice",
+            "Serve with a glass of milk"
+        ]
+    },
+    {
+        "question": "Make desktop resting spot for cat.",
+        "options": [
+            "Flip the top of a board game sideways.",
+            "Flip the top of a board game upside down."
+        ],
+        "answer": "Flip the top of a board game upside down.",
+        "idx": 1524,
+        "idx_gt": 0,
+        "opts": [
+            "Flip the top of a board game upside down.",
+            "Place a build-up of pillows on the desk.",
+            "Install a cat tree near the desk.",
+            "Spread a blanket on the desk."
+        ]
+    },
+    {
+        "question": "What surface can I use to properly iron a shirt?",
+        "options": [
+            "Use the counter top, it is works just as well as an ironing board and doesn't cost anything to have.",
+            "Use an ironing board, it is designed to handle the moisture and form of the clothes that need ironing."
+        ],
+        "answer": "Use an ironing board, it is designed to handle the moisture and form of the clothes that need ironing.",
+        "idx": 970,
+        "idx_gt": 1,
+        "opts": [
+            "Use a wooden table, it provides a sturdy and flat surface.",
+            "Use an ironing board, it is designed to handle the moisture and form of the clothes that need ironing.",
+            "Use the floor, it allows for more space and freedom of movement.",
+            "Use a carpet, it provides a soft surface for ironing."
+        ]
+    },
+    {
+        "question": "Is investing in the stock market a good choice?",
+        "options": [
+            "Many people lose money in the stock market, and some research stocks and companies and learn about the market before investing. Education is probably the key to growing success in the stock market.",
+            "Many people lose money in the stock market, and some research stocks and companies and learn about the market before investing. Evolution is probably the key to growing success in the stock market."
+        ],
+        "answer": "Many people lose money in the stock market, and some research stocks and companies and learn about the market before investing. Education is probably the key to growing success in the stock market.",
+        "idx": 962,
+        "idx_gt": 2,
+        "opts": [
+            "Stock market investments are always profitable.",
+            "Stock market is a risky investment option.",
+            "Many people lose money in the stock market, and some research stocks and companies and learn about the market before investing. Education is probably the key to growing success in the stock market.",
+            "Stock market investments guarantee high returns."
+        ]
+    },
+    {
+        "question": "To keep homemade apple juice from turning brown.",
+        "options": [
+            "You can take any vitamin c tablets, and add a small, small amount to the food processor. I chop a 500mg tablet into quarters and add all of them to each processor load.",
+            "You can take any vitamin c tablets, and add a small, small amount to the food processor. I chop a 500mg tablet into quarters and add one of those to each processor load."
+        ],
+        "answer": "You can take any vitamin c tablets, and add a small, small amount to the food processor. I chop a 500mg tablet into quarters and add one of those to each processor load.",
+        "idx": 1355,
+        "idx_gt": 1,
+        "opts": [
+            "Add lemon juice to the apple juice.",
+            "You can take any vitamin c tablets, and add a small, small amount to the food processor. I chop a 500mg tablet into quarters and add one of those to each processor load.",
+            "Mix the apple juice with water.",
+            "Store the apple juice in a metal container."
+        ]
+    },
+    {
+        "question": "To be safe when working with lye, you can",
+        "options": [
+            "Make sure to measure it outside",
+            "Make sure to measure it inside"
+        ],
+        "answer": "Make sure to measure it outside",
+        "idx": 1756,
+        "idx_gt": 3,
+        "opts": [
+            "Wear gloves and goggles",
+            "Handle it with bare hands",
+            "Keep it in an airtight container",
+            "Make sure to measure it outside"
+        ]
+    },
+    {
+        "question": "How to grow a beard",
+        "options": [
+            "Rinse your growing beard and apply beard oil daily. Wash with a beard wash 1-3 times a week. Grow your beard for at least a month before trimming",
+            "Rinse your growing beard and apply hair removal ointment. Wash with a beard wash 1-3 times a week. Grow your beard for at least a month before trimming"
+        ],
+        "answer": "Rinse your growing beard and apply beard oil daily. Wash with a beard wash 1-3 times a week. Grow your beard for at least a month before trimming",
+        "idx": 603,
+        "idx_gt": 3,
+        "opts": [
+            "Shave your beard daily",
+            "Wash your beard with soap and water only",
+            "Apply lotion to your beard daily",
+            "Rinse your growing beard and apply beard oil daily. Wash with a beard wash 1-3 times a week. Grow your beard for at least a month before trimming"
+        ]
+    },
+    {
+        "question": "To hit a volleyball",
+        "options": [
+            "Stand with your feet shoulder width apart, with most of your weight on the back foot.  Toss the ball in front of your hitting arm.  Hit the ball with the upper part of your palm.",
+            "Stand with your feet shoulder width apart, with most of your weight on the front foot. Toss the ball in front of your hitting arm.  Hit the ball with the lower part of your palm."
+        ],
+        "answer": "Stand with your feet shoulder width apart, with most of your weight on the back foot.  Toss the ball in front of your hitting arm.  Hit the ball with the upper part of your palm.",
+        "idx": 152,
+        "idx_gt": 0,
+        "opts": [
+            "Stand with your feet shoulder width apart, with most of your weight on the back foot.  Toss the ball in front of your hitting arm.  Hit the ball with the upper part of your palm.",
+            "Stand with your feet very close together and lean forward.",
+            "Toss the ball behind your hitting arm.",
+            "Hit the ball with your closed fist."
+        ]
+    },
+    {
+        "question": "How to make Cran Apple Tarts at home.",
+        "options": [
+            "Combine 1/4 cup  Chopped cranberries, 1/4 cup apples, 1 tsp. Lemon juice 1/3 cup vinegar, 1 tbsp. butter, then place in unbaked tart shell, bake for 18 min.  in 375 degree oven, check  and remove when shell brown.",
+            "Combine 1/4 cup  Chopped cranberries, 1/4 cup apples, 1 tsp. Lemon juice 1/3 cup sugar, 1 tbsp. butter, then place in unbaked tart shell, bake for 18 min.  in 375 degree oven, check  and remove when shell brown."
+        ],
+        "answer": "Combine 1/4 cup  Chopped cranberries, 1/4 cup apples, 1 tsp. Lemon juice 1/3 cup sugar, 1 tbsp. butter, then place in unbaked tart shell, bake for 18 min.  in 375 degree oven, check  and remove when shell brown.",
+        "idx": 537,
+        "idx_gt": 1,
+        "opts": [
+            "Mix cranberries and apples with lemon juice, sugar, and butter, then bake for 25 minutes at 350 degrees.",
+            "Combine 1/4 cup  Chopped cranberries, 1/4 cup apples, 1 tsp. Lemon juice 1/3 cup sugar, 1 tbsp. butter, then place in unbaked tart shell, bake for 18 min.  in 375 degree oven, check  and remove when shell brown.",
+            "Mix cranberries and apples with lemon juice, sugar, and butter, then bake for 18 minutes at 375 degrees.",
+            "Mix cranberries and apples with lemon juice, sugar, and butter, then bake for 20 minutes at 370 degrees."
+        ]
+    },
+    {
+        "question": "how do you chew your food?",
+        "options": [
+            "chomp it up with your teeth until you can swallow it.",
+            "mash it up before placing it in your mouth to swallow."
+        ],
+        "answer": "chomp it up with your teeth until you can swallow it.",
+        "idx": 586,
+        "idx_gt": 0,
+        "opts": [
+            "chomp it up with your teeth until you can swallow it.",
+            "Swallow it whole",
+            "Use a blender",
+            "Take small bites and savor the flavor"
+        ]
+    },
+    {
+        "question": "How can you hold drawers together while the glue dries?",
+        "options": [
+            "Use tape to hold the drawers together.",
+            "Use wood to hold the drawers together."
+        ],
+        "answer": "Use tape to hold the drawers together.",
+        "idx": 1062,
+        "idx_gt": 0,
+        "opts": [
+            "Use tape to hold the drawers together.",
+            "Use nails to hold the drawers together.",
+            "Use screws to hold the drawers together.",
+            "Use clamps to hold the drawers together."
+        ]
+    },
+    {
+        "question": "paperweight",
+        "options": [
+            "can be put inside  socks ",
+            "can be put inside  eyes "
+        ],
+        "answer": "can be put inside  socks ",
+        "idx": 383,
+        "idx_gt": 3,
+        "opts": [
+            "can be put inside shoes",
+            "can be used as a hat",
+            "can be used as a spoon",
+            "can be put inside  socks "
+        ]
+    },
+    {
+        "question": "How can you cure hiccups at home?",
+        "options": [
+            "Hold your breath, then swallow 3 times.",
+            "Hold your remote, then swallow 3 times."
+        ],
+        "answer": "Hold your breath, then swallow 3 times.",
+        "idx": 1760,
+        "idx_gt": 2,
+        "opts": [
+            "Drink a glass of water upside down.",
+            "Hold your breath and count to 100.",
+            "Hold your breath, then swallow 3 times.",
+            "Lift something heavy to stop the hiccups."
+        ]
+    },
+    {
+        "question": "wash veggies",
+        "options": [
+            "Use clean potable cold water to wash items. For produce with thick skin, use a vegetable brush to help wash away hard-to-remove microbes. Produce with a lot of nooks and crannies like cauliflower, broccoli or lettuce should be soaked for 1 to 2 minutes in cold clean water.",
+            "Use clean potable cold water to wash items. For produce with thick skin, use a hair brush to help wash away hard-to-remove microbes. Produce with a lot of nooks and crannies like cauliflower, broccoli or lettuce should be soaked for 1 to 2 minutes in cold clean water."
+        ],
+        "answer": "Use clean potable cold water to wash items. For produce with thick skin, use a vegetable brush to help wash away hard-to-remove microbes. Produce with a lot of nooks and crannies like cauliflower, broccoli or lettuce should be soaked for 1 to 2 minutes in cold clean water.",
+        "idx": 1199,
+        "idx_gt": 3,
+        "opts": [
+            "Use dirty water to wash items.",
+            "Use hot water to wash items.",
+            "Soak produce in warm water for 1 to 2 minutes.",
+            "Use clean potable cold water to wash items. For produce with thick skin, use a vegetable brush to help wash away hard-to-remove microbes. Produce with a lot of nooks and crannies like cauliflower, broccoli or lettuce should be soaked for 1 to 2 minutes in cold clean water."
+        ]
+    },
+    {
+        "question": "How do I make a PB&J?",
+        "options": [
+            "Take bread, spread peanut butter on one side and jelly on the other, then place spread sides together.",
+            "Take bread, spread butter on one side and jelly on the other, then place spread sides together."
+        ],
+        "answer": "Take bread, spread peanut butter on one side and jelly on the other, then place spread sides together.",
+        "idx": 306,
+        "idx_gt": 0,
+        "opts": [
+            "Take bread, spread peanut butter on one side and jelly on the other, then place spread sides together.",
+            "Spread peanut butter on one slice and jelly on the other",
+            "Spread peanut butter on both slices and then jelly",
+            "Take two slices of bread and place them together without any spreading"
+        ]
+    },
+    {
+        "question": "How do you organize dirty clothes?",
+        "options": [
+            "Keep them in a pile in the corner of your room so you always have access to them.",
+            "Keep them in hampers, split if certain colors are washed separately."
+        ],
+        "answer": "Keep them in hampers, split if certain colors are washed separately.",
+        "idx": 443,
+        "idx_gt": 1,
+        "opts": [
+            "Throw them on the floor",
+            "Keep them in hampers, split if certain colors are washed separately.",
+            "Fold them neatly in a drawer",
+            "Store them in a plastic bag"
+        ]
+    },
+    {
+        "question": "how do you keep blood circulating in your legs?",
+        "options": [
+            "walk around every five hours.",
+            "walk around every hour."
+        ],
+        "answer": "walk around every hour.",
+        "idx": 118,
+        "idx_gt": 0,
+        "opts": [
+            "walk around every hour.",
+            "Stand on one leg",
+            "Elevate your legs",
+            "Sit still for long periods"
+        ]
+    },
+    {
+        "question": "How to fuse the end of your bracelet?",
+        "options": [
+            "Take a blow torch to the ends of your cords and soldier off?",
+            "Take a lighter to the ends of your cords and soldier off?"
+        ],
+        "answer": "Take a lighter to the ends of your cords and soldier off?",
+        "idx": 1508,
+        "idx_gt": 2,
+        "opts": [
+            "Use glue to seal the ends",
+            "Tie a knot at the end",
+            "Take a lighter to the ends of your cords and soldier off?",
+            "Bite off the excess cord"
+        ]
+    },
+    {
+        "question": "Put a layer of light heat protection between fabric and wood.",
+        "options": [
+            "Cut a piece of cardboard and a few layers of batting to the appropriate size, and layer between the fabric and wood.",
+            "Cut a piece of paper and a few layers of satin to the appropriate size, and layer between the fabric and wood."
+        ],
+        "answer": "Cut a piece of cardboard and a few layers of batting to the appropriate size, and layer between the fabric and wood.",
+        "idx": 545,
+        "idx_gt": 0,
+        "opts": [
+            "Cut a piece of cardboard and a few layers of batting to the appropriate size, and layer between the fabric and wood.",
+            "Use a layer of aluminum foil",
+            "Place a layer of plastic wrap",
+            "Apply a coat of varnish on the wood"
+        ]
+    },
+    {
+        "question": "To make whipped cream ahead of time without it getting runny in the fridge.",
+        "options": [
+            "To keep it from weeping while it sits in the fridge, add a little peanut oil near the end of the whipping process. The marshmallow cream not only adds structure to your whipped cream, but some extra yumminess as well.",
+            "To keep it from weeping while it sits in the fridge, add a little Fluff near the end of the whipping process. The marshmallow cream not only adds structure to your whipped cream, but some extra yumminess as well."
+        ],
+        "answer": "To keep it from weeping while it sits in the fridge, add a little Fluff near the end of the whipping process. The marshmallow cream not only adds structure to your whipped cream, but some extra yumminess as well.",
+        "idx": 1041,
+        "idx_gt": 2,
+        "opts": [
+            "Add gelatin to the whipped cream",
+            "Use full-fat milk instead of cream",
+            "To keep it from weeping while it sits in the fridge, add a little Fluff near the end of the whipping process. The marshmallow cream not only adds structure to your whipped cream, but some extra yumminess as well.",
+            "Sprinkle cornstarch into the whipped cream"
+        ]
+    },
+    {
+        "question": "To anneal a metal file, you can",
+        "options": [
+            "Heat it with a blowtorch until the file loses its magnetism",
+            "Heat it with a toaster until the file loses its magnetism"
+        ],
+        "answer": "Heat it with a blowtorch until the file loses its magnetism",
+        "idx": 1692,
+        "idx_gt": 3,
+        "opts": [
+            "Cool it in water immediately after heating",
+            "Place it in a freezer for 24 hours",
+            "Expose it to direct sunlight for an hour",
+            "Heat it with a blowtorch until the file loses its magnetism"
+        ]
+    },
+    {
+        "question": "heater",
+        "options": [
+            "warming boat easily",
+            "warming backyard easily"
+        ],
+        "answer": "warming boat easily",
+        "idx": 1070,
+        "idx_gt": 1,
+        "opts": [
+            "easily warming boat",
+            "warming boat easily",
+            "boat heating comfortably",
+            "cosy boat temperature"
+        ]
+    },
+    {
+        "question": "sofa",
+        "options": [
+            "can be harder than the counter .",
+            "can be placed away from the counter ."
+        ],
+        "answer": "can be placed away from the counter .",
+        "idx": 400,
+        "idx_gt": 2,
+        "opts": [
+            "can be placed on the counter",
+            "can be used as a cutting board",
+            "can be placed away from the counter .",
+            "can be used for cooking"
+        ]
+    },
+    {
+        "question": "Keep the ducks off the beach.",
+        "options": [
+            "Put up a no ducks allowed sign on the beach.",
+            "Put a dog on the beach."
+        ],
+        "answer": "Put a dog on the beach.",
+        "idx": 1462,
+        "idx_gt": 3,
+        "opts": [
+            "Install a fence on the beach.",
+            "Use scarecrows on the beach.",
+            "Place decoy ducks on the beach.",
+            "Put a dog on the beach."
+        ]
+    },
+    {
+        "question": "toilet tissue",
+        "options": [
+            "is the same color as flour most of the time",
+            "is the same color as t-shirt most of the time"
+        ],
+        "answer": "is the same color as flour most of the time",
+        "idx": 164,
+        "idx_gt": 1,
+        "opts": [
+            "is white",
+            "is the same color as flour most of the time",
+            "is green",
+            "is blue"
+        ]
+    }
+]

@@ -1,0 +1,103 @@
+Index,Prediction,Answer,Eval,Manual Eval,Validator Pred
+1678,#3,no. 3,False,True,TRUE
+4221,Jaguar,Jaguar Land Rover,False,True,TRUE
+4580,65th,represented District 65,False,True,TRUE
+267,Lady Antebellum,Charles Kelley,False,False,FALSE
+6324,Architect,Armaments and War Production,False,False,FALSE
+6267,18 minutes,18 minutes,True,True,FALSE
+2542,Judges,Book of Judges,False,True,FALSE
+5053,Winners,winners,True,True,TRUE
+233,"United States v. Paramount Pictures, Inc.",Craig v. Boren,False,False,TRUE
+6865,January,Dec-93,False,False,FALSE
+2859,Wolf Creek,Wolf Creek,True,True,FALSE
+2644,1884,1884,True,True,TRUE
+247,Yes,yes,True,True,TRUE
+6238,MacFarlane,Seth MacFarlane,False,True,TRUE
+5036,FAI Junior Cup,FAI Junior Cup,True,True,TRUE
+6610,Seasiders,"""the Seasiders""",False,True,TRUE
+7201,1970,1970,True,True,TRUE
+4940,Wollongong,"Wollongong, Australia",False,True,FALSE
+1309,Austrian,American,False,False,TRUE
+2584,paranormal,Native American,False,False,TRUE
+4258,Elizabeth Taylor,Dame Elizabeth Rosemond Taylor,False,True,TRUE
+2979,Crested Butte,"Crested Butte, Colorado",False,True,TRUE
+6284,California Polytechnic State University,California Polytechnic State University,True,True,TRUE
+4414,22-May,22-May,True,True,FALSE
+4641,Heard,Amber Laura Heard,False,True,TRUE
+1090,ENnies,EN World web site,False,False,TRUE
+1973,4080,4080,True,True,FALSE
+1738,Wolfgang Becker,Wolfgang Becker,True,True,TRUE
+5891,running back,Larry Alphonso Johnson Jr.,False,False,TRUE
+329,Spring,Spring city,False,True,TRUE
+6472,The Handmaid's Tale,The Handmaid's Tale,True,True,TRUE
+3616,Yeatman-Eiffel,Savin Yeatman-Eiffel,False,True,TRUE
+1204,Rockland,Rockland,True,True,FALSE
+1318,Premier League Darts,2018 Unibet Premier League Darts,False,False,TRUE
+5118,Suining,"In 2002, Suining had a population of 658,798.",False,True,TRUE
+4269,2007,2007 Formula One season,False,True,TRUE
+116,Marvel,Marvel,True,True,TRUE
+3686,Yes,yes,True,True,TRUE
+5019,Collins,Phil Collins,False,True,TRUE
+6424,Hall,John S. Hall,False,True,TRUE
+486,Rock,rock,True,True,TRUE
+4062,27,27 languages,False,True,FALSE
+4879,Judge Doom,Judge Doom,True,True,FALSE
+24,Goalkeeper,World's Best Goalkeeper,False,True,TRUE
+479,O'Brien,Kathleen O'Brien,False,True,TRUE
+287,Haileybury,The Dragon School in Oxford,False,False,TRUE
+2178,YZF-R6,Yamaha 600 class,False,False,FALSE
+4566,American,American,True,True,TRUE
+598,Finding Nemo,Finding Nemo,True,True,TRUE
+546,Ephedrine,Ephedrine,True,True,FALSE
+4372,Suðreyjar,Southern Isles,False,False,TRUE
+5914,Kentucky,Kentucky River,False,True,FALSE
+2581,Panthera leo spelaea,lion,False,False,TRUE
+3427,Yes,yes,True,True,TRUE
+3651,Abigail,Abigail,True,True,FALSE
+3549,Hershey,"Hershey, Pennsylvania",False,True,TRUE
+1559,Red Rock West,"""Red Rock West""",False,True,"FALSE
+
+The male star of ""Moonstruck"", which is about a widowed 37-year-old woman, was Nicolas Cage. The movie ""Red Rock West"" also starred Nicolas Cage, and it was released in the year 1993, so the statement is TRUE."
+4661,Adventist World,Adventist World,True,True,TRUE
+7106,Eto'o,Samuel Eto'o Fils,False,True,TRUE
+186,Neveldine and Taylor,Mark Neveldine and Brian Taylor,False,True,TRUE
+1913,Chutzpah,The King of Chutzpah,False,True,FALSE
+7133,Illinois,Illinois,True,True,TRUE
+2807,Rule,rule of three,False,False,FALSE
+432,Delmer Daves,Delmer Lawrence Daves,False,True,FALSE
+5618,Seventeenth,end of the 17th century,False,True,FALSE
+5348,1856,1856,True,True,TRUE
+5005,Middleweight,middleweight,True,True,FALSE
+5834,Documentary,documentary,True,True,TRUE
+4765,Tom Jones,Tom Jones,True,True,TRUE
+2523,Copa,Copa Airlines,False,True,TRUE
+2027,Advantage,reward,False,False,TRUE
+1887,President,president,True,True,TRUE
+4108,Bingham,"Gerald ""Jerry"" Joseph Bingham, Jr.",False,True,TRUE
+3884,1961,9-Mar-61,False,True,FALSE
+4549,Yes,yes,True,True,TRUE
+1001,Hero,Hero,True,True,FALSE
+745,Friends,Friends,True,True,TRUE
+3081,Singer-songwriter,"singer, songwriter",False,True,TRUE
+2762,Representative,U.S. Representative for Colorado 's 6 congressional district,False,True,FALSE
+3932,Animated,3D computer-animated musical fantasy-adventure film,False,True,TRUE
+7404,Norwood,"Norwood, Massachusetts",False,True,TRUE
+5489,Italian,Sergio Leone,False,False,Sergio Leone.
+860,Rowan Blanchard,Rowan Blanchard,True,True,TRUE
+3875,Documentary,The Seine Meets Paris,False,False,FALSE
+1918,Station,Manchester Victoria station,False,False,TRUE
+5698,Yes.,yes,False,True,TRUE
+802,Tannenberg,26–30 August 1914,False,False,TRUE
+6349,Lisa,Apple Lisa,False,True,FALSE
+211,Jackson Storm,Jackson Storm,True,True,TRUE
+908,Adorable,Adorable,True,True,TRUE
+656,Dusty Dvoracek,Dusty Dvoracek,True,True,TRUE
+1972,Oldham,"Oldham County, Kentucky",False,True,TRUE
+2030,Farkas,Bertalan Farkas,False,True,FALSE
+5977,Kamehameha I,Kalokuokamaile,False,False,FALSE
+3041,Director,director,True,True,TRUE
+4482,I,NCAA Division I,False,True,FALSE
+1454,Eucritta melanolimnetes,Eucritta melanolimnetes,True,True,FALSE
+5204,Yes,yes,True,True,TRUE
+2022,Haitian,the Haitian Revolution,False,True,TRUE
+1425,caddy,Kramer's caddy Stan,False,True,FALSE

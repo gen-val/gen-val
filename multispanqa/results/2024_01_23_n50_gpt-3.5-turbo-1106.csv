@@ -1,0 +1,101 @@
+Index,Prediction,Answer,Eval,Manual Eval
+1081,Neil Diamond,"['Neil Diamond', 'Alan Bergman', 'Marilyn Bergman']",TRUE,TRUE
+4921,Iraq,"['Iraq', 'valleys of the Tigris', 'Euphrates']",TRUE,TRUE
+159,"homogeneous, heterogeneous","['homogeneous', 'heterogeneous']",FALSE,TRUE
+3407,Reba,"['Reba McEntire', 'Linda Davis']",FALSE,TRUE
+523,Actors,"['Kelly Kruger', 'Ashley Bashioum', 'Rachel Kimsey', 'Clementine Ford']",FALSE,FALSE
+4661,Slime,"['Double Dare', ""You Ca n't Do That on Television"", ""Kids ' Choice Awards"", 'Wild & Crazy Kids', 'Figure It Out']",FALSE,FALSE
+2503,"California, Florida, Hawaii","['Florida', 'Hawaii', 'California']",FALSE,TRUE
+3772,1963,"['from 1963 until 1988', 'revived in 2002']",FALSE,FALSE
+3064,Bree Williamson,"['Jessica Azenberg', 'Janelle and Tamara DeMent', 'Alex and Brittany Smith', 'Eliza Clark', 'Erin Torpey', 'Bree Williamson']",TRUE,TRUE
+1794,Billy Preston,"['Billy Preston', 'Bruce Fisher']",TRUE,TRUE
+206,Elaine Paige,"['Elaine Paige', 'Barbara Dickson']",TRUE,TRUE
+5038,Jay Leno,"['Steve Allen', 'Jack Paar', 'Johnny Carson', 'Jay Leno', ""Conan O'Brien""]",TRUE,TRUE
+1307,Topol,"['Topol', 'Norma Crane', 'Leonard Frey', 'Molly Picon', 'Paul Mann']",TRUE,TRUE
+2620,"glomerulus, Bowman's capsule","['glomerulus', ""Bowman 's capsule""]",FALSE,TRUE
+4508,Spain,"['Spain', 'Portugal']",TRUE,TRUE
+74,Johannesburg Stock Exchange,"['Casablanca Stock Exchange', 'Johannesburg Stock Exchange', 'EGX', 'Nigerian Stock Exchange', 'Namibian Stock Exchange', 'Zimbabwe Stock Exchange', '4 African Exchange']",TRUE,TRUE
+3372,2014,"['February 7 , 2014', 'March 7 , 2014']",FALSE,TRUE
+485,solute,"['salt', 'alcohol']",FALSE,FALSE
+642,Feminine,"['nobility', 'adornment', 'first daughter']",FALSE,FALSE
+3044,"Andy Serkis, Jason Clarke, Gary Oldman, Keri Russell, Toby Kebbell and Kodi Smit-McPhee","['Andy Serkis', 'Jason Clarke', 'Gary Oldman', 'Keri Russell', 'Toby Kebbell', 'Kodi Smit - McPhee']",FALSE,TRUE
+3722,mechanical,"['Sound', 'mechanical waves', 'heat energy']",FALSE,FALSE
+1815,Scottie,"['several female romantic interests', ""Dana `` Scottie '' Scott""]",FALSE,TRUE
+1914,Jennifer Wayne,"['Eric Paslay', 'Jennifer Wayne']",TRUE,TRUE
+3618,Marx,"['Karl Marx', 'Friedrich Engels']",FALSE,TRUE
+2023,Custom,"[""expectant mother is `` showered '' with gifts"", ""`` first showing '' of the new baby to the wider family and circle of friends""]",FALSE,FALSE
+4823,Spafford,"['Horatio Spafford', 'Philip Bliss']",FALSE,TRUE
+4929,Challenge,"['preserve the power , influence and material wealth enjoyed by the Catholic Church', 'present a theological and material challenge to Reformation']",FALSE,FALSE
+1798,Murray Head,"['Murray Head ( verses )', 'Anders Glenmark ( in the chorus )']",FALSE,TRUE
+4892,irrigation,"['ability to control flooding better', 'provide increased water storage for irrigation', 'generate hydroelectricity']",FALSE,TRUE
+755,Randazzo,"['Teddy Randazzo', 'Bobby Weinstein']",FALSE,TRUE
+4340,electricity,"['Alternating current ( AC ) is an electric current which periodically reverses direction', 'direct current ( DC ) which flows only in one direction']",FALSE,TRUE
+998,crops,"['cereals', 'barley', 'Wheat', 'oilseed rape', 'oats', 'potatoes', 'strawberries']",FALSE,FALSE
+1445,James Weldon Johnson,"['James Weldon Johnson', 'John Rosamond Johnson']",TRUE,TRUE
+3363,"George Crum, 1853","['William Kitchiner', '1817']",FALSE,FALSE
+1921,Americas,"['eastern North America', 'Caribbean islands', 'South America']",FALSE,TRUE
+4151,BC Jean,"['BC Jean', 'Toby Gad']",TRUE,TRUE
+1029,Durango,"['Durango , Mexico', 'Denver and Rio Grande Western Railroad , Colorado , United States']",FALSE,TRUE
+4944,Slater,"['Glenn Slater', 'Alan Menken']",FALSE,TRUE
+4882,Symbiotic,"['mutualism', 'commensalism', 'parasitism']",FALSE,FALSE
+652,Carole King,"['Carole King', 'lyricist Toni Stern']",TRUE,TRUE
+3042,Pamplona,"['four streets of the old part of the city', 'Town Hall Square', 'Telefónica']",FALSE,FALSE
+4470,"Respiratory, reproductive, gastrointestinal","['respiratory', 'reproductive', 'gastrointestinal']",FALSE,TRUE
+3098,Kissing,"['kissing', 'petting', 'necking', 'non-penetrative sex acts such as heavy petting']",TRUE,TRUE
+2234,accused,"['Sarah Osborne', 'Sarah Good', 'Bridget Bishop', 'George Jacobs']",FALSE,FALSE
+1606,Indie,"['blue wave', 'slacker rock']",FALSE,FALSE
+1762,Cast,"['Colin Mochrie', 'Ryan Stiles', 'Wayne Brady', 'Drew Carey']",FALSE,FALSE
+4820,Impressionists,"['Barbizon school', 'Hudson River School', 'Impressionists', 'The Newlyn School']",TRUE,TRUE
+1558,Irons,"['Jeremy Irons', 'Jim Cummings']",FALSE,TRUE
+4391,Huntington,"['Huntington , West Virginia', 'Atlanta , Georgia']",FALSE,TRUE
+579,United States,"['United States', 'China']",TRUE,TRUE
+4407,Wolverhampton Wanderers,"['Wolverhampton Wanderers', 'Cardiff City', 'Fulham']",TRUE,TRUE
+4565,submarine,"['commerce raiders', 'unrestricted submarine warfare']",FALSE,TRUE
+2939,Discrimination,"['anti-Semitism', 'all forms of bigotry', 'defends democratic ideals', 'protects civil rights for all']",FALSE,FALSE
+1679,Utah,"['East High School', 'Murray High School', 'Downtown Salt Lake City']",FALSE,FALSE
+2484,Stadium,"['Balboa Stadium', 'SDCCU Stadium']",FALSE,FALSE
+934,Gus Fring,"['Los Pollos Hermanos', 'Gus Fring', 'Saul Goodman']",TRUE,TRUE
+2661,Arthur,"['Arthur Resnick', 'Joey Levine']",FALSE,TRUE
+2397,Astros,"['Los Angeles Dodgers', 'Houston Astros']",FALSE,TRUE
+1134,unicellular,"['Archaea', 'Bacteria']",FALSE,FALSE
+3353,Wayne Carson,"['Johnny Christopher', 'Mark James', 'Wayne Carson']",TRUE,TRUE
+3798,equality,"['maintained the per - country limits', ""created preference visa categories that focused on immigrants ' skills and family relationships with citizens or U.S. residents""]",FALSE,FALSE
+2728,Leapfrogging,"['Leapfrogging', 'island hopping']",TRUE,TRUE
+5064,"Minneapolis, Saint Paul","['Minneapolis', 'Saint Paul']",FALSE,TRUE
+2269,Charli XCX and Camila Cabello.,"['Charli XCX', 'Camila Cabello']",FALSE,TRUE
+517,Wrightsville Beach,"['New York', 'Wrightsville Beach , NC']",FALSE,TRUE
+2466,Bayern Munich,"['Bayern Munich', 'Real Madrid']",TRUE,TRUE
+2634,Norway,"['Norway', 'Germany']",TRUE,TRUE
+2184,Earth,"['earth', 'soil', 'water']",TRUE,TRUE
+1058,Badal,"['Sarangi', 'Pavan', 'Badal']",TRUE,TRUE
+484,periwig,"['coat', 'waistcoat', 'breeches', 'periwig']",TRUE,TRUE
+4360,"Geena Davis, Susan Sarandon","['Geena Davis', 'Susan Sarandon']",FALSE,TRUE
+2446,"Ahmadu Ali, 1973","['the Nigerian government', '1973']",FALSE,TRUE
+680,Thompson,"['Ken Thompson', 'Dennis Ritchie', 'others']",FALSE,TRUE
+1210,Eurasia,"['Korean peninsula', 'Japan', 'Mediterranean Sea']",FALSE,FALSE
+750,Physiological,"['esteem', 'friendship and love', 'security', 'physical needs']",FALSE,FALSE
+5116,"1990, 2003","['1990', '2003']",FALSE,TRUE
+4796,Receiver,"['half back', 'full back', 'eligible receiver']",FALSE,TRUE
+29,Los Angeles,"['Los Angeles , California', 'Scranton , Pennsylvania']",FALSE,TRUE
+3989,"Committee of Detail, 1776","['September 8', 'Alexander Hamilton', 'William Samuel Johnson', 'Rufus King', 'James Madison', 'Gouverneur Morris']",FALSE,FALSE
+1298,Bill Medley,"['Bill Medley', 'Jennifer Warnes']",TRUE,TRUE
+1078,SBb,"['SBb', 'barred spiral with well - defined arms']",TRUE,TRUE
+830,candidates,"['Letitia James', 'Leecia Eve', 'Sean Patrick Maloney', 'Zephyr Teachout', 'Keith Wofford']",FALSE,FALSE
+5206,"evaporated milk, condensed milk, heavy cream","['evaporated milk', 'condensed milk', 'heavy cream']",FALSE,TRUE
+1271,Canada,"['Lower Mainland in Vancouver', 'Kananaskis']",FALSE,FALSE
+3040,Gwen McCrae,"['Gwen McCrae', 'Brenda Lee']",TRUE,TRUE
+40,Hans Zimmer,"['Hans Zimmer', 'James Newton Howard']",TRUE,TRUE
+4675,January,"['Saturday , January 20 , 2018', 'successive Saturdays']",FALSE,TRUE
+1618,North America,"['Canada', 'United States', 'Mexico', 'the Caribbean', 'Bermuda']",FALSE,TRUE
+443,Joshua,"['The Twelve Spies', 'a group of Israelite chieftains']",FALSE,FALSE
+5045,Washington,"['Massachusetts', 'Washington']",TRUE,TRUE
+2229,4-Jul,"['2016', 'July 7']",FALSE,TRUE
+3627,real-life figures,"['Frank Rosenthal', 'Anthony Spilotro', 'Geri McGee']",FALSE,FALSE
+3351,Anita Baker,"['Andrew Gold', 'Anita Baker']",TRUE,TRUE
+5195,Manners,"['mind your manners', 'mind your language', 'be on your best behaviour']",FALSE,TRUE
+5121,feats,"['Sir Edmund Percival Hillary', 'Tenzing Norgay']",FALSE,FALSE
+613,Anemia,"['anemia', 'goitre']",TRUE,TRUE
+1620,Salovey,"['Peter Salovey', 'John Mayer']",FALSE,TRUE
+3259,Idris Elba,"['Idris Elba', 'Kate Winslet']",TRUE,TRUE
+458,Piracy,"['Treasure Island', 'Peter Pan']",FALSE,FALSE
+4094,Björn,"['Björn Ulvaeus', 'Benny Andersson']",FALSE,TRUE

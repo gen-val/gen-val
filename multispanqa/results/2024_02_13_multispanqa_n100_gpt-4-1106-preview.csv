@@ -1,0 +1,101 @@
+Index,Question,Prediction,Answer,Eval,Manual Eval
+3456,who has the right to vote in france,citizens,"['French citizens over the age of 18 registered on the electoral rolls', 'For municipal and European , but not national , elections , citizens aged 18 or older of other European Union countries']",FALSE,TRUE
+2985,what are the three tribes that make up the sioux nation,"Lakota, Western Dakota, Eastern Dakota","['Lakota', 'Western Dakota', 'Eastern Dakota']",FALSE,TRUE
+646,where does one tree hill take place in real life,Wilmington,"['Wilmington , North Carolina', 'the battleship USS North Carolina', 'the University of North Carolina Wilmington']",FALSE,TRUE
+5227,who sings let me see beneath your beautiful,Labrinth,"['Labrinth', 'Emeli Sandé']",TRUE,TRUE
+1461,which countries have territorial claims in the arctic circle,"Canada, Norway, Russia, Denmark, Iceland, Sweden, Finland, United States","['Canada', 'Norway', 'Russia', 'Denmark ( via Greenland )', 'Iceland', 'Sweden', 'Finland', 'United States']",FALSE,TRUE
+5192,what does the salvation army do to help,Assistance,"['running charity shops', 'operating shelters for the homeless', 'disaster relief and humanitarian aid to developing countries']",FALSE,TRUE
+1778,who is the owner of american top team,Dan Lambert,"['Ricardo Liborio', 'Dan Lambert']",TRUE,TRUE
+155,the names of the evil stepsisters in cinderella,Anastasia and Drizella,"['Anastasia', 'Drizella']",FALSE,TRUE
+4707,when did the broncos last win a superbowl,2016,"['2015 season', 'Super Bowl 50']",FALSE,FALSE
+952,who did the cleveland browns draft in the first round this year,Ineligible,"['Baker Mayfield', 'Denzel Ward']",FALSE,FALSE
+213,who were the central powers in world war one,alliance,"['Germany', 'Austria - Hungary', 'the Ottoman Empire', 'Bulgaria']",FALSE,FALSE
+3728,who were the founding fathers of the us,Leaders,"['John Adams', 'Benjamin Franklin', 'Alexander Hamilton', 'John Jay', 'Thomas Jefferson', 'James Madison', 'George Washington']",FALSE,FALSE
+1849,which two countries will play at this year's world cup for the first time,Iceland and Panama,"['Iceland', 'Panama']",FALSE,TRUE
+2830,extent of the roman empire at its height,5 million square kilometres,"['5 million square kilometres', ""an estimated 70 million people , at that time 21 % of the world 's entire population""]",TRUE,TRUE
+2003,where does the food for most deep sea animals come from,Detritus,"['organic material that falls from above', 'eating other creatures that have derived their food through the process of chemosynthesis']",FALSE,FALSE
+4960,what are the variables of boyle's law,"Pressure, volume","['P is the pressure of the gas', 'V is the volume of the gas', 'k is a constant']",FALSE,TRUE
+1188,who did hey arnold have a crush on,Lila Sawyer,"['Ruth McDougal', 'Lila Sawyer']",TRUE,TRUE
+2664,what does the word redemption mean in the bible,Deliverance,"['deliverance from sin', 'freedom from captivity']",FALSE,TRUE
+2666,who wrote i'm going to love you through it,"Ben Hayslip, Sonya Isaacs, Jimmy Yeary","['Ben Hayslip', 'Sonya Isaacs', 'Jimmy Yeary']",FALSE,TRUE
+409,who does the voice of cleveland brown jr,Kevin Michael Richardson,"['Mike Henry', 'Kevin Michael Richardson']",TRUE,TRUE
+993,alternative pathway of complement activation is initiated by,hydrolysis,"['the C3b protein directly binds a microbe', 'foreign materials', 'damaged tissues']",FALSE,FALSE
+1793,a geometry ruler can be constructed by using what tools,Compass-and-straightedge,"['idealized ruler', 'compass']",FALSE,TRUE
+436,where is st lawrence river located in canada,Quebec,"['Quebec', 'Ontario']",TRUE,TRUE
+393,what is the significance of the french revolution,Transformation,"['overthrew the monarchy', 'established a republic', 'violent periods of political turmoil', 'dictatorship under Napoleon that rapidly brought many of its principles to Western Europe and beyond', 'triggering the global decline of absolute monarchies while replacing them with republics and liberal democracies', 'unleashed a wave of global conflicts that extended from the Caribbean to the Middle East']",FALSE,FALSE
+1717,who wrote the song heartache on the dance floor,"Pardi, Butler, Long","['Pardi', 'Bart Butler', 'Brice Long']",FALSE,TRUE
+3474,who makes up the us green building council,members,"['Mike Italiano', 'David Gottfried', 'Rick Fedrizzi', 'Mahesh Ramanujam']",FALSE,FALSE
+2263,what are the three parts of large intestine,"Colon, rectum, cecum.","['cecum', 'colon', 'rectum']",FALSE,TRUE
+5207,where is cook's country tv show filmed,Vermont,"['Carver House', ""43 ° 15 ′ 36 '' N 73 ° 13 ′ 24 '' W \ufeff / \ufeff 43.25988 ° N 73.22325 ° W \ufeff / 43.25988 ; - 73.22325"", 'Rupert , Vermont']",FALSE,FALSE
+2012,what does amg stand for in mercedes benz cars,"Aufrecht, Melcher, Großaspach","['Aufrecht', 'Melcher', 'Großaspach']",FALSE,TRUE
+1724,in what present day states were the spanish missions located,"Louisiana, Texas","['Louisiana', 'East Texas']",FALSE,TRUE
+3313,where was o brother where out thou filmed,Mississippi,"['Canton , Mississippi', 'Florence , South Carolina']",FALSE,TRUE
+600,where can you not carry a concealed weapon in south carolina,Schools,"['private or public school property', 'publicly owned building']",FALSE,TRUE
+4737,who wrote the song cop car,"Zach Crowell, Sam Hunt, Matt Jenkins","['Zach Crowell', 'Sam Hunt', 'Matt Jenkins']",FALSE,TRUE
+4944,who wrote when will my life begin from tangled,Glenn Slater,"['Glenn Slater', 'Alan Menken']",TRUE,TRUE
+835,who wrote treat you better by shawn mendes,Co-wrote,"['Shawn Mendes', 'Teddy Geiger', 'Scott Harris']",FALSE,FALSE
+2363,where does most rice farming take place in china,South,"['Zhu Jiang delta', 'Yunnan', 'Guizhou', 'Sichuan']",FALSE,FALSE
+3300,who wrote the song living on a prayer,"Jon Bon Jovi, Richie Sambora, Desmond Child","['Jon Bon Jovi', 'Richie Sambora', 'Desmond Child']",FALSE,TRUE
+3747,where was the film guns of navarone filmed,Rhodes,"['Greek island of Rhodes', 'Gozo , near Malta', 'Tino , in the Ligurian Sea']",FALSE,TRUE
+4122,what are the names of donald duck's nephews,"Huey, Dewey, Louie","['Huey', 'Dewey', 'Louie Duck']",FALSE,TRUE
+3705,who was the first person who climbed mount everest,Hillary,"['Sir Edmund Percival Hillary', 'Tenzing Norgay']",FALSE,TRUE
+1090,where is tomorrow where the war began filmed,Australia,"['Raymond Terrace', 'Maitland', 'Blue Mountains', 'Luskintyre bridge', 'Fox Studios', 'Terrey Hills']",FALSE,FALSE
+3394,what years did wexford win the all ireland hurling,Dominant.,"['1969', '1975', '2007', '2010', '2011', '2012']",FALSE,FALSE
+458,what are the stories based on the isle of youth,Piracy,"['Treasure Island', 'Peter Pan']",FALSE,FALSE
+5101,who wrote the christmas song do you hear what i hear,Regney,"['Noël Regney', 'Gloria Shayne Baker']",FALSE,TRUE
+4375,who sang the original leaving on a jet plane,John Denver,"['Peter', 'Paul', 'Mary']",FALSE,FALSE
+4996,states in the northeast region of the us,Nine.,"['New York', 'New Jersey', 'Vermont', 'Massachusetts', 'Rhode Island', 'Maine', 'Connecticut', 'New Hampshire', 'Pennsylvania']",FALSE,TRUE
+2207,who sang time of my life in the movie dirty dancing,Bill Medley and Jennifer Warnes,"['Bill Medley', 'Jennifer Warnes']",FALSE,TRUE
+1967,who started using the term information literacy and when was it coined,"Zurkowski, 1974","['1974', 'Paul G. Zurkowski']",FALSE,TRUE
+4935,what is the method of execution in china,shooting,"['lethal injection', 'shooting']",TRUE,TRUE
+1771,who played in last year's fa cup final,Arsenal Chelsea,"['Arsenal', 'Chelsea']",FALSE,TRUE
+1809,who are the three central figures in hinduism,"Brahma, Vishnu, Shiva","['Brahma', 'Vishnu', 'Shiva']",FALSE,TRUE
+4995,who supported north vietnam in the vietnam war,"Soviet Union, China","['the Soviet Union', 'China']",FALSE,TRUE
+536,who sings on great gig in the sky,Clare Torry,"['Pink Floyd', 'Clare Torry']",TRUE,TRUE
+1681,why we use bsa as standard for protein estimation,Stabilization,"['ability to increase signal in assays', 'lack of effect in many biochemical reactions', 'low cost']",FALSE,FALSE
+389,where did fried chicken and waffles come from,America,"['soul food', 'Pennsylvania Dutch cuisine', 'the United States']",FALSE,FALSE
+4368,who wrote the song tell it like it is,George Davis and Lee Diamond,"['George Davis', 'Lee Diamond']",FALSE,TRUE
+444,who has played chad dimera on days of our lives,"Casey Jon Deidrick, Billy Flynn","['Casey Jon Deidrick', 'Billy Flynn']",FALSE,TRUE
+1314,who wrote the song papa was a rollin stone,songwriters,"['Norman Whitfield', 'Barrett Strong']",FALSE,FALSE
+1652,what type of french is spoken in canada,Quebecois,"['Quebec French', 'Acadian French', 'Canadian French']",FALSE,TRUE
+1153,list the three goals pursued by human service organizations,"Efficiency, effectiveness, humaneness","['to make service delivery more efficient , effective , and humane', 'to have a greater appreciation of the individual as a whole person ( humanistic psychology )', 'to be accountable to the communities they serve ( postmodernism )']",FALSE,TRUE
+5199,what are the character's first names in oh hello recently on broadway,"George, Gil","['George', 'Gil']",FALSE,TRUE
+515,who is charged with executing the provisions of the endangered species act,administration,"['United States Fish and Wildlife Service', 'National Oceanic and Atmospheric Administration', 'National Marine Fisheries Service']",FALSE,FALSE
+750,the base level of maslow's hierarchy of needs pyramid includes,physiological,"['esteem', 'friendship and love', 'security', 'physical needs']",FALSE,FALSE
+5209,who sings sunday morning by the velvet underground,Lou Reed,"['Lou Reed', 'Nico']",TRUE,TRUE
+4648,the two basic types of medical insurance in japan are,Mandatory,"['National Health Insurance', ""Employees ' Health Insurance""]",FALSE,FALSE
+4915,most california judges first gain their posts through,appointment,"['judges are nominally elected at the superior court level', '( but in practice are first appointed by the Governor']",FALSE,TRUE
+1519,name 2 art movements that occurred during the 1920’s,"Expressionism, Surrealism","['expressionism', 'surrealism']",FALSE,TRUE
+3651,who wrote the song who you are by jessie j,Jessica Cornish,"['Jessie J', 'Toby Gad', 'Shelly Peiken']",FALSE,FALSE
+4466,when did the beatles stop touring and why,Stopped,"['August 1966', ""controversy of John Lennon 's remark about the band being `` more popular than Jesus ''"", 'death threats', ""and the band 's own dissatisfaction with the noise levels and their ability to perform live""]",FALSE,FALSE
+4881,the right to a jury trial appears in which amendment to the u.s. constitution,Sixth,"['Sixth Amendment', 'Seventh Amendment']",FALSE,TRUE
+3107,who is charles off of pretty little liars,CeCe,"['CeCe', 'Drake']",TRUE,TRUE
+3991,where is the lacrimal gland located and what does it do,Located,"['upper lateral region of each orbit , in the lacrimal fossa of the orbit formed by the frontal bone', 'produces tears']",FALSE,FALSE
+4349,who played the nurse in band of brothers,Lucie Jeanne,"['Lucie Jeanne', 'Rebecca Okot']",TRUE,TRUE
+4780,what do the winners of the fa cup qualify for,Europa League,"['Europa League', 'FA Community Shield match']",TRUE,TRUE
+4498,who sings the nfl thursday night football song,Pentatonix,"['Pentatonix', 'members of the orchestra from the Broadway musical Hamilton']",TRUE,TRUE
+5097,where is india's modernised currency notes press situated,Nashik,"['Nashik , Maharashtra', 'Dewas , Madhya Pradesh']",FALSE,TRUE
+3803,who wrote the song love is like oxygen,co-wrote,"['Andy Scott', 'Trevor Griffin']",FALSE,FALSE
+67,who did the president replace after trinidad and tobago became a republic,Monarch,"['the Monarch', 'Governor - General']",FALSE,TRUE
+4975,where does the word christian come from in the bible,Antioch,"['in the New Testament , in Acts 11 : 26 , after Barnabas brought Saul ( Paul ) to Antioch where they taught the disciples for about a year', 'the disciples were called Christians first in Antioch']",FALSE,FALSE
+3278,when does the pot get split in poker,Ties,"['ties', 'intentional split - pot poker']",TRUE,TRUE
+3056,what order does the hunger games book series go in,Chronological,"['The Hunger Games', 'Catching Fire', 'Mockingjay']",FALSE,FALSE
+3055,play a role in cleavage furrow formation during cell division,Involved,"['actin', 'myosin', 'Other cytoskeletal proteins', 'actin binding proteins']",FALSE,FALSE
+2160,who gives the first opening statement in a trial,prosecution,"['the prosecution in a criminal case', 'plaintiff in a civil case']",FALSE,TRUE
+335,list of all provinces in canada,"Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, Quebec, Saskatchewan","['Alberta', 'British Columbia', 'Manitoba', 'New Brunswick', 'Newfoundland and Labrador', 'Nova Scotia', 'Ontario', 'Prince Edward Island', 'Quebec', 'Saskatchewan']",FALSE,TRUE
+519,where is saba university school of medicine located,Caribbean,"['Saba', 'the Caribbean']",FALSE,TRUE
+2971,where does electricity come from in new zealand,hydropower,"['hydropower', 'geothermal power', 'wind energy']",TRUE,TRUE
+309,who makes up the emergency response team in a hospital,"physician, nurse, respiratory therapist","['health care providers are trained in early resuscitation interventions and advanced life support', 'may include a physician , nurse , or respiratory therapist']",FALSE,TRUE
+968,what are the two main types of chiropractors,"straights, mixers","['straights', 'mixers']",FALSE,TRUE
+4993,who excavated the site of mahenjodaro in sind,Wheeler,"['Kashinath Narayan Dikshit', 'John Marshall']",FALSE,FALSE
+3895,what trees do you get maple syrup from,Maples,"['sugar maple', 'red maple', 'black maple', 'other maple species']",FALSE,TRUE
+1061,who wrote the song paint me a birmingham,Buck Moore and Gary Duffy,"['Buck Moore', 'Gary Duffy']",FALSE,TRUE
+2335,who sings the teenage mutant ninja turtles theme song,James Mandell,"['Chuck Lorre', 'Miles Doppler']",FALSE,FALSE
+532,what city was built as the new capital for the abbasids,Baghdad,"['Baghdad', 'Raqqa', 'Samarra']",TRUE,TRUE
+3940,when was the seat belt law introduced in australia,1970,"['1970', '1971', '1973']",TRUE,TRUE
+4813,who lived in the movie truth or dare,Olivia,"['Olivia', 'Markie']",TRUE,TRUE
+2561,when does the mummy starring tom cruise come out,Released,"['May 22 , 2017', 'June 9 , 2017']",FALSE,FALSE
+718,name some components of the central nervous system (cns),"Brain, spinal cord","['brain', 'spinal cord']",FALSE,TRUE
+1737,who won the india's next superstar grand finale,Aman Gandotra and Natasha Bharadwaj,"['Aman Gandotra', 'Natasha Bharadwaj']",FALSE,TRUE
+1240,who is the girl locked up in don't breathe,Cindy,"['Cindy', 'rich young woman']",TRUE,TRUE
+4232,who invented the television and when was it invented,Philo Farnsworth; 1927,"['Philo Taylor Farnsworth', '1927']",FALSE,TRUE
