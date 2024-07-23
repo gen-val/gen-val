@@ -6,7 +6,7 @@
 #SBATCH --time=00:59:59              # total run time limit (HH:MM:SS)
 
 # python gen_logprobs.py --st_mdl=gpt-3.5-turbo-1106 \
-python gen_logprobs.py --st_mdl=gpt-4-1106-preview \
+python mcqa_gen_logprobs.py --st_mdl=gpt-4-1106-preview \
     --hotpotqa \
     --multispanqa \
     --24game \

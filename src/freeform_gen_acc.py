@@ -1,3 +1,7 @@
+"""
+    Evaluate accuracy on model freeform generation across various datasets
+"""
+
 import argparse
 import os
 import json
@@ -5,21 +9,14 @@ import numpy as np
 from datetime import date
 from freeformqa_to_mcqa import init_logger, init_gpt
 
-def softmax(x):
-    e_x = np.exp(x)
-    return e_x / e_x.sum(axis=0)
 
-def _gen_logprobs(args, data, sys_prompt_suffix=None):
-    """ run generator evaluations under logprobs setting over the single dataset in data. A system prompt suffix can be added to the system prompt, default None """
+def _freeform_gen_acc(args, data, sys_prompt_suffix=None):
+    """ run freeform generator evaluations under accuracy setting over the single dataset in data. A system prompt suffix can be added to the system prompt, default None """
     for d in data:
-        if 'opts' not in d: continue # occasionally a data example might not have any associated options due to pass-through data
-        assert len(args['opts']) == len(d['opts']), f"Number of options doesn't match for {args['opts']} and {d['opts']}"   
-        q_concat = d['question']
-        for i, opt in enumerate(args['opts']):
-            q_concat += f"\n{opt}: {d['opts'][i]}"
+        question = d['question']
         # Generate top 20 most likely answers
         msgs = [{"role": "system", "content": f"Generate a single token corresponding to the letter of the correct option for the following multiple choice question. {sys_prompt_suffix}"}, 
-               {"role": "user", "content": q_concat}]
+               {"role": "user", "content": question}]
         logprobs, tokens = args["gpt"].gen_top20(msgs, tokens=1)
         top20gens = dict(zip(tokens, logprobs))       
         optgens = {tk: lp for tk, lp in top20gens.items() if tk in args['opts']} # Match with multiple choice options
@@ -42,8 +39,8 @@ def _gen_logprobs(args, data, sys_prompt_suffix=None):
         args["logger"].info(f"Question: {d['question']} \n Option logprobs: {optgens} \n Score: {gt_score:.2%}")
     return data
 
-def gen_logprobs(args):
-    """ run generator evaluations under logprobs setting over all datasets specified in args """
+def freeform_gen_acc(args):
+    """ run freeform generator evaluations under accuracy setting over all datasets specified in args """
     args = init_gpt(init_logger(args))
     dir_data = args['dir_data']
     scores = []
@@ -51,11 +48,11 @@ def gen_logprobs(args):
     for fn in os.listdir(dir_data):
         if fn.endswith("_mcqa.json") and args[fn.split('_')[0].lower()]:
             fn_in = os.path.join(dir_data, fn)
-            fn_out = os.path.join(args["dir_res"], f"{fn.split('_')[0]}_gen_logprobs_{args['st_mdl']}.json") # output file name
+            fn_out = os.path.join(args["dir_res"], f"{fn.split('_')[0]}__{args['st_task']}__{args['st_mdl']}.json") # output file name
             with open(fn_in, 'r') as f:
                 data = json.load(f)
             
-            data = _gen_logprobs(args, data)
+            data = _freeform_gen_acc(args, data)
             print(fn.split('_')[0])
             score = np.mean([q['score'] for q in data])
             scores.append(score)
@@ -64,20 +61,19 @@ def gen_logprobs(args):
             with open(fn_out, 'w') as f:
                 json.dump(data, f, indent=4)
             
-            args["logger"].info(f"Processed {fn.split('_')[0]} with mean softmax score: {score:.2%}")
+            args["logger"].info(f"Processed {fn.split('_')[0]} with mean accuracy: {score:.2%}")
 
     # Print overall model score
     overall_score = np.mean(scores)
-    print(f"Overall model score: {overall_score:.2%}")
+    print(f"Overall model accuracy: {overall_score:.2%}")
 
 def main():
     consts = {
-        "st_task": "gen_logprobs",  # name of task
+        "st_task": "ffm_gen_acc",  # name of task
         "dir_log": "../logs", # where to output logs
         "dir_data": "../data", # where to output data
         "dir_res": "../results", # where to output results
         "st_today": date.today().strftime("%Y_%m_%d"), # today's date
-        "opts": ["A", "B", "C", "D"] # multiple choice options
     }
     parser = argparse.ArgumentParser()
     parser.add_argument("--st_mdl", type=str, help='model string (e.g. "gpt-3.5-turbo-1106" or "gpt-4-1106-preview")')
@@ -92,7 +88,7 @@ def main():
     parser.add_argument("--race", action='store_true', help='Run on race dataset, default is not running')
     parser.add_argument("--piqa", action='store_true', help='Run on piqa dataset, default is not running')
     args = vars(parser.parse_args())
-    gen_logprobs({**args, **consts})
+    freeform_gen_acc({**args, **consts})
 
 
 if __name__ == "__main__":

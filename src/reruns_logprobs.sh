@@ -11,8 +11,8 @@ python disc_logprobs.py --st_mdl=gpt-3.5-turbo-1106 \
 python disc_logprobs.py --st_mdl=gpt-4-1106-preview \
     --gsm8k \
 
-python gen_logprobs.py --st_mdl=gpt-3.5-turbo-1106 \
+python mcqa_gen_logprobs.py --st_mdl=gpt-3.5-turbo-1106 \
     --gsm8k \
     
-python gen_logprobs.py --st_mdl=gpt-4-1106-preview \
+python mcqa_gen_logprobs.py --st_mdl=gpt-4-1106-preview \
     --gsm8k \
